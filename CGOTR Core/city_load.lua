@@ -233,23 +233,6 @@ City_load_images = {
 		img1 = "ui_mainmenu_load_new_game_01.tga", img2 = "ui_mainmenu_load_new_game_02.tga", img3 = "ui_mainmenu_load_new_game_03.tga"
 	},
 	
-	
-	--CUSTOM MISSIONS
-
-	["dlc04"] = {
-		pegs = { "ui_mm_load_ep01" },
-		img1 = "ui_mainmenu_load_ep01_01.tga", img2 = "ui_mainmenu_load_ep01_02.tga", img3 = "ui_mainmenu_load_ep01_03.tga"
-	},
-
-	["dlc05"] = {
-		pegs = { "ui_mm_load_ep01" },
-		img1 = "ui_mainmenu_load_ep01_01.tga", img2 = "ui_mainmenu_load_ep01_02.tga", img3 = "ui_mainmenu_load_ep01_03.tga"
-	},
-	
-	
-	
-	
-	
 	handles = { },
 }
 

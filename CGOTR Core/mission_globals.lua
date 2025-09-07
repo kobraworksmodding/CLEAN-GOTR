@@ -740,15 +740,4 @@ function em02_main()
 	-- Special process that needs to happen during or after the mission is completed...such as a cellphone call
 end
 
------------------
---    Custom   --
------------------
-
-function dlc04_setup()
-	-- Setup/restore mission data after being unlock/cleanup respectively.
-end
-
-function dlc05_setup()
-	-- Setup/restore mission data after being unlock/cleanup respectively.
-end
 

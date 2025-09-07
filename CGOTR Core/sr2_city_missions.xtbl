@@ -2300,66 +2300,6 @@
 			<Category>Thrid Street Saints (Epilogue)</Category>
 			</_Editor>
 		</Mission>
-	<Mission>
-		<Name>dlc04</Name>
-		<Type>Mission</Type>
-		<Team>Ultor</Team>
-		<StartNav>mission_start_sr2_city_$dlc04</StartNav>
-		<Flags>
-			<Flag>No Percentage Count</Flag>
-			</Flags>
-		<MissionStronghold>
-			<display_group>extra</display_group>
-			<Level_Number>5</Level_Number>
-			<Cost>8000</Cost>
-			<Start>dlc04_start</Start>
-			<Cleanup>dlc04_cleanup</Cleanup>
-			<Rewards>
-				<RespectReward>0</RespectReward>
-				<CashReward>500000.0</CashReward>
-				<Unlockables>
-					<Unlockable>unlock_bh08prison_vehicles</Unlockable>
-					</Unlockables>
-				</Rewards>
-			<Prerequisites>
-				<Prereq>em01</Prereq>
-				<Prereq>ep04</Prereq>
-				</Prerequisites>
-			</MissionStronghold>
-		<_Editor>
-			<Category>DLC</Category>
-			</_Editor>
-		</Mission>
-	<Mission>
-		<Name>dlc05</Name>
-		<Type>Mission</Type>
-		<Team>Ultor</Team>
-		<StartNav>mission_start_sr2_city_$dlc05</StartNav>
-		<Flags>
-			<Flag>No Percentage Count</Flag>
-			</Flags>
-		<MissionStronghold>
-			<display_group>extra</display_group>
-			<Level_Number>6</Level_Number>
-			<Cost>8000</Cost>
-			<Start>dlc05_start</Start>
-			<Cleanup>dlc05_cleanup</Cleanup>
-			<Success>dlc05_success</Success>
-			<Rewards>
-				<RespectReward>0</RespectReward>
-				<CashReward>750000.0</CashReward>
-				<Unlockables>
-					<Unlockable>RO07_Heli</Unlockable>
-					</Unlockables>
-				</Rewards>
-			<Prerequisites>
-				<Prereq>dlc04</Prereq>
-				</Prerequisites>
-			</MissionStronghold>
-		<_Editor>
-			<Category>DLC</Category>
-			</_Editor>
-		</Mission>
 	</Table>
 
 <TableTemplates>

@@ -149,9 +149,6 @@ function sr2_city_main()
 	thread_new("em01_main")		-- Emergent Missions
 	thread_new("em02_main")
 
-	thread_new("dlc04_main")	-- Custom Missions
-	thread_new("dlc05_main")
-
 -- STRONGHOLDS ???????
 -- stuff
 	load_chunky()
