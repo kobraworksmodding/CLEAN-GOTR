@@ -1,0 +1,170 @@
+<root>
+<Table>
+	<Vehicle>
+		<Name>heli_fighter_01</Name>
+		<_Editor>
+			<Category>Helicopters</Category>
+			</_Editor>
+		<Group>Helicopter</Group>
+		<Value>20000</Value>
+		<Props>0</Props>
+		<Display_Name>Tornado</Display_Name>
+		<Special_Vehicle_Type>None</Special_Vehicle_Type>
+		<Convertible>false</Convertible>
+		<Hostage_Vehicle_Class>Exotic</Hostage_Vehicle_Class>
+		<ParkingSpawn>0</ParkingSpawn>
+		<Vandalism_value>15000</Vandalism_value>
+		<Mass>6200</Mass>
+		<Center_Of_Mass_Y_Offset>.5</Center_Of_Mass_Y_Offset>
+		<Center_of_Mass_Z_Offset>.412</Center_of_Mass_Z_Offset>
+		<Static_Load_Friction>0</Static_Load_Friction>
+		<AI_Static_Load_Friction>0.0</AI_Static_Load_Friction>
+		<Roll_Torque_Factor>1</Roll_Torque_Factor>
+		<Pitch_Torque_Factor>1</Pitch_Torque_Factor>
+		<Yaw_Torque_Factor>1</Yaw_Torque_Factor>
+		<Extra_Steering_Torque>0</Extra_Steering_Torque>
+		<Roll_Unit_Inertia>1.09</Roll_Unit_Inertia>
+		<Pitch_Unit_Inertia>8.44</Pitch_Unit_Inertia>
+		<Yaw_Unit_Inertia>7.87</Yaw_Unit_Inertia>
+		<AI_Yaw_Unit_Inertia>1</AI_Yaw_Unit_Inertia>
+		<Angular_Damping>
+			<Normal_Spin_Damping>3</Normal_Spin_Damping>
+			<Collision_Spin_Damping>3</Collision_Spin_Damping>
+			<Collision_Spin_Threshold>230</Collision_Spin_Threshold>
+			</Angular_Damping>
+		<Max_Hitpoints>100000</Max_Hitpoints>
+		<Burnout_Possible>No</Burnout_Possible>
+		<Preload>false</Preload>
+		<ProhibitedGunfireSeats>
+			<Flag>Extra 1</Flag>
+			<Flag>Extra 2</Flag>
+			<Flag>Extra 3</Flag>
+			<Flag>Extra 4</Flag>
+			<Flag>Rear Driver Side</Flag>
+			<Flag>Rear Passenger Side</Flag>
+			</ProhibitedGunfireSeats>
+		<shooters_allowed>Everybody</shooters_allowed>
+		<LODs>
+			<LOD_Distance>10</LOD_Distance>
+			<LOD_Distance>20</LOD_Distance>
+			<LOD_Distance>40</LOD_Distance>
+			<LOD_Distance>600</LOD_Distance>
+			</LODs>
+		<ID>118</ID>
+		<Vehicle_Type>
+			<Helicopter>
+				<Rotor_Center>
+					<X>0.0</X>
+					<Y>2.0</Y>
+					<Z>-.75</Z>
+					</Rotor_Center>
+				<Rotor_Radius>7</Rotor_Radius>
+				<Steering_Accel>.0125</Steering_Accel>
+				<Elevation_Speed>30</Elevation_Speed>
+				<Elevation_Accel>8</Elevation_Accel>
+				<Elevation_Damp>1.25</Elevation_Damp>
+				<Autolevel_Accel>120</Autolevel_Accel>
+				<Surfaces>
+					<Surface>
+						<Type>Wing</Type>
+						<X_Offset>0.0</X_Offset>
+						<Y_Offset>-.4</Y_Offset>
+						<Z_Offset>-1</Z_Offset>
+						<Primary_Angle>0.0</Primary_Angle>
+						<Secondary_Angle>0.0</Secondary_Angle>
+						<Lift_Factor>11</Lift_Factor>
+						<Max_Deflect>0</Max_Deflect>
+						<Invert_Input>False</Invert_Input>
+						</Surface>
+					<Surface>
+						<Type>Wing</Type>
+						<X_Offset>0.0</X_Offset>
+						<Y_Offset>.25</Y_Offset>
+						<Z_Offset>-8.5</Z_Offset>
+						<Primary_Angle>0.0</Primary_Angle>
+						<Secondary_Angle>-90</Secondary_Angle>
+						<Lift_Factor>1</Lift_Factor>
+						<Max_Deflect>0</Max_Deflect>
+						<Invert_Input>False</Invert_Input>
+						</Surface>
+					</Surfaces>
+				<Pitch_Bias>30</Pitch_Bias>
+				<Tail_Rotor_Center>
+					<X>0.0</X>
+					<Y>0.0</Y>
+					<Z>-8.5</Z>
+					</Tail_Rotor_Center>
+				<Tail_Accel>3.25</Tail_Accel>
+				<Rotor_Tilt>.5</Rotor_Tilt>
+				<Extra_Speed_Accel>20.0</Extra_Speed_Accel>
+				<Tilt_Lift_Loss>13</Tilt_Lift_Loss>
+				</Helicopter>
+			</Vehicle_Type>
+		<Towable_Data>
+			<Towable_From_Rear>True</Towable_From_Rear>
+			<Towable_From_Front>True</Towable_From_Front>
+			<Tweaking_Offset_Rear>
+				<X>0.0</X>
+				<Y>0.0</Y>
+				<Z>0.0</Z>
+				</Tweaking_Offset_Rear>
+			<Tweaking_Offset_Front>
+				<X>0.0</X>
+				<Y>0.0</Y>
+				<Z>0.0</Z>
+				</Tweaking_Offset_Front>
+			</Towable_Data>
+		<Aerodynamics>
+			<Drag_Coefficient>0.2</Drag_Coefficient>
+			</Aerodynamics>
+		<RadioTuner>True</RadioTuner>
+		<Lod_Fade_2d>True</Lod_Fade_2d>
+		<Effects>
+			<Explosion>Plane</Explosion>
+			<Exhaust_All_Time>Yes</Exhaust_All_Time>
+			<Exhaust_No_Accelerator>heli_exhaust</Exhaust_No_Accelerator>
+			</Effects>
+		<Use_Stunts>False</Use_Stunts>
+		<Useable_by_AI_LIFE>False</Useable_by_AI_LIFE>
+		<Character_Animation_Set>anim_helifighter</Character_Animation_Set>
+		<Vehicle_Interaction_Info>Heli Fighter</Vehicle_Interaction_Info>
+		<Weapon_Links>
+			<Weapon_Link>
+				<Seat>Driver</Seat>
+				<Weapon>heli_fighter_01</Weapon>
+				</Weapon_Link>
+			<Weapon_Link>
+				<Seat>Passenger 1</Seat>
+				<Weapon>heli_fighter_01</Weapon>
+				</Weapon_Link>
+			</Weapon_Links>
+		<Bitmap_Name>
+			<Filename>L_Tornado.tga</Filename>
+			</Bitmap_Name>
+		<Foley>
+			<Engine>HELI_FIGHTER01</Engine>
+			<Modifier>Heli Damage</Modifier>
+			<RadioSwitch>SFX_RADIO_DIAL_D</RadioSwitch>
+			<RadioOnOff>SFX_RADIO_ONOFF_D</RadioOnOff>
+			</Foley>
+		<Vehicle_Animation_Set_Name>helicopter_test.xtbl</Vehicle_Animation_Set_Name>
+		<Vehicle_Animation_Rig_Name>
+			<Filename>heli_fighter_01.rigx</Filename>
+			<Preload>true</Preload>
+			</Vehicle_Animation_Rig_Name>
+		<Wieldable_weapons_disabled>false</Wieldable_weapons_disabled>
+		</Vehicle>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription source="vehicle_table_description.xml">
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Helicopters</Name>
+		</Category>
+	</EntryCategories>
+</root>

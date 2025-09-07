@@ -1,0 +1,201 @@
+<root>
+<Table>
+	<Generics_Table>
+		<Name>Police Car</Name>
+		<Spawn_Name>car_4dr_police01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Variant_Name>Standard</Variant_Name>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Police Bike</Name>
+		<Spawn_Name>bike_standard02</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Variant_Name>Police</Variant_Name>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Swat Car</Name>
+		<Spawn_Name>van_2dr_riot01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>News Van</Name>
+		<Spawn_Name>van_4dr_news01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Gang Wagon</Name>
+		<Spawn_Name>wagon_4dr_01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Ambulance</Name>
+		<Spawn_Name>sp_ambulance01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Variant_Name>Standard</Variant_Name>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Taxi</Name>
+		<Spawn_Name>car_4dr_taxi01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Police Helicopter</Name>
+		<Spawn_Name>heli_4dr_police01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Garbage Truck</Name>
+		<Spawn_Name>truck_2dr_garbage01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Truck</Name>
+		<Spawn_Name>truck_2dr_classic01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Train Car</Name>
+		<Spawn_Name>sp_eltrain_01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Swat APC Police</Name>
+		<Spawn_Name>sp_apc01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Variant_Name>Police</Variant_Name>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Delivery Gyro</Name>
+		<Spawn_Name>car_2dr_buggy01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Variant_Name>Race_COG</Variant_Name>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Delivery Lik A Chick</Name>
+		<Spawn_Name>sp_novelty01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Variant_Name>lac</Variant_Name>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Delivery Freckled Bitches</Name>
+		<Spawn_Name>sp_novelty01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Variant_Name>fb</Variant_Name>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Pimp</Name>
+		<Spawn_Name>car_4dr_lowrider01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Ship It</Name>
+		<Spawn_Name>boat_speed01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Firetruck</Name>
+		<Spawn_Name>truck_2dr_fire01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Variant_Name>Standard</Variant_Name>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Hazmat</Name>
+		<Spawn_Name>Truck_2dr_septic01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Variant_Name>Hazmat</Variant_Name>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Attack Helicopter</Name>
+		<Spawn_Name>heli_fighter_01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Armored Truck</Name>
+		<Spawn_Name>truck_2dr_armored01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Swat APC Ultor</Name>
+		<Spawn_Name>sp_apc01</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Variant_Name>Ultor</Variant_Name>
+		</Generics_Table>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Generics_Table</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Spawn_Name</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>vehicles.xtbl</File>
+			<Type>Vehicle.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Variant_Name</Name>
+		<Type>String</Type>
+		<Display_Name>Variant Name</Display_Name>
+		<Required>true</Required>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

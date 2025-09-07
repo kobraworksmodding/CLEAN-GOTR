@@ -1,0 +1,484 @@
+<root>
+<Table>
+	<Homie>
+		<Name>driveup_homie</Name>
+		<Display_Name>Donnie's Delivery Service</Display_Name>
+		<Available_Foley>cell phone</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt</Not_Available_Foley>
+		<Humans>
+			<Human>
+				<Character>npc_Donnie</Character>
+				</Human>
+			</Humans>
+		<Flags>
+			<Flag>player selects vehicle</Flag>
+			<Flag>turn to ped after driveup</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Image_name>ui_menu_cell_hom_aisha</Image_name>
+		<Persona>SP_DONNIE</Persona>
+		</Homie>
+	<Homie>
+		<Name>Pierce</Name>
+		<Display_Name>Maero</Display_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>truck_2dr_monster01</Vehicle>
+				<Vehicle_Variant>Maero</Vehicle_Variant>
+				<Weight>100</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>cell phone</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt</Not_Available_Foley>
+		<Humans>
+			<Human>
+				<Character>npc_Maero</Character>
+				</Human>
+			</Humans>
+		<Flags>
+			</Flags>
+		<Image_name>ui_menu_cell_hom_pierce</Image_name>
+		<Persona>SP_MAERO</Persona>
+		</Homie>
+	<Homie>
+		<Name>Shaundi</Name>
+		<Display_Name>Jessica</Display_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>car_2dr_muscle04</Vehicle>
+				<Vehicle_Variant>Jessica</Vehicle_Variant>
+				<Weight>100</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>cell phone</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt</Not_Available_Foley>
+		<Humans>
+			<Human>
+				<Character>npc_Jessica</Character>
+				</Human>
+			</Humans>
+		<Flags>
+			</Flags>
+		<Image_name>ui_menu_cell_hom_shaundi</Image_name>
+		<Persona>SP_JESSICA</Persona>
+		</Homie>
+	<Homie>
+		<Name>Carlos</Name>
+		<Display_Name>Matt</Display_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>truck_4dr_pickup04</Vehicle>
+				<Vehicle_Variant>Gang_BH</Vehicle_Variant>
+				<Weight>100</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>cell phone</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt</Not_Available_Foley>
+		<Humans>
+			<Human>
+				<Character>npc_Matt</Character>
+				</Human>
+			</Humans>
+		<Flags>
+			</Flags>
+		<Image_name>ui_menu_cell_hom_carlos</Image_name>
+		<Persona>SP_MATT</Persona>
+		</Homie>
+	<Homie>
+		<Name>Jane_V</Name>
+		<Display_Name>The General</Display_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>sp_hearse02</Vehicle>
+				<Weight>100</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>cell phone</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt</Not_Available_Foley>
+		<Humans>
+			<Human>
+				<Character>npc_General</Character>
+				</Human>
+			</Humans>
+		<Flags>
+			</Flags>
+		<Image_name>ui_menu_cell_hom_jane</Image_name>
+		<Persona>SP_GENERAL</Persona>
+		</Homie>
+	<Homie>
+		<Name>Troy</Name>
+		<Display_Name>Mr Sunshine</Display_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>car_2dr_luxury02</Vehicle>
+				<Vehicle_Variant>Gang_SOS</Vehicle_Variant>
+				<Weight>100</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>cell phone</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt</Not_Available_Foley>
+		<Humans>
+			<Human>
+				<Character>npc_Sunshine</Character>
+				</Human>
+			</Humans>
+		<Flags>
+			</Flags>
+		<Image_name>ui_menu_cell_hom_troy</Image_name>
+		<Persona>SP_SUNSHINE</Persona>
+		</Homie>
+	<Homie>
+		<Name>Tobias</Name>
+		<Display_Name>DJ Veteran Child</Display_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>van_4dr_03</Vehicle>
+				<Vehicle_Variant>Drug</Vehicle_Variant>
+				<Weight>100</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>cell phone</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt</Not_Available_Foley>
+		<Humans>
+			<Human>
+				<Character>npc_Child</Character>
+				</Human>
+			</Humans>
+		<Flags>
+			</Flags>
+		<Image_name>ui_menu_cell_hom_tobias</Image_name>
+		<Persona>SP_CHILD</Persona>
+		</Homie>
+	<Homie>
+		<Name>Johnny_Gat</Name>
+		<Display_Name>Shogo Akuji</Display_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>bike_exotic01</Vehicle>
+				<Weight>100</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>cell phone</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt</Not_Available_Foley>
+		<Humans>
+			<Human>
+				<Character>npc_Shogo</Character>
+				</Human>
+			</Humans>
+		<Flags>
+			</Flags>
+		<Image_name>ui_menu_cell_hom_gat</Image_name>
+		<Persona>SP_SHOGO</Persona>
+		</Homie>
+	<Homie>
+		<Name>Legal Lee</Name>
+		<Display_Name>Jyunichi</Display_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>car_4dr_standard02</Vehicle>
+				<Vehicle_Variant>Jyunichi</Vehicle_Variant>
+				<Weight>100</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>cell phone</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt</Not_Available_Foley>
+		<Humans>
+			<Human>
+				<Character>npc_Jyunichi</Character>
+				</Human>
+			</Humans>
+		<Flags>
+			</Flags>
+		<Image_name>ui_menu_cell_hom_wong</Image_name>
+		<Persona>SP_JYUNICHI</Persona>
+		</Homie>
+	<Homie>
+		<Name>Luz</Name>
+		<Display_Name>Kazuo Akuji</Display_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>car_2dr_sports07</Vehicle>
+				<Vehicle_Variant>Gang_Ronin</Vehicle_Variant>
+				<Weight>100</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>cell phone</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt</Not_Available_Foley>
+		<Humans>
+			<Human>
+				<Character>npc_Kazuo</Character>
+				</Human>
+			</Humans>
+		<Flags>
+			</Flags>
+		<Image_name>ui_menu_cell_hom_luz</Image_name>
+		<Persona>SP_KAZUO</Persona>
+		</Homie>
+	<Homie>
+		<Name>Zombie</Name>
+		<Display_Name>Dane Vogel</Display_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>sp_limo01</Vehicle>
+				<Vehicle_Variant>Hardtop</Vehicle_Variant>
+				<Weight>100</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>cell phone</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt</Not_Available_Foley>
+		<Humans>
+			<Human>
+				<Character>npc_Dane</Character>
+				</Human>
+			</Humans>
+		<Flags>
+			</Flags>
+		<Image_name>ui_menu_cell_hom_zombie</Image_name>
+		<Persona>SP_DANE</Persona>
+		</Homie>
+	<Homie>
+		<Name>Aisha</Name>
+		<Display_Name>Julius</Display_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>car_4dr_luxury04</Vehicle>
+				<Vehicle_Variant>Julius</Vehicle_Variant>
+				<Weight>100</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>cell phone</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt</Not_Available_Foley>
+		<Humans>
+			<Human>
+				<Character>npc_Julius</Character>
+				</Human>
+			</Humans>
+		<Flags>
+			</Flags>
+		<Image_name>ui_menu_cell_hom_vehicle</Image_name>
+		<Persona>SP_JULIUS</Persona>
+		</Homie>
+	</Table>
+
+<TableTemplates>
+	<Homie>
+		<Name>wheel_man</Name>
+		<Display_Name>Wheel Woman</Display_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>car_4dr_std01</Vehicle>
+				<Weight>1</Weight>
+				<Vehicle_Variant>Gang_3SS_lvl1</Vehicle_Variant>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>group - recruit confirmed attempt</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt</Not_Available_Foley>
+		<Humans>
+			<Human>
+				<Character>npc_saint_male_soldier</Character>
+				</Human>
+			</Humans>
+		<Flags>
+			<Flag>is wheelman</Flag>
+			</Flags>
+		<Image_name>ui_menu_cell_hom_dex</Image_name>
+		<Persona></Persona>
+		</Homie>
+	<Homie>
+		<Name>assassin_squad</Name>
+		<Display_Name>Female Assassin Squad</Display_Name>
+		<Humans>
+			<Human>
+				<Character>npc_Shaundi</Character>
+				</Human>
+			<Human>
+				<Character>npc_Shaundi</Character>
+				</Human>
+			<Human>
+				<Character>npc_Shaundi</Character>
+				</Human>
+			</Humans>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>van_4dr_04</Vehicle>
+				<Weight>1</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags></Flags>
+		<Image_name>ui_menu_cell_hom_dex</Image_name>
+		<Persona></Persona>
+		</Homie>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Homie</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Unique name for this homie.</Description>
+		</Element>
+	<Element>
+		<Name>Display_Name</Name>
+		<Type>String</Type>
+		<Display_Name>Display Name</Display_Name>
+		<Description>Display name for the homie.</Description>
+		</Element>
+	<Element>
+		<Name>Humans</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Human</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Character</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>character_presets.xtbl</File>
+					<Type>Preset.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			</Element>
+		<Max_Children>4</Max_Children>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Vehicles</Name>
+		<Type>Grid</Type>
+		<Description>Vehicles that the homie can drive up in.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>Vehicle_Entry</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Vehicle</Name>
+				<Type>Reference</Type>
+				<Description>Vehicle that the homie can arrive in.</Description>
+				<Reference>
+					<File>vehicles.xtbl</File>
+					<Type>Vehicle.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Vehicle_Variant</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Weight</Name>
+				<Type>Int</Type>
+				<Description>Weight for this vehicle.</Description>
+				<Default>1</Default>
+				<MinValue>1</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Persona</Name>
+		<Type>Reference</Type>
+		<Display_Name>Cellphone Persona</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>persona.xtbl</File>
+			<Type>Persona.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Available_Foley</Name>
+		<Type>Reference</Type>
+		<Display_Name>Available Foley</Display_Name>
+		<Description>Voice line to play when the homie is available to drive up to the player, as the result of a cell phone call.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>persona_situations.xtbl</File>
+			<Type>Situation_List.Situations.Situation.Type</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Not_Available_Foley</Name>
+		<Type>Reference</Type>
+		<Display_Name>Not Available Foley</Display_Name>
+		<Description>Voice line to play when the homie is NOT available to drive up to the player, as the result of a cell phone call.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>persona_situations.xtbl</File>
+			<Type>Situation_List.Situations.Situation.Type</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>E3_Enabled</Name>
+		<Type>Selection</Type>
+		<Display_Name>E3 Enabled</Display_Name>
+		<Description>This homie starts out in hustlin' mode for the E3 build.</Description>
+		<Required>false</Required>
+		<Default>no</Default>
+		<Choice>yes</Choice>
+		<Choice>no</Choice>
+		</Element>
+	<Element>
+		<Name>Flags</Name>
+		<Type>Flags</Type>
+		<Flag>player selects vehicle</Flag>
+		<Flag>is wheelman</Flag>
+		<Flag>turn to ped after driveup</Flag>
+		</Element>
+	<Element>
+		<Name>Image_name</Name>
+		<Type>String</Type>
+		<Display_Name>Cellphone Image</Display_Name>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

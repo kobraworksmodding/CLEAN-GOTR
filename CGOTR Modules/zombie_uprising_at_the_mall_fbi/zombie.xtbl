@@ -1,0 +1,554 @@
+<root>
+<Table>
+	<Activity>
+		<Name>zombie</Name>
+		<_Editor>
+			<Category>Activity</Category>
+			</_Editor>
+		<Levels>
+			<Level>
+				<Cash_Award>0</Cash_Award>
+				<Props_Award>2000</Props_Award>
+				<Player_Start>zombie_player_start</Player_Start>
+				<Start_Hour>12</Start_Hour>
+				<Cash_Per_Zombie_Killed>0</Cash_Per_Zombie_Killed>
+				<Zombie_Max_Hit_Points>300</Zombie_Max_Hit_Points>
+				<Weapon_Decays>
+					<Weapon_Decay>
+						<Weapon_Specific>chainsaw</Weapon_Specific>
+						<Weapon_Uses>10</Weapon_Uses>
+						</Weapon_Decay>
+					<Weapon_Decay>
+						<Weapon_Specific>sledgehammer</Weapon_Specific>
+						<Weapon_Uses>30</Weapon_Uses>
+						</Weapon_Decay>
+					<Weapon_Decay>
+						<Weapon_Specific>baseball_bat</Weapon_Specific>
+						<Weapon_Uses>30</Weapon_Uses>
+						</Weapon_Decay>
+					<Weapon_Decay>
+						<Weapon_Specific>tire_iron</Weapon_Specific>
+						<Weapon_Uses>30</Weapon_Uses>
+						</Weapon_Decay>
+					</Weapon_Decays>
+				<Havok_Weapon_Uses>20</Havok_Weapon_Uses>
+				<Survivor_Max_Hit_Points>600</Survivor_Max_Hit_Points>
+				<Zombie_Spawn_Levels>
+					<Zombie_Spawn_Level>
+						<Spawn_Cap>40</Spawn_Cap>
+						<Kills_To_Advance>10</Kills_To_Advance>
+						<Spawn_Chances>
+							<Normal>1</Normal>
+							<Big>0</Big>
+							<Fire>0</Fire>
+							<Explode>0</Explode>
+							</Spawn_Chances>
+						<Survivor_Respawns>4</Survivor_Respawns>
+						</Zombie_Spawn_Level>
+					<Zombie_Spawn_Level>
+						<Spawn_Cap>69</Spawn_Cap>
+						<Kills_To_Advance>20</Kills_To_Advance>
+						<Spawn_Chances>
+							<Normal>0.5</Normal>
+							<Big>0.3</Big>
+							<Fire>0.1</Fire>
+							<Explode>0</Explode>
+							</Spawn_Chances>
+						<Survivor_Respawns>2</Survivor_Respawns>
+						</Zombie_Spawn_Level>
+					<Zombie_Spawn_Level>
+						<Spawn_Cap>69</Spawn_Cap>
+						<Kills_To_Advance>40</Kills_To_Advance>
+						<Spawn_Chances>
+							<Normal>0.5</Normal>
+							<Big>0.3</Big>
+							<Fire>0.2</Fire>
+							<Explode>0</Explode>
+							</Spawn_Chances>
+						<Survivor_Respawns>2</Survivor_Respawns>
+						</Zombie_Spawn_Level>
+					<Zombie_Spawn_Level>
+						<Spawn_Cap>69</Spawn_Cap>
+						<Kills_To_Advance>65</Kills_To_Advance>
+						<Spawn_Chances>
+							<Normal>0</Normal>
+							<Big>.3</Big>
+							<Fire>0.7</Fire>
+							<Explode>0</Explode>
+							</Spawn_Chances>
+						<Survivor_Respawns>2</Survivor_Respawns>
+						</Zombie_Spawn_Level>
+					<Zombie_Spawn_Level>
+						<Spawn_Cap>69</Spawn_Cap>
+						<Kills_To_Advance>90</Kills_To_Advance>
+						<Spawn_Chances>
+							<Normal>0.1</Normal>
+							<Big>0.1</Big>
+							<Fire>0.8</Fire>
+							<Explode>0</Explode>
+							</Spawn_Chances>
+						<Survivor_Respawns>2</Survivor_Respawns>
+						</Zombie_Spawn_Level>
+					<Zombie_Spawn_Level>
+						<Spawn_Cap>69</Spawn_Cap>
+						<Kills_To_Advance>120</Kills_To_Advance>
+						<Survivor_Respawns>2</Survivor_Respawns>
+						<Spawn_Chances>
+							<Normal>0</Normal>
+							<Big>0.1</Big>
+							<Fire>0.9</Fire>
+							<Explode>0</Explode>
+							</Spawn_Chances>
+						</Zombie_Spawn_Level>
+					</Zombie_Spawn_Levels>
+				<Zombie_Spawn_Prefix>zombie_spawn</Zombie_Spawn_Prefix>
+				<Chance_To_Drop_Food>0.10</Chance_To_Drop_Food>
+				<Chance_To_Drop_Weapon>0.35</Chance_To_Drop_Weapon>
+				<Droppable_Weapons>
+					<Weapon>
+						<Weapon_Specific>baseball_bat</Weapon_Specific>
+						<Weapon_Ammo>-1</Weapon_Ammo>
+						<Weight>0.1</Weight>
+						</Weapon>
+					<Weapon>
+						<Weapon_Specific>machete</Weapon_Specific>
+						<Weapon_Ammo>-1</Weapon_Ammo>
+						<Weight>0.1</Weight>
+						</Weapon>
+					<Weapon>
+						<Weapon_Specific>grenade</Weapon_Specific>
+						<Weapon_Ammo>1</Weapon_Ammo>
+						<Weight>0.2</Weight>
+						</Weapon>
+					<Weapon>
+						<Weapon_Specific>tec9</Weapon_Specific>
+						<Weapon_Ammo>50</Weapon_Ammo>
+						<Weight>0.3</Weight>
+						</Weapon>
+					<Weapon>
+						<Weapon_Specific>beretta</Weapon_Specific>
+						<Weapon_Ammo>20</Weapon_Ammo>
+						<Weight>0.3</Weight>
+						</Weapon>
+					</Droppable_Weapons>
+				<Item_Group_Name>zombie_item_group</Item_Group_Name>
+				<Survivor_Group_Name>zombie_survivor_group</Survivor_Group_Name>
+				<Fail_Warning_Trigger>zombie_fail_warning_trigger</Fail_Warning_Trigger>
+				<Fail_Trigger>zombie_fail_trigger</Fail_Trigger>
+				<Reward>Diversion_Zombie</Reward>
+				</Level>
+			</Levels>
+		<Max_Cash>5000</Max_Cash>
+		<Max_Props>2000</Max_Props>
+		<Minimum_Survivor_Spawn_Distance>100</Minimum_Survivor_Spawn_Distance>
+		<Maximum_Survivor_Spawn_Distance>1000</Maximum_Survivor_Spawn_Distance>
+		<Spawn_Distance_Steps>10</Spawn_Distance_Steps>
+		<Minimum_Spawn_Timer>1</Minimum_Spawn_Timer>
+		<Maximum_Spawn_Timer>3</Maximum_Spawn_Timer>
+		<Start_Location>Disabled</Start_Location>
+		<Zombie_Killer_One>npc_fbi</Zombie_Killer_One>
+		<Zombie_Killer_Two>npc_swat</Zombie_Killer_Two>
+		<Blocking_Objects></Blocking_Objects>
+		<Damage_Regions>
+			<Damage_Region>
+				<Trigger_Name>zombie_damage_region01</Trigger_Name>
+				</Damage_Region>
+			<Damage_Region>
+				<Trigger_Name>zombie_damage_region02</Trigger_Name>
+				</Damage_Region>
+			<Damage_Region>
+				<Trigger_Name>zombie_damage_region03</Trigger_Name>
+				</Damage_Region>
+			<Damage_Region>
+				<Trigger_Name>zombie_damage_region04</Trigger_Name>
+				</Damage_Region>
+			</Damage_Regions>
+		</Activity>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Activity</Name>
+	<Type>TableDescription</Type>
+	<Description>Describes the activity</Description>
+	<Required>false</Required>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Start_Location</Name>
+		<Type>Selection</Type>
+		<Display_Name>Start Location</Display_Name>
+		<Description>Where the activity will be started from</Description>
+		<Default>Disabled</Default>
+		<Choice>Enabled</Choice>
+		<Choice>Disabled</Choice>
+		</Element>
+	<Element>
+		<Name>Warp_Location</Name>
+		<Type>String</Type>
+		<Description>Where the player will be teleported to when the activity starts</Description>
+		<Required>false</Required>
+		</Element>
+	<Element>
+		<Name>Max_Cash</Name>
+		<Type>Int</Type>
+		<Display_Name>Max Cash Award</Display_Name>
+		<Description>Cash award for completing the maximum level</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Max_Props</Name>
+		<Type>Int</Type>
+		<Display_Name>Max Props Award</Display_Name>
+		<Description>Props award for completing the maximum level</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Cutscene</Name>
+		<Type>Reference</Type>
+		<Description>The cut scene to play before starting the activity</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>cutscene.xtbl</File>
+			<Type>Cutscene.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Zombie_Killer_One</Name>
+		<Type>Reference</Type>
+		<Display_Name>Zombie Killer One</Display_Name>
+		<Reference>
+			<File>character_presets.xtbl</File>
+			<Type>Preset.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Zombie_Killer_Two</Name>
+		<Type>Reference</Type>
+		<Display_Name>Zombie Killer Two</Display_Name>
+		<Reference>
+			<File>character_presets.xtbl</File>
+			<Type>Preset.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Levels</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Level</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Cash_Award</Name>
+				<Type>Int</Type>
+				<Display_Name>Base Cash Award</Display_Name>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Cash_Per_Zombie_Killed</Name>
+				<Type>Float</Type>
+				<Display_Name>Cash Per Zombie Killed</Display_Name>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Props_Award</Name>
+				<Type>Int</Type>
+				<Display_Name>Respect</Display_Name>
+				<Default>500</Default>
+				</Element>
+			<Element>
+				<Name>Reward</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>unlockables.xtbl</File>
+					<Type>Unlockable.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Player_Start</Name>
+				<Type>Reference</Type>
+				<Display_Name>Player Start</Display_Name>
+				<Reference>
+					<File>..\levels\saintsrow2\activities\zombie_navpoints.xtbl</File>
+					<Type>Navpoint.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Item_Group_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Item Group Name</Display_Name>
+				<Default>zombie_item_group</Default>
+				</Element>
+			<Element>
+				<Name>Survivor_Group_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Survivor Group Name</Display_Name>
+				<Default>zombie_survivor_group</Default>
+				</Element>
+			<Element>
+				<Name>Zombie_Spawn_Prefix</Name>
+				<Type>String</Type>
+				<Display_Name>Zombie Spawn Prefix</Display_Name>
+				<Default>zombie_spawn</Default>
+				</Element>
+			<Element>
+				<Name>Start_Hour</Name>
+				<Type>Int</Type>
+				<Display_Name>Start Hour</Display_Name>
+				<Description>Military Time (0-23)</Description>
+				<Default>12</Default>
+				</Element>
+			<Element>
+				<Name>Survivor_Max_Hit_Points</Name>
+				<Type>Int</Type>
+				<Display_Name>Survivor Max Hit Points</Display_Name>
+				<Default>600</Default>
+				<MinValue>1</MinValue>
+				</Element>
+			<Element>
+				<Name>Zombie_Max_Hit_Points</Name>
+				<Type>Int</Type>
+				<Display_Name>Zombie Max Hit Points</Display_Name>
+				<Default>300</Default>
+				<MinValue>1</MinValue>
+				</Element>
+			<Element>
+				<Name>Chance_To_Drop_Food</Name>
+				<Type>Float</Type>
+				<Display_Name>Zombie Chance To Drop Food</Display_Name>
+				<Default>0.05</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Chance_To_Drop_Weapon</Name>
+				<Type>Float</Type>
+				<Display_Name>Zombie Chance To Drop Weapon</Display_Name>
+				<Default>0.05</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Havok_Weapon_Uses</Name>
+				<Type>Int</Type>
+				<Display_Name>Havok Weapon Uses</Display_Name>
+				<Description>(0 == unlimited)</Description>
+				<Default>10</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Fail_Trigger</Name>
+				<Type>Reference</Type>
+				<Display_Name>Fail Trigger</Display_Name>
+				<Required>false</Required>
+				<Reference>
+					<File>..\levels\saintsrow2\activities\zombie_triggers.xtbl</File>
+					<Type>Trigger.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Fail_Warning_Trigger</Name>
+				<Type>Reference</Type>
+				<Display_Name>Fail Warning Trigger</Display_Name>
+				<Required>false</Required>
+				<Reference>
+					<File>..\levels\saintsrow2\activities\zombie_triggers.xtbl</File>
+					<Type>Trigger.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Zombie_Spawn_Levels</Name>
+				<Type>Grid</Type>
+				<Display_Name>Zombie Spawn Levels</Display_Name>
+				<Element>
+					<Name>Zombie_Spawn_Level</Name>
+					<Type>Element</Type>
+					<Display_Name>Zombie Spawn Level</Display_Name>
+					<Element>
+						<Name>Spawn_Cap</Name>
+						<Type>Int</Type>
+						<Display_Name>Spawn Cap</Display_Name>
+						<Default>1</Default>
+						<MinValue>1</MinValue>
+						</Element>
+					<Element>
+						<Name>Kills_To_Advance</Name>
+						<Type>Int</Type>
+						<Display_Name>Kills To Advance</Display_Name>
+						<Default>1</Default>
+						<MinValue>1</MinValue>
+						</Element>
+					<Element>
+						<Name>Survivor_Respawns</Name>
+						<Type>Int</Type>
+						<Display_Name>Survivor Respawns (at start)</Display_Name>
+						<Default>0</Default>
+						<MinValue>0</MinValue>
+						</Element>
+					<Element>
+						<Name>Spawn_Chances</Name>
+						<Type>Element</Type>
+						<Display_Name>Spawn Chances</Display_Name>
+						<Element>
+							<Name>Normal</Name>
+							<Type>Float</Type>
+							<Default>1.0</Default>
+							<MinValue>0</MinValue>
+							<MaxValue>1</MaxValue>
+							</Element>
+						<Element>
+							<Name>Big</Name>
+							<Type>Float</Type>
+							<Default>0.0</Default>
+							<MinValue>0</MinValue>
+							<MaxValue>1</MaxValue>
+							</Element>
+						<Element>
+							<Name>Fire</Name>
+							<Type>Float</Type>
+							<Default>0.0</Default>
+							<MinValue>0</MinValue>
+							<MaxValue>1</MaxValue>
+							</Element>
+						<Element>
+							<Name>Explode</Name>
+							<Type>Float</Type>
+							<Default>0.0</Default>
+							<MinValue>0</MinValue>
+							<MaxValue>1</MaxValue>
+							</Element>
+						</Element>
+					</Element>
+				<Min_Children>1</Min_Children>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>Weapon_Decays</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon Decays</Display_Name>
+				<Element>
+					<Name>Weapon_Decay</Name>
+					<Type>Element</Type>
+					<Display_Name>Weapon Decay</Display_Name>
+					<Element>
+						<Name>Weapon_Specific</Name>
+						<Type>Reference</Type>
+						<Display_Name>Specific Weapon</Display_Name>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							<OpenSeparate>False</OpenSeparate>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Weapon_Uses</Name>
+						<Type>Int</Type>
+						<Display_Name>Weapon Uses</Display_Name>
+						<Default>1</Default>
+						<MinValue>1</MinValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>Droppable_Weapons</Name>
+				<Type>Grid</Type>
+				<Display_Name>Droppable Weapons</Display_Name>
+				<Description>List of weapons that are droppable by zombies</Description>
+				<Element>
+					<Name>Weapon</Name>
+					<Type>Element</Type>
+					<Description>A single weapon that is droppable by zombies</Description>
+					<Element>
+						<Name>Weapon_Specific</Name>
+						<Type>Reference</Type>
+						<Display_Name>Specific Weapon</Display_Name>
+						<Description>The weapon to drop</Description>
+						<Required>false</Required>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							<OpenSeparate>False</OpenSeparate>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Weapon_Ammo</Name>
+						<Type>Int</Type>
+						<Display_Name>Ammo</Display_Name>
+						<Description>Ammo for the dropped weapon; -1 for default</Description>
+						<Default>-1</Default>
+						</Element>
+					<Element>
+						<Name>Weight</Name>
+						<Type>Float</Type>
+						<Description>The weight for dropping this weapon</Description>
+						<Default>0.0</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>1</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Max_Children>8</Max_Children>
+		<Min_Children>1</Min_Children>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Blocking_Objects</Name>
+		<Type>Grid</Type>
+		<Display_Name>Blocking Objects</Display_Name>
+		<Element>
+			<Name>Blocking_Object</Name>
+			<Type>Element</Type>
+			<Display_Name>Blocking Object</Display_Name>
+			<Element>
+				<Name>Object_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Object Name</Display_Name>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Damage_Regions</Name>
+		<Type>Grid</Type>
+		<Display_Name>Damage Regions</Display_Name>
+		<Element>
+			<Name>Damage_Region</Name>
+			<Type>Element</Type>
+			<Display_Name>Damage Region</Display_Name>
+			<Element>
+				<Name>Trigger_Name</Name>
+				<Type>Reference</Type>
+				<Display_Name>Trigger Name</Display_Name>
+				<Reference>
+					<File>..\levels\saintsrow2\activities\zombie_triggers.xtbl</File>
+					<Type>Trigger.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Activity</Name>
+		</Category>
+	</EntryCategories>
+</root>

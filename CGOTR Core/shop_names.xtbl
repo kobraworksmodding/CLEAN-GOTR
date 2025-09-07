@@ -1,0 +1,628 @@
+<root>
+<Table>
+	<Shop_Names>
+		<Name>Impressions</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>2</Level>
+		<Localized_Name>IMPRESSIONS_NAME</Localized_Name>
+		<Ownership>
+			<Cost>10000</Cost>
+			<Income>500</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>On_Thin_Ice</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Localized_Name>ON_THIN_ICE_NAME</Localized_Name>
+		<Ownership>
+			<Cost>10000</Cost>
+			<Income>500</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Sloppy_Seconds</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Localized_Name>SLOPPY_SCNDS_NAME</Localized_Name>
+		<Ownership>
+			<Cost>2500</Cost>
+			<Income>100</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>On_the_Rag</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>2</Level>
+		<Localized_Name>ON_RAG_NAME</Localized_Name>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Foreign_Power</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Localized_Name>FOREIGN_POWER_NAME</Localized_Name>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Brown_Baggers</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Localized_Name>LIQUORSTORE_STORE_NAME_1</Localized_Name>
+		<Ownership>
+			<Cost>2500</Cost>
+			<Income>100</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Friendly_Fire</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Localized_Name>WPNSTOR_TITLE_FRIENDLY_FIRE</Localized_Name>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Branded</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>2</Level>
+		<Localized_Name>BRANDED_STORE_NAME</Localized_Name>
+		<Ownership>
+			<Cost>8000</Cost>
+			<Income>300</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Rim_Jobs</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Localized_Name>GARAGE_CUST_NAME</Localized_Name>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Scratch_That</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Localized_Name>MUSIC_STORE_NAME_1</Localized_Name>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Image_as_Designed</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Localized_Name>IMAGE_DESIGNED_NAME</Localized_Name>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Rusty's_Needle</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Localized_Name>RUSTY_NEEDLE_NAME</Localized_Name>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Forgive_and_Forget</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Localized_Name>FORGIVE_FORGET_NAME</Localized_Name>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Freckle_Bitch's</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Localized_Name>FRECKLE_BITCH_NAME</Localized_Name>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Derby_Customization</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Localized_Name>DERBY_DEALER_NAME</Localized_Name>
+		<Ownership>
+			<Cost>10000</Cost>
+			<Income>500</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Demo_Derby_Dealership</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Localized_Name>DERBY_DEALER_NAME</Localized_Name>
+		<Ownership>
+			<Cost>10000</Cost>
+			<Income>500</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Bike_Dealer</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Localized_Name>MOTORCYCLE_STORE_NAME</Localized_Name>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Boat_Dealer</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Localized_Name>BOAT_STORE_NAME</Localized_Name>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>BlingBling</Name>
+		<Localized_Name>JEWELRY_STORE_BLING_NAME</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Brass_Knuckles</Name>
+		<Localized_Name>MELEE_WPN_STORE_NAME</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>8000</Cost>
+			<Income>300</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Buy_Jove</Name>
+		<Localized_Name>MUSEUM_STORE_GIFT_NAME</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Charred_Hard_Burgers</Name>
+		<Localized_Name>BURGER_STORE_NAME</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Company_Gyros</Name>
+		<Localized_Name>COMPANY_GYROS_STORE_NAME</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Fangs_Memories</Name>
+		<Localized_Name>COSTUME_NAME</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Leather_Lace</Name>
+		<Localized_Name>LINGERIE_STORE_NAME</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>10000</Cost>
+			<Income>500</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Phuc_Mi_Phuc_Yu</Name>
+		<Localized_Name>CHINESE_FOOD_STORE_NAME</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Semi_Broken</Name>
+		<Localized_Name>CAR_MECHANIC_LARGE_NAME</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Spelunkers</Name>
+		<Localized_Name>CAVERNS_GIFT_SHOP_NAME</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Stilwater_U_Gifts</Name>
+		<Localized_Name>UNIVERSITY_STORE_NAME</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Gas_Station</Name>
+		<Localized_Name>STORE_NAME_GAS_STATION</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Night_Club</Name>
+		<Localized_Name>STORE_NAME_NIGHT_CLUB</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Lets_Pretend</Name>
+		<Localized_Name>COSTUME_NAME</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>10000</Cost>
+			<Income>500</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Nobody_Loves_Me</Name>
+		<Localized_Name>GOTH_NAME</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>Hot_Coffee</Name>
+		<Localized_Name>HOT_COFFEE_NAME</Localized_Name>
+		<Level>0</Level>
+		<Ownership>
+			<Cost>5000</Cost>
+			<Income>200</Income>
+			<Discount>15</Discount>
+			<Total_Owner_Discount>20</Total_Owner_Discount>
+			</Ownership>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>SRM_Blue_Collar_Supply</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Localized_Name>BLUE COLLAR SUPPLY</Localized_Name>
+		<Ownership>
+			<Cost>10000</Cost>
+			<Income>2000</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>10</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>SRM_SPD_Impound</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Localized_Name>S.P.D. IMPOUND</Localized_Name>
+		<Ownership>
+			<Cost>10000</Cost>
+			<Income>2000</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>10</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>SRM_Sparrow_Aircraft</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Localized_Name>SPARROW AIRCRAFT</Localized_Name>
+		<Ownership>
+			<Cost>10000</Cost>
+			<Income>2000</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>10</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>SRM_Stilwater_Scrapyard</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Localized_Name>STILWATER SCRAPYARD</Localized_Name>
+		<Ownership>
+			<Cost>10000</Cost>
+			<Income>2000</Income>
+			<Discount>10</Discount>
+			<Total_Owner_Discount>10</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	<Shop_Names>
+		<Name>SRM_Volition_Gift_Shop</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Localized_Name>VOLITION GIFT SHOP</Localized_Name>
+		<Ownership>
+			<Cost>300000</Cost>
+			<Income>60000</Income>
+			<Discount>25</Discount>
+			<Total_Owner_Discount>25</Total_Owner_Discount>
+			</Ownership>
+		</Shop_Names>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Shop_Names</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Shop Name</Display_Name>
+		<Description>The name of the shop.  This name CANNOT have any spaces, as things will break if it does.</Description>
+		</Element>
+	<Element>
+		<Name>Localized_Name</Name>
+		<Type>Reference</Type>
+		<Display_Name>Display Name</Display_Name>
+		<Description>Localization tag for the display name of this store.</Description>
+		<Reference>
+			<File>localized_exports\Stores_text.xtbl</File>
+			<Type>Stores_Identifier.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Level</Name>
+		<Type>Int</Type>
+		<Display_Name>Minimap Level</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Ownership</Name>
+		<Type>Element</Type>
+		<Element>
+			<Name>Cost</Name>
+			<Type>Int</Type>
+			<Description>Cost of purchasing one store in this franchise.</Description>
+			<Default>10000</Default>
+			</Element>
+		<Element>
+			<Name>Income</Name>
+			<Type>Int</Type>
+			<Description>Daily income for a store in this franchise.</Description>
+			<Default>500</Default>
+			</Element>
+		<Element>
+			<Name>Discount</Name>
+			<Type>Float</Type>
+			<Description>Discount for owning a store in this franchise.</Description>
+			<Default>15</Default>
+			</Element>
+		<Element>
+			<Name>Total_Owner_Discount</Name>
+			<Type>Float</Type>
+			<Display_Name>Total Ownership Discount</Display_Name>
+			<Description>Discount for owning all stores in this franchise. This replaces the normal discount.</Description>
+			<Default>20</Default>
+			</Element>
+		<Element>
+			<Name>Reward</Name>
+			<Type>Reference</Type>
+			<Display_Name>Total Ownership Reward</Display_Name>
+			<Description>Reward for purchasing all stores of this franchise</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>unlockables.xtbl</File>
+				<Type>Unlockable.Name</Type>
+				<OpenSeparate>False</OpenSeparate>
+				</Reference>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Shop Names</Name>
+		</Category>
+	</EntryCategories>
+</root>

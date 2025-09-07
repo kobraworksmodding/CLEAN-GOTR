@@ -1,0 +1,577 @@
+<root>
+<Table>
+	<Color_Entry>
+		<Name>Flesh 1</Name>
+		<DisplayName>Flesh 1</DisplayName>
+		<Color>
+			<R>113</R>
+			<G>86</G>
+			<B>59</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Flesh 2</Name>
+		<DisplayName>Flesh 2</DisplayName>
+		<Color>
+			<R>156</R>
+			<G>120</G>
+			<B>84</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Flesh 3</Name>
+		<DisplayName>Flesh 3</DisplayName>
+		<Color>
+			<R>185</R>
+			<G>148</G>
+			<B>112</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Flesh 4</Name>
+		<DisplayName>Flesh 4</DisplayName>
+		<Color>
+			<R>197</R>
+			<G>170</G>
+			<B>143</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Orange 1</Name>
+		<DisplayName>Orange 1</DisplayName>
+		<Color>
+			<R>101</R>
+			<G>46</G>
+			<B>28</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Orange 2</Name>
+		<DisplayName>Orange 2</DisplayName>
+		<Color>
+			<R>140</R>
+			<G>68</G>
+			<B>44</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Orange 3</Name>
+		<DisplayName>Orange 3</DisplayName>
+		<Color>
+			<R>169</R>
+			<G>96</G>
+			<B>72</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Orange 4</Name>
+		<DisplayName>Orange 4</DisplayName>
+		<Color>
+			<R>185</R>
+			<G>130</G>
+			<B>112</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Red 1</Name>
+		<DisplayName>Red 1</DisplayName>
+		<Color>
+			<R>101</R>
+			<G>28</G>
+			<B>28</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Red 2</Name>
+		<DisplayName>Red 2</DisplayName>
+		<Color>
+			<R>140</R>
+			<G>44</G>
+			<B>44</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Red 3</Name>
+		<DisplayName>Red 3</DisplayName>
+		<Color>
+			<R>169</R>
+			<G>72</G>
+			<B>72</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Red 4</Name>
+		<DisplayName>Red 4</DisplayName>
+		<Color>
+			<R>185</R>
+			<G>112</G>
+			<B>112</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Rose 1</Name>
+		<DisplayName>Rose 1</DisplayName>
+		<Color>
+			<R>101</R>
+			<G>28</G>
+			<B>64</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Rose 2</Name>
+		<DisplayName>Rose 2</DisplayName>
+		<Color>
+			<R>140</R>
+			<G>44</G>
+			<B>92</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Rose 3</Name>
+		<DisplayName>Rose 3</DisplayName>
+		<Color>
+			<R>169</R>
+			<G>72</G>
+			<B>120</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Rose 4</Name>
+		<DisplayName>Rose 4</DisplayName>
+		<Color>
+			<R>185</R>
+			<G>112</G>
+			<B>148</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Purple 1</Name>
+		<DisplayName>Purple 1</DisplayName>
+		<Color>
+			<R>94</R>
+			<G>28</G>
+			<B>101</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Purple 2</Name>
+		<DisplayName>Purple 2</DisplayName>
+		<Color>
+			<R>132</R>
+			<G>44</G>
+			<B>140</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Purple 3</Name>
+		<DisplayName>Purple 3</DisplayName>
+		<Color>
+			<R>160</R>
+			<G>72</G>
+			<B>169</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Purple 4</Name>
+		<DisplayName>Purple 4</DisplayName>
+		<Color>
+			<R>178</R>
+			<G>112</G>
+			<B>185</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Indigo 1</Name>
+		<DisplayName>Indigo 1</DisplayName>
+		<Color>
+			<R>64</R>
+			<G>28</G>
+			<B>101</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Indigo 2</Name>
+		<DisplayName>Indigo 2</DisplayName>
+		<Color>
+			<R>93</R>
+			<G>44</G>
+			<B>140</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Indigo 3</Name>
+		<DisplayName>Indigo 3</DisplayName>
+		<Color>
+			<R>120</R>
+			<G>72</G>
+			<B>169</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Indigo 4</Name>
+		<DisplayName>Indigo 4</DisplayName>
+		<Color>
+			<R>148</R>
+			<G>112</G>
+			<B>185</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Blue 1</Name>
+		<DisplayName>Blue 1</DisplayName>
+		<Color>
+			<R>41</R>
+			<G>41</G>
+			<B>131</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Blue 2</Name>
+		<DisplayName>Blue 2</DisplayName>
+		<Color>
+			<R>83</R>
+			<G>83</G>
+			<B>173</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Teal 1</Name>
+		<DisplayName>Teal 1</DisplayName>
+		<Color>
+			<R>10</R>
+			<G>55</G>
+			<B>55</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Teal 2</Name>
+		<DisplayName>Teal 2</DisplayName>
+		<Color>
+			<R>52</R>
+			<G>97</G>
+			<B>97</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Green 1</Name>
+		<DisplayName>Green 1</DisplayName>
+		<Color>
+			<R>10</R>
+			<G>55</G>
+			<B>10</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Green 2</Name>
+		<DisplayName>Green 2</DisplayName>
+		<Color>
+			<R>52</R>
+			<G>97</G>
+			<B>52</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Yellow 1</Name>
+		<DisplayName>Yellow 1</DisplayName>
+		<Color>
+			<R>131</R>
+			<G>131</G>
+			<B>41</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Yellow 2</Name>
+		<DisplayName>Yellow 2</DisplayName>
+		<Color>
+			<R>173</R>
+			<G>173</G>
+			<B>83</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Black</Name>
+		<DisplayName>Black</DisplayName>
+		<Color>
+			<R>51</R>
+			<G>51</G>
+			<B>51</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>White</Name>
+		<DisplayName>White</DisplayName>
+		<Color>
+			<R>179</R>
+			<G>179</G>
+			<B>179</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>True Black</Name>
+		<DisplayName>True Black</DisplayName>
+		<Color>
+			<R>25</R>
+			<G>25</G>
+			<B>25</B>
+			</Color>
+		</Color_Entry>	
+	<Color_Entry>
+		<Name>Samedi White</Name>
+		<DisplayName>Deep Green</DisplayName>
+		<Color>
+			<R>230</R>
+			<G>230</G>
+			<B>230</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Deep Maroon</Name>
+		<DisplayName>Maroon</DisplayName>
+		<Color>
+			<R>55</R>
+			<G>11</G>
+			<B>11</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Plasma</Name>
+		<DisplayName>Maroon</DisplayName>
+		<Color>
+			<R>88</R>
+			<G>5</G>
+			<B>5</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Rose Red</Name>
+		<DisplayName>Rose Red</DisplayName>
+		<Color>
+			<R>119</R>
+			<G>2</G>
+			<B>24</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Candy Apple Red</Name>
+		<DisplayName>Candy Apple Red</DisplayName>
+		<Color>
+			<R>164</R>
+			<G>3</G>
+			<B>33</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Royal Purple</Name>
+		<DisplayName>Royal Purple</DisplayName>
+		<Color>
+			<R>80</R>
+			<G>45</G>
+			<B>106</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Peacock Blue</Name>
+		<DisplayName>Peacock Blue</DisplayName>
+		<Color>
+			<R>42</R>
+			<G>65</G>
+			<B>100</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>		
+	<Color_Entry>
+		<Name>Cobalt</Name>
+		<DisplayName>Cobalt</DisplayName>
+		<Color>
+			<R>53</R>
+			<G>81</G>
+			<B>125</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>Toxic Green</Name>
+		<DisplayName>Toxic Green</DisplayName>
+		<Color>
+			<R>58</R>
+			<G>104</G>
+			<B>39</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	</Table>
+
+	<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Color_Entry</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Color Entry</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>localized_exports\PlayerCreation_text.xtbl</File>
+			<Type>PlayerCreat_Identifier.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Color</Name>
+		<Type>Color</Type>
+		<R>
+			<Name>R</Name>
+			<Type>Int</Type>
+			<Default>255</Default>
+			</R>
+		<G>
+			<Name>G</Name>
+			<Type>Int</Type>
+			<Default>255</Default>
+			</G>
+		<B>
+			<Name>B</Name>
+			<Type>Int</Type>
+			<Default>255</Default>
+			</B>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

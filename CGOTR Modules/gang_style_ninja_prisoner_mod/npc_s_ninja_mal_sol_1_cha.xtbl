@@ -1,0 +1,33 @@
+<root>
+  <Table>
+    <Character>
+      <Name>npc_s_ninja_mal_sol_1</Name>
+      <Approved>No</Approved>
+      <Model>
+        <Filename>npc_prisoner.cmeshx</Filename>
+      </Model>
+      <Height_Class>Medium</Height_Class>
+      <Height>0.972222222222222</Height>
+      <Variation>0.0285714285714286</Variation>
+      <Base_Height_Offset>0</Base_Height_Offset>
+      <Min_Blink>1000</Min_Blink>
+      <Max_Blink>4000</Max_Blink>
+      <Anim_Set>GML1</Anim_Set>
+      <Rig>
+        <Filename>SR2_Main_Rig.rigx</Filename>
+        <Preload>true</Preload>
+      </Rig>
+      <Morph>
+			<Filename>npc_prisoner.morphx</Filename>
+			</Morph>
+		<Pcm>
+			<Filename>npc_prisoner.pcmx</Filename>
+			</Pcm>
+		<Cloth_Sim>
+			<Filename>npc_prisoner.simx</Filename>
+			</Cloth_Sim>
+		</Character>
+  </Table>
+  <TableDescription source="character_desc.xml">
+  </TableDescription>
+</root>

@@ -1,0 +1,113 @@
+<root>
+<Table>
+	<Stat>
+		<Name>Muggings Completed</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Unlockable_List>
+			<Unlockable>
+				<Value>30</Value>
+				<Unlockable>Diversion_Mugging2</Unlockable>
+				</Unlockable>
+			<Unlockable>
+				<Value>60</Value>
+				<Unlockable>Diversion_Mugging</Unlockable>
+				</Unlockable>
+			</Unlockable_List>
+		</Stat>
+	<Stat>
+		<Name>Hostages Extorted</Name>
+		<Unlockable_List>
+			<Unlockable>
+				<Value>10</Value>
+				<Unlockable>Diversion_Hostage</Unlockable>
+				</Unlockable>
+			</Unlockable_List>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Stores Held Up</Name>
+		<Unlockable_List>
+			<Unlockable>
+				<Value>20</Value>
+				<Unlockable>Diversion_Holdups</Unlockable>
+				</Unlockable>
+			</Unlockable_List>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Chop Shops Completed</Name>
+		<Unlockable_List>
+			<Unlockable>
+				<Value>1</Value>
+				<Unlockable>Diversion_ChopshopFirst</Unlockable>
+				</Unlockable>
+			<Unlockable>
+				<Value>2</Value>
+				<Unlockable>Diversion_Chopshop</Unlockable>
+				</Unlockable>
+			<Unlockable>
+				<Value>3</Value>
+				<Unlockable>Diversion_ChopshopFinishedOne</Unlockable>
+				</Unlockable>
+			<Unlockable>
+				<Value>4</Value>
+				<Unlockable>Diversion_ChopshopFinishedOne</Unlockable>
+				</Unlockable>
+			<Unlockable>
+				<Value>5</Value>
+				<Unlockable>Diversion_Chopshop_All</Unlockable>
+				</Unlockable>
+			</Unlockable_List>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Stat</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Unlockable_List</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Unlockable</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Value</Name>
+				<Type>Float</Type>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>Unlockable</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>unlockables.xtbl</File>
+					<Type>Unlockable.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

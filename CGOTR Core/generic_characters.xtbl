@@ -1,0 +1,171 @@
+<root>
+<Table>
+	<Generics_Table>
+		<Name>Police Officer</Name>
+		<Spawn_Name>npc_cop</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+		<Generics_Table>
+		<Name>Patrol Officer</Name>
+		<Spawn_Name>npc_bike_cop</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Camera Man</Name>
+		<Spawn_Name>npc_paparazzi</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Young Male</Name>
+		<Spawn_Name>npc_young_male_generic</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Young Female</Name>
+		<Spawn_Name>npc_young_female_generic</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Business Male</Name>
+		<Spawn_Name>npc_business_male</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Business Female</Name>
+		<Spawn_Name>npc_business_female</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Old Male</Name>
+		<Spawn_Name>npc_elderly_male</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Old Female</Name>
+		<Spawn_Name>npc_elderly_female</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Poor Male</Name>
+		<Spawn_Name>npc_poor_male</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Poor Female</Name>
+		<Spawn_Name>npc_poor_female</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Rich Male</Name>
+		<Spawn_Name>npc_rich_male</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Rich Female</Name>
+		<Spawn_Name>npc_rich_female</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Ultor Goon</Name>
+		<Spawn_Name>npc_ultor_goon</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Ultor Masako</Name>
+		<Spawn_Name>npc_ultor_masako</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Police Swat</Name>
+		<Spawn_Name>npc_swat</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Police FBI</Name>
+		<Spawn_Name>npc_cop</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Ronin Female Biker</Name>
+		<Spawn_Name>npc_ronin_female_biker</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Ronin Male Biker</Name>
+		<Spawn_Name>npc_ronin_male_biker</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	<Generics_Table>
+		<Name>Placeholder Saint</Name>
+		<Spawn_Name>npc_s_sporty_male_soldier</Spawn_Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Generics_Table>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Generics_Table</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Spawn_Name</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>character_presets.xtbl</File>
+			<Type>Preset.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

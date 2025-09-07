@@ -1,0 +1,344 @@
+<root>
+<Table>
+	<Entry>
+		<Name>skin_A1</Name>
+		<display_name>SKA1</display_name>
+		<pigment>skin A1</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKA1</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_A2</Name>
+		<display_name>SKA2</display_name>
+		<pigment>skin A2</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKA2</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_A3</Name>
+		<display_name>SKA3</display_name>
+		<pigment>skin A3</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKA3</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_A4</Name>
+		<display_name>SKA4</display_name>
+		<pigment>skin A4</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKA4</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_A5</Name>
+		<display_name>SKA5</display_name>
+		<pigment>skin A5</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKA5</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_A6</Name>
+		<display_name>SKA6</display_name>
+		<pigment>skin A6</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKA6</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_B1</Name>
+		<display_name>SKB1</display_name>
+		<pigment>skin 1</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKB1</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_B2</Name>
+		<display_name>SKB2</display_name>
+		<pigment>skin 2</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKB2</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_B3</Name>
+		<display_name>SKB3</display_name>
+		<pigment>skin 3</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKB3</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_B4</Name>
+		<display_name>SKB4</display_name>
+		<pigment>skin 4</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKB4</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_B5</Name>
+		<display_name>SKB5</display_name>
+		<pigment>skin 5</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKB5</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_B6</Name>
+		<display_name>SKB6</display_name>
+		<pigment>skin 6</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKB6</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_C1</Name>
+		<display_name>SKC1</display_name>
+		<pigment>skin C1</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKC1</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_C2</Name>
+		<display_name>SKC2</display_name>
+		<pigment>skin C2</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKC2</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_C3</Name>
+		<display_name>SKC3</display_name>
+		<pigment>skin C3</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKC3</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_C4</Name>
+		<display_name>SKC4</display_name>
+		<pigment>skin C4</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKC4</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_C5</Name>
+		<display_name>SKC5</display_name>
+		<pigment>skin C5</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKC5</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_C6</Name>
+		<display_name>SKC6</display_name>
+		<pigment>skin C6</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKC6</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_V1</Name>
+		<display_name>SKV1</display_name>
+		<pigment>skin V1</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKV1</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_V2</Name>
+		<display_name>SKV2</display_name>
+		<pigment>skin V2</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKV2</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_V3</Name>
+		<display_name>SKV3</display_name>
+		<pigment>skin V3</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKV3</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_V4</Name>
+		<display_name>SKV4</display_name>
+		<pigment>skin V4</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKV4</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_V5</Name>
+		<display_name>SKV5</display_name>
+		<pigment>skin V5</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKV5</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_V6</Name>
+		<display_name>SKV6</display_name>
+		<pigment>skin V6</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKV6</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_S1</Name>
+		<display_name>SKS1</display_name>
+		<pigment>skin S1</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKS1</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_S2</Name>
+		<display_name>SKS2</display_name>
+		<pigment>skin S2</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKS2</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_F1</Name>
+		<display_name>SKF1</display_name>
+		<pigment>skin F1</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKF1</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_F2</Name>
+		<display_name>SKF2</display_name>
+		<pigment>skin F2</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKF2</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	<Entry>
+		<Name>skin_F3</Name>
+		<display_name>SKF3</display_name>
+		<pigment>skin F3</pigment>
+		<specular>White</specular>
+		<swatch>ui_menu_pcr_skin_SKF3</swatch>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Entry>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Entry</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>display_name</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>localized_exports\PlayerCreation_text.xtbl</File>
+			<Type>PlayerCreat_Identifier.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>pigment</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>skin_color_pool.xtbl</File>
+			<Type>Color_Entry.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>specular</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>skin_color_pool.xtbl</File>
+			<Type>Color_Entry.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>swatch</Name>
+		<Type>String</Type>
+		<Default>ui_menu_pcr_skin_00</Default>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

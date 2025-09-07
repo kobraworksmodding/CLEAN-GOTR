@@ -1,0 +1,63 @@
+<root>
+<Table>
+	<Blackjack>
+		<Name>Blackjack</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Locations></Locations>
+		<Min_Bet>50</Min_Bet>
+		<Max_Bet>10000</Max_Bet>
+		<Bet_Increment>50</Bet_Increment>
+		</Blackjack>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Blackjack</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Locations</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Location</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Navpoint</Name>
+				<Type>String</Type>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Min_Bet</Name>
+		<Type>Int</Type>
+		<Display_Name>Min Bet</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Max_Bet</Name>
+		<Type>Int</Type>
+		<Display_Name>Max Bet</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Bet_Increment</Name>
+		<Type>Int</Type>
+		<Display_Name>Bet Increment</Display_Name>
+		<Default>0</Default>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

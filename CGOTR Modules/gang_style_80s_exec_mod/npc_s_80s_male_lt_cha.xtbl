@@ -1,0 +1,33 @@
+<root>
+  <Table>
+    <Character>
+      <Name>npc_s_80s_male_lt</Name>
+      <Approved>No</Approved>
+      <Model>
+        <Filename>npc_business_male.cmeshx</Filename>
+      </Model>
+      <Height_Class>Medium</Height_Class>
+      <Height>1</Height>
+      <Variation>0.0277777777777778</Variation>
+      <Base_Height_Offset>0</Base_Height_Offset>
+      <Min_Blink>1000</Min_Blink>
+      <Max_Blink>4000</Max_Blink>
+      <Anim_Set>GML1</Anim_Set>
+      <Rig>
+        <Filename>SR2_Main_Rig.rigx</Filename>
+        <Preload>true</Preload>
+      </Rig>
+      <Morph>
+        <Filename>npc_business_male.morphx</Filename>
+      </Morph>
+      <Pcm>
+        <Filename>npc_business_male.pcmx</Filename>
+      </Pcm>
+      <Cloth_Sim>
+        <Filename>npc_business_male.simx</Filename>
+      </Cloth_Sim>
+    </Character>
+  </Table>
+  <TableDescription source="character_desc.xml">
+  </TableDescription>
+</root>

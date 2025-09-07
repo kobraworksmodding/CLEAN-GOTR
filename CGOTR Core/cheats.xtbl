@@ -1,0 +1,3777 @@
+<root>
+<Table>
+	<Cheats>
+		<Name>Vibrant</Name>
+		<Number>#78664</Number>
+		<_Editor>
+			<Category>Entries:Weather</Category>
+			</_Editor>
+		<Type>
+			<Weather>
+				<Action>
+					<Set_To>
+						<Conditions>Vibrant</Conditions>
+						</Set_To>
+					</Action>
+				</Weather>
+			</Type>
+		<DisplayName>Vibrant</DisplayName>
+		<Interface_Category>Weather</Interface_Category>
+		<Cheat_Description>WEATHER_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Overcast</Name>
+		<Number>#78665</Number>
+		<_Editor>
+			<Category>Entries:Weather</Category>
+			</_Editor>
+		<Type>
+			<Weather>
+				<Action>
+					<Set_To>
+						<Conditions>Overcast</Conditions>
+						</Set_To>
+					</Action>
+				</Weather>
+			</Type>
+		<DisplayName>OVERCAST</DisplayName>
+		<Interface_Category>Weather</Interface_Category>
+		<Cheat_Description>WEATHER_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Heavy Rain</Name>
+		<Number>#78666</Number>
+		<_Editor>
+			<Category>Entries:Weather</Category>
+			</_Editor>
+		<Type>
+			<Weather>
+				<Action>
+					<Set_To>
+						<Conditions>Thunderstorm</Conditions>
+						</Set_To>
+					</Action>
+				</Weather>
+			</Type>
+		<DisplayName>HEAVY_RAIN</DisplayName>
+		<Interface_Category>Weather</Interface_Category>
+		<Cheat_Description>WEATHER_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Light Rain</Name>
+		<Number>#78668</Number>
+		<_Editor>
+			<Category>Entries:Weather</Category>
+			</_Editor>
+		<Type>
+			<Weather>
+				<Action>
+					<Set_To>
+						<Conditions>Light Rain</Conditions>
+						</Set_To>
+					</Action>
+				</Weather>
+			</Type>
+		<DisplayName>LIGHT_RAIN</DisplayName>
+		<Interface_Category>Weather</Interface_Category>
+		<Cheat_Description>WEATHER_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Clear Skies</Name>
+		<Number>#78669</Number>
+		<_Editor>
+			<Category>Entries:Weather</Category>
+			</_Editor>
+		<Type>
+			<Weather>
+				<Action>
+					<Set_To>
+						<Conditions>Clear Skies</Conditions>
+						</Set_To>
+					</Action>
+				</Weather>
+			</Type>
+		<DisplayName>CLEAR_SKIES</DisplayName>
+		<Interface_Category>Weather</Interface_Category>
+		<Cheat_Description>WEATHER_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Restore Weather</Name>
+		<DisplayName>RESTORE_WEATHER</DisplayName>
+		<Number>#78670</Number>
+		<Interface_Category>Weather</Interface_Category>
+		<Cheat_Description>WEATHER_DESC</Cheat_Description>
+		<Type>
+			<Weather>
+				<Action>
+					<Clear></Clear>
+					</Action>
+				</Weather>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weather</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Wrath of God</Name>
+		<Number>#666</Number>
+		<Type>
+			<Weather>
+				<Action>
+					<Wrath_of_God></Wrath_of_God>
+					</Action>
+				</Weather>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weather</Category>
+			</_Editor>
+		<DisplayName>WRATH_OF_GOD</DisplayName>
+		<Interface_Category>Weather</Interface_Category>
+		<Cheat_Description>WRATH_OF_GOD_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Test Time 2</Name>
+		<Number>#1200</Number>
+		<Type>
+			<Time>
+				<Action>
+					<Set_Hour>
+						<Hour>9</Hour>
+						</Set_Hour>
+					</Action>
+				</Time>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weather</Category>
+			</_Editor>
+		<DisplayName>Set Time 9AM</DisplayName>
+		<Interface_Category>Weather</Interface_Category>
+		<Cheat_Description>Changes Time to 9:00 AM</Cheat_Description>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Test Time 1</Name>
+		<Number>#2400</Number>
+		<Type>
+			<Time>
+				<Action>
+					<Set_Hour>
+						<Hour>21</Hour>
+						</Set_Hour>
+					</Action>
+				</Time>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weather</Category>
+			</_Editor>
+		<DisplayName>Set Time 9PM</DisplayName>
+		<Interface_Category>Weather</Interface_Category>
+		<Cheat_Description>Changes Time to 9:00 PM</Cheat_Description>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Stop Time</Name>
+		<Number>#2500</Number>
+		<Type>
+			<Time>
+				<Action>
+					<Stop_Time></Stop_Time>
+					</Action>
+				</Time>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weather</Category>
+			</_Editor>
+		<DisplayName>Stop Time</DisplayName>
+		<Interface_Category>Weather</Interface_Category>
+		<Cheat_Description>Stops Time From Progressing</Cheat_Description>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Health</Name>
+		<Number>#1</Number>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Max Health</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<DisplayName>FULL_HEALTH</DisplayName>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>FULL_HEALTH_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>InfiniteMass</Name>
+		<Number>#2</Number>
+		<Type>
+			<Vehicles>
+				<Action>
+					<Infinite_Mass></Infinite_Mass>
+					</Action>
+				</Vehicles>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<DisplayName>CAR_MASS_HOLE</DisplayName>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CAR_MASS_HOLE_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>MILK BONES</Name>
+		<Number>#3</Number>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Super Beer Muscles</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<DisplayName>MILK_BONES</DisplayName>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>MILK_BONES_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Anger Cops</Name>
+		<DisplayName>ADD_COP_NOTORIETY</DisplayName>
+		<Number>#4</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>ADD_COP_NOTORIETY_DESC</Cheat_Description>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Add Police Notoriety</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Pratfall</Name>
+		<Number>#5</Number>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Player Pratfalls</Action>
+				</Gameplay_Physics>
+			<Hour>0</Hour>
+			<Conditions></Conditions>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<DisplayName>PLAYER_PRATFALLS</DisplayName>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>PLAYER_PRATFALLS_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Sprint</Name>
+		<Number>#6</Number>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Infinite Sprint</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<DisplayName>INFINITE_SPRINT</DisplayName>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>INFINITE_SPRINT_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Super Explosions</Name>
+		<DisplayName>SUPER_EXPLOSIONS</DisplayName>
+		<Number>#7</Number>
+		<Interface_Category>World</Interface_Category>
+		<Cheat_Description>SUPER_EXPLOSIONS_DESC</Cheat_Description>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Super Explosions</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Super Saints</Name>
+		<DisplayName>SUPER_SAINTS</DisplayName>
+		<Number>#8</Number>
+		<Interface_Category>World</Interface_Category>
+		<Cheat_Description>SUPER_SAINTS_DESC</Cheat_Description>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Super Saints</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Unlimited Clip</Name>
+		<DisplayName>UNLIMITED_CLIP</DisplayName>
+		<Number>#9</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>UNLIMITED_CLIP_DESC</Cheat_Description>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Unlimited Clip</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Ammo</Name>
+		<Number>#11</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Infinite_Ammo></Infinite_Ammo>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<DisplayName>INFINITE_AMMO</DisplayName>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>INFINITE_AMMO_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Elevator to Heaven</Name>
+		<DisplayName>ELEVATOR_TO_HEAVEN</DisplayName>
+		<Number>#12</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>ELEVATOR_TO_HEAVEN_DESC</Cheat_Description>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Elevator to Heaven</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Drunk</Name>
+		<DisplayName>DRUNK_PEDS</DisplayName>
+		<Number>#15</Number>
+		<Interface_Category>World</Interface_Category>
+		<Cheat_Description>DRUNK_PEDS_DESC</Cheat_Description>
+		<Type>
+			<AI>
+				<Action>Drunk</Action>
+				</AI>
+			</Type>
+		<_Editor>
+			<Category>Entries:World</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Evil Cars</Name>
+		<Number>#16</Number>
+		<Type>
+			<AI>
+				<Action>Evil Cars</Action>
+				</AI>
+			</Type>
+		<_Editor>
+			<Category>Entries:World</Category>
+			</_Editor>
+		<DisplayName>EVIL_CARS</DisplayName>
+		<Interface_Category>World</Interface_Category>
+		<Cheat_Description>EVIL_CARS_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Low Gravity</Name>
+		<DisplayName>LOW_GRAVITY</DisplayName>
+		<Number>#18</Number>
+		<Interface_Category>World</Interface_Category>
+		<Cheat_Description>LOW_GRAVITY_DESC</Cheat_Description>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Low Gravity</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:World</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Ped War</Name>
+		<DisplayName>PED_WAR</DisplayName>
+		<Number>#19</Number>
+		<Interface_Category>World</Interface_Category>
+		<Cheat_Description>PED_WAR_DESC</Cheat_Description>
+		<Type>
+			<AI>
+				<Action>Ped War</Action>
+				</AI>
+			</Type>
+		<_Editor>
+			<Category>Entries:World</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Raining Peds</Name>
+		<DisplayName>RAINING_PEDS</DisplayName>
+		<Number>#20</Number>
+		<Interface_Category>World</Interface_Category>
+		<Cheat_Description>RAINING_PEDS_DESC</Cheat_Description>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Raining Peds</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:World</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Anger Gangs</Name>
+		<DisplayName>ADD_GANG_NOTORIETY</DisplayName>
+		<Number>#35</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>ADD_GANG_NOTORIETY_DESC</Cheat_Description>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Add Gang Notoriety</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Never Die</Name>
+		<DisplayName>NEVER_DIE</DisplayName>
+		<Number>#36</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>NEVER_DIE_DESC</Cheat_Description>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Never Die</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>No Cops</Name>
+		<Number>#50</Number>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Remove Police Notoriety</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<DisplayName>NO_COP_NOTORIETY</DisplayName>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>NO_COP_NOTORIETY_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>No Gangs</Name>
+		<Number>#51</Number>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Remove Gang Notoriety</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<DisplayName>NO_GANG_NOTORIETY</DisplayName>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>NO_GANG_NOTORIETY_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Restore Player</Name>
+		<DisplayName>RESTORE_PLAYER</DisplayName>
+		<Number>#75</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_RESTORE_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Restore_Player_Character></Restore_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Giant Player</Name>
+		<DisplayName>GIANT_PLAYER</DisplayName>
+		<Number>#200</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>GIANT_PLAYER_DESC</Cheat_Description>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Giant Player</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Tiny Player</Name>
+		<DisplayName>TINY_PLAYER</DisplayName>
+		<Number>#201</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>TINY_PLAYER_DESC</Cheat_Description>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Tiny Player</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Bushwick Bill</Name>
+		<DisplayName>BUSHWICK_BILL</DisplayName>
+		<Number>#202</Number>
+		<Interface_Category>World</Interface_Category>
+		<Cheat_Description>BUSHWICK_BILL_DESC</Cheat_Description>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Bushwick Bill</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Cash</Name>
+		<Number>#2274666399</Number>
+		<Type>
+			<Gameplay_Physics>
+				<Action>Instant Cash (+$1000)</Action>
+				</Gameplay_Physics>
+			</Type>
+		<_Editor>
+			<Category>Entries:Gameplay</Category>
+			</_Editor>
+		<DisplayName>GIVE_CASH</DisplayName>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>GIVE_CASH_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>AR200</Name>
+		<Number>#922</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>AR200</Weapon>
+						<Ammo>500</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_AR200</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>AR50</Name>
+		<Number>#923</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>AR50</Weapon>
+						<Ammo>500</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_AR-50</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>AR50_launcher</Name>
+		<Number>#924</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>AR50_launcher</Weapon>
+						<Ammo>500</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_AR-50_LAUNCHER</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>AS14</Name>
+		<Number>#925</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>AS14</Weapon>
+						<Ammo>500</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_AS14</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Chainsaw</Name>
+		<Number>#927</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>chainsaw</Weapon>
+						<Ammo>0</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_CHAINSAW</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Fire_Extinguisher</Name>
+		<Number>#928</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>fireext</Weapon>
+						<Ammo>500</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_FIREEXT</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Flamethrower</Name>
+		<Number>#929</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>flamethrower</Weapon>
+						<Ammo>500</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_FLAMETHROWER</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>GAL43</Name>
+		<Number>#931</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>Gal43</Weapon>
+						<Ammo>500</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_GAL43</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>HOLT55</Name>
+		<Number>#934</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>Holt_55</Weapon>
+						<Ammo>500</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_HOLT55</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>McManus2010</Name>
+		<Number>#938</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>mcmanus2010</Weapon>
+						<Ammo>500</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_MACMANUS2010</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Minigun</Name>
+		<Number>#939</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>minigun</Weapon>
+						<Ammo>500</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_MINIGUN</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Pimp Cane</Name>
+		<Number>#944</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>pimpcane</Weapon>
+						<Ammo>500</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_PIMPCANE</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Pipe Bomb</Name>
+		<Number>#945</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>pipe_bomb</Weapon>
+						<Ammo>20</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_PIPEBOMB</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>RPG</Name>
+		<Number>#946</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>rpg_launcher</Weapon>
+						<Ammo>20</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_RPG</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>RPG_Annihilator</Name>
+		<Number>#947</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>rpg_annihilator</Weapon>
+						<Ammo>20</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_RPG_ANNIHILATOR</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+
+	<Cheats>
+		<Name>Satchel</Name>
+		<Number>#949</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>satchel</Weapon>
+						<Ammo>20</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_SATCHEL</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Shock_Paddles</Name>
+		<Number>#950</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>shock_paddles</Weapon>
+						<Ammo>0</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_SHOCK_PADDLES</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>SKR-9</Name>
+		<Number>#951</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>SKR-9</Weapon>
+						<Ammo>500</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_SKR9</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>XS-2</Name>
+		<Number>#958</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>XS-2</Weapon>
+						<Ammo>500</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_XS2</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Pimp Slap</Name>
+		<Number>#969</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>pimp_slap</Weapon>
+						<Ammo>0</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>GIVE_PIMPSLAP</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>GIVE_WEAPON_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Dual Swords</Name>
+		<Number>#55550</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>dual_swords</Weapon>
+						<Ammo>0</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>Give Dual Swords</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>Adds this weapon to your inventory.</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Lazarus Gun</Name>
+		<Number>#55551</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>lazarus</Weapon>
+						<Ammo>0</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>Give Lazarus Gun</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>Adds this weapon to your inventory.</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Orbital Launcher</Name>
+		<Number>#55552</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>orbital_launcher</Weapon>
+						<Ammo>0</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>Give Orbital Launcher</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>Adds this weapon to your inventory.</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Septic Gun</Name>
+		<Number>#55553</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>septicgun</Weapon>
+						<Ammo>0</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>Give Septic Gun</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>Adds this weapon to your inventory.</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>SPAS12</Name>
+		<Number>#55554</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>spas12</Weapon>
+						<Ammo>0</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>Give SPAS12</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>Adds this weapon to your inventory.</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Gold Desert Eagle</Name>
+		<Number>#55555</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>gold desert eagle</Weapon>
+						<Ammo>500</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>Give Gold Desert Eagle</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>Adds this weapon to your inventory.</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Chainsaw Launcher</Name>
+		<Number>#55556</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>chainsaw_launcher</Weapon>
+						<Ammo>0</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>Give Chainsaw Launcher</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>Adds this weapon to your inventory.</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Silenced Pistol</Name>
+		<Number>#55557</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>silenced pistol</Weapon>
+						<Ammo>0</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>Give Silenced Pistol</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>Adds this weapon to your inventory.</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>NUKAMINGO 9001</Name>
+		<Number>#55558</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>NUKAMINGO_9001</Weapon>
+						<Ammo>0</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>Give NUKAMINGO 9001</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>Adds this weapon to your inventory.</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Bling Fu</Name>
+		<Number>#55559</Number>
+		<Type>
+			<Weapon>
+				<Action>
+					<Give>
+						<Weapon>Bling_Fu</Weapon>
+						<Ammo>0</Ammo>
+						</Give>
+					</Action>
+				</Weapon>
+			</Type>
+		<_Editor>
+			<Category>Entries:Weapons</Category>
+			</_Editor>
+		<DisplayName>Give Bling Fu</DisplayName>
+		<Interface_Category>Weapons</Interface_Category>
+		<Cheat_Description>Adds this weapon to your inventory.</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Fix'er Up</Name>
+		<Number>#1056</Number>
+		<Type>
+			<Vehicles>
+				<Action>
+					<Repair_Vehicle></Repair_Vehicle>
+					</Action>
+				</Vehicles>
+			<Action></Action>
+			<Hour>0</Hour>
+			<Ammo>0</Ammo>
+			<Conditions></Conditions>
+			</Type>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars</Category>
+			</_Editor>
+		<DisplayName>REPAIR_CAR</DisplayName>
+		<Interface_Category>Vehicles</Interface_Category>
+		<Cheat_Description>REPAIR_CAR_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Gyrocopter</Name>
+		<Number>#4976</Number>
+		<Type>
+			<Vehicles>
+				<Action>
+					<Drop>
+						<Vehicle_Name>heli_standard_03</Vehicle_Name>
+						</Drop>
+					</Action>
+				</Vehicles>
+			</Type>
+		<_Editor>
+			<Category>Entries:Vehicles:ExclusiveRetail</Category>
+			</_Editor>
+		<DisplayName>DROP_GYRO</DisplayName>
+		<Interface_Category>Vehicles</Interface_Category>
+		<Cheat_Description>DROP_CAR_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>UFO</Name>
+		<Number>#728237</Number>
+		<Type>
+			<Vehicles>
+				<Action>
+					<Drop>
+						<Vehicle_Name>sp_ufo01</Vehicle_Name>
+						</Drop>
+					</Action>
+				</Vehicles>
+			</Type>
+		<_Editor>
+			<Category>Entries:Vehicles:ExclusiveRetail</Category>
+			</_Editor>
+		<DisplayName>DROP_UFO</DisplayName>
+		<Interface_Category>Vehicles</Interface_Category>
+		<Cheat_Description>DROP_CAR_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Pocket Bike</Name>
+		<Number>#7266837</Number>
+		<Type>
+			<Vehicles>
+				<Action>
+					<Drop>
+						<Vehicle_Name>bike_pocket01</Vehicle_Name>
+						</Drop>
+					</Action>
+				</Vehicles>
+			</Type>
+		<_Editor>
+			<Category>Entries:Vehicles:ExclusiveRetail</Category>
+			</_Editor>
+		<DisplayName>DROP_POCKETBIKE</DisplayName>
+		<Interface_Category>Vehicles</Interface_Category>
+		<Cheat_Description>DROP_CAR_DESC</Cheat_Description>
+		<Dont_Flag_As_Cheating>False</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Aisha</Name>
+		<DisplayName>PLAYER_AISHA</DisplayName>
+		<Number>#76</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Aisha</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_carlos</Name>
+		<DisplayName>PC Carlos</DisplayName>
+		<Number>#78</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_carlos</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_carlos_jail</Name>
+		<DisplayName>PC Carlos Jail</DisplayName>
+		<Number>#79</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_carlos_jail</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Carlos Bloody</Name>
+		<DisplayName>PC Carlos Bloody</DisplayName>
+		<Number>#80</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Carlos_blood</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_zombiecarlos</Name>
+		<DisplayName>PC Carlos Zombie</DisplayName>
+		<Number>#81</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_zombiecarlos</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_crazysalesman</Name>
+		<DisplayName>PC Crazy Salesman</DisplayName>
+		<Number>#82</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_crazysalesman</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Dane</Name>
+		<DisplayName>PLAYER_DANE</DisplayName>
+		<Number>#83</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Dane</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Donnie</Name>
+		<DisplayName>PLAYER_DONNIE</DisplayName>
+		<Number>#84</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Donnie</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player General</Name>
+		<DisplayName>PLAYER_GENERAL</DisplayName>
+		<Number>#85</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_General</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player JaneV</Name>
+		<DisplayName>PLAYER_JANEV</DisplayName>
+		<Number>#86</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_JaneV</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Jessica</Name>
+		<DisplayName>PLAYER_JESSICA</DisplayName>
+		<Number>#87</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Jessica</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Gat</Name>
+		<DisplayName>PLAYER_GAT</DisplayName>
+		<Number>#88</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Gat</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_bandage_gat</Name>
+		<DisplayName>PC Johnny Gat Bandaged</DisplayName>
+		<Number>#89</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_bandage_gat</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Julius</Name>
+		<DisplayName>PLAYER_JULIUS</DisplayName>
+		<Number>#90</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Julius</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Jyunichi</Name>
+		<DisplayName>PLAYER_JYUNICHI</DisplayName>
+		<Number>#91</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Jyunichi</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Kazuo</Name>
+		<DisplayName>PLAYER_KAZUO</DisplayName>
+		<Number>#92</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Kazuo</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_laura</Name>
+		<DisplayName>PC Laura</DisplayName>
+		<Number>#93</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_laura</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_lee</Name>
+		<DisplayName>PC Legal Lee</DisplayName>
+		<Number>#94</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_lee</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_luz</Name>
+		<DisplayName>PC Luz</DisplayName>
+		<Number>#95</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_luz</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Maero</Name>
+		<DisplayName>PLAYER_MAERO</DisplayName>
+		<Number>#96</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Maero</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Matt</Name>
+		<DisplayName>PLAYER_MATT</DisplayName>
+		<Number>#97</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Matt</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Pierce</Name>
+		<DisplayName>PLAYER_PIERCE</DisplayName>
+		<Number>#98</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Pierce</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_richie</Name>
+		<DisplayName>PC Richie</DisplayName>
+		<Number>#99</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_richie</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_sampson</Name>
+		<DisplayName>PC Sampson</DisplayName>
+		<Number>#100</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_sampson</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Shaundi</Name>
+		<DisplayName>PLAYER_SHAUNDI</DisplayName>
+		<Number>#101</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Shaundi</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_shaundi_repair</Name>
+		<DisplayName>PC Shaundi Repair</DisplayName>
+		<Number>#102</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_shaundi_repair</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Shogo</Name>
+		<DisplayName>PLAYER_SHOGO</DisplayName>
+		<Number>#103</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Shogo</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Sunshine</Name>
+		<DisplayName>PLAYER_SUNSHINE</DisplayName>
+		<Number>#104</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Sunshine</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Tobias</Name>
+		<DisplayName>PLAYER_TOBIAS</DisplayName>
+		<Number>#105</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Tobias</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_translator</Name>
+		<DisplayName>PC Translator</DisplayName>
+		<Number>#106</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_translator</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Troy</Name>
+		<DisplayName>PLAYER_TROY</DisplayName>
+		<Number>#107</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Troy</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_child</Name>
+		<DisplayName>PC Veteran Child</DisplayName>
+		<Number>#108</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_child</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_vinnie</Name>
+		<DisplayName>PC Vinnie</DisplayName>
+		<Number>#109</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_vinnie</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Wong</Name>
+		<DisplayName>PLAYER_WONG</DisplayName>
+		<Number>#110</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_Wong</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_ronin_female_soldier</Name>
+		<DisplayName>PC Ronin Female</DisplayName>
+		<Number>#111</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_ronin_female_soldier</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_ronin_male_soldier</Name>
+		<DisplayName>PC Ronin Male</DisplayName>
+		<Number>#112</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_ronin_male_soldier</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_samedi_female_soldier</Name>
+		<DisplayName>PC Samedi Female</DisplayName>
+		<Number>#113</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_samedi_female_soldier</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_samedi_male_soldier</Name>
+		<DisplayName>PC Samedi Male</DisplayName>
+		<Number>#114</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_samedi_male_soldier</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_tribal_female_soldier</Name>
+		<DisplayName>PC Brotherhood Female</DisplayName>
+		<Number>#115</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_tribal_female_soldier</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_tribal_male_soldier</Name>
+		<DisplayName>PC Brotherhood Male</DisplayName>
+		<Number>#116</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_tribal_male_soldier</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Cop</Name>
+		<DisplayName>PLAYER_COP</DisplayName>
+		<Number>#117</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_cop</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player FBI</Name>
+		<DisplayName>PLAYER_FBI</DisplayName>
+		<Number>#118</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_fbi</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_swat</Name>
+		<DisplayName>PC Swat</DisplayName>
+		<Number>#119</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_swat</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_ultor_masako</Name>
+		<DisplayName>PC Ultor Masako</DisplayName>
+		<Number>#120</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_ultor_masako</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_guards</Name>
+		<DisplayName>PC Guard</DisplayName>
+		<Number>#121</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_guards</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_nuclear</Name>
+		<DisplayName>PC Nuclear</DisplayName>
+		<Number>#122</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_nuclear</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_prisoner</Name>
+		<DisplayName>PC Prisoner</DisplayName>
+		<Number>#123</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_prisoner</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_prisonfight</Name>
+		<DisplayName>PC Prison Fighter</DisplayName>
+		<Number>#124</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_prisonfight</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Ho</Name>
+		<DisplayName>PLAYER_HO</DisplayName>
+		<Number>#125</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_ho</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_pimp</Name>
+		<DisplayName>PC Pimp</DisplayName>
+		<Number>#126</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_pimp</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Stripper</Name>
+		<DisplayName>PLAYER_STRIPPER</DisplayName>
+		<Number>#127</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_stripper_female</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_stripper_female_b</Name>
+		<DisplayName>PC Stripper B</DisplayName>
+		<Number>#128</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_stripper_female_b</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_baggage</Name>
+		<DisplayName>PC Baggage Handler</DisplayName>
+		<Number>#129</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_baggage</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Barbershop</Name>
+		<DisplayName>PLAYER_BARBERSHOP</DisplayName>
+		<Number>#130</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_barbershop</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Bartender</Name>
+		<DisplayName>PLAYER_BARTENDER</DisplayName>
+		<Number>#131</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_service_bartender</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_bouncer</Name>
+		<DisplayName>PC Bouncer</DisplayName>
+		<Number>#132</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_bouncer</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Construction</Name>
+		<DisplayName>PLAYER_CONSTRUCTION</DisplayName>
+		<Number>#133</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_construction</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_doctor</Name>
+		<DisplayName>PC Doctor</DisplayName>
+		<Number>#134</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_doctor</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_drugtech</Name>
+		<DisplayName>PC Drug Tech</DisplayName>
+		<Number>#135</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_drugtech</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_emt</Name>
+		<DisplayName>PC EMT</DisplayName>
+		<Number>#136</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_emt</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_firefighter</Name>
+		<DisplayName>PC Firefighter</DisplayName>
+		<Number>#137</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_firefighter</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_hotdog</Name>
+		<DisplayName>PC Hot Dog</DisplayName>
+		<Number>#138</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_hotdog</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_judge</Name>
+		<DisplayName>PC Judge</DisplayName>
+		<Number>#139</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_judge</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+
+	<Cheats>
+		<Name>npc_lifeguard</Name>
+		<DisplayName>PC Lifeguard</DisplayName>
+		<Number>#140</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_lifeguard</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+
+	<Cheats>
+		<Name>npc_meter_maid</Name>
+		<DisplayName>PC Meter Maid</DisplayName>
+		<Number>#141</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_meter_maid</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Mime</Name>
+		<DisplayName>PLAYER_MIME</DisplayName>
+		<Number>#142</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_mime</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_minister</Name>
+		<DisplayName>PC Minister</DisplayName>
+		<Number>#143</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_minister</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_nurse</Name>
+		<DisplayName>PC Nurse</DisplayName>
+		<Number>#144</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_nurse</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_pilot</Name>
+		<DisplayName>PC Pilot</DisplayName>
+		<Number>#145</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_pilot</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_stewardess</Name>
+		<DisplayName>PC Stewardess</DisplayName>
+		<Number>#146</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_stewardess</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_repair</Name>
+		<DisplayName>PC Repair</DisplayName>
+		<Number>#147</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_repair</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+
+	<Cheats>
+		<Name>npc_scientist</Name>
+		<DisplayName>PC Scientist</DisplayName>
+		<Number>#148</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_scientist</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_gyros</Name>
+		<DisplayName>PC Gyros Driver</DisplayName>
+		<Number>#149</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_gyros</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Freckle Bitch</Name>
+		<DisplayName>Freckle Bitch's Driver</DisplayName>
+		<Number>#150</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_freckle_bitch</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_blake</Name>
+		<DisplayName>PC Blake</DisplayName>
+		<Number>#151</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_blake</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_skeeter</Name>
+		<DisplayName>PC Skeeter</DisplayName>
+		<Number>#152</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_skeeter</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Cheerleader</Name>
+		<DisplayName>PLAYER_CHEERLEADER</DisplayName>
+		<Number>#153</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_cheerleader</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Sportsfan</Name>
+		<DisplayName>PLAYER_SPORTSFAN</DisplayName>
+		<Number>#154</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_sportsfan</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_athlete_female</Name>
+		<DisplayName>PC Athlete Female</DisplayName>
+		<Number>#155</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_athlete_female</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_athlete_male</Name>
+		<DisplayName>PC Athlete Male</DisplayName>
+		<Number>#156</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_athlete_male</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_arena_fighter</Name>
+		<DisplayName>PC Arena Fighter</DisplayName>
+		<Number>#157</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_arena_fighter</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Biker Female</Name>
+		<DisplayName>PLAYER_BIKER_FEMALE</DisplayName>
+		<Number>#158</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_biker_female</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Biker Male</Name>
+		<DisplayName>PLAYER_BIKER_MALE</DisplayName>
+		<Number>#159</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_biker_male</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Bum</Name>
+		<DisplayName>PLAYER_BUM</DisplayName>
+		<Number>#160</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_bum</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_junky</Name>
+		<DisplayName>PC Junky</DisplayName>
+		<Number>#161</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_junky</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_business_female</Name>
+		<DisplayName>PC Business Female</DisplayName>
+		<Number>#162</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_business_female</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_business_male</Name>
+		<DisplayName>PC Business Male</DisplayName>
+		<Number>#163</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_business_male</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Cowboy</Name>
+		<DisplayName>PLAYER_COWBOY</DisplayName>
+		<Number>#164</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_cowboy</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_elderly_female</Name>
+		<DisplayName>PC Elderly Female</DisplayName>
+		<Number>#165</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_elderly_female</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_elderly_male</Name>
+		<DisplayName>PC Elderly Male</DisplayName>
+		<Number>#166</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_elderly_male</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_fat_female</Name>
+		<DisplayName>PC Fat Female</DisplayName>
+		<Number>#167</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_fat_female</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_goth_female</Name>
+		<DisplayName>PC Goth Female</DisplayName>
+		<Number>#168</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_goth_female</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_goth_male</Name>
+		<DisplayName>PC Goth Male</DisplayName>
+		<Number>#169</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_goth_male</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_hippie_female</Name>
+		<DisplayName>PC Hippie Female</DisplayName>
+		<Number>#170</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_hippie_female</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_hippie_male</Name>
+		<DisplayName>PC Hippie Male</DisplayName>
+		<Number>#171</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_hippie_male</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Pirate</Name>
+		<DisplayName>PLAYER_PIRATE</DisplayName>
+		<Number>#172</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_pirate</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_punk_female</Name>
+		<DisplayName>PC Punk Female</DisplayName>
+		<Number>#173</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_punk_female</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_punk_male</Name>
+		<DisplayName>PC Punk Male</DisplayName>
+		<Number>#174</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_punk_male</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Roid Freak</Name>
+		<DisplayName>PLAYER_ROIDFREAK</DisplayName>
+		<Number>#175</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_roid_freak</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+
+	<Cheats>
+		<Name>npc_skydive</Name>
+		<DisplayName>PC Skydiver</DisplayName>
+		<Number>#176</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_skydive</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>Player Zombie</Name>
+		<DisplayName>PC Zombie Male A</DisplayName>
+		<Number>#177</Number>
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_ZombMale_A</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_ZombMale_B</Name>
+		<DisplayName>PC Zombie Male B</DisplayName>
+		<Number>#178</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_ZombMale_B</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_ZombMale_C</Name>
+		<DisplayName>PC Zombie Male C</DisplayName>
+		<Number>#179</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_ZombMale_C</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_femaleZombA</Name>
+		<DisplayName>PC Female Zombie A</DisplayName>
+		<Number>#180</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_femaleZombA</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_ZombFemB</Name>
+		<DisplayName>PC Zombie Female B</DisplayName>
+		<Number>#181</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_ZombFemB</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+	<Cheats>
+		<Name>npc_doorman</Name>
+		<DisplayName>PC Doorman</DisplayName>
+		<Number>#182</Number>                                               
+		<Interface_Category>Player Ability</Interface_Category>
+		<Cheat_Description>CHEAT_CHARACTER_DESC</Cheat_Description>
+		<Type>
+			<Character>
+				<Action>
+					<Set_Player_Character>
+						<Preset_Name>npc_doorman</Preset_Name>
+						</Set_Player_Character>
+					</Action>
+				</Character>
+			</Type>
+		<_Editor>
+			<Category>Entries:Characters</Category>
+			</_Editor>
+		<Dont_Flag_As_Cheating>True</Dont_Flag_As_Cheating>
+		</Cheats>
+
+	</Table>
+
+<TableDescription>
+	<Name>Cheats</Name>
+	<Type>TableDescription</Type>
+	<MaxCount>192</MaxCount>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Name of the cheat.</Description>
+		<MaxLength>32</MaxLength>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>localized_exports\Cheats_text.xtbl</File>
+			<Type>Cheats_Identifier.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Number</Name>
+		<Type>String</Type>
+		<Description>(MUST INCLUDE THE PREFIX #-SYMBOL) Number to dial for the cheat.</Description>
+		<Unique>true</Unique>
+		<MaxLength>99</MaxLength>
+		</Element>
+	<Element>
+		<Name>Interface_Category</Name>
+		<Type>Selection</Type>
+		<Display_Name>Cellphone Interface Location</Display_Name>
+		<Description>What submenu it is under on the interface</Description>
+		<Default>World</Default>
+		<Choice>World</Choice>
+		<Choice>Vehicles</Choice>
+		<Choice>Player Ability</Choice>
+		<Choice>Weapons</Choice>
+		<Choice>Weather</Choice>
+		<Choice>Character</Choice>
+		</Element>
+	<Element>
+		<Name>Cheat_Description</Name>
+		<Type>Reference</Type>
+		<Display_Name>Cheat Description Localization Tag</Display_Name>
+		<Default>PAUSE_MENU_CHEAT_DESCRIPTION</Default>
+		<Reference>
+			<File>localized_exports\Cheats_text.xtbl</File>
+			<Type>Cheats_Identifier.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Dont_Flag_As_Cheating</Name>
+		<Type>Selection</Type>
+		<Display_Name>Don't Flag As Cheating</Display_Name>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>Type</Name>
+		<Type>ComboElement</Type>
+		<Description>Type of the cheat.</Description>
+		<Element>
+			<Name>AI</Name>
+			<Type>Element</Type>
+			<Required>false</Required>
+			<Element>
+				<Name>Action</Name>
+				<Type>Selection</Type>
+				<Description>AI action to perform</Description>
+				<Choice>Evil Cars</Choice>
+				<Choice>Evil Cars 2</Choice>
+				<Choice>Ped War</Choice>
+				<Choice>Drunk</Choice>
+				</Element>
+			</Element>
+		<Element>
+			<Name>Gameplay_Physics</Name>
+			<Type>Element</Type>
+			<Display_Name>Gameplay/Physics</Display_Name>
+			<Required>false</Required>
+			<Element>
+				<Name>Action</Name>
+				<Type>Selection</Type>
+				<Choice>Instant Cash (+$1000)</Choice>
+				<Choice>Remove Police Notoriety</Choice>
+				<Choice>Remove Gang Notoriety</Choice>
+				<Choice>Infinite Sprint</Choice>
+				<Choice>Max Health</Choice>
+				<Choice>Player Pratfalls</Choice>
+				<Choice>Super Beer Muscles</Choice>
+				<Choice>Give Gamestop T-Shirt</Choice>
+				<Choice>Raining Peds</Choice>
+				<Choice>Add Police Notoriety</Choice>
+				<Choice>Add Gang Notoriety</Choice>
+				<Choice>Never Die</Choice>
+				<Choice>Super Saints</Choice>
+				<Choice>Unlimited Clip</Choice>
+				<Choice>Be All You Want To Be</Choice>
+				<Choice>Super Explosions</Choice>
+				<Choice>Low Gravity</Choice>
+				<Choice>Elevator to Heaven</Choice>
+				<Choice>Giant Player</Choice>
+				<Choice>Tiny Player</Choice>
+				<Choice>Bushwick Bill</Choice>
+				</Element>
+			</Element>
+		<Element>
+			<Name>Time</Name>
+			<Type>Element</Type>
+			<Description>This cheat will alter time-of-day.</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>Action</Name>
+				<Type>ComboElement</Type>
+				<Element>
+					<Name>Set_Hour</Name>
+					<Type>Element</Type>
+					<Display_Name>Set Hour</Display_Name>
+					<Description>Set the hour to some value.</Description>
+					<Required>false</Required>
+					<Element>
+						<Name>Hour</Name>
+						<Type>Int</Type>
+						<Description>Hour to set the time to.</Description>
+						<Default>0</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>23</MaxValue>
+						</Element>
+					</Element>
+				<Element>
+					<Name>Stop_Time</Name>
+					<Type>Element</Type>
+					<Display_Name>Stop Time</Display_Name>
+					<Description>Stop time. Now.</Description>
+					<Required>false</Required>
+					</Element>
+				</Element>
+			</Element>
+		<Element>
+			<Name>Vehicles</Name>
+			<Type>Element</Type>
+			<Required>false</Required>
+			<Element>
+				<Name>Action</Name>
+				<Type>ComboElement</Type>
+				<Element>
+					<Name>Drop</Name>
+					<Type>Element</Type>
+					<Display_Name>Drop/Spawn</Display_Name>
+					<Required>false</Required>
+					<Element>
+						<Name>Vehicle_Name</Name>
+						<Type>Reference</Type>
+						<Description>What car to drop/spawn.</Description>
+						<Reference>
+							<File>vehicles.xtbl</File>
+							<Type>Vehicle.Name</Type>
+							<OpenSeparate>False</OpenSeparate>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Vehicle_Variant</Name>
+						<Type>String</Type>
+						<Required>false</Required>
+						</Element>
+					</Element>
+				<Element>
+					<Name>Infinite_Mass</Name>
+					<Type>Element</Type>
+					<Description>Sets the player's vehicle's mass to infinite.</Description>
+					<Required>false</Required>
+					</Element>
+				<Element>
+					<Name>Repair_Vehicle</Name>
+					<Type>Element</Type>
+					<Description>Repairs the player's vehicle instantly.</Description>
+					<Required>false</Required>
+					</Element>
+				</Element>
+			</Element>
+		<Element>
+			<Name>Weapon</Name>
+			<Type>Element</Type>
+			<Description>This is a weapon-type of cheat. Weapon-type cheats allow infinite ammo, infinite magazine size, and the giving of weapons to the character.</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>Action</Name>
+				<Type>ComboElement</Type>
+				<Description>What action to perform</Description>
+				<Element>
+					<Name>Give</Name>
+					<Type>Element</Type>
+					<Description>Give a weapon to the player.</Description>
+					<Required>false</Required>
+					<Element>
+						<Name>Weapon</Name>
+						<Type>Reference</Type>
+						<Description>What weapon to give to the player.</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							<OpenSeparate>False</OpenSeparate>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Ammo</Name>
+						<Type>Int</Type>
+						<Description>How much ammo to give for this weapon. If set higher than the maximum amount of ammo for this weapon, the amount will be capped to the maximum amount for this weapon.</Description>
+						<Default>0</Default>
+						<MinValue>0</MinValue>
+						</Element>
+					</Element>
+				<Element>
+					<Name>Infinite_Ammo</Name>
+					<Type>Element</Type>
+					<Description>Player never runs out of ammo.</Description>
+					<Required>false</Required>
+					</Element>
+				</Element>
+			</Element>
+		<Element>
+			<Name>Weather</Name>
+			<Type>Element</Type>
+			<Description>This type of cheat will affect weather conditions.</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>Action</Name>
+				<Type>ComboElement</Type>
+				<Description>The action this cheat will perform.</Description>
+				<Element>
+					<Name>Set_To</Name>
+					<Type>Element</Type>
+					<Display_Name>Set To</Display_Name>
+					<Description>Set the weather conditions to some state.</Description>
+					<Required>false</Required>
+					<Element>
+						<Name>Conditions</Name>
+						<Type>Reference</Type>
+						<Reference>
+							<File>weather.xtbl</File>
+							<Type>Weather_Stage.Name</Type>
+							<OpenSeparate>False</OpenSeparate>
+							</Reference>
+						</Element>
+					</Element>
+				<Element>
+					<Name>Wrath_of_God</Name>
+					<Type>Element</Type>
+					<Display_Name>Wrath of God</Display_Name>
+					<Description>Enable the Wrath of God! Lightning strikes 50% more often.</Description>
+					<Required>false</Required>
+					</Element>
+				<Element>
+					<Name>Clear</Name>
+					<Type>Element</Type>
+					<Required>false</Required>
+					</Element>
+				</Element>
+			</Element>
+		<Element>
+			<Name>Character</Name>
+			<Type>Element</Type>
+			<Required>false</Required>
+			<Element>
+				<Name>Action</Name>
+				<Type>ComboElement</Type>
+				<Element>
+					<Name>Set_Player_Character</Name>
+					<Type>Element</Type>
+					<Display_Name>Set Player Character</Display_Name>
+					<Required>false</Required>
+					<Element>
+						<Name>Preset_Name</Name>
+						<Type>Reference</Type>
+						<Display_Name>Preset Name</Display_Name>
+						<Reference>
+							<File>character_presets.xtbl</File>
+							<Type>Preset.Name</Type>
+							<OpenSeparate>False</OpenSeparate>
+							</Reference>
+						</Element>
+					</Element>
+				<Element>
+					<Name>Restore_Player_Character</Name>
+					<Type>Element</Type>
+					<Display_Name>Restore Player Character</Display_Name>
+					<Required>false</Required>
+					</Element>
+				</Element>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		<Category>
+			<Name>Characters</Name>
+			</Category>
+		<Category>
+			<Name>Gameplay</Name>
+			</Category>
+		<Category>
+			<Name>Vehicles</Name>
+			<Category>
+				<Name>Aircraft</Name>
+				</Category>
+			<Category>
+				<Name>Bikes</Name>
+				</Category>
+			<Category>
+				<Name>Boats</Name>
+				</Category>
+			<Category>
+				<Name>Cars</Name>
+				</Category>
+			<Category>
+				<Name>ExclusiveRetail</Name>
+				</Category>
+			</Category>
+		<Category>
+			<Name>Weapons</Name>
+			</Category>
+		<Category>
+			<Name>Weather</Name>
+			</Category>
+		<Category>
+			<Name>World</Name>
+			</Category>
+		</Category>
+	</EntryCategories>
+</root>

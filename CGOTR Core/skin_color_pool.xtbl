@@ -1,0 +1,373 @@
+<root>
+<Table>
+	<Color_Entry>
+		<Name>skin A1</Name>
+		<Color>
+			<R>185</R>
+			<G>161</G>
+			<B>158</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin A2</Name>
+		<Color>
+			<R>169</R>
+			<G>142</G>
+			<B>136</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin A3</Name>
+		<Color>
+			<R>153</R>
+			<G>124</G>
+			<B>114</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin A4</Name>
+		<Color>
+			<R>138</R>
+			<G>106</G>
+			<B>93</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin A5</Name>
+		<Color>
+			<R>122</R>
+			<G>90</G>
+			<B>71</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin A6</Name>
+		<Color>
+			<R>106</R>
+			<G>73</G>
+			<B>49</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin 1</Name>
+		<Color>
+			<R>185</R>
+			<G>176</G>
+			<B>158</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin 2</Name>
+		<Color>
+			<R>169</R>
+			<G>158</G>
+			<B>136</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin 3</Name>
+		<Color>
+			<R>153</R>
+			<G>140</G>
+			<B>114</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin 4</Name>
+		<Color>
+			<R>138</R>
+			<G>122</G>
+			<B>93</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin 5</Name>
+		<Color>
+			<R>122</R>
+			<G>104</G>
+			<B>71</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin 6</Name>
+		<Color>
+			<R>106</R>
+			<G>86</G>
+			<B>49</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin C1</Name>
+		<Color>
+			<R>179</R>
+			<G>185</G>
+			<B>158</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin C2</Name>
+		<Color>
+			<R>163</R>
+			<G>168</G>
+			<B>136</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin C3</Name>
+		<Color>
+			<R>146</R>
+			<G>150</G>
+			<B>114</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin C4</Name>
+		<Color>
+			<R>132</R>
+			<G>132</G>
+			<B>93</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin C5</Name>
+		<Color>
+			<R>117</R>
+			<G>113</G>
+			<B>71</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin C6</Name>
+		<Color>
+			<R>101</R>
+			<G>94</G>
+			<B>49</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>White</Name>
+		<Color>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin V1</Name>
+		<Color>
+			<R>201</R>
+			<G>90</G>
+			<B>90</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin V2</Name>
+		<Color>
+			<R>159</R>
+			<G>194</G>
+			<B>118</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin V3</Name>
+		<Color>
+			<R>112</R>
+			<G>189</G>
+			<B>94</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin V4</Name>
+		<Color>
+			<R>102</R>
+			<G>181</G>
+			<B>255</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin V5</Name>
+		<Color>
+			<R>90</R>
+			<G>144</G>
+			<B>227</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin V6</Name>
+		<Color>
+			<R>195</R>
+			<G>240</G>
+			<B>255</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin S1</Name>
+		<Color>
+			<R>149</R>
+			<G>180</G>
+			<B>201</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin S2</Name>
+		<Color>
+			<R>31</R>
+			<G>52</G>
+			<B>71</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin F1</Name>
+		<Color>
+			<R>170</R>
+			<G>132</G>
+			<B>202</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin F2</Name>
+		<Color>
+			<R>149</R>
+			<G>126</G>
+			<B>232</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	<Color_Entry>
+		<Name>skin F3</Name>
+		<Color>
+			<R>198</R>
+			<G>131</G>
+			<B>26</B>
+			</Color>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Entry>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Color_Entry</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Color Entry</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Color</Name>
+		<Type>Color</Type>
+		<R>
+			<Name>R</Name>
+			<Type>Int</Type>
+			<Default>255</Default>
+			</R>
+		<G>
+			<Name>G</Name>
+			<Type>Int</Type>
+			<Default>255</Default>
+			</G>
+		<B>
+			<Name>B</Name>
+			<Type>Int</Type>
+			<Default>255</Default>
+			</B>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

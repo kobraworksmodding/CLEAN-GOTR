@@ -1,0 +1,4881 @@
+<root>
+<Table>
+	<Vehicle_Interaction_Info>
+		<Name>Mule</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Mule Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>high driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Mule Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Delivery</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Delivery</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>high driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Delivery</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Delivery</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Ride_Animations>PyroBox Ride</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>septic special</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Septic Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>extreme driver</Enter_Animations>
+				<Exit_Animations>extreme driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Septic Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>extreme passenger right</Enter_Animations>
+				<Exit_Animations>extreme passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Septic Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 2</Queue>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>extreme passenger right</Enter_Animations>
+				<Exit_Animations>extreme passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Knoxville</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Knoxville Driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Knoxville Passenger</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>Knoxville Driver</Enter_Animations>
+				<Exit_Animations>high passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>Knoxville Passenger</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Riot</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Riot Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>high driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Riot Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Fire Truck</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Fire Truck Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>extreme driver</Enter_Animations>
+				<Exit_Animations>extreme driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Fire Truck Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>extreme passenger right</Enter_Animations>
+				<Exit_Animations>extreme passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Danville</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Baron Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Baron Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Baron Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>Convertable Left</Enter_Animations>
+				<Exit_Animations>Convertable Left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Baron Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 4</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>Convertable Right</Enter_Animations>
+				<Exit_Animations>Convertable Right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Bezier</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Bezier Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>gullwing driver</Enter_Animations>
+				<Exit_Animations>low driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Bezier Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>gullwing passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Boat</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Speedboat 1 driver</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Ride_Animations>boat driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Speedboat 1 Passenger</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 2</Queue>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Ride_Animations>boat passenger left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Speedboat 1 driver</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Ride_Animations>boat passenger leftback</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Speedboat 1 Passenger</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 4</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Ride_Animations>boat passenger rightback</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Boats</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Speedboat01</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Speedboat 1 driver</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Ride_Animations>Standard Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Speedboat 1 Passenger</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 2</Queue>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Ride_Animations>Standard Passenger Left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Speedboat 1 driver</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 1</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Ride_Animations>Standard Passenger Left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Speedboat 1 Passenger</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 2</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Ride_Animations>Standard Passenger right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Boats</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Bike Cruiser</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>cruiser</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Bike Cruiser Driver</Enter_Animations>
+				<Exit_Animations>Bike Cruiser Driver</Exit_Animations>
+				<Ride_Animations>Motorcycle Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>cruiser passenger</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Bike Cruiser Rider</Enter_Animations>
+				<Exit_Animations>Bike Cruiser Rider</Exit_Animations>
+				<Ride_Animations>Motorcycle Rider</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Bikes</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Heli Fighter</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Heli Fighter Rider</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 7</Secondary_Access_Seat>
+				<Enter_Animations>Heli Fighter</Enter_Animations>
+				<Exit_Animations>Heli Fighter</Exit_Animations>
+				<Ride_Animations>Driver NoFire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 7</Seat>
+				<Interaction_Point_Set>Heli Fighter Rider</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 7</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Heli Fighter Right</Enter_Animations>
+				<Exit_Animations>Heli Fighter Right</Exit_Animations>
+				<Ride_Animations>Driver NoFire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>True</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Heli Fighter</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 6</Secondary_Access_Seat>
+				<Enter_Animations>Heli Fighter Rider</Enter_Animations>
+				<Exit_Animations>Heli Fighter</Exit_Animations>
+				<Ride_Animations>Passenger NoFire</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 6</Seat>
+				<Interaction_Point_Set>Heli Fighter</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 6</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Heli Fighter Rider Right</Enter_Animations>
+				<Exit_Animations>Heli Fighter Rider Right</Exit_Animations>
+				<Ride_Animations>Passenger NoFire</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>True</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Heli Fighter Skid</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>Heli Fighter Skid</Enter_Animations>
+				<Exit_Animations>Heli Fighter Skid</Exit_Animations>
+				<Ride_Animations>Heli Fighter Skid</Ride_Animations>
+				<Pre_Check>True</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Heli Fighter Skid</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 4</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>Heli Fighter Skid</Enter_Animations>
+				<Exit_Animations>Heli Fighter Skid</Exit_Animations>
+				<Ride_Animations>Heli Fighter Skid</Ride_Animations>
+				<Pre_Check>True</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 4</Seat>
+				<Interaction_Point_Set>Heli Fighter Skid</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 5</Queue>
+				<Primary_Access_Seat>Passenger 4</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 4</Secondary_Access_Seat>
+				<Enter_Animations>Heli Fighter Skid</Enter_Animations>
+				<Exit_Animations>Heli Fighter Skid</Exit_Animations>
+				<Ride_Animations>Heli Fighter Skid</Ride_Animations>
+				<Pre_Check>True</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 5</Seat>
+				<Interaction_Point_Set>Heli Fighter Skid</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 6</Queue>
+				<Primary_Access_Seat>Passenger 5</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 5</Secondary_Access_Seat>
+				<Enter_Animations>Heli Fighter Skid</Enter_Animations>
+				<Exit_Animations>Heli Fighter Skid</Exit_Animations>
+				<Ride_Animations>Heli Fighter Skid</Ride_Animations>
+				<Pre_Check>True</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Aircraft:Helicopter</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Heli Police</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Police Driver</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Heli Police Driver</Enter_Animations>
+				<Exit_Animations>Heli Police Driver</Exit_Animations>
+				<Ride_Animations>Heli Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Police Driver</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Heli Police Front Passenger</Enter_Animations>
+				<Exit_Animations>Heli Police Front Passenger</Exit_Animations>
+				<Ride_Animations>Heli Driver</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 4</Seat>
+				<Interaction_Point_Set>Police Floor</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 4</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 4</Secondary_Access_Seat>
+				<Ride_Animations>Heli Floor Rider Left</Ride_Animations>
+				<Enter_Animations>Heli Police Floor Rider Left</Enter_Animations>
+				<Exit_Animations>Heli Police Floor Rider Left</Exit_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 5</Seat>
+				<Interaction_Point_Set>Police Floor</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 5</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 5</Secondary_Access_Seat>
+				<Ride_Animations>Heli Floor Rider Right</Ride_Animations>
+				<Enter_Animations>Heli Police Floor Rider Right</Enter_Animations>
+				<Exit_Animations>Heli Police Floor Rider Right</Exit_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Police Floor</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 4</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 4</Secondary_Access_Seat>
+				<Ride_Animations>Heli Back Rider Left</Ride_Animations>
+				<Enter_Animations>Heli Police Floor Rider Left</Enter_Animations>
+				<Exit_Animations>Heli Police Back Rider Left</Exit_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Police Floor</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 5</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 5</Secondary_Access_Seat>
+				<Ride_Animations>Heli Back Rider Right</Ride_Animations>
+				<Enter_Animations>Heli Police Floor Rider Right</Enter_Animations>
+				<Exit_Animations>Heli Police Back Rider Right</Exit_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 6</Seat>
+				<Interaction_Point_Set>Police Floor</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 5</Queue>
+				<Primary_Access_Seat>Passenger 6</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 6</Secondary_Access_Seat>
+				<Ride_Animations>Heli Floor SS03 Left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 7</Seat>
+				<Interaction_Point_Set>Police Floor</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 6</Queue>
+				<Primary_Access_Seat>Passenger 7</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 7</Secondary_Access_Seat>
+				<Ride_Animations>Heli Floor SS03 Right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Aircraft:Helicopter</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Standard Plane</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Standard Plane Driver</Enter_Animations>
+				<Exit_Animations>Standard Plane Driver</Exit_Animations>
+				<Ride_Animations>Jet Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Standard Plane Rider Right</Enter_Animations>
+				<Exit_Animations>Standard Plane Driver Right</Exit_Animations>
+				<Ride_Animations>Passenger NoFire</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>Standard Plane Driver</Enter_Animations>
+				<Exit_Animations>Standard Plane Passenger Left</Exit_Animations>
+				<Ride_Animations>Passenger NoFire</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>Standard Plane Rider Right</Enter_Animations>
+				<Exit_Animations>Standard Plane Passenger Right</Exit_Animations>
+				<Ride_Animations>Passenger NoFire</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Aircraft:Planes</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Jet</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Jet Driver</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Jet Driver</Enter_Animations>
+				<Exit_Animations>Jet Driver</Exit_Animations>
+				<Ride_Animations>Jet driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Jet Rider</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Jet Rider</Enter_Animations>
+				<Exit_Animations>Jet Rider</Exit_Animations>
+				<Ride_Animations>Passenger NoFire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Jet Passenger 1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>Jet Passenger</Enter_Animations>
+				<Exit_Animations>Jet Passenger</Exit_Animations>
+				<Ride_Animations>Passenger NoFire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Jet Passenger 1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>Jet Passenger</Enter_Animations>
+				<Exit_Animations>Jet Passenger</Exit_Animations>
+				<Ride_Animations>Passenger NoFire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 4</Seat>
+				<Interaction_Point_Set>Jet Passenger 1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>Jet Passenger</Enter_Animations>
+				<Exit_Animations>Jet Passenger</Exit_Animations>
+				<Ride_Animations>Passenger NoFire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 5</Seat>
+				<Interaction_Point_Set>Jet Passenger 1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>Jet Passenger</Enter_Animations>
+				<Exit_Animations>Jet Passenger</Exit_Animations>
+				<Ride_Animations>Passenger NoFire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Aircraft:Planes</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Mail Car</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Mail</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>high driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Mail</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Pre_Check>False</Pre_Check>
+				<Queue>Queue 2</Queue>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Armored Truck</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Armored Truck</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>extreme driver</Enter_Animations>
+				<Exit_Animations>extreme driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Armored Truck</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>extreme passenger right</Enter_Animations>
+				<Exit_Animations>extreme passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Bulldozer</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Bulldozer</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Bulldozer</Enter_Animations>
+				<Exit_Animations>Bulldozer</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Bulldozer</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Pre_Check>False</Pre_Check>
+				<Queue>Queue 1</Queue>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Bulldozer Right</Enter_Animations>
+				<Exit_Animations>Bulldozer Right</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Limo High</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>high driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>high passenger left</Enter_Animations>
+				<Exit_Animations>high passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>high van 3dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>high driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>high passenger left</Enter_Animations>
+				<Exit_Animations>high passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Special</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>RV 3dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Big Truck Driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Big Truck Passenger</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>RV Pass</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>RV passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>RV Pass</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>RV passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Novelty 1dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Novelty</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>extreme driver</Enter_Animations>
+				<Exit_Animations>extreme driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>keystone high car 4dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger left</Enter_Animations>
+				<Exit_Animations>high passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>high car 4dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>high driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>high passenger left</Enter_Animations>
+				<Exit_Animations>high passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:High</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Metermaid</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Quota</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>zenith medium car 2dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Zenith Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>zenith medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Zenith Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>zenith medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Zenith Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>zenith medium driver</Enter_Animations>
+				<Exit_Animations>medium passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Zenith Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 4</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>zenith medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>placeholder</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 4</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 4</Primary_Access_Seat>
+				<Queue>Queue 5</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 5</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 5</Primary_Access_Seat>
+				<Queue>Queue 6</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 6</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 6</Primary_Access_Seat>
+				<Queue>Queue 7</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 7</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 7</Primary_Access_Seat>
+				<Queue>Queue 8</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>speedboat02 placeholder</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>low driver</Enter_Animations>
+				<Exit_Animations>low driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>low passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>low passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>Standard passenger right</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>medium car 2dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Medium</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>low car 2dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>low driver</Enter_Animations>
+				<Exit_Animations>low driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>low passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Low</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>low car 4dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>low driver</Enter_Animations>
+				<Exit_Animations>low driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>low passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>low passenger left</Enter_Animations>
+				<Exit_Animations>low passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>low passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Low</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>low car 2dr gullwing</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>gullwing driver</Enter_Animations>
+				<Exit_Animations>low driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>gullwing passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Low</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>low car 2dr convert 4dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>low driver</Enter_Animations>
+				<Exit_Animations>low driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>low passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>low convert passenger left</Enter_Animations>
+				<Exit_Animations>low convert passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>low convert passenger right</Enter_Animations>
+				<Exit_Animations>low convert passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Low</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>medium car 2dr gullwing</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Bezier Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>gullwing medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Bezier Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>gullwing medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Special</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>hearse limo</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>medium automobile left reverse</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 2</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Exit_Animations>medium passenger right no extract</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>medium automobile left reverse</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 1</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Exit_Animations>medium passenger left no extract</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Enter_Animations>medium passenger left</Enter_Animations>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Special</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>medium car 4dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger left</Enter_Animations>
+				<Exit_Animations>medium passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Medium</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>zenith medium car 4dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>zenith medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>zenith medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>zenith medium driver</Enter_Animations>
+				<Exit_Animations>medium passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>zenith medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>extreme truck 2dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Truck Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>extreme driver</Enter_Animations>
+				<Exit_Animations>extreme driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Truck Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>extreme passenger right</Enter_Animations>
+				<Exit_Animations>extreme passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Extreme</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>high car 2dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>high driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:High</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>extreme truck 4dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Truck Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>extreme driver</Enter_Animations>
+				<Exit_Animations>extreme driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Truck Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>extreme passenger right</Enter_Animations>
+				<Exit_Animations>extreme passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Truck Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>extreme driver</Enter_Animations>
+				<Exit_Animations>extreme driver</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Truck Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>extreme passenger right</Enter_Animations>
+				<Exit_Animations>extreme passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Extreme</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Monster truck 2dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Monster Truck Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Monster driver</Enter_Animations>
+				<Exit_Animations>Monster driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Monster Truck Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Monster passenger right</Enter_Animations>
+				<Exit_Animations>Monster passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Extreme</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Limo Low</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>low driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger left</Enter_Animations>
+				<Exit_Animations>low passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Bus</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 4</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 5</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 6</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 7</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Varsity truck 2dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Varsity Driver</Enter_Animations>
+				<Exit_Animations>high passenger left</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Varsity Passenger</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Short Bus</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Truck Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>extreme driver</Enter_Animations>
+				<Exit_Animations>extreme driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 4</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 5</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 6</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 7</Seat>
+				<Interaction_Point_Set>bus pass1</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>bus passenger</Enter_Animations>
+				<Exit_Animations>bus passenger</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Backhoe</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Backhoe</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Backhoe</Enter_Animations>
+				<Exit_Animations>Backhoe</Exit_Animations>
+				<Ride_Animations>backhoe driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Bulldog</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Bulldog Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>high driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Bulldog Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Bulldog Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>high passenger left</Enter_Animations>
+				<Exit_Animations>high passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Bulldog Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Biplane</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Biplane</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Biplane Driver</Enter_Animations>
+				<Exit_Animations>Biplane Driver</Exit_Animations>
+				<Ride_Animations>Driver NoFire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Biplane Passenger</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Biplane Passenger</Enter_Animations>
+				<Exit_Animations>Biplane Passenger</Exit_Animations>
+				<Ride_Animations>Passenger NoFire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Aircraft:Planes</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Fighter plane</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>WWII Fighter</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>WWII Driver</Enter_Animations>
+				<Exit_Animations>WWII Driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>WWII Fighter Passenger</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>WWII Passenger</Enter_Animations>
+				<Exit_Animations>WWII Passenger</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Aircraft:Planes</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>UFO</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>UFO</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>UFO</Enter_Animations>
+				<Exit_Animations>UFO</Exit_Animations>
+				<Ride_Animations>Jet Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>UFO Passenger</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>UFO</Enter_Animations>
+				<Exit_Animations>UFO</Exit_Animations>
+				<Ride_Animations>Jet Driver</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Aircraft:Planes</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Bike Rocket</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>rocket</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Bike Rocket Driver</Enter_Animations>
+				<Exit_Animations>Bike Rocket Driver</Exit_Animations>
+				<Ride_Animations>Motorcycle Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>rocket passenger</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Bike Rocket Rider</Enter_Animations>
+				<Exit_Animations>Bike Rocket Rider</Exit_Animations>
+				<Ride_Animations>Motorcycle Rider</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Bikes</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Bike ATV</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>ATV</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Bike Cruiser Driver</Enter_Animations>
+				<Exit_Animations>Bike Cruiser Driver</Exit_Animations>
+				<Ride_Animations>Wavecraft Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>ATV Passenger</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Bike Cruiser Rider</Enter_Animations>
+				<Exit_Animations>Bike ATV Rider</Exit_Animations>
+				<Ride_Animations>Wavecraft Rider</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Bikes</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Heli Standard</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Police Driver</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Heli Police Driver</Enter_Animations>
+				<Exit_Animations>Heli Police Driver</Exit_Animations>
+				<Ride_Animations>Heli Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Police Driver</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Heli Police Front Passenger</Enter_Animations>
+				<Exit_Animations>Heli Police Front Passenger</Exit_Animations>
+				<Ride_Animations>Heli Driver</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Police Driver</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Enter_Animations>Heli Police Driver</Enter_Animations>
+				<Exit_Animations>Heli Police Driver</Exit_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Police Driver</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Enter_Animations>Heli Police Front Passenger</Enter_Animations>
+				<Exit_Animations>Heli Police Front Passenger</Exit_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Aircraft:Helicopter</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Heli Standard 2</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Heli Standard02</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Heli Police Driver</Enter_Animations>
+				<Exit_Animations>Heli Standard 2</Exit_Animations>
+				<Ride_Animations>Heli Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Heli Standard02</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Heli Police Front Passenger</Enter_Animations>
+				<Exit_Animations>Heli Standard 2 Passenger</Exit_Animations>
+				<Ride_Animations>Heli Back Rider Left</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Aircraft:Helicopter</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Heli SS03</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Police Driver</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Heli Police Driver</Enter_Animations>
+				<Exit_Animations>Heli Police Driver</Exit_Animations>
+				<Ride_Animations>Heli Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Police Driver</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Heli Police Front Passenger</Enter_Animations>
+				<Exit_Animations>Heli Police Front Passenger</Exit_Animations>
+				<Ride_Animations>Heli Driver</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Police Floor</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Ride_Animations>Heli Floor SS03 Left</Ride_Animations>
+				<Enter_Animations>Heli Police Floor Rider Right</Enter_Animations>
+				<Exit_Animations>Heli Police Floor Rider Right</Exit_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Police Floor</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Ride_Animations>Heli Floor SS03 Right</Ride_Animations>
+				<Enter_Animations>Heli Police Floor Rider Right</Enter_Animations>
+				<Exit_Animations>Heli Police Floor Rider Right</Exit_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Aircraft:Helicopter</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Bike Dirt</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Dirt Bike</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Bike Dirt</Enter_Animations>
+				<Exit_Animations>Bike Dirt</Exit_Animations>
+				<Ride_Animations>Motorcycle Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Bikes</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Bike Moped</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Moped</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Bike Cruiser Driver</Enter_Animations>
+				<Exit_Animations>Bike Cruiser Driver</Exit_Animations>
+				<Ride_Animations>Wavecraft Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Bikes</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Bike Streetfighter</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>rocket</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Bike Rocket Driver</Enter_Animations>
+				<Exit_Animations>Bike Rocket Driver</Exit_Animations>
+				<Ride_Animations>Motorcycle Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>rocket passenger</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Bike Rocket Rider</Enter_Animations>
+				<Exit_Animations>Bike Rocket Rider</Exit_Animations>
+				<Ride_Animations>Motorcycle Rider</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Bikes</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Bike Chopper</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Chopper</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Bike Cruiser Driver</Enter_Animations>
+				<Exit_Animations>Bike Cruiser Driver</Exit_Animations>
+				<Ride_Animations>Motorcycle Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Bikes</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>PocketBike</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Pocket</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Bike Rocket Driver</Enter_Animations>
+				<Exit_Animations>Bike Rocket Driver</Exit_Animations>
+				<Ride_Animations>Motorcycle Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Bikes</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Mongoose</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Mongoose Driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Mongoose Passenger</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>APC</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>APC Side Door</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>APC Driver</Enter_Animations>
+				<Exit_Animations>APC Driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>APC Side Door Pssenger</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Ride_Animations>APC Passenger</Ride_Animations>
+				<Enter_Animations>APC Passenger Front</Enter_Animations>
+				<Queue>Queue 1</Queue>
+				<Exit_Animations>APC Rider</Exit_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>APC Back Door Pssenger Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 4</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 4</Secondary_Access_Seat>
+				<Enter_Animations>APC Passenger Rear Left</Enter_Animations>
+				<Exit_Animations>APC Back Left</Exit_Animations>
+				<Ride_Animations>APC Back Left</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>APC Back Door Pssenger Right</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 5</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 5</Secondary_Access_Seat>
+				<Enter_Animations>APC Passenger Rear Right</Enter_Animations>
+				<Exit_Animations>APC Back Right</Exit_Animations>
+				<Ride_Animations>APC Back Right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 4</Seat>
+				<Interaction_Point_Set>APC Back Door Pssenger Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 4</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 4</Secondary_Access_Seat>
+				<Enter_Animations>APC Passenger Rear Left</Enter_Animations>
+				<Ride_Animations>APC Back Left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Exit_Animations>APC Back Left Front</Exit_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 5</Seat>
+				<Interaction_Point_Set>APC Back Door Pssenger Right</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 5</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 5</Secondary_Access_Seat>
+				<Enter_Animations>APC Passenger Rear Right</Enter_Animations>
+				<Ride_Animations>APC Back Right</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Exit_Animations>APC Back Right Front</Exit_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>LongHaul</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>LongHaul</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>extreme driver</Enter_Animations>
+				<Exit_Animations>extreme driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>LongHaul</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>extreme passenger right</Enter_Animations>
+				<Exit_Animations>extreme passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Combine</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Combine</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>extreme driver</Enter_Animations>
+				<Exit_Animations>extreme driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Combine</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>extreme passenger right</Enter_Animations>
+				<Exit_Animations>extreme passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Hydro</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Hydro Driver</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Ride_Animations>Driver NoFire</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Hydro Driver</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 2</Queue>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Ride_Animations>Passenger NoFire</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Boats</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Wavecraft</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>wavecraft</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Ride_Animations>Wavecraft Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>wavecraft Passenger</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Ride_Animations>Wavecraft Rider</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Boats</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Prision Boat</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Queue>Queue 1</Queue>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 4</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 4</Primary_Access_Seat>
+				<Queue>Queue 4</Queue>
+				<Ride_Animations>Prison Boat</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 5</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 5</Primary_Access_Seat>
+				<Queue>Queue 5</Queue>
+				<Ride_Animations>Prison Boat</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Pre_Check>False</Pre_Check>
+				<Queue>Queue 1</Queue>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Pre_Check>False</Pre_Check>
+				<Queue>Queue 2</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Pre_Check>False</Pre_Check>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Boats</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Westbury</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Varsity Driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Varsity Passenger</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>Varsity driver</Enter_Animations>
+				<Exit_Animations>high passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>Varsity Passenger</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Garbage</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Garbage Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>extreme driver</Enter_Animations>
+				<Exit_Animations>extreme driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Garbage Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>extreme passenger right</Enter_Animations>
+				<Exit_Animations>extreme passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Legion</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Legion Driver</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Big Truck Driver</Enter_Animations>
+				<Exit_Animations>Big Truck Driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Legion Driver</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 2</Queue>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Big Truck Passenger</Enter_Animations>
+				<Exit_Animations>Big Truck Passenger</Exit_Animations>
+				<Ride_Animations>Standard Passenger Right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Legion Back Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>Big Truck Back Left</Enter_Animations>
+				<Exit_Animations>Big Truck Left</Exit_Animations>
+				<Ride_Animations>Standard Passenger Left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Legion Back Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 4</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>Big Truck Back right</Enter_Animations>
+				<Exit_Animations>Big Truck Right</Exit_Animations>
+				<Ride_Animations>Standard Passenger Right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Compensator</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Legion Driver</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Big Truck Driver</Enter_Animations>
+				<Exit_Animations>Big Truck Driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Legion Driver</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 2</Queue>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Big Truck Passenger</Enter_Animations>
+				<Exit_Animations>Big Truck Passenger</Exit_Animations>
+				<Ride_Animations>Standard Passenger Right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Legion Driver</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>Big Truck Driver</Enter_Animations>
+				<Exit_Animations>Big Truck Driver</Exit_Animations>
+				<Ride_Animations>Standard Passenger Left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Legion Driver</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 4</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>Big Truck Passenger</Enter_Animations>
+				<Exit_Animations>Big Truck Passenger</Exit_Animations>
+				<Ride_Animations>Standard Passenger Right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Tow Truck</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Tow Truck Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>extreme driver</Enter_Animations>
+				<Exit_Animations>extreme driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Truck Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>extreme passenger right</Enter_Animations>
+				<Exit_Animations>extreme passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Low 2dr Convert 4dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>low driver</Enter_Animations>
+				<Exit_Animations>low driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>low passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>low passenger left</Enter_Animations>
+				<Exit_Animations>low passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 4</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>low passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Low</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Medium 2dr Convert 4dr</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger left</Enter_Animations>
+				<Exit_Animations>medium passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 4</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Medium</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Cosmos</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Baron Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Baron Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Baron Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 2</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger left</Enter_Animations>
+				<Exit_Animations>medium passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Baron Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Magma</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>low driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger left</Enter_Animations>
+				<Exit_Animations>low passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>low automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 4</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Taxi</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Taxi Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Taxi Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Taxi Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger left</Enter_Animations>
+				<Exit_Animations>medium passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Taxi Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Venom Classic</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Venom left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Venom left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Ethel</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Ethel Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>high driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Ethel Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Ethel Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>high passenger left</Enter_Animations>
+				<Exit_Animations>high passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Ethel Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Zomkah</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Zomkah Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Zomkah Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Zomkah Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger left</Enter_Animations>
+				<Exit_Animations>medium passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Zomkah Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Voyage</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Big Truck Driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Big Truck Passenger</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>Big Truck Passenger</Enter_Animations>
+				<Exit_Animations>high passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>high automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>Big Truck Passenger</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger nofire</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>FBI</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>FBI Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>high driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>FBI Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>FBI Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>high passenger left</Enter_Animations>
+				<Exit_Animations>high passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>FBI Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Rampage</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Rampage Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Rampage Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Topher</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Topher Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>high driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Topher Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Topher Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>high passenger left</Enter_Animations>
+				<Exit_Animations>high passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Topher Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Hollywood</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Hollywood Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Hollywood Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Hollywood Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger left</Enter_Animations>
+				<Exit_Animations>medium passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Hollywood Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Swindle</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Swindle Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>high driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Swindle Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Hammerhead</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Hammerhead Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>low driver</Enter_Animations>
+				<Exit_Animations>low driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Hammerhead Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>low passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Hammerhead Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>low convert passenger left</Enter_Animations>
+				<Exit_Animations>low convert passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Hammerhead Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>low convert passenger right</Enter_Animations>
+				<Exit_Animations>low convert passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Quasar</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>high driver</Enter_Animations>
+				<Exit_Animations>high driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>high passenger left</Enter_Animations>
+				<Exit_Animations>high passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>medium automobile left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>high passenger right</Enter_Animations>
+				<Exit_Animations>high passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Zimos</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Zimos Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>low driver</Enter_Animations>
+				<Exit_Animations>low driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Zimos Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>low passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Zimos Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>low passenger left</Enter_Animations>
+				<Exit_Animations>low passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Zimos Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>low passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Stiletto</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Stiletto Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>low driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Stiletto Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Stiletto Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger left</Enter_Animations>
+				<Exit_Animations>low passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Stiletto Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 4</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Halberd</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Zomkah Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>low driver</Enter_Animations>
+				<Exit_Animations>low driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Zomkah Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>low passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Zomkah Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>low passenger left</Enter_Animations>
+				<Exit_Animations>low passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Zomkah Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 4</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>low passenger right</Enter_Animations>
+				<Exit_Animations>low passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Baron</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Baron Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Baron Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Baron Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Queue>Queue 3</Queue>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger left</Enter_Animations>
+				<Exit_Animations>medium passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Baron Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Queue>Queue 4</Queue>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Justice</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Justice Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>medium driver</Enter_Animations>
+				<Exit_Animations>medium driver</Exit_Animations>
+				<Ride_Animations>standard driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Justice Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 2</Seat>
+				<Interaction_Point_Set>Justice Left</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Passenger 2</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 3</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger left</Enter_Animations>
+				<Exit_Animations>medium passenger left</Exit_Animations>
+				<Ride_Animations>standard passenger left</Ride_Animations>
+				<Queue>Queue 3</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 3</Seat>
+				<Interaction_Point_Set>Justice Left</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 3</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 2</Secondary_Access_Seat>
+				<Enter_Animations>medium passenger right</Enter_Animations>
+				<Exit_Animations>medium passenger right</Exit_Animations>
+				<Ride_Animations>standard passenger right</Ride_Animations>
+				<Queue>Queue 4</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Cars:Car Specific</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	<Vehicle_Interaction_Info>
+		<Name>Thompson</Name>
+		<Seat_Info>
+			<Element>
+				<Seat>Driver</Seat>
+				<Interaction_Point_Set>Thompson Standard</Interaction_Point_Set>
+				<Mirror>False</Mirror>
+				<Primary_Access_Seat>Driver</Primary_Access_Seat>
+				<Secondary_Access_Seat>Passenger 1</Secondary_Access_Seat>
+				<Enter_Animations>Heli Police Driver</Enter_Animations>
+				<Exit_Animations>Heli Standard 2</Exit_Animations>
+				<Ride_Animations>Heli Driver</Ride_Animations>
+				<Queue>Queue 1</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			<Element>
+				<Seat>Passenger 1</Seat>
+				<Interaction_Point_Set>Thompson Standard</Interaction_Point_Set>
+				<Mirror>True</Mirror>
+				<Primary_Access_Seat>Passenger 1</Primary_Access_Seat>
+				<Secondary_Access_Seat>Driver</Secondary_Access_Seat>
+				<Enter_Animations>Heli Police Front Passenger</Enter_Animations>
+				<Exit_Animations>Heli Standard 2 Passenger</Exit_Animations>
+				<Ride_Animations>Heli Driver</Ride_Animations>
+				<Queue>Queue 2</Queue>
+				<Pre_Check>False</Pre_Check>
+				<Entry_Only>False</Entry_Only>
+				</Element>
+			</Seat_Info>
+		<_Editor>
+			<Category>Entries:Vehicles:Aircraft:Helicopter</Category>
+			</_Editor>
+		</Vehicle_Interaction_Info>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Vehicle_Interaction_Info</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Vehicle Interaction Info</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Seat_Info</Name>
+		<Type>Grid</Type>
+		<Display_Name>Seat Info</Display_Name>
+		<Element>
+			<Name>Element</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Seat</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>vehicle_interaction\vi_seats.xtbl</File>
+					<Type>Seat.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Interaction_Point_Set</Name>
+				<Type>Reference</Type>
+				<Display_Name>Interaction Point Set</Display_Name>
+				<Reference>
+					<File>vehicle_interaction\vehicle_interaction_point_sets.xtbl</File>
+					<Type>Interaction_Point_Set.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Mirror</Name>
+				<Type>Selection</Type>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			<Element>
+				<Name>Pre_Check</Name>
+				<Type>Selection</Type>
+				<Display_Name>Pre Check</Display_Name>
+				<Default>False</Default>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			<Element>
+				<Name>Entry_Only</Name>
+				<Type>Selection</Type>
+				<Display_Name>Entry Only</Display_Name>
+				<Default>False</Default>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			<Element>
+				<Name>Queue</Name>
+				<Type>Selection</Type>
+				<Choice>Queue 1</Choice>
+				<Choice>Queue 2</Choice>
+				<Choice>Queue 3</Choice>
+				<Choice>Queue 4</Choice>
+				<Choice>Queue 5</Choice>
+				<Choice>Queue 6</Choice>
+				<Choice>Queue 7</Choice>
+				<Choice>Queue 8</Choice>
+				</Element>
+			<Element>
+				<Name>Primary_Access_Seat</Name>
+				<Type>Reference</Type>
+				<Display_Name>Primary Access Seat</Display_Name>
+				<Required>false</Required>
+				<Reference>
+					<File>vehicle_interaction\vi_seats.xtbl</File>
+					<Type>Seat.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Secondary_Access_Seat</Name>
+				<Type>Reference</Type>
+				<Display_Name>Secondary Access Seat</Display_Name>
+				<Required>false</Required>
+				<Reference>
+					<File>vehicle_interaction\vi_seats.xtbl</File>
+					<Type>Seat.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Enter_Animations</Name>
+				<Type>Reference</Type>
+				<Display_Name>Enter Animations</Display_Name>
+				<Required>false</Required>
+				<Reference>
+					<File>vehicle_interaction\vi_enter.xtbl</File>
+					<Type>Vehicle_Interaction_Animation_Set.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Exit_Animations</Name>
+				<Type>Reference</Type>
+				<Display_Name>Exit Animations</Display_Name>
+				<Required>false</Required>
+				<Reference>
+					<File>vehicle_interaction\vi_exit.xtbl</File>
+					<Type>Vehicle_Interaction_Animation_Set.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Ride_Animations</Name>
+				<Type>Reference</Type>
+				<Display_Name>Ride Animations</Display_Name>
+				<Required>false</Required>
+				<Reference>
+					<File>vehicle_interaction\vi_ride.xtbl</File>
+					<Type>Vehicle_Interaction_Animation_Set.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		<Category>
+			<Name>Vehicles</Name>
+			<Category>
+				<Name>Aircraft</Name>
+				<Category>
+					<Name>Helicopter</Name>
+					</Category>
+				<Category>
+					<Name>Planes</Name>
+					</Category>
+				</Category>
+			<Category>
+				<Name>Bikes</Name>
+				</Category>
+			<Category>
+				<Name>Boats</Name>
+				</Category>
+			<Category>
+				<Name>Cars</Name>
+				<Category>
+					<Name>Car Specific</Name>
+					</Category>
+				<Category>
+					<Name>Extreme</Name>
+					</Category>
+				<Category>
+					<Name>High</Name>
+					</Category>
+				<Category>
+					<Name>Low</Name>
+					</Category>
+				<Category>
+					<Name>Medium</Name>
+					</Category>
+				<Category>
+					<Name>Special</Name>
+					</Category>
+				</Category>
+			</Category>
+		</Category>
+	</EntryCategories>
+</root>

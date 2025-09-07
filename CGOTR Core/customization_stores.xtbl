@@ -1,0 +1,4402 @@
+<root>
+<Table>
+	<Store>
+		<Name>Sloppy_Seconds</Name>
+		<DisplayName>CLOTHES_STORE_TITLE</DisplayName>
+		<Items>
+			<Store_Item>
+				<Item>tool belt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>roller skates</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>crazy salesman 's jacket</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>arm sweatband left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>arm sweatband right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>baseball cap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>basic backpack</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>basic T-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>basic wristband left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>basic wristband right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Basketball jersey</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>doo rag 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>fingerless batting gloves</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>football jersey</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's hensley muscle shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's long baggy jean shorts</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's long loose jean shorts</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's loose jean shorts</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's loose jeans</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's muscle shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's tight torn jeans</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's tighty whities</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>running shoes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short sleeve baseball jersey</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short socks</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>torn T-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>trucker cap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's Basketball jersey</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's bra 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's bra 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's broad-sided panties</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's Football jersey</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's short baby doll t-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's short tube top</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's small tank top</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's standard panties</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's tank top</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's tight torn jeans</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's torn sweat pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's baby-doll t-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>athletic shoes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>plastic sandals</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>bandana 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Track pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's lycra pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's lycra tank</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's tank top 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>sport shorts</Item>
+				<Variants></Variants>
+				</Store_Item>
+			</Items>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Trigger>shops_sr_city_$sr_lowcloth000</Trigger>
+		<Shops>
+			<Shop_Element>
+				<Shop>RL Sloppy Seconds</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>BAR Sloppy Seconds</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>BAR Sloppy Seconds South</Shop>
+				</Shop_Element>
+			</Shops>
+		<Outfits>
+			<Outfit_Element>
+				<Outfit>Pancho</Outfit>
+				</Outfit_Element>
+			</Outfits>
+		<flags>
+			<Flag>allow_wardrobe</Flag>
+			</flags>
+		</Store>
+	<Store>
+		<Name>Multiplayer Purchase Clothing</Name>
+		<DisplayName>CUSTOMIZATION_TITLE</DisplayName>
+		<Items></Items>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Outfits></Outfits>
+		<flags>
+			<Flag>allow_wardrobe</Flag>
+			</flags>
+		</Store>
+	<Store>
+		<Name>Branded</Name>
+		<DisplayName>CLOTHES_BRANDED</DisplayName>
+		<Shops>
+			<Shop_Element>
+				<Shop>DT Branded</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>MAR Branded</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>AIR Branded</Shop>
+				</Shop_Element>
+			</Shops>
+		<Items>
+			<Store_Item>
+				<Item>thick female eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>female eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>female eyelashes 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>female hooker eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>male eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>basic nail polish</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>human eyes</Item>
+				<Variants>
+					<Item_Variant>
+						<Variant>blue</Variant>
+						</Item_Variant>
+					</Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>baby doll blouse</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Baggy baggy cargos</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>canvas shoes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Caribbean vest</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest bandies</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>double-strapped sandals</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>General's Pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>generic knit cap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>hensley T-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>knit cap 4</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>large square buckle belt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>leather hiking boots</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>low cut sweat shants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's baggy canvas pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's boxers</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's canvas pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's cargo pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's cargo short shorts</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's long loose cargo shorts</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's long loose cargo shorts 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's sweater vest</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>polo</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>shin high socks</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short sleeve jumpsuit</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>three-quarter t-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>two-pocket long-sleeve workshirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>two-pocket long-sleeve workshirt with tie</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>two-pocket short-sleeve workshirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>two-pocket short-sleeve workshirt 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>two-pocket short-sleeve workshirt with tie</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>utility boots</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's baby-doll polo</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's canvas pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's chest band</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's knitted cap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's low cut cargo shorts</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's low cut hot pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's low cut tight cargo shants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's low cut tight jeans</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's low-cut briefs</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's mid-length cloth skirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's short cloth skirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's stretched sweatshirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's sweat pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's sweater vest</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's wrap shirt 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>worker boots</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's banded stockings</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's one-piece swimsuit 9</Item>
+				<Variants></Variants>
+				</Store_Item>
+			</Items>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Outfits>
+			<Outfit_Element>
+				<Outfit>Fancy</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>TC</Outfit>
+				</Outfit_Element>
+			</Outfits>
+		<flags>
+			<Flag>allow_wardrobe</Flag>
+			</flags>
+		</Store>
+	<Store>
+		<Name>Impressions</Name>
+		<DisplayName>CLOTHES_IMPRESS</DisplayName>
+		<Shops>
+			<Shop_Element>
+				<Shop>SR Impressions</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>HER Impressions</Shop>
+				</Shop_Element>
+			</Shops>
+		<Items>
+			<Store_Item>
+				<Item>thick female eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>female eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>female eyelashes 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>female hooker eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>male eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>hankerchief for single-breasted coat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>basic nail polish</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>human eyes</Item>
+				<Variants>
+					<Item_Variant>
+						<Variant>blue</Variant>
+						</Item_Variant>
+					</Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's hair chopsticks 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's hair chopsticks 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's hair chopsticks 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Aisha's Belt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Wong's Shoes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Wong's Pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Wong's Coat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>boat shoes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's dress scarf</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Luz's hair flower</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>pants handkerchief 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Frecle bitch bowties</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Javier's handkerchief</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Sunshine's one-off Jacket</Item>
+ 				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's fancy stockings</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>general's shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>general's coat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>javier's bluetooth headset</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Aisha's Jacket</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Dane's accessories</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>bowler hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>driver's cap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>fedora 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>fedora 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>fedora 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>high heels 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long sleeve buttoned shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long slit dress</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's 2-button business coat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's double breasted suit coat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's dress shoes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's Euro boxers</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's flat-toed dress shoes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's loafers 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's loafers 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's pleated dress slacks</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's short sleeve silk buttoned shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's silk pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>oval belt 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>oval belt 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>oval belt 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Pimp Hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>prom dress</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>rectangular belt 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>rectangular belt 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>rectangular belt 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>rectangular belt 5</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>rectangular belt 6</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short sleeve buttoned shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short sleeve buttoned shirt 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>square belt 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Sunshine's jacket</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Sunshine's shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's designer bra</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's dress hat with flower</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's dress hot pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's dress long shorts</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's dress shorts</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's dress slippers</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's fancy stockings</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's formal latex gloves</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's long skirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's long sleeve blouse</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's low-cut panties</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's low-cut thong</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Womens medium dress</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's platform shoes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's pleated dress capris</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's pleated dress slacks</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>formal shoes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long sleeve buttoned shirt and bow tie</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>pimp coat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Top Hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Cocktail Dress</Item>
+				<Variants></Variants>
+				</Store_Item>
+			</Items>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Outfits>
+			<Outfit_Element>
+				<Outfit>Aisha</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Luz</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>GatSuit</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Suit purple man</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Suit purple woman</Outfit>
+				</Outfit_Element>
+			</Outfits>
+		<flags>
+			<Flag>allow_wardrobe</Flag>
+			</flags>
+		</Store>
+	<Store>
+		<Name>On_the_Rag</Name>
+		<DisplayName>CLOTHES_RAG</DisplayName>
+		<Shops>
+			<Shop_Element>
+				<Shop>AR On the Rag</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>RL On the Rag</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>SU On the Rag</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>SX On the Rag</Shop>
+				</Shop_Element>
+			</Shops>
+		<Items>
+			<Store_Item>
+				<Item>Sunshine's short necklace</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>baseball cap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>basic T-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long beads 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Beads for wdreads02 hair</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>male Ronin jacket</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Jyunichi's Ronin jacket</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's Ronin jacket</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length beads 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short beads 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+ 				<Item>bandana 1</Item>
+				<Variants></Variants>
+				</Store_Item>		
+			<Store_Item>
+				<Item>bandana 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>bandana 4</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>DJ Veteran Child's shirt</Item>
+				<Variants></Variants>
+				</Store_Item> 
+			<Store_Item>
+				<Item>DJ Veteran Child's Glasses</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>athletic shoes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>bandana 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>bellbottom jeans</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>circular belt 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>circular belt 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>dread cap 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>dread cap2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>hippy top 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's jean short shorts</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's tank top 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's tight jean shorts</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's tight jeans</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>plastic sandals</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>sport shorts</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>sports shoes with strap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>track jacket</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Track pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tye-dye T-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>weaved bracelet left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>weaved bracelet right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's baby-doll t-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's denim short skirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's fuzzy slippers</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's halter swimtop</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's jean hot pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's low cut jean shants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's low cut track pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's lycra pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's lycra tank</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's tied buttoned shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's tight jeans</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's track hot pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>floppy hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's large floppy cap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>hoody</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>hoody with hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's denim vest coat 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's denim vest coat 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Tobias pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			</Items>
+		<Outfits>
+			<Outfit_Element>
+				<Outfit>Funkmaster</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Mordrack</Outfit>
+				</Outfit_Element>
+			</Outfits>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<flags>
+			<Flag>allow_wardrobe</Flag>
+			</flags>
+		</Store>
+	<Store>
+		<Name>Rusty's_Needle</Name>
+		<DisplayName>TATTOO_NAME</DisplayName>
+		<Shops>
+			<Shop_Element>
+				<Shop>AP Tattoo</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>DK Tattoo</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>RL Tattoo</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>DT Tattoo</Shop>
+				</Shop_Element>
+			</Shops>
+		<Items>
+			<Store_Item>
+				<Item>Shaundi's star tattoo</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>broken chain tattoo left arm</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>broken chain tattoo right arm</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Bling 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Cards 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Chains 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Cross 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Daggers 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Dice 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Dragon 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Flower 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest flowers 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Forgive 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Gloves 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Lil Angel 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Lucky 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Mom 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest My Girl 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Saints Word 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest skull 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Skull 09</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest SoS Skull 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Chest Spider 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>entire back bgirlangel04</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>entire back Dragon 06</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>entire back ForgiveSins 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>entire back Samurai Girl 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>entire back Samurai Swords 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Entire Front BBAngel05</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Entire Front Dragon 04</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Entire Front Dragon 07</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Entire Front Geisha 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Entire Front Samurai 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Entire Front Tiger 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Entire Right Arm Flowers</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Entire Right Arm Jyunichi Sleeve</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Entire Right Arm Lilly</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Entire Right Arm Matts Sleeve 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Entire Right Arm Matts Sleeve 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Anchor 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Armor 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Bling 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Bolt 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Bullet 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Butterfly 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm DevilGirl 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Feathers 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Fleur 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Flower 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Forgive Sins 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Hammerhead</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Killa01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Knife 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Panther 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Pirate Tattoo</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm PirateShip01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Skull 09</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Snake 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm SpiderSmoke 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm SpiderWeb</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Spray Can 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Tommy Gun01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Anchor 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Anchor 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Armor 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Bling_01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Bolt 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Bullet 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Clover 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Clown 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Dice 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Dragon 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Fairy 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Feathers 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Geisha 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Hammer</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Knife 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Ninja 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Red Skull 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Samurai 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin skull 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin skull 10</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin SOS Skull 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Voodoo01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Wheel 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Shin Wing 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm 3rd Street 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Barb Wire 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Bhudda</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Bullet 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Carlos 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Carlos 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Clover 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Clown 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Cross 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Dice 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Dog 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Dragon 05</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Flower 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Flowers 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Forgive Sins 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Geisha 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Geisha Head 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Mask 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Mask 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Mom 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm My Girl 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Panther 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Red Skull 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Samurai 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm SOS Skull 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Spider 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Tiger 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Wheel 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Wing 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Wing 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Clover 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Curve 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Curve 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Fairy 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Flower 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Flower 04</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Geisha 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back S_W_01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Samurai 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Skulls</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Snake 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back T-Rex 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Wing 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Wing 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Wing 04</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Wing Heart 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Shaundi's angel tattoo</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Entire Arm Jyunichi Sleeve</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Entire Right Arm Flowers</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Entire Right Arm Lilly</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Entire Right Arm Matts Sleeve 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Entire Right Arm Matts Sleeve 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Anchor 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Armor 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Bling 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Bolt 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Bullet 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Butterfly 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm DevilGirl 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Feathers 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Fleur 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Flower 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Flowers 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Forgive Sins 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Hammerhead</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Killa01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Knife 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Panther 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Pirate Tattoo</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm PirateShip01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Skull 09</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Snake 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm SpiderSmoke 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm SpiderWeb</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Spray Can 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Tommy Gun01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Anchor 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Anchor 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Armor 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Bling_01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Bolt 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Bullet 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Clover 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Clown 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Dice 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Dragon 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Fairy 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Feathers 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Geisha 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Hammer</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Knife 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Ninja 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Red Skull 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Samurai 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin skull 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin skull 10</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin SOS Skull 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Voodoo01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Wheel 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Shin Wing 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm 3rd Street 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Barb Wire 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Bhudda</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Bullet 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Carlos 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Carlos 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Clover 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Clown 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Cross 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Dice 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Dog 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Dragon 05</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Flower 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Flowers 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Forgive Sins 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Geisha 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Geisha Head 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Mask 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Mask 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Mom 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm My Girl 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Panther 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Red Skull 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Samurai 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm SOS Skull 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Spider 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Tiger 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Wheel 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Wing 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Wing 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Saint's upper left arm tattoo</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Saint's upper right arm tattoo</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Stomach 3rd Street 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Stomach Curves 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Stomach flowers 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Stomach Gun 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Stomach Guns 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Stomach Razor 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Stomach Saints Letters 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Stomach Skull 08</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Stomach Snake Skull 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Stomach Wing Heart 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Bling 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Daggers 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Demon 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Demon 04</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Fallen Angels</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Fish 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Lil Angel 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Masks 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Paw 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Saints Letters 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Shark 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Skull 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Skull 09</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Star</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Swallow 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back T-Rex 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Wings 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Upper Back Ying Yang 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			</Items>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Outfits></Outfits>
+		<flags>
+			<Flag>allow_wardrobe</Flag>
+			</flags>
+		</Store>
+	<Store>
+		<Name>On_Thin_Ice</Name>
+		<DisplayName>JEWELRY_NAME</DisplayName>
+		<Shops>
+			<Shop_Element>
+				<Shop>AIR On Thin Ice</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>HER On Thin Ice</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>BAR On Thin Ice</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>SU On Thin Ice</Shop>
+				</Shop_Element>
+			<Shop_Element>
+				<Shop>SR On Thin Ice</Shop>
+				</Shop_Element>
+			</Shops>
+		<Items>
+			<Store_Item>
+				<Item>Gat's necklaces</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long rope chain 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long alternating chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long figure eights chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long loops chain 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long twisted necklace 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long large chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>letter J pendant</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>S pendant</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Aisha ear piercing left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Aisha ear piercing right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Aisha pendant</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Aisha short chain flat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>ankh pendant</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Celtic cross pendant</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>classy shades 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>classy shades 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>cross medallion 1 long</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>cross medallion 1 mid-length</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>cross pendant</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>designer shades</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>diamond earring 1 left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>diamond earring 1 right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>geezer shades</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Italian horn pendant</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Laura ear piercing left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Laura ear piercing right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's glasses</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's nice watch 1 left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's nice watch 1 right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's rectangular glasses 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length alternating chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length figure eights chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length large chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length loops chain 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length rope chain 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length twisted necklace 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short alternating chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short chain flat 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short chain flat 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short chain loops 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short figure eights chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short large chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short neck string</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short necklace fine rope</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short small ball chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short twisted necklace 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short twisted necklace 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>nameplate bracelet Left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>nameplate bracelet right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Nerd Glasses</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>old lady glasses</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Oval glasses</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>oval ring 1 left index finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Retaliation of the Nerd Glasses</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>round hand clock left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>round hand clock right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>round shades</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>round watch 2 left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>round watch 2 right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>segmented bracelet left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>segmented bracelet right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>shades 11</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>single ball left ear</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>single ball right ear</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>single diamond left ear</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>single diamond right ear</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>single loop left ear</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>single loop right ear</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>single small loop left ear</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>single small loop right ear</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>single thin loop left ear</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>single thin loop right ear</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Terminator Shades</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>thick ring 1 left index finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>thick ring 1 left ring finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>thick ring 1 right index finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>thick ring 1 right ring finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>thick ring 2 left index finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>thick ring 2 left ring finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>thick ring 2 right index finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>thick ring 2 right ring finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>thick ring 3 left index finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>thick ring 3 left ring finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>thick ring 3 right index finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>thick ring 3 right ring finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>trooper shades</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>watch band left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>watch band right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>fancy shades</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Large Round Glasses</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>sporty sungla</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>oval ring 1 left ring finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>oval ring 1 right index finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>oval ring 1 right ring finger</Item>
+				<Variants></Variants>
+				</Store_Item>
+			</Items>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Outfits></Outfits>
+		<flags>
+			<Flag>allow_wardrobe</Flag>
+			</flags>
+		</Store>
+	<Store>
+		<Name>Bling_Bling</Name>
+		<DisplayName>JEWELRY2_NAME</DisplayName>
+		<Shops>
+			<Shop_Element>
+				<Shop>PJ Bling</Shop>
+				</Shop_Element>
+			</Shops>
+		<Items>
+			<Store_Item>
+				<Item>Gat's necklaces</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long female symbol medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Mad Dog medallion long</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long cards medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long pistol medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long pimp medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long number 1 medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long male symbol medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long hemp leaf medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long grenade medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long Africa medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long wheel medallion 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long wheel medallion 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long wheel medallion 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long dollar medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long peace medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long clock medallion 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long rope chain 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long alternating chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long figure eights chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long loops chain 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long twisted necklace 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long large chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long bear teeth</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length alternating chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length figure eights chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length large chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length loops chain 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length rope chain 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length twisted necklace 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short alternating chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short chain flat 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short chain flat 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short chain loops 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short figure eights chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short large chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short neck string</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short necklace fine rope</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short small ball chain</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short twisted necklace 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short twisted necklace 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Mid-Length Saints Leaf Medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Mid-Length Saints Oval bird Medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>2015 shades</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>6 loops left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>6 loops left 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>6 loops right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>6 loops right 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>angle medallion long</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>angle medallion mid-length</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Child's Left bracelet</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Child's Right bracelet</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>child's necklace</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>dog tag</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>female saints logo cursive</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>female saints logo cursive long</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>General's Bracelet Left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>General's Bracelet Right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>General's Bullet Pendant</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>General's Skull Medallion Long</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>General's Skull Medallion Mid-Length</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>General's Snake Medallion Long</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>General's Snake Medallion Mid-Length</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Mad Dog medallion mid-length</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length Africa medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length bear teeth</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length cards medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length clock medallion 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length dollar medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length female symbol medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length grenade medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length hemp leaf medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length male symbol medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length number 1 medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length peace medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length pimp medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length pistol medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length wheel medallion 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length wheel medallion 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length wheel medallion 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mid-length pierce medallion</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>poker chip pendant</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Saints word long</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Saints word mid-length</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short bear teeth</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>skull pendant</Item>
+				<Variants></Variants>
+				</Store_Item>
+			</Items>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Outfits></Outfits>
+		<flags>
+			<Flag>allow_wardrobe</Flag>
+			</flags>
+		</Store>
+	<Store>
+		<Name>Spelunkers</Name>
+		<DisplayName>CAVERNS_GIFT_NAME</DisplayName>
+		<flags>
+			<Flag>allow_wardrobe</Flag>
+			</flags>
+		<Shops>
+			<Shop_Element>
+				<Shop>CV Gift</Shop>
+				</Shop_Element>
+			</Shops>
+		<Items>
+			<Store_Item>
+				<Item>miner hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>stalagmite hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>baseball cap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>basic T-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>trucker cap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's baby-doll t-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			</Items>
+		<Outfits></Outfits>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Store>
+	<Store>
+		<Name>Stillwater_U_Gift</Name>
+		<DisplayName>UNIVERSITY_GIFT_NAME</DisplayName>
+		<flags>
+			<Flag>allow_wardrobe</Flag>
+			</flags>
+		<Shops>
+			<Shop_Element>
+				<Shop>UN Gift</Shop>
+				</Shop_Element>
+			</Shops>
+		<Items>
+			<Store_Item>
+				<Item>entire front sports paint 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Skeeter Wings</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Skeeter Antenna Headgear</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Skeeter Beer Hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>skeeter head</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Sports letter jacket</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's Cheerleader Top</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>sport shorts</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>track jacket</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Track pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>baseball cap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>basic T-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Basketball jersey</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short sleeve baseball jersey</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>trucker cap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's Football jersey</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's Basketball jersey</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's lycra pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's lycra tank</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's short baby doll t-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's track hot pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>low cut sweat shants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>football jersey</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>cheerleader skirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's baby-doll t-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			</Items>
+		<Outfits></Outfits>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Store>
+	<Store>
+		<Name>Buy_Jove</Name>
+		<DisplayName>MUSEUM_GIFT_NAME</DisplayName>
+		<flags>
+			<Flag>allow_wardrobe</Flag>
+			</flags>
+		<Shops>
+			<Shop_Element>
+				<Shop>MU Gift Shop</Shop>
+				</Shop_Element>
+			</Shops>
+		<Items>
+			<Store_Item>
+				<Item>Gladiator helmet</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>baseball cap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>basic T-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's short baby doll t-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>gladiator sandals</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's baby-doll t-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			</Items>
+		<Outfits>
+			<Outfit_Element>
+				<Outfit>LukeFighter</Outfit>
+				</Outfit_Element>
+			</Outfits>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Store>
+	<Store>
+		<Name>Nobody_Loves_Me</Name>
+		<DisplayName>NOBODY_LOVE_NAME</DisplayName>
+		<flags>
+			<Flag>allow_wardrobe</Flag>
+			</flags>
+		<Shops>
+			<Shop_Element>
+				<Shop>MA Nobody</Shop>
+				</Shop_Element>
+			</Shops>
+		<Items>
+			<Store_Item>
+				<Item>Upper Back Wolf 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Anchor 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Band 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Band 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Band 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Upper Arm Band 04</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Anchor 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Band 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Band 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Band 03</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Upper Arm Band 04</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Snakes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lower Back Swan 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Stomach Wolf 01</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Maero's face Left tattoo variant</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Maero's face Right tattoo variant</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Entire Front Wolf 02</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Entire Left Arm Tribal Tattoo 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Entire Left Arm Tribal Tattoo 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Entire Right Arm Tribal Tattoo 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Entire Right Arm Tribal Tattoo 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Entire Right Arm Tribal Tattoo 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Tribal Tattoo 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left Forearm Tribal Tattoo 4</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal tattoo 9</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal tattoo 16</Item>
+				<Variants></Variants>
+				</Store_Item> 				
+			<Store_Item>
+				<Item>Left tribal tattoo 10</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Left tribal tattoo 11</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Tribal Tattoo 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right Forearm Tribal Tattoo 4</Item>
+				<Variants></Variants>
+				</Store_Item>        			
+			<Store_Item>
+				<Item>tribal tattoo 12</Item>
+				<Variants></Variants>
+				</Store_Item> 			
+			<Store_Item>
+				<Item>tribal tattoo 14</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right tribal tattoo 10</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Right tribal tattoo 11</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>wallet chain 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>wallet chain 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Maero's shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>leather choker 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal tattoo 6</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal tattoo 7</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal tattoo 8</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>biker boots 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>biker boots 4</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>biker boots 5</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Biker Helmet</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>diamond under bottom lip piercing</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>diamonds left brow piercing</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>diamonds right brow piercing</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>dirt bike helmet 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Donnie's pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>exotic biker gloves</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>futuristic biker boots</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>hoop brow piercing 1 left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>hoop brow piercing 1 right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>hoop nose piercing left 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>hoop nose piercing right 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>hoop nose piercing septum large</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>hoop nose piercing septum small</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long stitched arm band left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>long stitched arm band right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>loop nose piercing 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Maero's belt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's thick wrist band left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's thick wrist band right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>modern motorcycle helmet</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>multi brow piercing 1 left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>multi brow piercing 1 right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>multi hoop lip piercing corners</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>multiple ear piercings left 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>multiple ear piercings left 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>multiple ear piercings right 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>multiple ear piercings right 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>one ball lower lip piercing</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>one hoop lower lip piercing left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>one hoop lower lip piercing middle</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>one hoop lower lip piercing right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>one hoop upper lip piercing left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>one hoop upper lip piercing right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>one spike lower lip piercing</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>one stud lower lip piercing 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>punk boots</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>riveted belt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Shaundi's belt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Ronin helmet</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>steel-toed boots</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>stud brow piercing 1 left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>stud brow piercing 1 right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>stud nose piercing left 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>stud nose piercing right 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Tobias Blood Vile</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal wristband 3 left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal wristband 3 right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal wristband 4 left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal wristband 4 right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal wristband left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal wristband right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>two balls left brow piercing</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>two balls right brow piercing</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's leather boots 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's metallic wrist band left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's leather biker jacket</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>baseball cap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>basic T-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's short baby doll t-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>trucker cap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>bridge nose piercing 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal brow piercing 3 left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal brow piercing 3 right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's baby-doll t-shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>basic nail polish</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal tattoo 13</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal tattoo 15</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tribal tattoo 17</Item>
+				<Variants></Variants>
+				</Store_Item>
+			</Items>
+		<Outfits>
+			<Outfit_Element>
+				<Outfit>OKUSA</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>SamLunch</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Firespite</Outfit>
+				</Outfit_Element>
+			</Outfits>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Store>
+	<Store>
+		<Name>Lets_Pretend</Name>
+		<DisplayName>LETS_PRETEND_NAME</DisplayName>
+		<flags>
+			<Flag>allow_wardrobe</Flag>
+			</flags>
+		<Shops>
+			<Shop_Element>
+				<Shop>MA Pretend</Shop>
+				</Shop_Element>
+			</Shops>
+		<Items>
+			<Store_Item>
+				<Item>thick female eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>female eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>female eyelashes 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>female hooker eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>male eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>tool belt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>test sword on back</Item>
+				<Variants></Variants>
+				</Store_Item>	
+			<Store_Item>
+				<Item>basic nail polish</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>human teeth</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>human eyes</Item>
+				<Variants>
+					<Item_Variant>
+						<Variant>blue</Variant>
+						</Item_Variant>
+					</Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Sunshine's blood</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Troy's decorations</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Stilwater Nuclear badge 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Stilwater Nuclear badge 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>press badge</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>pilot badge</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>doctor badge</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>baggage handler badge</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>cop rank 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>cop badge for shirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>cop patches for shoulders</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>cop microphone that attaches to belt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>trooper shades</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>staff badge on coat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>stewardess wings</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Ultor security badge</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Ultor science team badge</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>construction gloves</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>construction hard hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>cowboy hat 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>flasher coat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Judge Robe</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>lab coat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's straw hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>novelty cat ears</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Pirate Hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>protective goggles 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>scrub top</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>scrubs bottoms</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Batter's Helmet</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Beenie w/ propeller</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Bling Crown</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Devil horns</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>halo</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Lampshade Hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>safety vest</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>viking hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Deep sea diver helmet</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Sombrero</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Soldier helmet</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>hot dog suit</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Ninja Garb</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>mugger mask</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>beat cop hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>beat cop pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>stolen beat cop uniform</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Fire / Hazzard Suit</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Firefighter helmet</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Hazzard helmet</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>swat pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>ULTOR/SWAT Helmet</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>ULTOR/SWAT Overshirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>swat vest</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>police bullet proof vest</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Gyro Goat head</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Injured hand glove</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>ski mask</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>surgical face mask</Item>
+				<Variants></Variants>
+				</Store_Item>   
+			<Store_Item>
+				<Item>FBI ear piece</Item>
+				<Variants></Variants>
+				</Store_Item> 
+			<Store_Item>
+				<Item>ear protection</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Stethoscope</Item>
+				<Variants></Variants>
+				</Store_Item> 
+			<Store_Item>
+				<Item>Shogo's one-off necklace</Item>
+				<Variants></Variants>
+				</Store_Item>  
+			<Store_Item>
+				<Item>the Judge's glasses</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>popped collar</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>doo rag 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Nuclear engineers belt</Item>
+				<Variants></Variants>
+        			</Store_Item>  
+			<Store_Item>
+				<Item>police helicopter pilot helment</Item>
+ 				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>boat police shorts</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>knee Pads for Swat only</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>parachute suit</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>police utility belt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Maero's face tattoo variant</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Matt's Burned Hand</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>crazy salesman 's jacket</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Sunshine's bullet holes 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Sunshine's bullet holes 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			</Items>
+		<Outfits>
+			<Outfit_Element>
+				<Outfit>Barbershop</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Cat</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Clown</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Construction</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Evil Doctor</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Hippie</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Mime</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Slasher 1</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Pirate</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Hazmat</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Sexy 1</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Street 1</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Crazy 1</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Streaker</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Prison</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+			        <Outfit>Gyros</Outfit>
+			        </Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Diver</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Masako</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Swat</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>FBI</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Goon</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Hulkster</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>LupinGreen</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>LupinRed</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Jigen</Outfit>
+				</Outfit_Element>
+			</Outfits>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Store>
+	<Store>
+		<Name>Leather_Lace</Name>
+		<DisplayName>LEATHER_LACE_NAME</DisplayName>
+		<flags>
+			<Flag>allow_wardrobe</Flag>
+			</flags>
+		<Shops>
+			<Shop_Element>
+				<Shop>MA Lace</Shop>
+				</Shop_Element>
+			</Shops>
+		<Items>
+			<Store_Item>
+				<Item>thick female eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>female eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>female eyelashes 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>female hooker eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>male eyelashes</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>basic nail polish</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>human eyes</Item>
+				<Variants>
+					<Item_Variant>
+						<Variant>blue</Variant>
+						</Item_Variant>
+					</Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Combined bikini for Sunbather</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's ankle warmer boots</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>assless chaps</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Jyunichi's left wrist strap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Jyunichi's right wrist strap</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>knee high socks</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>laced leather biker pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>latex medical gloves</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>leather biker pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>looped bracelet left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>looped bracelet right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's leather vest coat 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's leather vest coat 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's leather vest coat 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Mens sexy swimwear</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's snakeskin boots</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>men's snakeskin pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>metal bracelet left</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>metal bracelet right</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>Pasties Variety 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>short leather skirt</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>standard biker gloves</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>stripper boots</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>thong A</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>woman's leather bra 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's bondage top 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's bondage top 2</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's bondage top 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's bra 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's bra 7</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's camisole 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's camisole 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's camisole 4</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's camisole 5</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's one-piece swimsuit 1</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's one-piece swimsuit 3</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's snakeskin pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's tight latex pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's tight low cut latex pants</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>leather uniform gloves</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>sunbather bottoms with strings</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>sunbathers top</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's very short camisole</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's g-string</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's low-cut g-string</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>women's low-cut thong</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>high heels 1</Item>
+				<Variants></Variants>
+				</Store_Item>				
+			</Items>
+		<Outfits>
+			<Outfit_Element>
+				<Outfit>Devil Girl</Outfit>
+				</Outfit_Element>
+			</Outfits>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Store>
+	</Table>
+
+<TableTemplates>
+	<Store>
+		<Name>Shear_Intensity</Name>
+		<DisplayName>HAIRSALON_NAME</DisplayName>
+		<Items></Items>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Outfits></Outfits>
+		<flags></flags>
+		</Store>
+	<Store>
+		<Name>Do it Up</Name>
+		<DisplayName>HAIR_SALON_NAME_DO_IT_UP</DisplayName>
+		<Items></Items>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Outfits></Outfits>
+		<flags></flags>
+		</Store>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Store</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Internal name of the store.</Description>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>Reference</Type>
+		<Display_Name>Display Name</Display_Name>
+		<Description>Display name of the store.</Description>
+		<Reference>
+			<File>localized_exports\LooksStores_text.xtbl</File>
+			<Type>LooksStores_Identifier.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>flags</Name>
+		<Type>Flags</Type>
+		<Display_Name>Flags</Display_Name>
+		<Flag>allow_wardrobe</Flag>
+		</Element>
+	<Element>
+		<Name>Shops</Name>
+		<Type>Grid</Type>
+		<Required>false</Required>
+		<Element>
+			<Name>Shop_Element</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Shop</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>..\levels\SaintsRow2\districts\shops_sr2_city.xtbl</File>
+					<Type>Shop.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Items</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Store_Item</Name>
+			<Type>Element</Type>
+			<Display_Name>Store Item</Display_Name>
+			<Element>
+				<Name>Item</Name>
+				<Type>Reference</Type>
+				<Description>Item that is for sale.</Description>
+				<Reference>
+					<File>customization_items.xtbl</File>
+					<Type>Customization_Item.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Variants</Name>
+				<Type>Grid</Type>
+				<Element>
+					<Name>Item_Variant</Name>
+					<Type>Element</Type>
+					<Display_Name>Item Variant</Display_Name>
+					<Element>
+						<Name>Variant</Name>
+						<Type>Reference</Type>
+						<Description>Variant that is for sale at the store.</Description>
+						<Default>0</Default>
+						<Reference>
+							<File>customization_items.xtbl</File>
+							<Type>Customization_Item.Variants.Variant.Name</Type>
+							<OpenSeparate>False</OpenSeparate>
+							</Reference>
+						</Element>
+					</Element>
+				<Num_Display_Rows>16</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Num_Display_Rows>20</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Outfits</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Outfit_Element</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Outfit</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>customization_outfits.xtbl</File>
+					<Type>Outfit.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

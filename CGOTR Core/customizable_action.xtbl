@@ -1,0 +1,634 @@
+<root>
+<Table>
+	<CustomizableActions>
+		<Name>Middle Finger</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_INSULT_A</LocalizedTag>
+		<Action>Insult A</Action>
+		<Situation>player taunt - flip off</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Neck Slice</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>Slick Hair</LocalizedTag>
+		<Action>Insult B</Action>
+		<Situation>player taunt - throat slit</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Chest Bump</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_INSULT_C</LocalizedTag>
+		<Action>Insult C</Action>
+		<Situation>player taunt - chest bump</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>You Crazy?</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_INSULT_D</LocalizedTag>
+		<Action>Insult D</Action>
+		<Situation>player taunt - you crazy</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Vomit</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_INSULT_E</LocalizedTag>
+		<Action>Insult E</Action>
+		<Situation>player taunt - vomit</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>The Dumper</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>Eat Takeout</LocalizedTag>
+		<Action>Insult F</Action>
+		<Situation>player taunt - poop</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Dog Pissing</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>Eat the Dead (Zombie)</LocalizedTag>
+		<Action>Insult G</Action>
+		<Situation>player taunt - pee</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Spit 'n Flick</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>Take a Puff</LocalizedTag>
+		<Action>Insult H</Action>
+		<Situation>player taunt - spit and flick</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Ride that Donkey</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_INSULT_I</LocalizedTag>
+		<Action>Insult I</Action>
+		<Situation>player taunt - ride the donkey</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Na-na-na-nana-na</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>Zombie Attack!</LocalizedTag>
+		<Action>Insult J</Action>
+		<Situation>player taunt - na na</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Roar</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_INSULT_K</LocalizedTag>
+		<Action>Insult K</Action>
+		<Situation>player taunt - roar</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>I Can't Hear You!</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_INSULT_L</LocalizedTag>
+		<Action>Insult L</Action>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		<Situation>player taunt - hulkster</Situation>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Flex</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_INSULT_M</LocalizedTag>
+		<Action>Insult M</Action>
+		<Situation>player taunt - arm flex</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>YEAH!</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_INSULT_N</LocalizedTag>
+		<Action>Insult N</Action>
+		<Situation>player taunt - oh yeah</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Hot 'n Juicy</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>Polish Sword</LocalizedTag>
+		<Action>Insult O</Action>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		<Situation>player taunt - ass slap</Situation>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Smooth Criminal</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_INSULT_P</LocalizedTag>
+		<Action>Insult P</Action>
+		<Situation>player taunt - smooth criminal</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Come Get Some</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_INSULT_Q</LocalizedTag>
+		<Action>Insult Q</Action>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		<Situation>player taunt - matrix</Situation>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Oh No You Di-in't</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_INSULT_R</LocalizedTag>
+		<Action>Insult R</Action>
+		<Situation>player taunt - no you didnt</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>The Wanker</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_INSULT_S</LocalizedTag>
+		<Action>Insult S</Action>
+		<Situation>player taunt - wanker</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Teabag</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>Bring the Voodoo</LocalizedTag>
+		<Action>Insult T</Action>
+		<Situation>player taunt - teabag</Situation>
+		<_Editor>
+			<Category>Default:Insults</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Compliment A</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_COMPLIMENT_A</LocalizedTag>
+		<Action>Compliment A</Action>
+		<_Editor>
+			<Category>Default:Compliments</Category>
+			</_Editor>
+		<Situation>player compliment - thumbs up</Situation>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Compliment B</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>Take a Photo</LocalizedTag>
+		<Action>Compliment B</Action>
+		<_Editor>
+			<Category>Default:Compliments</Category>
+			</_Editor>
+		<Situation>player compliment - laugh</Situation>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Compliment C</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_COMPLIMENT_C</LocalizedTag>
+		<Action>Compliment C</Action>
+		<_Editor>
+			<Category>Default:Compliments</Category>
+			</_Editor>
+		<Situation>player compliment - salute</Situation>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Compliment D</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_COMPLIMENT_D</LocalizedTag>
+		<Action>Compliment D</Action>
+		<_Editor>
+			<Category>Default:Compliments</Category>
+			</_Editor>
+		<Situation>player compliment - bow</Situation>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Compliment E</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_COMPLIMENT_E</LocalizedTag>
+		<Action>Compliment E</Action>
+		<_Editor>
+			<Category>Default:Compliments</Category>
+			</_Editor>
+		<Situation>player compliment - arsenio</Situation>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Compliment F</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_COMPLIMENT_F</LocalizedTag>
+		<Action>Compliment F</Action>
+		<_Editor>
+			<Category>Default:Compliments</Category>
+			</_Editor>
+		<Situation>player compliment - jig</Situation>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Compliment G</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>Play da Blues</LocalizedTag>
+		<Action>Compliment G</Action>
+		<_Editor>
+			<Category>Default:Compliments</Category>
+			</_Editor>
+		<Situation>player compliment - fonz collar</Situation>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Compliment H</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_COMPLIMENT_H</LocalizedTag>
+		<Action>Compliment H</Action>
+		<_Editor>
+			<Category>Default:Compliments</Category>
+			</_Editor>
+		<Situation>player compliment - fonz point</Situation>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Compliment I</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_COMPLIMENT_I</LocalizedTag>
+		<Action>Compliment I</Action>
+		<_Editor>
+			<Category>Default:Compliments</Category>
+			</_Editor>
+		<Situation>player compliment - ok</Situation>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Compliment J</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_COMPLIMENT_J</LocalizedTag>
+		<Action>Compliment J</Action>
+		<_Editor>
+			<Category>Default:Compliments</Category>
+			</_Editor>
+		<Situation>player compliment - number one</Situation>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Compliment K</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_COMPLIMENT_K</LocalizedTag>
+		<Action>Compliment K</Action>
+		<_Editor>
+			<Category>Default:Compliments</Category>
+			</_Editor>
+		<Situation>player compliment - blow kiss</Situation>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Ronin Insult A</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_RONIN_TAUNT_A</LocalizedTag>
+		<Action>Ronin Insult A</Action>
+		<Team>Ronin</Team>
+		<_Editor>
+			<Category>Gang-Ronin</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Ronin Insult B</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_RONIN_TAUNT_B</LocalizedTag>
+		<Action>Ronin Insult B</Action>
+		<Team>Ronin</Team>
+		<_Editor>
+			<Category>Gang-Ronin</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Ronin Insult C</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>Rap Battle 1</LocalizedTag>
+		<Action>Ronin Insult C</Action>
+		<_Editor>
+			<Category>Gang-Ronin</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Ronin Insult D</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_RONIN_TAUNT_C</LocalizedTag>
+		<Action>Ronin Insult D</Action>
+		<Team>Ronin</Team>
+		<_Editor>
+			<Category>Gang-Ronin</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Brotherhood Insult A</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_BRO_TAUNT_A</LocalizedTag>
+		<Action>Brotherhood Insult A</Action>
+		<Team>Brotherhood</Team>
+		<_Editor>
+			<Category>Gang-Brotherhood</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Brotherhood Insult B</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_BRO_TAUNT_B</LocalizedTag>
+		<Action>Brotherhood Insult B</Action>
+		<Team>Brotherhood</Team>
+		<_Editor>
+			<Category>Gang-Brotherhood</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Brotherhood Insult C</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_BRO_TAUNT_C</LocalizedTag>
+		<Action>Brotherhood Insult C</Action>
+		<Team>Brotherhood</Team>
+		<_Editor>
+			<Category>Gang-Brotherhood</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Brotherhood Insult D</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>Rap Battle 2</LocalizedTag>
+		<Action>Brotherhood Insult D</Action>
+		<_Editor>
+			<Category>Gang-Brotherhood</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Samedi Insult A</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_SAMEDI_TAUNT_A</LocalizedTag>
+		<Action>Samedi Insult A</Action>
+		<Team>Samedi</Team>
+		<_Editor>
+			<Category>Gang-Samedi</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Samedi Insult B</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>Toasty!</LocalizedTag>
+		<Action>Samedi Insult B</Action>
+		<_Editor>
+			<Category>Gang-Samedi</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Samedi Insult C</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_SAMEDI_TAUNT_B</LocalizedTag>
+		<Action>Samedi Insult C</Action>
+		<Team>Samedi</Team>
+		<_Editor>
+			<Category>Gang-Samedi</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Samedi Insult D</Name>
+		<ActionType>Insult</ActionType>
+		<LocalizedTag>CUST_SAMEDI_TAUNT_C</LocalizedTag>
+		<Action>Samedi Insult D</Action>
+		<Team>Samedi</Team>
+		<_Editor>
+			<Category>Gang-Samedi</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Brotherhood Compliment D</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_BRO_COMPLIMENT_D</LocalizedTag>
+		<Action>Brotherhood Compliment D</Action>
+		<Team>Brotherhood</Team>
+		<_Editor>
+			<Category>Gang-Brotherhood</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Brotherhood Compliment C</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_BRO_COMPLIMENT_C</LocalizedTag>
+		<Action>Brotherhood Compliment C</Action>
+		<Team>Brotherhood</Team>
+		<_Editor>
+			<Category>Gang-Brotherhood</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Brotherhood Compliment B</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_BRO_COMPLIMENT_B</LocalizedTag>
+		<Action>Brotherhood Compliment B</Action>
+		<Team>Brotherhood</Team>
+		<_Editor>
+			<Category>Gang-Brotherhood</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Brotherhood Compliment A</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_BRO_COMPLIMENT_A</LocalizedTag>
+		<Action>Brotherhood Compliment A</Action>
+		<Team>Brotherhood</Team>
+		<_Editor>
+			<Category>Gang-Brotherhood</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Ronin Compliment D</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_RONIN_COMPLIMENT_D</LocalizedTag>
+		<Action>Ronin Compliment D</Action>
+		<Team>Ronin</Team>
+		<_Editor>
+			<Category>Gang-Ronin</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Ronin Compliment C</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_RONIN_COMPLIMENT_C</LocalizedTag>
+		<Action>Ronin Compliment C</Action>
+		<Team>Ronin</Team>
+		<_Editor>
+			<Category>Gang-Ronin</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Ronin Compliment B</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_RONIN_COMPLIMENT_B</LocalizedTag>
+		<Action>Ronin Compliment B</Action>
+		<Team>Ronin</Team>
+		<_Editor>
+			<Category>Gang-Ronin</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Ronin Compliment A</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_RONIN_COMPLIMENT_A</LocalizedTag>
+		<Action>Ronin Compliment A</Action>
+		<Team>Ronin</Team>
+		<_Editor>
+			<Category>Gang-Ronin</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Samedi Compliment D</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_SAMEDI_COMPLIMENT_C</LocalizedTag>
+		<Action>Samedi Compliment D</Action>
+		<Team>Samedi</Team>
+		<_Editor>
+			<Category>Gang-Samedi</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Samedi Compliment C</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_SAMEDI_COMPLIMENT_B</LocalizedTag>
+		<Action>Samedi Compliment C</Action>
+		<Team>Samedi</Team>
+		<_Editor>
+			<Category>Gang-Samedi</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Samedi Compliment B</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>Strumming</LocalizedTag>
+		<Action>Samedi Compliment B</Action>
+		<_Editor>
+			<Category>Gang-Samedi</Category>
+			</_Editor>
+		</CustomizableActions>
+	<CustomizableActions>
+		<Name>Samedi Compliment A</Name>
+		<ActionType>Compliment</ActionType>
+		<LocalizedTag>CUST_SAMEDI_COMPLIMENT_A</LocalizedTag>
+		<Action>Samedi Compliment A</Action>
+		<Team>Samedi</Team>
+		<_Editor>
+			<Category>Gang-Samedi</Category>
+			</_Editor>
+		</CustomizableActions>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>CustomizableActions</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Customizable Actions</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>ActionType</Name>
+		<Type>Selection</Type>
+		<Display_Name>Action Type</Display_Name>
+		<Choice>Insult</Choice>
+		<Choice>Compliment</Choice>
+		</Element>
+	<Element>
+		<Name>LocalizedTag</Name>
+		<Type>Reference</Type>
+		<Display_Name>Localization Tag Name</Display_Name>
+		<Reference>
+			<File>localized_exports\PlayerCreation_text.xtbl</File>
+			<Type>PlayerCreat_Identifier.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Action</Name>
+		<Type>Reference</Type>
+		<Display_Name>Animation Action</Display_Name>
+		<Reference>
+			<File>anim_actions.xtbl</File>
+			<Type>Action.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Situation</Name>
+		<Type>Reference</Type>
+		<Display_Name>Persona Situation</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>persona_situations.xtbl</File>
+			<Type>Situation_List.Situations.Situation.Type</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Team</Name>
+		<Type>Reference</Type>
+		<Display_Name>Unlocked By Team</Display_Name>
+		<Description>This gang 'owns' this reaction and must be defeated to get it.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>teams.xtbl</File>
+			<Type>Team.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Default</Name>
+		<Category>
+			<Name>Compliments</Name>
+			</Category>
+		<Category>
+			<Name>Insults</Name>
+			</Category>
+		</Category>
+	<Category>
+		<Name>Gang-Brotherhood</Name>
+		</Category>
+	<Category>
+		<Name>Gang-Ronin</Name>
+		</Category>
+	<Category>
+		<Name>Gang-Samedi</Name>
+		</Category>
+	</EntryCategories>
+</root>

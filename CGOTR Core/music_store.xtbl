@@ -1,0 +1,2395 @@
+<root>
+<Table>
+	<Genre>
+		<Name>Unlockable</Name>
+		<DisplayName>MUSIC_UNLOCKABLE</DisplayName>
+		<Tracks>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Genre>
+	<Genre>
+		<Name>Hip Hop</Name>
+		<DisplayName>MUSIC_HIPHOP</DisplayName>
+		<Tracks>
+			<Track>
+				<BuyName>Amerie - One Thing</BuyName>
+				<Track_Name>One Thing</Track_Name>
+				<Artist>Amerie</Artist>
+				<TrackGroup>954KRH_A_1</TrackGroup>
+				<Cost>0.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Apache - Gangsta Bitch</BuyName>
+				<Track_Name>Gangsta Bitch</Track_Name>
+				<Artist>Apache</Artist>
+				<TrackGroup>954KRH_A_2</TrackGroup>
+				<Cost>0.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Beanie Sigel - What A Thug About</BuyName>
+				<Track_Name>What A Thug About</Track_Name>
+				<Artist>Beanie Sigel</Artist>
+				<TrackGroup>954KRH_A_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Big Punisher F. Fat Joe - Twinz</BuyName>
+				<Track_Name>Twinz</Track_Name>
+				<Artist>Big Punisher F. Fat Joe</Artist>
+				<TrackGroup>954KRH_A_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Cassie - Me And U</BuyName>
+				<Track_Name>Me And U</Track_Name>
+				<Artist>Cassie</Artist>
+				<TrackGroup>954KRH_B_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Chrisette Michelle - Good Girl</BuyName>
+				<Track_Name>Good Girl</Track_Name>
+				<Artist>Chrisette Michelle</Artist>
+				<TrackGroup>954KRH_B_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>DJ Quik F. B Real - Fandango</BuyName>
+				<Track_Name>Fandango</Track_Name>
+				<Artist>DJ Quik F. B Real</Artist>
+				<TrackGroup>954KRH_B_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Joss Stone - Tell Me Bout It</BuyName>
+				<Track_Name>Tell Me Bout It</Track_Name>
+				<Artist>Joss Stone</Artist>
+				<TrackGroup>954KRH_B_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Kelis - Trick Me</BuyName>
+				<Track_Name>Trick Me</Track_Name>
+				<Artist>Kelis</Artist>
+				<TrackGroup>954KRH_B_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Lloyd Banks - Hands Up</BuyName>
+				<Track_Name>Hands Up</Track_Name>
+				<Artist>Lloyd Banks</Artist>
+				<TrackGroup>954KRH_C_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Nas - New York State Of Mind</BuyName>
+				<Track_Name>New York State Of Mind</Track_Name>
+				<Artist>Nas</Artist>
+				<TrackGroup>954KRH_C_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Ne Yo - So Sick</BuyName>
+				<Track_Name>So Sick</Track_Name>
+				<Artist>Ne Yo</Artist>
+				<TrackGroup>954KRH_C_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Run DMC - Sucker MCs</BuyName>
+				<Track_Name>Sucker MCs</Track_Name>
+				<Artist>Run DMC</Artist>
+				<TrackGroup>954KRH_C_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Wale - Ridin In That Black Joint</BuyName>
+				<Track_Name>Ridin In That Black Joint</Track_Name>
+				<Artist>Wale</Artist>
+				<TrackGroup>954KRH_C_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Young Jeezy - I Luv It</BuyName>
+				<Track_Name>I Luv It</Track_Name>
+				<Artist>Young Jeezy</Artist>
+				<TrackGroup>954KRH_C_6</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Genre>
+	<Genre>
+		<Name>Classical</Name>
+		<DisplayName>MUSIC_CLASSICAL</DisplayName>
+		<Tracks>
+			<Track>
+				<Track_Name>Arrival of the Queen of Sheba</Track_Name>
+				<Artist>Handel, Georg Friedrich</Artist>
+				<TrackGroup>1024KLA_A_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>G. F. Handel - Arrival of the Queen of Sheba</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Brandenburg Concerto No. 3 - Allegro</Track_Name>
+				<Artist>Bach, Johann Sebastian</Artist>
+				<TrackGroup>1024KLA_A_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>J. S. Bach - Brandenburg Concerto No. 3 - Allegro</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Concerto No. 4 In A</Track_Name>
+				<Artist>Bach, Johann Sebastian</Artist>
+				<TrackGroup>1024KLA_A_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>J. S. Bach - Concerto No. 4 In A</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Coppelia Ballet Suite</Track_Name>
+				<Artist>Delibes, Leo</Artist>
+				<TrackGroup>1024KLA_A_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Delibes - Coppelia Ballet Suite</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Eine Kleine Nachtmusik</Track_Name>
+				<Artist>Mozart, Wolfgang Amadeus</Artist>
+				<TrackGroup>1024KLA_A_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>W. A. Mozart - Eine Kleine Nachtmusik</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>The Four Seasons No. 1 - The Spring</Track_Name>
+				<Artist>Vivaldi, Antonio</Artist>
+				<TrackGroup>1024KLA_A_6</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Vivaldi - The Four Seasons No. 1 - The Spring</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>The Four Seasons No. 2 - The Summer</Track_Name>
+				<Artist>Vivaldi, Antonio</Artist>
+				<TrackGroup>1024KLA_A_7</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Vivaldi - The Four Seasons No. 2 - The Summer</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Haffner Serenade No. 7 In D Major</Track_Name>
+				<Artist>Mozart, Wolfgang Amadeus</Artist>
+				<TrackGroup>1024KLA_A_8</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>W. A. Mozart - Haffner Serenade No. 7 In D Major</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Hungarian Dance No. 5</Track_Name>
+				<Artist>Brahms, Johannes</Artist>
+				<TrackGroup>1024KLA_B_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>J. Brahms - Hungarian Dance No. 5</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Moonlight Sonata</Track_Name>
+				<Artist>Beethoven, Ludwig Van</Artist>
+				<TrackGroup>1024KLA_B_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Beethoven - Moonlight Sonata</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Music For The Royal Fireworks (Overture)</Track_Name>
+				<Artist>Handel, Georg Friedrich</Artist>
+				<TrackGroup>1024KLA_B_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>G. F. Handel - Music For The Royal Fireworks (Overture)</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Nutcracker Trepak</Track_Name>
+				<Artist>Tchaikovsky, Peter Ilyich</Artist>
+				<TrackGroup>1024KLA_B_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Tchaikovsky - Nutcracker Trepak</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Marriage of Figaro (Overture)</Track_Name>
+				<Artist>Mozart, Wolfgang Amadeus</Artist>
+				<TrackGroup>1024KLA_B_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>W. A. Mozart - Marriage of Figaro (Overture)</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>In The Hall Of The Mountain King</Track_Name>
+				<Artist>Grieg, Edvard</Artist>
+				<TrackGroup>1024KLA_B_6</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Grieg - In The Hall Of The Mountain King</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Anitra's Dance</Track_Name>
+				<Artist>Grieg, Edvard</Artist>
+				<TrackGroup>1024KLA_B_7</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Grieg - Anitra's Dance</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Ride of the Valkyries</Track_Name>
+				<Artist>Wagner, Richard</Artist>
+				<TrackGroup>1024KLA_B_8</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Wagner - Ride of the Valkyries</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Sleeping Beauty Waltz</Track_Name>
+				<Artist>Tchaikovsky, Peter Ilyich</Artist>
+				<TrackGroup>1024KLA_C_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Tchaikovsky - Sleeping Beauty Waltz</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>String Quartet In G Major</Track_Name>
+				<Artist>Mozart, Wolfgang Amadeus</Artist>
+				<TrackGroup>1024KLA_C_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>W. A. Mozart - String Quartet In G Major</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Symphony No. 5 In C Minor - Allegro Con Brio</Track_Name>
+				<Artist>Beethoven, Ludwig Van</Artist>
+				<TrackGroup>1024KLA_C_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Beethoven - Symphony No. 5 In C Minor - Allegro Con Brio</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Symphony No. 40 - 1st Movement</Track_Name>
+				<Artist>Mozart, Wolfgang Amadeus</Artist>
+				<TrackGroup>1024KLA_C_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>W. A. Mozart - Symphony No. 40 - 1st Movement</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Symphony No. 5 In C Minor - Allegro</Track_Name>
+				<Artist>Beethoven, Ludwig Van</Artist>
+				<TrackGroup>1024KLA_C_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Beethoven - Symphony No. 5 in C Minor - Allegro</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Toccata and Fugue In D Minor</Track_Name>
+				<Artist>Bach, Johann Sebastian</Artist>
+				<TrackGroup>1024KLA_C_6</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>J. S. Bach - Toccata and Fugue In D Minor</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Water Music Suite No. 1 - Overture</Track_Name>
+				<Artist>Handel, Georg Friedrich</Artist>
+				<TrackGroup>1024KLA_C_7</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>G. F. Handel - Water Music Suite No. 1 - Overture</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Water Music Suite No. 1 - Presto</Track_Name>
+				<Artist>Handel, Georg Friedrich</Artist>
+				<TrackGroup>1024KLA_C_8</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>G. F. Handel - Water Music Suite No. 1 - Presto</BuyName>
+				</Track>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Genre>
+	<Genre>
+		<Name>Easy Listening</Name>
+		<DisplayName>MUSIC_EASYLISTENING</DisplayName>
+		<Tracks>
+			<Track>
+				<Track_Name>Stereo Cha Cha</Track_Name>
+				<Artist>Pagnini, Umberto</Artist>
+				<TrackGroup>1050_easy_C_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Stereo Cha Cha</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Marvelous Singers Remix</Track_Name>
+				<Artist>Durst, Marc</Artist>
+				<TrackGroup>1050_easy_B_8</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Mervelous Singers Remix</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Coconuts</Track_Name>
+				<Artist>Narholtz, Gerhard</Artist>
+				<TrackGroup>1050_easy_A_6</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Coconuts</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Bachelor Samba</Track_Name>
+				<Artist>Durst, Marc</Artist>
+				<TrackGroup>1050_easy_A_1</TrackGroup>
+				<Cost>0.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Bachelor Samba</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Berg Und Tal</Track_Name>
+				<Artist>Narholtz, Gerhard</Artist>
+				<TrackGroup>1050_easy_A_2</TrackGroup>
+				<Cost>0.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Berg Und Tal</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Bossa Cubana</Track_Name>
+				<Artist>Narholtz, Gerhard</Artist>
+				<TrackGroup>1050_easy_A_3</TrackGroup>
+				<Cost>0.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Bossa Cubana</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Chanson Pour Toi</Track_Name>
+				<Artist>Jack, Alfred</Artist>
+				<TrackGroup>1050_easy_A_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Chanson Pour Toi</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>A Cielito Lindo</Track_Name>
+				<Artist>Periguez, Carlos</Artist>
+				<TrackGroup>1050_easy_A_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>A Cielito Lindo</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Colonie Celeste</Track_Name>
+				<Artist>Narholtz, Gerhard</Artist>
+				<TrackGroup>1050_easy_A_7</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Colonie Celeste</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Dancing On The Avenue</Track_Name>
+				<Artist>Cacavas, John</Artist>
+				<TrackGroup>1050_easy_A_8</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Dancing On The Avenue</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Dolce Vita</Track_Name>
+				<Artist>Bertoli, Bruno</Artist>
+				<TrackGroup>1050_easy_B_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Dolce Vita</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Face To Face</Track_Name>
+				<Artist>Burdson, Sammy</Artist>
+				<TrackGroup>1050_easy_B_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Face To Face</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>A Girl Like You</Track_Name>
+				<Artist>Candler, Norman</Artist>
+				<TrackGroup>1050_easy_B_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>A Girl Like You</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Jarabe Tapatio</Track_Name>
+				<Artist>Periguez, Carlos</Artist>
+				<TrackGroup>1050_easy_B_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Jarabe Tapatio</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Just Strolling Along</Track_Name>
+				<Artist>Burdson, Sammy</Artist>
+				<TrackGroup>1050_easy_B_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Just Strolling Along</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Kalamazoo Style</Track_Name>
+				<Artist>Andres, Oliver</Artist>
+				<TrackGroup>1050_easy_B_6</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Kalamazoo Style</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Love For Life</Track_Name>
+				<Artist>Burdson, Sammy</Artist>
+				<TrackGroup>1050_easy_B_7</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Love For Life</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Naughty But Nice</Track_Name>
+				<Artist>Rockman, Walt</Artist>
+				<TrackGroup>1050_easy_C_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Naughty But Nice</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Sunny Day In Heidelberg</Track_Name>
+				<Artist>Brandenburg, Helmuth</Artist>
+				<TrackGroup>1050_easy_C_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Sunny Day In Heidelberg</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Swing Paname</Track_Name>
+				<Artist>Debarre, Angel</Artist>
+				<TrackGroup>1050_easy_C_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Swing Paname</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Tchoupa Twist</Track_Name>
+				<Artist>Folmer, Nicolas</Artist>
+				<TrackGroup>1050_easy_C_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Tchoupa Twist</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Tooba Boogie</Track_Name>
+				<Artist>Sieben, Otto</Artist>
+				<TrackGroup>1050_easy_C_6</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Tooba Boogie</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Walkie Talkie</Track_Name>
+				<Artist>Narholz, Gerhard</Artist>
+				<TrackGroup>1050_easy_C_7</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Walkie Talkie</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Whistle Happy</Track_Name>
+				<Artist>Baldry, Colin</Artist>
+				<TrackGroup>1050_easy_C_8</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Whistle Happy</BuyName>
+				</Track>
+			<Track>
+				<BuyName>Greg Knowles - Over The Moor To Maggie</BuyName>
+				<Track_Name>Over The Moor To Maggie</Track_Name>
+				<Artist>Knowles, Greg</Artist>
+				<TrackGroup>1050WOR_C_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Liza Carbe - El Viento En La Isla</BuyName>
+				<Track_Name>El Viento En La Isla</Track_Name>
+				<Artist>Carbe, Liza</Artist>
+				<TrackGroup>1050WOR_A_7</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Ravi Shani - Bangara Dance</BuyName>
+				<Track_Name>Bangara Dance</Track_Name>
+				<Artist>Shani, Ravi</Artist>
+				<TrackGroup>1050WOR_A_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Roger Abaji - Zahrat El Sahra</BuyName>
+				<Track_Name>Zahrat El Sahra</Track_Name>
+				<Artist>Abaji, Roger</Artist>
+				<TrackGroup>1050WOR_C_7</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Viktor Mastoridis - The Drunkard's Song</BuyName>
+				<Track_Name>The Drunkard's Song</Track_Name>
+				<Artist>Mastoridis, Viktor</Artist>
+				<TrackGroup>1050WOR_C_6</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Karl Barthel - Schenkt's Ma Mal Was Boarisch</BuyName>
+				<Track_Name>Schenkt's Ma Mal Was Boarisch</Track_Name>
+				<Artist>Barthel, Karl</Artist>
+				<TrackGroup>1050WOR_C_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Martin Beeler - Moutain Hut Landler</BuyName>
+				<Track_Name>Mountain Hut Landler</Track_Name>
+				<Artist>Beeler, Martin</Artist>
+				<TrackGroup>1050WOR_C_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Rogin Jeffrey - Mandilatos</BuyName>
+				<Track_Name>Mandilatos</Track_Name>
+				<Artist>Jeffrey, Robin</Artist>
+				<TrackGroup>1050WOR_C_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Liza Carbe - Mambo De Fito</BuyName>
+				<Track_Name>Mambo De Fito</Track_Name>
+				<Artist>Carbe, Liza</Artist>
+				<TrackGroup>1050WOR_C_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Friedrich Sehl - Hungarian Sundance</BuyName>
+				<Track_Name>Hungarian Sundance</Track_Name>
+				<Artist>Sehl, Friedrich</Artist>
+				<TrackGroup>1050WOR_B_7</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Greg Knowles - Humors Of Glen Dart</BuyName>
+				<Track_Name>Humors Of Glen Dart</Track_Name>
+				<Artist>Knowles, Greg</Artist>
+				<TrackGroup>1050WOR_B_6</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>John Leach - Hot Nights</BuyName>
+				<Track_Name>Hot Nights</Track_Name>
+				<Artist>Leach, John</Artist>
+				<TrackGroup>1050WOR_B_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Laszlo Borteri - Gypsy Dance</BuyName>
+				<Track_Name>Gypsy Dance</Track_Name>
+				<Artist>Borteri, Laszlo</Artist>
+				<TrackGroup>1050WOR_B_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Jan Schneeberg - Good Morning Polka</BuyName>
+				<Track_Name>Good Morning Polka</Track_Name>
+				<Artist>Schneeberg, Jan</Artist>
+				<TrackGroup>1050WOR_B_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Niko Radic - Friss A Rozsa</BuyName>
+				<Track_Name>Friss A Rozsa</Track_Name>
+				<Artist>Radic, Niko</Artist>
+				<TrackGroup>1050WOR_B_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Ian Clarke - Emerald Jig</BuyName>
+				<Track_Name>Emerald Jig</Track_Name>
+				<Artist>Clarke, Ian</Artist>
+				<TrackGroup>1050WOR_B_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Greg Knowles - Drumjig</BuyName>
+				<Track_Name>Drumjig</Track_Name>
+				<Artist>Knowles, Greg</Artist>
+				<TrackGroup>1050WOR_A_6</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Greg Knowles - Connaught Chase</BuyName>
+				<Track_Name>Connaught Chase</Track_Name>
+				<Artist>Knowles, Greg</Artist>
+				<TrackGroup>1050WOR_A_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Niko Radic - Cigany</BuyName>
+				<Track_Name>Cigany</Track_Name>
+				<Artist>Radic, Niko</Artist>
+				<TrackGroup>1050WOR_A_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Claudia Figueroa - Brasilian Fiesta</BuyName>
+				<Track_Name>Brasilian Fiesta</Track_Name>
+				<Artist>Figueroa, Claudia</Artist>
+				<TrackGroup>1050WOR_A_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Robin Jeffrey - Baidoushka</BuyName>
+				<Track_Name>Baidoushka</Track_Name>
+				<Artist>Jeffrey, Robin</Artist>
+				<TrackGroup>1050WOR_A_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Club Music 1</BuyName>
+				<Track_Name>Club Music 1</Track_Name>
+				<Artist>Misc Club</Artist>
+				<TrackGroup>MUS_SAINTS_CLUB_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Club Music 2</BuyName>
+				<Track_Name>Club Music 2</Track_Name>
+				<Artist>Misc Club</Artist>
+				<TrackGroup>MUS_SAINTS_CLUB_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Club Music 3</BuyName>
+				<Track_Name>Club Music 3</Track_Name>
+				<Artist>Misc Club</Artist>
+				<TrackGroup>MUS_SAINTS_CLUB_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Club Music 4</BuyName>
+				<Track_Name>Club Music 4</Track_Name>
+				<Artist>Misc Club</Artist>
+				<TrackGroup>MUS_SAINTS_CLUB_4</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Club Music 5</BuyName>
+				<Track_Name>Club Music 5</Track_Name>
+				<Artist>Misc Club</Artist>
+				<TrackGroup>MUS_SAINTS_CLUB_5</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Ronin Music 1</BuyName>
+				<Track_Name>Ronin Music 1</Track_Name>
+				<Artist>Misc Ronin</Artist>
+				<TrackGroup>AMB_RON11_MUSIC_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Ronin Music 2</BuyName>
+				<Track_Name>Ronin Music 2</Track_Name>
+				<Artist>Misc Ronin</Artist>
+				<TrackGroup>AMB_RON11_MUSIC_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Ronin Music 3</BuyName>
+				<Track_Name>Ronin Music 3</Track_Name>
+				<Artist>Misc Ronin</Artist>
+				<TrackGroup>AMB_RON11_MUSIC_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Ronin Music 4</BuyName>
+				<Track_Name>Ronin Music 4</Track_Name>
+				<Artist>Misc Ronin</Artist>
+				<TrackGroup>AMB_RON11_MUSIC_4</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Ronin Music 5</BuyName>
+				<Track_Name>Ronin Music 5</Track_Name>
+				<Artist>Misc Ronin</Artist>
+				<TrackGroup>AMB_RON11_MUSIC_5</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Ronin Music 6</BuyName>
+				<Track_Name>Ronin Music 6</Track_Name>
+				<Artist>Misc Ronin</Artist>
+				<TrackGroup>AMB_RON11_MUSIC_6</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Kanto 1</BuyName>
+				<Track_Name>Kanto 1</Track_Name>
+				<Artist>Misc Ronin</Artist>
+				<TrackGroup>Kanto_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Kanto 2</BuyName>
+				<Track_Name>Kanto 2</Track_Name>
+				<Artist>Misc Ronin</Artist>
+				<TrackGroup>Kanto_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Big Band 1</BuyName>
+				<Track_Name>Big Band 1</Track_Name>
+				<Artist>Misc Big Band</Artist>
+				<TrackGroup>big_band_filtered_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Big Band 2</BuyName>
+				<Track_Name>Big Band 2</Track_Name>
+				<Artist>Misc Big Band</Artist>
+				<TrackGroup>big_band_filtered_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Big Band 3</BuyName>
+				<Track_Name>Big Band 3</Track_Name>
+				<Artist>Misc Big Band</Artist>
+				<TrackGroup>big_band_filtered_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Big Band 4</BuyName>
+				<Track_Name>Big Band 4</Track_Name>
+				<Artist>Misc Big Band</Artist>
+				<TrackGroup>big_band_filtered_4</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Zombie Uprising</BuyName>
+				<Track_Name>Zombie Uprising</Track_Name>
+				<Artist>Misc Music</Artist>
+				<TrackGroup>Zombie</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Steel Band</BuyName>
+				<Track_Name>Steel Band</Track_Name>
+				<Artist>Misc Music</Artist>
+				<TrackGroup>steel_band</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Barbershop Quartet</BuyName>
+				<Track_Name>Barbershop Quartet</Track_Name>
+				<Artist>Misc Music</Artist>
+				<TrackGroup>Barbershop_Quartet</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Piano Player</BuyName>
+				<Track_Name>Piano Player</Track_Name>
+				<Artist>Misc Music</Artist>
+				<TrackGroup>Piano_Player_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Cheerleaders</BuyName>
+				<Track_Name>Cheerleaders</Track_Name>
+				<Artist>Misc Music</Artist>
+				<TrackGroup>Cheerleaders</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Commercial Set 1</BuyName>
+				<Track_Name>Commercial Set 1</Track_Name>
+				<Artist>Misc Commercial</Artist>
+				<TrackGroup>COM_GENERIC_1_BH06</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Commercial Set 2</BuyName>
+				<Track_Name>Commercial Set 2</Track_Name>
+				<Artist>Misc Commercial</Artist>
+				<TrackGroup>COM_GENERIC_2_BH06</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Commercial Set 3</BuyName>
+				<Track_Name>Commercial Set 3</Track_Name>
+				<Artist>Misc Commercial</Artist>
+				<TrackGroup>COM_GENERIC_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Commercial Set 4</BuyName>
+				<Track_Name>Commercial Set 4</Track_Name>
+				<Artist>Misc Commercial</Artist>
+				<TrackGroup>COM_GENERIC_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Marina 1</BuyName>
+				<Track_Name>Marina 1</Track_Name>
+				<Artist>Misc Marina</Artist>
+				<TrackGroup>Marina_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Marina 2</BuyName>
+				<Track_Name>Marina 2</Track_Name>
+				<Artist>Misc Marina</Artist>
+				<TrackGroup>Marina_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Marina 3</BuyName>
+				<Track_Name>Marina 3</Track_Name>
+				<Artist>Misc Marina</Artist>
+				<TrackGroup>Marina_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Marina 4</BuyName>
+				<Track_Name>Marina 4</Track_Name>
+				<Artist>Misc Marina</Artist>
+				<TrackGroup>Marina_4</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Barrio</BuyName>
+				<Track_Name>Barrio</Track_Name>
+				<Artist>Misc Barrio</Artist>
+				<TrackGroup>Barrio_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Chinatown 1</BuyName>
+				<Track_Name>Chinatown 1</Track_Name>
+				<Artist>Misc Chinatown</Artist>
+				<TrackGroup>Chinatown_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Chinatown 2</BuyName>
+				<Track_Name>Chinatown 2</Track_Name>
+				<Artist>Misc Chinatown</Artist>
+				<TrackGroup>Chinatown_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Chinatown 3</BuyName>
+				<Track_Name>Chinatown 3</Track_Name>
+				<Artist>Misc Chinatown</Artist>
+				<TrackGroup>Chinatown_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+
+			<Track>
+				<BuyName>On The Rag 1</BuyName>
+				<Track_Name>On The Rag 1</Track_Name>
+				<Artist>Misc On the Rag</Artist>
+				<TrackGroup>On_The_Rag_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>On The Rag 2</BuyName>
+				<Track_Name>On The Rag 2</Track_Name>
+				<Artist>Misc On the Rag</Artist>
+				<TrackGroup>On_The_Rag_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>On The Rag 3</BuyName>
+				<Track_Name>On The Rag 3</Track_Name>
+				<Artist>Misc On the Rag</Artist>
+				<TrackGroup>On_The_Rag_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>On The Rag 4</BuyName>
+				<Track_Name>On The Rag 4</Track_Name>
+				<Artist>Misc On the Rag</Artist>
+				<TrackGroup>On_The_Rag_4</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Crash Landing 1</BuyName>
+				<Track_Name>Crash Landing 1</Track_Name>
+				<Artist>Misc Crash Landing</Artist>
+				<TrackGroup>Crash_Landing_Jazz_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Crash Landing 2</BuyName>
+				<Track_Name>Crash Landing 2</Track_Name>
+				<Artist>Misc Crash Landing</Artist>
+				<TrackGroup>Crash_Landing_Jazz_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Crash Landing 3</BuyName>
+				<Track_Name>Crash Landing 3</Track_Name>
+				<Artist>Misc Crash Landing</Artist>
+				<TrackGroup>Crash_Landing_Jazz_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Crash Landing 4</BuyName>
+				<Track_Name>Crash Landing 4</Track_Name>
+				<Artist>Misc Crash Landing</Artist>
+				<TrackGroup>Crash_Landing_Jazz_4</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Science Center 1</BuyName>
+				<Track_Name>Science Center 1</Track_Name>
+				<Artist>Misc Science Center</Artist>
+				<TrackGroup>Science_Center_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Science Center 2</BuyName>
+				<Track_Name>Science Center 2</Track_Name>
+				<Artist>Misc Science Center</Artist>
+				<TrackGroup>Science_Center_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Science Center 3</BuyName>
+				<Track_Name>Science Center 3</Track_Name>
+				<Artist>Misc Science Center</Artist>
+				<TrackGroup>Science_Center_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Science Center 4</BuyName>
+				<Track_Name>Science Center 4</Track_Name>
+				<Artist>Misc Science Center</Artist>
+				<TrackGroup>Science_Center_4</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Science Center Stinger</BuyName>
+				<Track_Name>Science Center Stinger</Track_Name>
+				<Artist>Misc Science Center</Artist>
+				<TrackGroup>Science_Center_Stinger</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Jazz Muzak 1</BuyName>
+				<Track_Name>Jazz Muzak 1</Track_Name>
+				<Artist>Misc Jazz Muzak</Artist>
+				<TrackGroup>Jazz_Muzak_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Jazz Muzak 2</BuyName>
+				<Track_Name>Jazz Muzak 2</Track_Name>
+				<Artist>Misc Jazz Muzak</Artist>
+				<TrackGroup>Jazz_Muzak_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Jazz Muzak 3</BuyName>
+				<Track_Name>Jazz Muzak 3</Track_Name>
+				<Artist>Misc Jazz Muzak</Artist>
+				<TrackGroup>Jazz_Muzak_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Jazz Muzak 4</BuyName>
+				<Track_Name>Jazz Muzak 4</Track_Name>
+				<Artist>Misc Jazz Muzak</Artist>
+				<TrackGroup>Jazz_Muzak_4</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Country Muzak 1</BuyName>
+				<Track_Name>Country Muzak 1</Track_Name>
+				<Artist>Misc Country Muzak</Artist>
+				<TrackGroup>Country_Muzak_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Country Muzak 2</BuyName>
+				<Track_Name>Country Muzak 2</Track_Name>
+				<Artist>Misc Country Muzak</Artist>
+				<TrackGroup>Country_Muzak_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Country Muzak 3</BuyName>
+				<Track_Name>Country Muzak 3</Track_Name>
+				<Artist>Misc Country Muzak</Artist>
+				<TrackGroup>Country_Muzak_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Country Muzak 4</BuyName>
+				<Track_Name>Country Muzak 4</Track_Name>
+				<Artist>Misc Country Muzak</Artist>
+				<TrackGroup>Country_Muzak_4</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Museum 1</BuyName>
+				<Track_Name>Museum 1</Track_Name>
+				<Artist>Misc Museum</Artist>
+				<TrackGroup>Museum_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Museum 2</BuyName>
+				<Track_Name>Museum 2</Track_Name>
+				<Artist>Misc Museum</Artist>
+				<TrackGroup>Museum_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Museum 3</BuyName>
+				<Track_Name>Museum 3</Track_Name>
+				<Artist>Misc Museum</Artist>
+				<TrackGroup>Museum_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Shit 2 Wear 1</BuyName>
+				<Track_Name>Shit 2 Wear 1</Track_Name>
+				<Artist>Misc Clothing</Artist>
+				<TrackGroup>Shit_2_Wear_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Shit 2 Wear 2</BuyName>
+				<Track_Name>Shit 2 Wear 2</Track_Name>
+				<Artist>Misc Clothing</Artist>
+				<TrackGroup>Shit_2_Wear_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall 1</BuyName>
+				<Track_Name>Mall 1</Track_Name>
+				<Artist>Misc Mall</Artist>
+				<TrackGroup>AMB_MUSIC_GENMALL_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall 2</BuyName>
+				<Track_Name>Mall 2</Track_Name>
+				<Artist>Misc Mall</Artist>
+				<TrackGroup>AMB_MUSIC_GENMALL_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall 3</BuyName>
+				<Track_Name>Mall 3</Track_Name>
+				<Artist>Misc Mall</Artist>
+				<TrackGroup>AMB_MUSIC_GENMALL_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall 4</BuyName>
+				<Track_Name>Mall 4</Track_Name>
+				<Artist>Misc Mall</Artist>
+				<TrackGroup>AMB_MUSIC_GENMALL_4</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall 5</BuyName>
+				<Track_Name>Mall 5</Track_Name>
+				<Artist>Misc Mall</Artist>
+				<TrackGroup>AMB_MUSIC_GENMALL_5</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall 6</BuyName>
+				<Track_Name>Mall 6</Track_Name>
+				<Artist>Misc Mall</Artist>
+				<TrackGroup>AMB_MUSIC_GENMALL_6</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall 7</BuyName>
+				<Track_Name>Mall 7</Track_Name>
+				<Artist>Misc Mall</Artist>
+				<TrackGroup>AMB_MUSIC_GENMALL_7</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall 8</BuyName>
+				<Track_Name>Mall 8</Track_Name>
+				<Artist>Misc Mall</Artist>
+				<TrackGroup>AMB_MUSIC_GENMALL_8</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall 9</BuyName>
+				<Track_Name>Mall 9</Track_Name>
+				<Artist>Misc Mall</Artist>
+				<TrackGroup>AMB_MUSIC_GENMALL_9</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall 10</BuyName>
+				<Track_Name>Mall 10</Track_Name>
+				<Artist>Misc Mall</Artist>
+				<TrackGroup>AMB_MUSIC_GENMALL_10</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall 11</BuyName>
+				<Track_Name>Mall 11</Track_Name>
+				<Artist>Misc Mall</Artist>
+				<TrackGroup>AMB_MUSIC_GENMALL_11</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall Store 1</BuyName>
+				<Track_Name>Mall Store 1</Track_Name>
+				<Artist>Misc Mall Store</Artist>
+				<TrackGroup>AMB_MUSIC_MALLSTORE_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall Store 2</BuyName>
+				<Track_Name>Mall Store 2</Track_Name>
+				<Artist>Misc Mall Store</Artist>
+				<TrackGroup>AMB_MUSIC_MALLSTORE_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall Store 3</BuyName>
+				<Track_Name>Mall Store 3</Track_Name>
+				<Artist>Misc Mall Store</Artist>
+				<TrackGroup>AMB_MUSIC_MALLSTORE_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall Store 4</BuyName>
+				<Track_Name>Mall Store 4</Track_Name>
+				<Artist>Misc Mall Store</Artist>
+				<TrackGroup>AMB_MUSIC_MALLSTORE_4</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall Store 5</BuyName>
+				<Track_Name>Mall Store 5</Track_Name>
+				<Artist>Misc Mall Store</Artist>
+				<TrackGroup>AMB_MUSIC_MALLSTORE_5</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall Store 6</BuyName>
+				<Track_Name>Mall Store 6</Track_Name>
+				<Artist>Misc Mall Store</Artist>
+				<TrackGroup>AMB_MUSIC_MALLSTORE_6</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mall Store 7</BuyName>
+				<Track_Name>Mall Store 7</Track_Name>
+				<Artist>Misc Mall Store</Artist>
+				<TrackGroup>AMB_MUSIC_MALLSTORE_7</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Stilwater Caverns Short</BuyName>
+				<Track_Name>Stilwater Caverns Short</Track_Name>
+				<Artist>Misc Stilwater Caverns</Artist>
+				<TrackGroup>MUS_STILWATER_CAVERNS_SHORT</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Stilwater Caverns Long</BuyName>
+				<Track_Name>Stilwater Caverns Long</Track_Name>
+				<Artist>Misc Stilwater Caverns</Artist>
+				<TrackGroup>MUS_STILWATER_CAVERNS_LONG</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Stilwater Caverns Shop 1</BuyName>
+				<Track_Name>Stilwater Caverns Shop 1</Track_Name>
+				<Artist>Misc Stilwater Caverns</Artist>
+				<TrackGroup>AMB_UC_MUZAK_GIFTSHOP_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Stilwater Caverns Shop 2</BuyName>
+				<Track_Name>Stilwater Caverns Shop 2</Track_Name>
+				<Artist>Misc Stilwater Caverns</Artist>
+				<TrackGroup>AMB_UC_MUZAK_GIFTSHOP_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Stilwater Caverns Shop 3</BuyName>
+				<Track_Name>Stilwater Caverns Shop 3</Track_Name>
+				<Artist>Misc Stilwater Caverns</Artist>
+				<TrackGroup>AMB_UC_MUZAK_GIFTSHOP_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Muzak Lowfi A1</BuyName>
+				<Track_Name>Muzak Lowfi A1</Track_Name>
+				<Artist>Misc Lowfi Muzak</Artist>
+				<TrackGroup>AMB_MUZAK_LOWFI_A_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Muzak Lowfi A2</BuyName>
+				<Track_Name>Muzak Lowfi A2</Track_Name>
+				<Artist>Misc Lowfi Muzak</Artist>
+				<TrackGroup>AMB_MUZAK_LOWFI_A_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Muzak Lowfi A3</BuyName>
+				<Track_Name>Muzak Lowfi A3</Track_Name>
+				<Artist>Misc Lowfi Muzak</Artist>
+				<TrackGroup>AMB_MUZAK_LOWFI_A_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Muzak Lowfi A4</BuyName>
+				<Track_Name>Muzak Lowfi A4</Track_Name>
+				<Artist>Misc Lowfi Muzak</Artist>
+				<TrackGroup>AMB_MUZAK_LOWFI_A_4</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Muzak Lowfi A5</BuyName>
+				<Track_Name>Muzak Lowfi A5</Track_Name>
+				<Artist>Misc Lowfi Muzak</Artist>
+				<TrackGroup>AMB_MUZAK_LOWFI_A_5</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Muzak Lowfi A6</BuyName>
+				<Track_Name>Muzak Lowfi A6</Track_Name>
+				<Artist>Misc Lowfi Muzak</Artist>
+				<TrackGroup>AMB_MUZAK_LOWFI_A_6</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Muzak Lowfi A7</BuyName>
+				<Track_Name>Muzak Lowfi A7</Track_Name>
+				<Artist>Misc Lowfi Muzak</Artist>
+				<TrackGroup>AMB_MUZAK_LOWFI_A_7</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Muzak Lowfi A8</BuyName>
+				<Track_Name>Muzak Lowfi A8</Track_Name>
+				<Artist>Misc Lowfi Muzak</Artist>
+				<TrackGroup>AMB_MUZAK_LOWFI_A_8</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Muzak Lowfi A9</BuyName>
+				<Track_Name>Muzak Lowfi A9</Track_Name>
+				<Artist>Misc Lowfi Muzak</Artist>
+				<TrackGroup>AMB_MUZAK_LOWFI_A_9</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Muzak Lowfi A10</BuyName>
+				<Track_Name>Muzak Lowfi A10</Track_Name>
+				<Artist>Misc Lowfi Muzak</Artist>
+				<TrackGroup>AMB_MUZAK_LOWFI_A_10</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Muzak Lowfi B</BuyName>
+				<Track_Name>Muzak Lowfi B</Track_Name>
+				<Artist>Misc Lowfi Muzak</Artist>
+				<TrackGroup>AMB_MUZAK_LOWFI_B</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Muzak Lowfi C</BuyName>
+				<Track_Name>Muzak Lowfi C</Track_Name>
+				<Artist>Misc Lowfi Muzak</Artist>
+				<TrackGroup>AMB_MUZAK_LOWFI_C</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+
+			<Track>
+				<BuyName>Muzak Lowfi D</BuyName>
+				<Track_Name>Muzak Lowfi D</Track_Name>
+				<Artist>Misc Lowfi Muzak</Artist>
+				<TrackGroup>AMB_MUZAK_LOWFI_D</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Muzak Lowfi E</BuyName>
+				<Track_Name>Muzak Lowfi E</Track_Name>
+				<Artist>Misc Lowfi Muzak</Artist>
+				<TrackGroup>AMB_MUZAK_LOWFI_E</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Guitar Player</BuyName>
+				<Track_Name>Guitar Player</Track_Name>
+				<Artist>Misc Music</Artist>
+				<TrackGroup>Guitar_Player</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Genre>
+	<Genre>
+		<Name>Electronica</Name>
+		<Tracks>
+			<Track>
+				<BuyName>Crystal Castles - Through The Hosiery</BuyName>
+				<Track_Name>Through The Hosiery</Track_Name>
+				<Artist>Crystal Castles</Artist>
+				<TrackGroup>976k12_A_1</TrackGroup>
+				<Cost>0.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Daniel Mansury - Death Of A Moralist</BuyName>
+				<Track_Name>Death Of A Moralist</Track_Name>
+				<Artist>Daniel Mansury</Artist>
+				<TrackGroup>976k12_A_2</TrackGroup>
+				<Cost>0.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Death From Above 1979 - Sexy Results</BuyName>
+				<Track_Name>Sexy Results</Track_Name>
+				<Artist>Death From Above 1979</Artist>
+				<TrackGroup>976k12_A_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Does It Offend You, Yeah? - We Are Rockstars</BuyName>
+				<Track_Name>We Are Rockstars</Track_Name>
+				<Artist>Does It Offend You, Yeah?</Artist>
+				<TrackGroup>976k12_A_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Guns N Bombs - Crossover Appeal</BuyName>
+				<Track_Name>Crossover Appeal</Track_Name>
+				<Artist>Guns N Bombs</Artist>
+				<TrackGroup>976k12_B_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Hot Chip - Over And Over</BuyName>
+				<Track_Name>Over And Over</Track_Name>
+				<Artist>Hot Chip</Artist>
+				<TrackGroup>976k12_B_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Juan MacLean - Give Me Every Little Thing</BuyName>
+				<Track_Name>Give Me Every Little Thing</Track_Name>
+				<Artist>The Juan MacLean</Artist>
+				<TrackGroup>976k12_B_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>LCD Soundsystem - North American Scum</BuyName>
+				<Track_Name>North American Scum</Track_Name>
+				<Artist>LCD Soundsystem</Artist>
+				<TrackGroup>976k12_B_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Matthew Dear - Don And Sherri</BuyName>
+				<Track_Name>Don And Sherri</Track_Name>
+				<Artist>Matthew Dear</Artist>
+				<TrackGroup>976k12_C_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>MSTRKRFT - Street Justice</BuyName>
+				<Track_Name>Street Justice</Track_Name>
+				<Artist>MSTRKRFT</Artist>
+				<TrackGroup>976k12_C_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>TRS80 - Special Effect</BuyName>
+				<Track_Name>Special Effect</Track_Name>
+				<Artist>TRS80</Artist>
+				<TrackGroup>976k12_C_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MUSIC_ELECTRONICA</DisplayName>
+		</Genre>
+	<Genre>
+		<Name>Heavy Metal</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Tracks>
+			<Track>
+				<BuyName>Three Inches Of Blood - Deadly Sinners</BuyName>
+				<Track_Name>Deadly Sinners</Track_Name>
+				<Artist>Three Inches Of Blood</Artist>
+				<TrackGroup>1066kru_A_1</TrackGroup>
+				<Cost>20</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>As I Lay Dying - Nothing Left</BuyName>
+				<Track_Name>Nothing Left</Track_Name>
+				<Artist>As I Lay Dying</Artist>
+				<TrackGroup>1066kru_A_2</TrackGroup>
+				<Cost>20</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Avenged Sevenfold - Bat Country</BuyName>
+				<Track_Name>Bat Country</Track_Name>
+				<Artist>Avenged Sevenfold</Artist>
+				<TrackGroup>1066kru_A_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Chimaira - Resurrection</BuyName>
+				<Track_Name>Resurrection</Track_Name>
+				<Artist>Chimaira</Artist>
+				<TrackGroup>1066kru_A_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Dillinger Escape Plan - Milk Lizard</BuyName>
+				<Track_Name>Milk Lizard</Track_Name>
+				<Artist>The Dillinger Escape Plan</Artist>
+				<TrackGroup>1066kru_B_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Helmet - Unsung</BuyName>
+				<Track_Name>Unsung</Track_Name>
+				<Artist>Helmet</Artist>
+				<TrackGroup>1066kru_B_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Hum - Stars</BuyName>
+				<Track_Name>Stars</Track_Name>
+				<Artist>Hum</Artist>
+				<TrackGroup>1066kru_B_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Lamb Of God - Redneck</BuyName>
+				<Track_Name>Redneck</Track_Name>
+				<Artist>Lamb Of God</Artist>
+				<TrackGroup>1066kru_B_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mastodon - Colony Of Birchmen</BuyName>
+				<Track_Name>Colony Of Birchmen</Track_Name>
+				<Artist>Mastodon</Artist>
+				<TrackGroup>1066kru_B_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Opeth - Ghosts Of Perdition</BuyName>
+				<Track_Name>Ghosts Of Perdition</Track_Name>
+				<Artist>Opeth</Artist>
+				<TrackGroup>1066kru_C_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Agony Scene - Barn Burner</BuyName>
+				<Track_Name>Barn Burner</Track_Name>
+				<Artist>The Agony Scene</Artist>
+				<TrackGroup>1066kru_C_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Black Dahlia Murder - What A Horrible Night To Have A Curse</BuyName>
+				<Track_Name>What A Horrible Night To Have A Curse</Track_Name>
+				<Artist>The Black Dahlia Murder</Artist>
+				<TrackGroup>1066kru_C_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Trivium - Anthem</BuyName>
+				<Track_Name>Anthem</Track_Name>
+				<Artist>Trivium</Artist>
+				<TrackGroup>1066kru_C_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Wolfmother - Woman</BuyName>
+				<Track_Name>Woman</Track_Name>
+				<Artist>Wolfmother</Artist>
+				<TrackGroup>1066kru_C_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Arena 1</BuyName>
+				<Track_Name>Arena 1</Track_Name>
+				<Artist>Misc Arena</Artist>
+				<TrackGroup>Arena_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Arena 2</BuyName>
+				<Track_Name>Arena 2</Track_Name>
+				<Artist>Misc Arena</Artist>
+				<TrackGroup>Arena_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Arena 3</BuyName>
+				<Track_Name>Arena 3</Track_Name>
+				<Artist>Misc Arena</Artist>
+				<TrackGroup>Arena_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Arena 4</BuyName>
+				<Track_Name>Arena 4</Track_Name>
+				<Artist>Misc Arena</Artist>
+				<TrackGroup>Arena_4</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Metal 1</BuyName>
+				<Track_Name>Metal 1</Track_Name>
+				<Artist>Misc Metal</Artist>
+				<TrackGroup>Metal_1</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Metal 2</BuyName>
+				<Track_Name>Metal 2</Track_Name>
+				<Artist>Misc Metal</Artist>
+				<TrackGroup>Metal_2</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Metal 3</BuyName>
+				<Track_Name>Metal 3</Track_Name>
+				<Artist>Misc Metal</Artist>
+				<TrackGroup>Metal_3</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Metal 4</BuyName>
+				<Track_Name>Metal 4</Track_Name>
+				<Artist>Misc Metal</Artist>
+				<TrackGroup>Metal_4</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Metal 5</BuyName>
+				<Track_Name>Metal 5</Track_Name>
+				<Artist>Misc Metal</Artist>
+				<TrackGroup>Metal_5</TrackGroup>
+				<Cost>1.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			</Tracks>
+		<DisplayName>MUSIC_METAL</DisplayName>
+		</Genre>
+	<Genre>
+		<Name>Reggae</Name>
+		<DisplayName>MUSIC_REGGAE</DisplayName>
+		<Tracks>
+			<Track>
+				<BuyName>Barrington Levy - Here I Come</BuyName>
+				<Track_Name>Here I Come</Track_Name>
+				<Artist>Barrington Levy</Artist>
+				<TrackGroup>1036fou_A_1</TrackGroup>
+				<Cost>0.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Beanie Man - Who Am I?</BuyName>
+				<Track_Name>Who Am I?</Track_Name>
+				<Artist>Beanie Man</Artist>
+				<TrackGroup>1036fou_A_2</TrackGroup>
+				<Cost>0.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Born Jamericans - Boom Shak A Tack</BuyName>
+				<Track_Name>Boom Shak A Tack</Track_Name>
+				<Artist>Born Jamericans</Artist>
+				<TrackGroup>1036fou_A_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Buju Banton - Hey Boy</BuyName>
+				<Track_Name>Hey Boy</Track_Name>
+				<Artist>Buju Banton</Artist>
+				<TrackGroup>1036fou_A_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Chaka Demus And Pliers - Murder She Wrote</BuyName>
+				<Track_Name>Murder She Wrote</Track_Name>
+				<Artist>Chaka Demus And Pliers</Artist>
+				<TrackGroup>1036fou_B_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Dennis Brown - Stop The Fussing And Fighting</BuyName>
+				<Track_Name>Stop The Fussing And Fighting</Track_Name>
+				<Artist>Dennis Brown</Artist>
+				<TrackGroup>1036fou_B_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Eek A Mouse - Ganja Smuggling</BuyName>
+				<Track_Name>Ganja Smuggling</Track_Name>
+				<Artist>Eek A Mouse</Artist>
+				<TrackGroup>1036fou_B_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Elephant Man - Krazy</BuyName>
+				<Track_Name>Krazy</Track_Name>
+				<Artist>Elephant Man</Artist>
+				<TrackGroup>1036fou_B_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mr. Vegas - Heads High</BuyName>
+				<Track_Name>Heads High</Track_Name>
+				<Artist>Mr. Vegas</Artist>
+				<TrackGroup>1036fou_C_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Ninja Man - Guns Out</BuyName>
+				<Track_Name>Guns Out</Track_Name>
+				<Artist>Ninja Man</Artist>
+				<TrackGroup>1036fou_C_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Vybz Kartel - Picture This</BuyName>
+				<Track_Name>Picture This</Track_Name>
+				<Artist>Vybz Kartel</Artist>
+				<TrackGroup>1036fou_C_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Genre>
+	<Genre>
+		<Name>Rock</Name>
+		<DisplayName>MUSIC_ROCK</DisplayName>
+		<Tracks>
+			<Track>
+				<BuyName>Deftones - Hole In The Earth</BuyName>
+				<Track_Name>Hole In The Earth</Track_Name>
+				<Artist>Deftones</Artist>
+				<TrackGroup>890GEN_A_1</TrackGroup>
+				<Cost>0.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Galactic F. Lyrics Born - I Got It</BuyName>
+				<Track_Name>I Got It</Track_Name>
+				<Artist>Galactic F. Lyrics Born</Artist>
+				<TrackGroup>890GEN_A_2</TrackGroup>
+				<Cost>0.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Hot Hot Heat - Let Me In</BuyName>
+				<Track_Name>Let Me In</Track_Name>
+				<Artist>Hot Hot Heat</Artist>
+				<TrackGroup>890GEN_A_3</TrackGroup>
+				<Cost>0.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Jet - Put Your Money Where Your Mouth Is</BuyName>
+				<Track_Name>Put Your Money Where Your Mouth Is</Track_Name>
+				<Artist>Jet</Artist>
+				<TrackGroup>890GEN_A_4</TrackGroup>
+				<Cost>0.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>My Chemical Romance - Teenagers</BuyName>
+				<Track_Name>Teenagers</Track_Name>
+				<Artist>My Chemical Romance</Artist>
+				<TrackGroup>890GEN_B_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Panic! At The Disco - Lying Is The Most Fun</BuyName>
+				<Track_Name>Lying Is The Most Fun</Track_Name>
+				<Artist>Panic! At The Disco</Artist>
+				<TrackGroup>890GEN_B_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Paramore - Misery Business</BuyName>
+				<Track_Name>Misery Business</Track_Name>
+				<Artist>Paramore</Artist>
+				<TrackGroup>890GEN_B_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Plain White T's - Hate</BuyName>
+				<Track_Name>Hate</Track_Name>
+				<Artist>Plain White T's</Artist>
+				<TrackGroup>890GEN_B_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Red Jumpsuit Apparatus - Face Down</BuyName>
+				<Track_Name>Face Down</Track_Name>
+				<Artist>Red Jumpsuit Apparatus</Artist>
+				<TrackGroup>890GEN_B_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Taking Back Sunday - MakeDamnSure</BuyName>
+				<Track_Name>MakeDamnSure</Track_Name>
+				<Artist>Taking Back Sunday</Artist>
+				<TrackGroup>890GEN_C_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The LIfe And Times - Coat Of Arms</BuyName>
+				<Track_Name>Coat Of Arms</Track_Name>
+				<Artist>The Life And Times</Artist>
+				<TrackGroup>890GEN_C_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Subways - Rock And Roll Queen</BuyName>
+				<Track_Name>Rock And Roll Queen</Track_Name>
+				<Artist>The Subways</Artist>
+				<TrackGroup>890GEN_C_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Used - All That I've Got</BuyName>
+				<Track_Name>All That I've Got</Track_Name>
+				<Artist>The Used</Artist>
+				<TrackGroup>890GEN_C_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Minus The Bear - Knights</BuyName>
+				<Track_Name>Knights</Track_Name>
+				<Artist>Minus The Bear</Artist>
+				<TrackGroup>890GEN_C_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Architects - Don't Call It A Ghetto</BuyName>
+				<Track_Name>Don't Call It A Ghetto</Track_Name>
+				<Artist>The Architects</Artist>
+				<TrackGroup>990UND_A_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Bound Stems - Western Biographic</BuyName>
+				<Track_Name>Western Biographic</Track_Name>
+				<Artist>Bound Stems</Artist>
+				<TrackGroup>990UND_A_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Deer Hunter - Hazel Street</BuyName>
+				<Track_Name>Hazel Street</Track_Name>
+				<Artist>Deer Hunter</Artist>
+				<TrackGroup>990UND_A_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Kasabian - Shoot The Runner</BuyName>
+				<Track_Name>Shoot The Runner</Track_Name>
+				<Artist>Kasabian</Artist>
+				<TrackGroup>990UND_A_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Marnie Stern - Every Single Line Means Something</BuyName>
+				<Track_Name>Every Single Line Means Something</Track_Name>
+				<Artist>Marnie Stern</Artist>
+				<TrackGroup>990UND_B_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Okkervil River - For Real</BuyName>
+				<Track_Name>For Real</Track_Name>
+				<Artist>Okkervil River</Artist>
+				<TrackGroup>990UND_B_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Shiner - Third Gear Scratch</BuyName>
+				<Track_Name>Third Gear Scratch</Track_Name>
+				<Artist>Shiner</Artist>
+				<TrackGroup>990UND_B_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Shipwreck - House Of Cards</BuyName>
+				<Track_Name>House Of Cards</Track_Name>
+				<Artist>Shipwreck</Artist>
+				<TrackGroup>990UND_B_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>South Street - Call In The Debts</BuyName>
+				<Track_Name>Call In The Debts</Track_Name>
+				<Artist>South Street</Artist>
+				<TrackGroup>990UND_B_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Rakes - Terror</BuyName>
+				<Track_Name>Terror</Track_Name>
+				<Artist>The Rakes</Artist>
+				<TrackGroup>990UND_C_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Saps - Dead Friends</BuyName>
+				<Track_Name>Dead Friends</Track_Name>
+				<Artist>The Saps</Artist>
+				<TrackGroup>990UND_C_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Thermals - Here's Your Future</BuyName>
+				<Track_Name>Here's Your Future</Track_Name>
+				<Artist>The Thermals</Artist>
+				<TrackGroup>990UND_C_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Twilight Sad - And She Would Darken The Memory</BuyName>
+				<Track_Name>And She Would Darken The Memory</Track_Name>
+				<Artist>The Twilight Sad</Artist>
+				<TrackGroup>990UND_C_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Tokyo Police Club - Cheer It On</BuyName>
+				<Track_Name>Cheer It On</Track_Name>
+				<Artist>Tokyo Police Club</Artist>
+				<TrackGroup>990UND_C_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>A-Ha - Take On Me</BuyName>
+				<Track_Name>Take On Me</Track_Name>
+				<Artist>A-Ha</Artist>
+				<TrackGroup>10777MIX_A_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Culture Club - Karma Chameleon</BuyName>
+				<Track_Name>Karma Chameleon</Track_Name>
+				<Artist>Culture Club</Artist>
+				<TrackGroup>10777MIX_A_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Duran Duran - The Reflex</BuyName>
+				<Track_Name>The Reflex</Track_Name>
+				<Artist>Duran Duran</Artist>
+				<TrackGroup>10777MIX_A_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Europe - The Final Countdown</BuyName>
+				<Track_Name>The Final Countdown</Track_Name>
+				<Artist>Europe</Artist>
+				<TrackGroup>10777MIX_A_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Hall and Oates - Out of Touch</BuyName>
+				<Track_Name>Out of Touch</Track_Name>
+				<Artist>Hall and Oates</Artist>
+				<TrackGroup>10777MIX_B_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Loverboy - Working For The Weekend</BuyName>
+				<Track_Name>Working For The Weekend</Track_Name>
+				<Artist>Loverboy</Artist>
+				<TrackGroup>10777MIX_B_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Men At Work - Land Down Under</BuyName>
+				<Track_Name>Land Down Under</Track_Name>
+				<Artist>Men At Work</Artist>
+				<TrackGroup>10777MIX_B_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Night Ranger - Sister Christian</BuyName>
+				<Track_Name>Sister Christian</Track_Name>
+				<Artist>Night Ranger</Artist>
+				<TrackGroup>10777MIX_B_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Simple Minds - Don't You Forget About Me</BuyName>
+				<Track_Name>Don't You Forget About Me</Track_Name>
+				<Artist>Simple Minds</Artist>
+				<TrackGroup>10777MIX_C_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Tears For Fears - Everybody Wants To Rule The World</BuyName>
+				<Track_Name>Everybody Wants To Rule The World</Track_Name>
+				<Artist>Tears For Fears</Artist>
+				<TrackGroup>10777MIX_C_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Psychedelic Furs - Pretty In Pink</BuyName>
+				<Track_Name>Pretty In Pink</Track_Name>
+				<Artist>The Psychedelic Furs</Artist>
+				<TrackGroup>10777MIX_C_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Genre>
+	<Genre>
+		<Name>Funk</Name>
+		<DisplayName>MUSIC_FUNK</DisplayName>
+		<Tracks>
+			<Track>
+				<BuyName>Amnesty - Love Fades</BuyName>
+				<Track_Name>Love Fades</Track_Name>
+				<Artist>Amnesty</Artist>
+				<TrackGroup>984funk_A_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Bad Medicine - Trespasser</BuyName>
+				<Track_Name>Trespasser</Track_Name>
+				<Artist>Bad Medicine</Artist>
+				<TrackGroup>984funk_A_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Chocolate Star - Gotta Get Your Love</BuyName>
+				<Track_Name>Gotta Get Your Love</Track_Name>
+				<Artist>Chocolate Star</Artist>
+				<TrackGroup>984funk_A_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Cliff Nyren - Keep Running</BuyName>
+				<Track_Name>Keep Running</Track_Name>
+				<Artist>Cliff Nyren</Artist>
+				<TrackGroup>984funk_A_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Ebony Rhythm Band - Drugs Ain't Cool</BuyName>
+				<Track_Name>Drugs Ain't Cool</Track_Name>
+				<Artist>Ebony Rhythm Band</Artist>
+				<TrackGroup>984funk_B_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Leon Mitchison - Street Scene</BuyName>
+				<Track_Name>Street Scene</Track_Name>
+				<Artist>Leon Mitchison</Artist>
+				<TrackGroup>984funk_B_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Luther Davis Group - You Can Be A Star</BuyName>
+				<Track_Name>You Can Be A Star</Track_Name>
+				<Artist>Luther Davis Group</Artist>
+				<TrackGroup>984funk_B_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Pure Essence - Wake Up Pt. 1 and 2</BuyName>
+				<Track_Name>Wake Up Pt. 1 and 2</Track_Name>
+				<Artist>Pure Essence</Artist>
+				<TrackGroup>984funk_B_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Sheila Skipworth - Look What You've Done To Me</BuyName>
+				<Track_Name>Look What You've Done To Me</Track_Name>
+				<Artist>Sheila Skipworth</Artist>
+				<TrackGroup>984funk_B_5</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Dayton Sidewinders - Funky In Here</BuyName>
+				<Track_Name>Funky In Here</Track_Name>
+				<Artist>Dayton Sidewinders</Artist>
+				<TrackGroup>984funk_C_1</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Rhythm Machine - Put A Smile On Time</BuyName>
+				<Track_Name>Put A Smile On Time</Track_Name>
+				<Artist>The Rhythm Machine</Artist>
+				<TrackGroup>984funk_C_2</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Soul Seven - The Cissy's Thang</BuyName>
+				<Track_Name>The Cissy's Thang</Track_Name>
+				<Artist>The Soul Seven</Artist>
+				<TrackGroup>984funk_C_3</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>UPC Allstars - Don't Get Discouraged</BuyName>
+				<Track_Name>Don't Get Discouraged</Track_Name>
+				<Artist>UPC Allstars</Artist>
+				<TrackGroup>984funk_C_4</TrackGroup>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Genre>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Genre</Name>
+	<Type>TableDescription</Type>
+	<Required>false</Required>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>localized_exports\StoreExports.xtbl</File>
+			<Type>StoreExports_Identifier.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Tracks</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Track</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>BuyName</Name>
+				<Type>String</Type>
+				<Display_Name>Buy Name</Display_Name>
+				</Element>
+			<Element>
+				<Name>Track_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Track Name</Display_Name>
+				</Element>
+			<Element>
+				<Name>Artist</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>TrackGroup</Name>
+				<Type>Reference</Type>
+				<Display_Name>Track</Display_Name>
+				<Reference>
+					<File>radio_groups.xtbl</File>
+					<Type>RadioGroups.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Cost</Name>
+				<Type>Float</Type>
+				<Default>20.0</Default>
+				</Element>
+			<Element>
+				<Name>Locked</Name>
+				<Type>Selection</Type>
+				<Default>False</Default>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			</Element>
+		<Min_Children>1</Min_Children>
+		<Num_Display_Rows>64</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,4203 @@
+<root>
+<Table>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>standard driver</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Turn Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn left</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Turn Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn right</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Reverse</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>drive reverse turn left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>turn left</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>drive reverse turn right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>turn right</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Window Left Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Window Left Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Window Left Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Heli Floor Rider Left</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Jet driver</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Plane Passenger Left</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Plane Passenger Right</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>motorcycle driver</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Drive Stopped</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Fast</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Fast</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Turn Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn left</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Turn Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn right</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Reverse</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Wheelie</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>wheelie</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>standard passenger left</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Window Left Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Window Left Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Window Left Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Gat Injured inCar</Animation>
+				<Parameter1>injured</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Gat Injured inCar</Animation>
+				<Parameter1>injured</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>standard passenger nofire</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Wavecraft driver</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Stopped</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Fast</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Fast</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Turn Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn left</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Turn Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn right</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Reverse</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right Alt</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Heli Driver</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>motorcycle rider</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Fast</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Turn Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn left</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Turn Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn right</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride ready back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride ready back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride ready left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride ready back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride ready left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride ready right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Wheelie</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>wheelie</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Heli Back Rider Left</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Heli Back Rider Right</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Wavecraft Rider</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward fast</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn left</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn right</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Reverse</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride ready back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>APC Passenger</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>APC Back Left</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>APC Back Right</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Heli Floor SS03 Left</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>heli Rifle Ready A</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>heli Rifle Ready A</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Heli Floor SS03 Right</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>heli Rifle Ready B</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>heli Rifle Ready B</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Test FLoor Copter</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride right ready back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride right ready left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride right ready right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride right ready back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride right ready left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride right ready right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride right Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>ride right ready right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Heli Floor Rider Right</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>standard passenger right</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Window Right Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Window Right Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Window Right Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>alternate</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Driver NoFire</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn left</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn right</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Passenger NoFire</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Heli Fighter Skid</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>heliasslt rescue</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>heliasslt rescue</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>heliasslt rescue</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>Prison Boat</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Fine Aim Stand</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>boat driver</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Turn Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn left</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Turn Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn right</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Reverse</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>boat passenger left</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>boat passenger right</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>boat passenger leftback</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Left Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Left Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Leftback Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Leftback Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Leftback Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Leftback Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Leftback Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Leftback Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Leftback Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Leftback Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Leftback Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Leftback Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Leftback Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Leftback Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>boat passenger rightback</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Rightback Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Rightback Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Rightback Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Rightback Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Rightback Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Rightback Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Rightback Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Rightback Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Rightback Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Rightback Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Rightback Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Ride Rightback Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>PyroBox Ride</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>pyrobox ready</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	<Vehicle_Interaction_Animation_Set>
+		<Name>backhoe driver</Name>
+		<Animation_Grid>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Turn Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn left</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Turn Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>turn right</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Reverse</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>none</Parameter4>
+				<Parameter5>none</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Backhoe Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>stopped</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Backhoe Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>forward</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Backhoe Drive Ready Forward</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim forward</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Back</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim back</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Left</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim left</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			<Element>
+				<Animation>Drive Ready Right</Animation>
+				<Parameter1>passenger</Parameter1>
+				<Parameter2>reverse</Parameter2>
+				<Parameter3>none</Parameter3>
+				<Parameter4>combat ready</Parameter4>
+				<Parameter5>aim right</Parameter5>
+				<Parameter6>none</Parameter6>
+				</Element>
+			</Animation_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_Interaction_Animation_Set>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Vehicle_Interaction_Animation_Set</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Vehicle Interaction Animation Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Animation_Grid</Name>
+		<Type>Grid</Type>
+		<Display_Name>Animation Grid</Display_Name>
+		<Element>
+			<Name>Element</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Animation</Name>
+				<Type>Reference</Type>
+				<Display_Name>Animation State</Display_Name>
+				<Reference>
+					<File>anim_states.xtbl</File>
+					<Type>State.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Parameter1</Name>
+				<Type>Selection</Type>
+				<Display_Name>Occupant Type</Display_Name>
+				<Default>none</Default>
+				<Choice>none</Choice>
+				<Choice>hostage a</Choice>
+				<Choice>hostage b</Choice>
+				<Choice>hostage c</Choice>
+				<Choice>passenger</Choice>
+				<Choice>rocker</Choice>
+				<Choice>injured</Choice>
+				</Element>
+			<Element>
+				<Name>Parameter2</Name>
+				<Type>Selection</Type>
+				<Display_Name>Motion Type</Display_Name>
+				<Default>none</Default>
+				<Choice>none</Choice>
+				<Choice>reverse</Choice>
+				<Choice>stopped</Choice>
+				<Choice>forward</Choice>
+				<Choice>forward fast</Choice>
+				<Choice>wheelie</Choice>
+				<Choice>stoppie</Choice>
+				</Element>
+			<Element>
+				<Name>Parameter3</Name>
+				<Type>Selection</Type>
+				<Display_Name>Turn Direction</Display_Name>
+				<Default>none</Default>
+				<Choice>none</Choice>
+				<Choice>turn left</Choice>
+				<Choice>turn right</Choice>
+				</Element>
+			<Element>
+				<Name>Parameter4</Name>
+				<Type>Selection</Type>
+				<Display_Name>Combat Mode</Display_Name>
+				<Default>none</Default>
+				<Choice>none</Choice>
+				<Choice>combat ready</Choice>
+				</Element>
+			<Element>
+				<Name>Parameter5</Name>
+				<Type>Selection</Type>
+				<Display_Name>Combat Ready Direction</Display_Name>
+				<Default>none</Default>
+				<Choice>none</Choice>
+				<Choice>aim forward</Choice>
+				<Choice>aim back</Choice>
+				<Choice>aim left</Choice>
+				<Choice>aim right</Choice>
+				</Element>
+			<Element>
+				<Name>Parameter6</Name>
+				<Type>Selection</Type>
+				<Display_Name>Alternate</Display_Name>
+				<Default>none</Default>
+				<Choice>none</Choice>
+				<Choice>alternate</Choice>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

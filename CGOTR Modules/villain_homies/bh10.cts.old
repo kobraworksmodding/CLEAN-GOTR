@@ -1,0 +1,2211 @@
+// -------
+#Groups
+// -------
+
+$Group:	"bh10_$standard_lieutenants"
+$Group:	"bh10_$rocket_lieutenants"
+$Group:	"bh10_$warehouse_soldiers"
+$Group:	"bh10_$maero"
+$Group:	"bh10_$player_homies"
+$Group:	"bh10_$spawnpoints"
+$Group:	"bh10_$saints1"
+$Group:	"bh10_$saints2"
+$Group:	"bh10_$saints3"
+$Group:	"bh10_$saints4"
+$Group:	"bh10_$los_dummies1"
+$Group:	"bh10_$los_dummies2"
+$Group:	"bh10_$los_dummies3"
+$Group:	"bh10_$warehouse_floor_1"
+$Group:	"bh10_$warehouse_floor_2"
+$Group:	"bh10_$warehouse_floor_3"
+$Group:	"bh10_$warehouse_floor_4"
+$Group:	"bh10_$maero_exploits"
+$Group:	"bh10_$courtesy_car"
+$Group:	"bh10_$courtesy_car_coop"
+$Group:	"bh10_$Ggrenades"
+$Group:	"bh10_$warehouse_floor_5"
+// -------
+#Navpoints
+// -------
+
+$Navpoint:	"bh10_$waypoint_1"
+$Type:		"ground"
+$Pos:			<-392.283752 -2.441738 1388.889893>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n000"
+$Type:		"ground"
+$Pos:			<137.075760 -3.998999 -15.614249>
+$Orient:		[2.522153]
+
+$Navpoint:	"bh10_$remote_start"
+$Type:		"ground"
+$Pos:			<140.677017 -3.998999 -14.291058>
+$Orient:		[2.994395]
+
+$Navpoint:	"bh10_$player_start"
+$Type:		"ground"
+$Pos:			<138.296829 -3.999000 -12.750259>
+$Orient:		[2.574811]
+
+$Navpoint:	"bh10_$c000"
+$Type:		"ground"
+$Pos:			<-731.899353 -0.894346 1543.257202>
+$Orient:		[2.418624]
+
+$Navpoint:	"bh10_$c001"
+$Type:		"ground"
+$Pos:			<-539.719910 -4.730480 1450.804565>
+$Orient:		[2.819763]
+
+$Navpoint:	"bh10_$c002"
+$Type:		"ground"
+$Pos:			<-606.565796 -5.810601 1430.205322>
+$Orient:		[-1.978573]
+
+$Navpoint:	"bh10_$c003"
+$Type:		"ground"
+$Pos:			<-661.890442 -0.894330 1417.191772>
+$Orient:		[2.053275]
+
+$Navpoint:	"bh10_$c004"
+$Type:		"ground"
+$Pos:			<-700.037354 -0.894354 1464.851074>
+$Orient:		[0.927625]
+
+$Navpoint:	"bh10_$c005"
+$Type:		"ground"
+$Pos:			<-703.272095 -0.870057 1609.343872>
+$Orient:		[-1.889261]
+
+$Navpoint:	"bh10_$c009"
+$Type:		"ground"
+$Pos:			<-677.858887 1.284784 1515.609253>
+$Orient:		[-3.096482]
+
+$Navpoint:	"bh10_$c010"
+$Type:		"ground"
+$Pos:			<-687.546814 -0.869608 1610.458130>
+$Orient:		[<-0.234262 0 0.972173> <-0.217531 0.974645 -0.052418> <-0.947524 -0.223757 -0.228323>]
+
+$Navpoint:	"bh10_$c011"
+$Type:		"floating"
+$Pos:			<-568.844604 12.326784 1405.191895>
+$Orient:		[<-0.964821 0 -0.262908> <-0.072675 0.961035 0.266704> <0.252664 0.276428 -0.927226>]
+
+$Navpoint:	"bh10_$c012"
+$Type:		"ground"
+$Pos:			<-645.358154 0.715521 1495.107666>
+$Orient:		[3.086368]
+
+$Navpoint:	"bh10_$waypoint_2"
+$Type:		"ground"
+$Pos:			<-677.137329 -0.897000 1627.907715>
+$Orient:		[0.252989]
+
+$Navpoint:	"bh10_$maero"
+$Type:		"ground"
+$Pos:			<-674.791748 37.452740 1543.471191>
+$Orient:		[<0.955105 0 0.296266> <-0.065984 0.974883 0.212719> <-0.288825 -0.222718 0.931116>]
+
+$Navpoint:	"bh10_$c015"
+$Type:		"ground"
+$Pos:			<-696.576660 15.756000 1592.421875>
+$Orient:		[-0.236364]
+
+$Navpoint:	"bh10_$c016"
+$Type:		"ground"
+$Pos:			<-698.432434 15.756000 1591.825073>
+$Orient:		[-0.054976]
+
+$Navpoint:	"bh10_$c017"
+$Type:		"ground"
+$Pos:			<-679.346008 15.756001 1594.371338>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c018"
+$Type:		"ground"
+$Pos:			<-671.641907 15.756000 1560.479126>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c019"
+$Type:		"ground"
+$Pos:			<-677.680054 15.756001 1561.803711>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c020"
+$Type:		"ground"
+$Pos:			<-679.338379 27.548998 1585.085449>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c021"
+$Type:		"ground"
+$Pos:			<-688.733582 27.549000 1584.982544>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c022"
+$Type:		"ground"
+$Pos:			<-674.014038 22.332001 1588.659424>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c023"
+$Type:		"ground"
+$Pos:			<-666.243042 22.331999 1569.590942>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c024"
+$Type:		"ground"
+$Pos:			<-686.464600 27.549002 1588.238037>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c025"
+$Type:		"ground"
+$Pos:			<-689.152405 27.549000 1586.885498>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c026"
+$Type:		"ground"
+$Pos:			<-682.524902 27.548998 1574.598022>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c027"
+$Type:		"ground"
+$Pos:			<-684.586487 27.549004 1589.067749>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c028"
+$Type:		"ground"
+$Pos:			<-679.127380 27.549000 1547.006104>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c029"
+$Type:		"ground"
+$Pos:			<-658.542664 27.548998 1543.217041>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c030"
+$Type:		"ground"
+$Pos:			<-674.649658 27.549004 1542.029785>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c031"
+$Type:		"ground"
+$Pos:			<-670.169861 32.271004 1531.852173>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c032"
+$Type:		"ground"
+$Pos:			<142.172821 -3.998998 -15.244898>
+$Orient:		[-0.256283]
+
+$Navpoint:	"bh10_$c033"
+$Type:		"ground"
+$Pos:			<135.645096 -3.999000 -14.521275>
+$Orient:		[2.387592]
+
+$Navpoint:	"bh10_$c034"
+$Type:		"ground"
+$Pos:			<-387.743652 -2.429508 1396.478882>
+$Orient:		[0.455507]
+
+$Navpoint:	"bh10_$c035"
+$Type:		"ground"
+$Pos:			<-386.042328 -2.433156 1398.060791>
+$Orient:		[-1.721363]
+
+$Navpoint:	"bh10_$c036"
+$Type:		"ground"
+$Pos:			<-388.253143 -2.427961 1397.652466>
+$Orient:		[1.282205]
+
+$Navpoint:	"bh10_$c037"
+$Type:		"ground"
+$Pos:			<-385.802979 -2.438620 1396.508423>
+$Orient:		[-0.862687]
+
+$Navpoint:	"bh10_$v000"
+$Type:		"ground"
+$Pos:			<-387.639862 -2.426027 1400.043457>
+$Orient:		[-1.616503]
+
+$Navpoint:	"bh10_$n064"
+$Type:		"ground"
+$Pos:			<-552.058350 -2.392951 1368.262085>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$v001"
+$Type:		"ground"
+$Pos:			<-442.863495 -2.085459 1351.378052>
+$Orient:		[-0.781013]
+
+$Navpoint:	"bh10_$c039"
+$Type:		"ground"
+$Pos:			<-441.719086 -1.989162 1347.044189>
+$Orient:		[-0.580040]
+
+$Navpoint:	"bh10_$c040"
+$Type:		"ground"
+$Pos:			<-440.765350 -2.037937 1348.502563>
+$Orient:		[-0.580040]
+
+$Navpoint:	"bh10_$c038"
+$Type:		"ground"
+$Pos:			<-440.271423 -2.068429 1350.993774>
+$Orient:		[-0.580040]
+
+$Navpoint:	"bh10_$c041"
+$Type:		"ground"
+$Pos:			<-439.050751 -1.752372 1348.921387>
+$Orient:		[-0.580040]
+
+$Navpoint:	"bh10_$v002"
+$Type:		"ground"
+$Pos:			<-668.448853 -0.924585 1250.589844>
+$Orient:		[-0.447613]
+
+$Navpoint:	"bh10_$c042"
+$Type:		"ground"
+$Pos:			<-662.245422 0.561311 1252.187378>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$c043"
+$Type:		"ground"
+$Pos:			<-663.785339 0.561313 1254.499390>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$c044"
+$Type:		"ground"
+$Pos:			<-665.664551 0.381840 1253.927246>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$c045"
+$Type:		"ground"
+$Pos:			<-664.497314 0.512385 1252.327759>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$v003"
+$Type:		"ground"
+$Pos:			<-616.433350 0.281999 1261.825073>
+$Orient:		[-1.986169]
+
+$Navpoint:	"bh10_$v004"
+$Type:		"ground"
+$Pos:			<-613.810181 0.282001 1262.919800>
+$Orient:		[-1.977147]
+
+$Navpoint:	"bh10_$v005"
+$Type:		"ground"
+$Pos:			<-621.692200 0.533559 1259.598633>
+$Orient:		[-2.027289]
+
+$Navpoint:	"bh10_$v006"
+$Type:		"ground"
+$Pos:			<-619.034424 0.281999 1260.706665>
+$Orient:		[-1.988112]
+
+$Navpoint:	"bh10_$c046"
+$Type:		"ground"
+$Pos:			<-620.575256 0.283447 1257.794189>
+$Orient:		[-0.074773]
+
+$Navpoint:	"bh10_$c047"
+$Type:		"ground"
+$Pos:			<-618.869019 0.282002 1258.296509>
+$Orient:		[-0.074773]
+
+$Navpoint:	"bh10_$c048"
+$Type:		"ground"
+$Pos:			<-616.889160 0.289999 1258.937866>
+$Orient:		[-0.074773]
+
+$Navpoint:	"bh10_$c049"
+$Type:		"ground"
+$Pos:			<-614.358643 0.286151 1260.228638>
+$Orient:		[-0.074773]
+
+$Navpoint:	"bh10_$n001"
+$Type:		"floating"
+$Pos:			<-561.424866 6.326026 1304.353516>
+$Orient:		[<0.987741 0 0.156103> <0.000374 0.999997 -0.002365> <-0.156102 0.002395 0.987738>]
+
+$Navpoint:	"bh10_$n002"
+$Type:		"floating"
+$Pos:			<-560.136108 6.304175 1305.022339>
+$Orient:		[<0.966390 0 0.257079> <-0.054900 0.976932 0.206374> <-0.251148 -0.213551 0.944098>]
+
+$Navpoint:	"bh10_$n003"
+$Type:		"floating"
+$Pos:			<-558.873901 6.158111 1304.843506>
+$Orient:		[<0.972718 0 0.231989> <0.010966 0.998882 -0.045981> <-0.231730 0.047271 0.971631>]
+
+$Navpoint:	"bh10_$n004"
+$Type:		"floating"
+$Pos:			<-557.706299 6.212973 1304.632935>
+$Orient:		[<0.995453 0 0.095258> <-0.027361 0.957862 0.285924> <-0.091244 -0.287230 0.953506>]
+
+$Navpoint:	"bh10_$c050"
+$Type:		"ground"
+$Pos:			<-442.840118 -2.055854 1354.755859>
+$Orient:		[-0.509492]
+
+$Navpoint:	"bh10_$c051"
+$Type:		"ground"
+$Pos:			<-672.871948 -1.824230 1249.987915>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$c052"
+$Type:		"ground"
+$Pos:			<-624.135620 0.283416 1261.342651>
+$Orient:		[2.676934]
+
+$Navpoint:	"bh10_$v007"
+$Type:		"ground"
+$Pos:			<148.855438 -3.999000 -20.942823>
+$Orient:		[-2.558674]
+
+$Navpoint:	"bh10_$n005"
+$Type:		"ground"
+$Pos:			<-691.093506 15.753329 1628.059692>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n006"
+$Type:		"ground"
+$Pos:			<-655.501099 15.756905 1533.612793>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n007"
+$Type:		"ground"
+$Pos:			<-665.477966 27.549002 1540.700562>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n008"
+$Type:		"ground"
+$Pos:			<-663.666931 32.220001 1529.582397>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n009"
+$Type:		"ground"
+$Pos:			<-697.555237 22.332001 1573.998413>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n010"
+$Type:		"ground"
+$Pos:			<-695.721191 27.548998 1568.133423>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$c053"
+$Type:		"ground"
+$Pos:			<-692.749817 15.753756 1614.296143>
+$Orient:		[2.412024]
+
+$Navpoint:	"bh10_$c054"
+$Type:		"ground"
+$Pos:			<-684.935181 15.753755 1614.781494>
+$Orient:		[2.855739]
+
+$Navpoint:	"bh10_$c055"
+$Type:		"ground"
+$Pos:			<-680.732300 15.753754 1621.083496>
+$Orient:		[-3.071296]
+
+$Navpoint:	"bh10_$c056"
+$Type:		"ground"
+$Pos:			<-673.132813 15.756906 1596.151733>
+$Orient:		[-0.525784]
+
+$Navpoint:	"bh10_$c057"
+$Type:		"ground"
+$Pos:			<-684.257080 15.756905 1577.639648>
+$Orient:		[-0.417900]
+
+$Navpoint:	"bh10_$c058"
+$Type:		"ground"
+$Pos:			<-680.854553 22.332478 1598.206421>
+$Orient:		[-0.573605]
+
+$Navpoint:	"bh10_$c059"
+$Type:		"ground"
+$Pos:			<-680.430542 15.756904 1594.017090>
+$Orient:		[-0.061563]
+
+$Navpoint:	"bh10_$c060"
+$Type:		"ground"
+$Pos:			<-682.956909 15.756903 1580.170898>
+$Orient:		[-0.257384]
+
+$Navpoint:	"bh10_$c061"
+$Type:		"ground"
+$Pos:			<-689.140808 15.756903 1596.390503>
+$Orient:		[-0.094772]
+
+$Navpoint:	"bh10_$c062"
+$Type:		"ground"
+$Pos:			<-678.888672 22.332476 1534.017944>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$c063"
+$Type:		"ground"
+$Pos:			<-668.869873 22.332478 1526.608032>
+$Orient:		[-0.709822]
+
+$Navpoint:	"bh10_$c064"
+$Type:		"ground"
+$Pos:			<-674.582275 22.332478 1522.883789>
+$Orient:		[-0.369662]
+
+$Navpoint:	"bh10_$c065"
+$Type:		"ground"
+$Pos:			<-691.238220 22.332479 1546.709839>
+$Orient:		[2.393320]
+
+$Navpoint:	"bh10_$c066"
+$Type:		"ground"
+$Pos:			<-687.132019 22.332479 1541.342773>
+$Orient:		[2.275283]
+
+$Navpoint:	"bh10_$c067"
+$Type:		"ground"
+$Pos:			<-697.143616 22.332478 1568.797119>
+$Orient:		[2.875812]
+
+$Navpoint:	"bh10_$c068"
+$Type:		"ground"
+$Pos:			<-687.757324 22.332478 1555.778931>
+$Orient:		[2.577321]
+
+$Navpoint:	"bh10_$c069"
+$Type:		"ground"
+$Pos:			<-682.188843 22.332476 1545.687866>
+$Orient:		[2.575783]
+
+$Navpoint:	"bh10_$c070"
+$Type:		"ground"
+$Pos:			<-684.099243 22.332476 1549.829346>
+$Orient:		[2.762063]
+
+$Navpoint:	"bh10_$c071"
+$Type:		"ground"
+$Pos:			<-662.808105 27.547632 1542.103882>
+$Orient:		[0.985817]
+
+$Navpoint:	"bh10_$c072"
+$Type:		"ground"
+$Pos:			<-664.625488 27.547634 1542.024414>
+$Orient:		[1.046192]
+
+$Navpoint:	"bh10_$c074"
+$Type:		"ground"
+$Pos:			<-678.048645 27.547634 1572.206177>
+$Orient:		[2.528048]
+
+$Navpoint:	"bh10_$c075"
+$Type:		"ground"
+$Pos:			<-691.974915 27.547634 1584.282715>
+$Orient:		[1.935243]
+
+$Navpoint:	"bh10_$c076"
+$Type:		"ground"
+$Pos:			<-674.027832 27.547636 1558.168091>
+$Orient:		[2.097736]
+
+$Navpoint:	"bh10_$c077"
+$Type:		"ground"
+$Pos:			<-680.262329 27.547634 1590.214722>
+$Orient:		[-3.085428]
+
+$Navpoint:	"bh10_$c078"
+$Type:		"ground"
+$Pos:			<-679.411377 27.547634 1566.870239>
+$Orient:		[2.708537]
+
+$Navpoint:	"bh10_$c079"
+$Type:		"ground"
+$Pos:			<-672.428772 27.547634 1561.704468>
+$Orient:		[2.356527]
+
+$Navpoint:	"bh10_$c080"
+$Type:		"ground"
+$Pos:			<-678.450378 22.356859 1588.437988>
+$Orient:		[-3.093658]
+
+$Navpoint:	"bh10_$c081"
+$Type:		"ground"
+$Pos:			<-680.390442 22.332479 1596.810913>
+$Orient:		[2.865443]
+
+$Navpoint:	"bh10_$c082"
+$Type:		"ground"
+$Pos:			<-686.874390 22.332478 1576.892700>
+$Orient:		[2.047511]
+
+$Navpoint:	"bh10_$c083"
+$Type:		"ground"
+$Pos:			<-666.981934 22.332478 1557.404541>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$c084"
+$Type:		"ground"
+$Pos:			<-679.320740 22.332478 1569.650146>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$c085"
+$Type:		"ground"
+$Pos:			<-673.617493 22.332478 1563.295898>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$c086"
+$Type:		"ground"
+$Pos:			<-675.657227 22.332478 1571.759766>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$c087"
+$Type:		"ground"
+$Pos:			<-665.238708 22.332478 1549.181519>
+$Orient:		[-0.103758]
+
+$Navpoint:	"bh10_$c088"
+$Type:		"ground"
+$Pos:			<-677.342529 22.332476 1557.801147>
+$Orient:		[-0.113001]
+
+$Navpoint:	"bh10_$n_maero_test_local"
+$Type:		"ground"
+$Pos:			<-681.825317 36.897564 1579.637817>
+$Orient:		[2.903457]
+
+$Navpoint:	"bh10_$n_maero_test_remote"
+$Type:		"ground"
+$Pos:			<-687.855652 36.897709 1577.373413>
+$Orient:		[2.793868]
+
+$Navpoint:	"bh10_$t_low_ground"
+$Type:		"floating"
+$Pos:			<-677.272156 34.740311 1552.135620>
+$Orient:		[<-0.960329 0 -0.278871> <0.052677 0.981997 -0.181401> <0.273851 -0.188895 -0.943040>]
+
+$Navpoint:	"bh10_$t_high_ground"
+$Type:		"floating"
+$Pos:			<-688.368652 37.330902 1596.178833>
+$Orient:		[<-0.953002 0 -0.302963> <0.004690 0.999880 -0.014754> <0.302927 -0.015482 -0.952888>]
+
+$Navpoint:	"bh10_$n011"
+$Type:		"ground"
+$Pos:			<-661.379028 32.270996 1553.202637>
+$Orient:		[-0.184746]
+
+$Navpoint:	"bh10_$t_hiding"
+$Type:		"ground"
+$Pos:			<-674.603394 32.982494 1547.199585>
+$Orient:		[-0.283269]
+
+$Navpoint:	"bh10_$n012"
+$Type:		"ground"
+$Pos:			<-665.050171 32.669449 1551.734131>
+$Orient:		[-0.292851]
+
+$Navpoint:	"bh10_$n013"
+$Type:		"ground"
+$Pos:			<-669.897644 33.464165 1550.905762>
+$Orient:		[-0.348817]
+
+$Navpoint:	"bh10_$n014"
+$Type:		"ground"
+$Pos:			<-673.794861 33.275673 1549.805420>
+$Orient:		[-0.295539]
+
+$Navpoint:	"bh10_$n015"
+$Type:		"ground"
+$Pos:			<-675.307373 33.296104 1549.535278>
+$Orient:		[-0.314959]
+
+$Navpoint:	"bh10_$n016"
+$Type:		"ground"
+$Pos:			<-676.799927 33.287708 1549.039429>
+$Orient:		[-0.319388]
+
+$Navpoint:	"bh10_$n017"
+$Type:		"ground"
+$Pos:			<-678.649353 33.270962 1548.374390>
+$Orient:		[-0.272133]
+
+$Navpoint:	"bh10_$n018"
+$Type:		"ground"
+$Pos:			<-682.798645 32.702744 1546.985352>
+$Orient:		[-0.167839]
+
+$Navpoint:	"bh10_$n019"
+$Type:		"ground"
+$Pos:			<-686.916809 32.681690 1546.232056>
+$Orient:		[-0.292418]
+
+$Navpoint:	"bh10_$n020"
+$Type:		"ground"
+$Pos:			<-691.146057 33.070347 1545.649292>
+$Orient:		[-0.227805]
+
+$Navpoint:	"bh10_$n021"
+$Type:		"ground"
+$Pos:			<-663.227356 32.923901 1552.449219>
+$Orient:		[-0.236854]
+
+$Navpoint:	"bh10_$n022"
+$Type:		"ground"
+$Pos:			<-667.312439 32.584934 1551.162964>
+$Orient:		[-0.236092]
+
+$Navpoint:	"bh10_$n023"
+$Type:		"ground"
+$Pos:			<-671.986755 33.250252 1550.120483>
+$Orient:		[-0.295554]
+
+$Navpoint:	"bh10_$n024"
+$Type:		"ground"
+$Pos:			<-680.466064 33.259842 1547.763794>
+$Orient:		[-0.284968]
+
+$Navpoint:	"bh10_$n025"
+$Type:		"ground"
+$Pos:			<-684.845825 32.375515 1546.371826>
+$Orient:		[-0.286091]
+
+$Navpoint:	"bh10_$n026"
+$Type:		"ground"
+$Pos:			<-688.786133 32.985317 1545.677856>
+$Orient:		[-0.177215]
+
+$Navpoint:	"bh10_$n027"
+$Type:		"ground"
+$Pos:			<-673.186218 37.818001 1541.654297>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$t_exploit_exit_1"
+$Type:		"ground"
+$Pos:			<-674.511108 32.880478 1546.280762>
+$Orient:		[-0.278321]
+
+$Navpoint:	"bh10_$t_exploit_exit_2"
+$Type:		"ground"
+$Pos:			<-700.955627 33.534863 1577.917725>
+$Orient:		[-0.314914]
+
+$Navpoint:	"bh10_$t_exploit_exit_3"
+$Type:		"ground"
+$Pos:			<-668.307983 33.366741 1585.756836>
+$Orient:		[-0.286782]
+
+$Navpoint:	"bh10_$t_exploit_exit_4"
+$Type:		"floating"
+$Pos:			<-692.568604 36.672020 1597.655029>
+$Orient:		[<-0.944799 0 -0.327649> <0.005482 0.999860 -0.015809> <0.327603 -0.016733 -0.944667>]
+
+$Navpoint:	"bh10_$t_exploit_enter_1"
+$Type:		"ground"
+$Pos:			<-673.781067 32.271004 1543.649658>
+$Orient:		[-0.288947]
+
+$Navpoint:	"bh10_$t_exploit_enter_2"
+$Type:		"ground"
+$Pos:			<-687.529175 32.270958 1586.614258>
+$Orient:		[-0.249000]
+
+$Navpoint:	"bh10_$t_exploit_enter_3"
+$Type:		"ground"
+$Pos:			<-694.106079 32.271004 1614.038208>
+$Orient:		[-0.233664]
+
+$Navpoint:	"bh10_$t_exploit_area_1a"
+$Type:		"ground"
+$Pos:			<-700.852722 32.271000 1580.857300>
+$Orient:		[-0.280284]
+
+$Navpoint:	"bh10_$t_exploit_area_1b"
+$Type:		"ground"
+$Pos:			<-670.190613 32.271000 1588.264282>
+$Orient:		[-0.247525]
+
+$Navpoint:	"bh10_$t_exploit_area_2"
+$Type:		"ground"
+$Pos:			<-695.133606 32.271000 1618.365234>
+$Orient:		[-0.287026]
+
+$Navpoint:	"bh10_$t_exploit_enter_4"
+$Type:		"ground"
+$Pos:			<-687.913818 27.549002 1591.949951>
+$Orient:		[-0.257112]
+
+$Navpoint:	"bh10_$t_exploit_area_3"
+$Type:		"ground"
+$Pos:			<-696.520569 27.549000 1619.430908>
+$Orient:		[-0.285649]
+
+$Navpoint:	"bh10_$c006"
+$Type:		"ground"
+$Pos:			<-708.656189 27.549000 1607.441650>
+$Orient:		[2.779606]
+
+$Navpoint:	"bh10_$c007"
+$Type:		"ground"
+$Pos:			<-707.511047 27.549002 1607.266235>
+$Orient:		[2.804562]
+
+$Navpoint:	"bh10_$c008"
+$Type:		"ground"
+$Pos:			<-708.001709 27.548998 1608.811279>
+$Orient:		[2.729176]
+
+$Navpoint:	"bh10_$c013"
+$Type:		"ground"
+$Pos:			<-708.828735 27.549000 1608.277832>
+$Orient:		[2.633923]
+
+$Navpoint:	"bh10_$c014"
+$Type:		"ground"
+$Pos:			<-709.294312 27.548998 1609.369873>
+$Orient:		[2.778902]
+
+$Navpoint:	"bh10_$c073"
+$Type:		"ground"
+$Pos:			<-708.469055 27.549004 1610.008301>
+$Orient:		[2.806395]
+
+$Navpoint:	"bh10_$c089"
+$Type:		"ground"
+$Pos:			<-709.544250 27.549002 1610.887085>
+$Orient:		[2.937402]
+
+$Navpoint:	"bh10_$c090"
+$Type:		"ground"
+$Pos:			<-708.630127 27.548998 1611.023560>
+$Orient:		[3.035811]
+
+$Navpoint:	"bh10_$c091"
+$Type:		"ground"
+$Pos:			<-705.351563 27.549000 1607.894409>
+$Orient:		[2.773486]
+
+$Navpoint:	"bh10_$c092"
+$Type:		"ground"
+$Pos:			<-705.670471 27.549002 1609.026489>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$c093"
+$Type:		"ground"
+$Pos:			<-705.997742 27.548998 1610.165405>
+$Orient:		[2.716826]
+
+$Navpoint:	"bh10_$c094"
+$Type:		"ground"
+$Pos:			<-704.203247 27.549000 1608.272705>
+$Orient:		[2.841205]
+
+$Navpoint:	"bh10_$c095"
+$Type:		"ground"
+$Pos:			<-704.437622 27.548998 1609.159302>
+$Orient:		[2.584348]
+
+$Navpoint:	"bh10_$c096"
+$Type:		"ground"
+$Pos:			<-704.692566 27.548998 1610.108032>
+$Orient:		[0.068211]
+
+$Navpoint:	"bh10_$c097"
+$Type:		"ground"
+$Pos:			<-706.265381 27.549002 1611.271606>
+$Orient:		[2.928888]
+
+$Navpoint:	"bh10_$c098"
+$Type:		"ground"
+$Pos:			<-705.099426 27.549000 1611.612549>
+$Orient:		[2.868531]
+
+$Navpoint:	"bh10_$c099"
+$Type:		"ground"
+$Pos:			<-702.642944 27.549000 1608.588013>
+$Orient:		[2.796331]
+
+$Navpoint:	"bh10_$c100"
+$Type:		"ground"
+$Pos:			<-702.970215 27.549000 1609.600220>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n028"
+$Type:		"ground"
+$Pos:			<-654.502502 32.220001 1532.784180>
+$Orient:		[-1.822775]
+
+$Navpoint:	"bh10_$n029"
+$Type:		"ground"
+$Pos:			<-655.917358 32.220001 1532.365479>
+$Orient:		[-1.782269]
+
+$Navpoint:	"bh10_$n030"
+$Type:		"ground"
+$Pos:			<-654.062500 32.219997 1531.602661>
+$Orient:		[-1.720995]
+
+$Navpoint:	"bh10_$n031"
+$Type:		"ground"
+$Pos:			<-655.427917 32.220005 1531.321411>
+$Orient:		[-1.773628]
+
+$Navpoint:	"bh10_$n032"
+$Type:		"ground"
+$Pos:			<-653.686401 32.220001 1530.522461>
+$Orient:		[-1.602744]
+
+$Navpoint:	"bh10_$n033"
+$Type:		"ground"
+$Pos:			<-655.306213 32.220001 1530.423828>
+$Orient:		[-1.693918]
+
+$Navpoint:	"bh10_$n034"
+$Type:		"ground"
+$Pos:			<-685.053223 36.897945 1583.140381>
+$Orient:		[-0.035482]
+
+$Navpoint:	"bh10_$n035"
+$Type:		"ground"
+$Pos:			<-683.552063 36.896763 1582.972534>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n036"
+$Type:		"ground"
+$Pos:			<-689.579712 36.902401 1582.279663>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n037"
+$Type:		"ground"
+$Pos:			<-690.883850 36.779903 1581.709595>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n038"
+$Type:		"ground"
+$Pos:			<-688.250549 36.901546 1582.580078>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n039"
+$Type:		"ground"
+$Pos:			<-686.663330 36.899853 1583.004272>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$t_exploit_spawn_a"
+$Type:		"ground"
+$Pos:			<-664.007263 27.552002 1526.676758>
+$Orient:		[-0.306784]
+
+$Navpoint:	"bh10_$n040"
+$Type:		"ground"
+$Pos:			<-683.803406 25.418245 1636.877808>
+$Orient:		[-1.808061]
+
+$Navpoint:	"bh10_$n041"
+$Type:		"ground"
+$Pos:			<-683.330872 25.418243 1635.606445>
+$Orient:		[-1.799698]
+
+$Navpoint:	"bh10_$n042"
+$Type:		"ground"
+$Pos:			<-683.168335 25.418243 1633.854736>
+$Orient:		[-1.170758]
+
+$Navpoint:	"bh10_$n043"
+$Type:		"ground"
+$Pos:			<-684.599182 25.418245 1632.731079>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n044"
+$Type:		"ground"
+$Pos:			<-685.072937 25.418243 1634.473022>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n045"
+$Type:		"ground"
+$Pos:			<-685.443054 25.418243 1635.888062>
+$Orient:		[-0.844625]
+
+$Navpoint:	"bh10_$n046"
+$Type:		"ground"
+$Pos:			<-694.443970 27.549000 1613.884766>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n047"
+$Type:		"ground"
+$Pos:			<-680.682251 27.548998 1615.821899>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n048"
+$Type:		"ground"
+$Pos:			<-681.389099 27.548998 1615.392578>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n049"
+$Type:		"ground"
+$Pos:			<-693.414856 27.549000 1614.156006>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n050"
+$Type:		"ground"
+$Pos:			<-693.442993 27.549002 1612.712280>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n051"
+$Type:		"ground"
+$Pos:			<-702.536560 27.548998 1609.197021>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$t_exploit_spawn_b"
+$Type:		"ground"
+$Pos:			<-685.619873 18.846104 1634.414795>
+$Orient:		[-0.251000]
+
+$Navpoint:	"bh10_$waypoint_3"
+$Type:		"ground"
+$Pos:			<-673.948914 32.278225 1543.694458>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n052"
+$Type:		"ground"
+$Pos:			<-670.819702 27.548998 1569.139038>
+$Orient:		[-0.978685]
+
+$Navpoint:	"bh10_$n053"
+$Type:		"ground"
+$Pos:			<-670.111816 27.549000 1568.435181>
+$Orient:		[-1.002100]
+
+$Navpoint:	"bh10_$n054"
+$Type:		"ground"
+$Pos:			<-692.736206 27.549000 1569.362793>
+$Orient:		[-1.325278]
+
+$Navpoint:	"bh10_$n055"
+$Type:		"ground"
+$Pos:			<-692.642517 27.549000 1568.510132>
+$Orient:		[-1.500134]
+
+$Navpoint:	"bh10_$n056"
+$Type:		"ground"
+$Pos:			<-671.967529 27.548998 1569.191040>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n057"
+$Type:		"ground"
+$Pos:			<-669.425476 27.548998 1570.023438>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n058"
+$Type:		"ground"
+$Pos:			<-681.748962 27.549000 1586.919556>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n059"
+$Type:		"ground"
+$Pos:			<-680.841370 27.549000 1587.389771>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n060"
+$Type:		"ground"
+$Pos:			<-675.525024 27.548998 1590.647583>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n061"
+$Type:		"ground"
+$Pos:			<-677.242004 27.549000 1588.506958>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n062"
+$Type:		"ground"
+$Pos:			<-689.074585 27.549002 1582.926270>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n063"
+$Type:		"ground"
+$Pos:			<-687.763489 27.549000 1582.172852>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$n065"
+$Type:		"ground"
+$Pos:			<-697.888672 27.549000 1584.192383>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$t_exploit_spawn_d"
+$Type:		"ground"
+$Pos:			<-673.965759 37.452740 1537.723267>
+$Orient:		[-0.314931]
+
+$Navpoint:	"bh10_$t_exploit_spawn_a2"
+$Type:		"ground"
+$Pos:			<-667.909363 32.270958 1538.120972>
+$Orient:		[-0.314931]
+
+$Navpoint:	"bh10_$CTE_maero_mark_2"
+$Type:		"ground"
+$Pos:			<-674.946350 37.452744 1543.913818>
+$Orient:		[-0.271406]
+
+$Navpoint:	"bh10_$CTE_player_mark_1"
+$Type:		"ground"
+$Pos:			<-674.569092 32.857567 1546.111328>
+$Orient:		[-0.336669]
+
+$Navpoint:	"bh10_$CTE_player_mark_2"
+$Type:		"ground"
+$Pos:			<-675.874695 36.901749 1561.529663>
+$Orient:		[-0.300122]
+
+$Navpoint:	"bh10_$CTE_cam_2"
+$Type:		"floating"
+$Pos:			<-673.844177 38.598831 1566.644531>
+$Orient:		[<-0.986754 0 0.162224> <-0.012080 0.997224 -0.073477> <-0.161774 -0.074464 -0.984014>]
+
+$Navpoint:	"bh10_$CTE_cam_3"
+$Type:		"floating"
+$Pos:			<-676.410095 38.952915 1549.034302>
+$Orient:		[<-0.958329 0 -0.285667> <0.016003 0.998430 -0.053684> <0.285218 -0.056019 -0.956824>]
+
+$Navpoint:	"bh10_$CTE_cam_1"
+$Type:		"floating"
+$Pos:			<-675.284668 37.302662 1556.833984>
+$Orient:		[<-0.996899 0 -0.078696> <0.023150 0.955755 -0.293253> <0.075215 -0.294165 -0.952790>]
+
+$Navpoint:	"bh10_$v008"
+$Type:		"ground"
+$Pos:			<135.203583 -3.999001 -22.858570>
+$Orient:		[2.451871]
+
+$Navpoint:	"bh10_$CTE_player_mark_3"
+$Type:		"ground"
+$Pos:			<-683.114868 36.899128 1576.398560>
+$Orient:		[-0.300122]
+
+$Navpoint:	"bh10_$CTE_maero_mark_1"
+$Type:		"ground"
+$Pos:			<-673.859680 37.452744 1541.058838>
+$Orient:		[-0.271406]
+
+$Navpoint:	"bh10_$CTE_cam_4"
+$Type:		"floating"
+$Pos:			<-677.281006 38.952915 1552.006836>
+$Orient:		[<-0.959712 0 -0.280986> <0.013577 0.998832 -0.046373> <0.280658 -0.048319 -0.958591>]
+
+$Navpoint:	"bh10_$i000"
+$Type:		"ground"
+$Pos:			<-681.532654 36.898056 1578.512695>
+$Orient:		[I]
+
+$Navpoint:	"bh10_$t_exploit_area_1c"
+$Type:		"ground"
+$Pos:			<-688.509277 32.270958 1586.288696>
+$Orient:		[-0.248943]
+
+$Navpoint:	"bh10_$trigger_warehouse_gp1"
+$Type:		"ground"
+$Pos:			<-689.178955 13.894041 1634.983521>
+$Orient:		[-0.250120]
+
+$Navpoint:	"bh10_$trigger_warehouse_gp2"
+$Type:		"ground"
+$Pos:			<-655.978760 22.332476 1535.576538>
+$Orient:		[-0.278237]
+
+$Navpoint:	"bh10_$trigger_warehouse_gp3"
+$Type:		"ground"
+$Pos:			<-658.618652 22.775591 1539.122803>
+$Orient:		[-0.278237]
+
+$Navpoint:	"bh10_$trigger_warehouse_gp4"
+$Type:		"ground"
+$Pos:			<-697.609192 22.332479 1570.226196>
+$Orient:		[-0.278237]
+
+$Navpoint:	"bh10_$trigger_warehouse_gp5"
+$Type:		"ground"
+$Pos:			<-696.804871 27.547634 1583.633057>
+$Orient:		[-0.278237]
+
+$Navpoint:	"bh10_$c101"
+$Type:		"ground"
+$Pos:			<-680.113892 27.547634 1541.525391>
+$Orient:		[-0.481141]
+
+$Navpoint:	"bh10_$c102"
+$Type:		"ground"
+$Pos:			<-678.215393 27.547632 1537.641602>
+$Orient:		[-0.954379]
+
+$Navpoint:	"bh10_$c103"
+$Type:		"ground"
+$Pos:			<-671.953491 27.547632 1530.526733>
+$Orient:		[-0.846771]
+
+$Navpoint:	"bh10_$c104"
+$Type:		"ground"
+$Pos:			<-671.364746 27.547632 1534.246216>
+$Orient:		[-1.020254]
+
+$Navpoint:	"bh10_$c105"
+$Type:		"ground"
+$Pos:			<-682.949646 27.547632 1539.119873>
+$Orient:		[-1.043512]
+
+// -------
+#Paths
+// -------
+
+// -------
+#Items
+// -------
+
+$Item:		"bh10_$i000"
+$Item type:	"grenade"
+$Start nav:	"bh10_$i000"
+$Respawn:	true
+$Respawn Delay:	10000
+$Grenade Ammo:	0
+$Group:			"bh10_$Ggrenades"
+
+// -------
+#Triggers
+// -------
+
+$Trigger:				"bh10_$tribal_staging"
+$Trigger type:			"sphere"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$waypoint_1"
++Disabled
+$Sphere radius:		7.000000
+
+$Trigger:				"bh10_$waypoint_2"
+$Trigger type:			"sphere"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$waypoint_2"
++Disabled
+$Sphere radius:		1.000000
+
+$Trigger:				"bh10_$t_low_ground"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_low_ground"
++Disabled
+$Box size:				-20.000000 -5.000000 -7.500000 20.000000 5.000000 7.500000
+	+Masked
+
+$Trigger:				"bh10_$t_high_ground"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_high_ground"
++Disabled
+$Box size:				-20.000000 -6.500000 -39.000000 20.000000 6.500000 39.000000
+
+$Trigger:				"bh10_$t_hiding"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_hiding"
++Disabled
+$Box size:				-20.000000 0.000000 -1.500000 20.000000 3.000000 1.500000
+
+$Trigger:				"bh10_$t_exploit_exit_1"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_exit_1"
++Disabled
+$Box size:				-1.000000 0.000000 -1.000000 1.000000 2.000000 1.000000
+
+$Trigger:				"bh10_$t_exploit_exit_2"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_exit_2"
++Disabled
+$Box size:				-1.550000 0.000000 -1.800000 1.550000 2.500000 1.800000
+
+$Trigger:				"bh10_$t_exploit_exit_3"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_exit_3"
++Disabled
+$Box size:				-1.200000 0.000000 -2.350000 1.200000 2.000000 2.350000
+
+$Trigger:				"bh10_$t_exploit_exit_4"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_exit_4"
++Disabled
+$Box size:				-22.000000 -3.000000 -1.000000 22.000000 3.000000 1.000000
+
+$Trigger:				"bh10_$t_exploit_enter_1"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_enter_1"
++Disabled
+$Box size:				-1.200000 0.000000 -1.550000 1.200000 2.900000 1.550000
+
+$Trigger:				"bh10_$t_exploit_enter_2"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_enter_2"
++Disabled
+$Box size:				-20.000000 0.000000 -3.100000 20.000000 2.000000 3.100000
+
+$Trigger:				"bh10_$t_exploit_enter_3"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_enter_3"
++Disabled
+$Box size:				-13.600000 0.000000 -10.400001 13.600000 1.500000 10.400001
+
+$Trigger:				"bh10_$t_exploit_area_1a"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_area_1a"
++Disabled
+$Box size:				-2.350000 0.000000 -6.550000 2.350000 2.000000 6.550000
+
+$Trigger:				"bh10_$t_exploit_area_1b"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_area_1b"
++Disabled
+$Box size:				-1.750000 0.000000 -7.700000 1.750000 2.000000 7.700000
+
+$Trigger:				"bh10_$t_exploit_area_2"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_area_2"
++Disabled
+$Box size:				-17.500000 0.000000 -17.500000 17.500000 2.000000 17.500000
+
+$Trigger:				"bh10_$t_exploit_enter_4"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_enter_4"
++Disabled
+$Box size:				-20.000000 0.000000 -20.000000 20.000000 2.000000 20.000000
+
+$Trigger:				"bh10_$t_exploit_area_3"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_area_3"
++Disabled
+$Box size:				-20.000000 0.000000 -17.500000 20.000000 2.000000 17.500000
+
+$Trigger:				"bh10_$t_exploit_spawn_a"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_spawn_a"
++Disabled
+$Box size:				-25.000000 0.000000 -4.500000 25.000000 8.000000 4.500000
+
+$Trigger:				"bh10_$t_exploit_spawn_b"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_spawn_b"
++Disabled
+$Box size:				-32.500000 0.000000 -25.000000 32.500000 14.000000 25.000000
+
+$Trigger:				"bh10_$waypoint_3"
+$Trigger type:			"sphere"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$waypoint_3"
++Disabled
+$Sphere radius:		2.000000
+
+$Trigger:				"bh10_$t_exploit_spawn_d"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_spawn_d"
++Disabled
+$Box size:				-20.000000 0.000000 -27.500000 20.000000 2.000000 27.500000
+
+$Trigger:				"bh10_$t_exploit_spawn_a2"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_spawn_a2"
++Disabled
+$Box size:				-13.150001 0.000000 -10.000000 13.150001 2.000000 10.000000
+
+$Trigger:				"bh10_$t_exploit_area_1c"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$t_exploit_area_1c"
++Disabled
+$Box size:				-21.200001 0.000000 -3.000000 21.200001 2.000000 3.000000
+
+$Trigger:				"bh10_$trigger_warehouse_gp1"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$trigger_warehouse_gp1"
++Disabled
+$Box size:				-3.400000 0.000000 -1.850000 3.400000 5.500000 1.850000
+
+$Trigger:				"bh10_$trigger_warehouse_gp2"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$trigger_warehouse_gp2"
++Disabled
+$Box size:				-2.450000 0.000000 -1.750000 2.450000 2.700000 1.750000
+	+Masked
+
+$Trigger:				"bh10_$trigger_warehouse_gp3"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$trigger_warehouse_gp3"
++Disabled
+$Box size:				-3.950000 0.000000 -1.750000 3.950000 5.200000 1.750000
+	+Masked
+
+$Trigger:				"bh10_$trigger_warehouse_gp4"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$trigger_warehouse_gp4"
++Disabled
+$Box size:				-2.100000 0.000000 -1.750000 2.100000 2.700000 1.750000
+
+$Trigger:				"bh10_$trigger_warehouse_gp5"
+$Trigger type:			"bounding box"
+$Trigger action:		"execute lua script"
+$Trigger max fires:	0
+$Trigger delay:		10000
+$Start nav:				"bh10_$trigger_warehouse_gp5"
++Disabled
+$Box size:				-2.450000 0.000000 -11.050000 2.450000 2.700000 11.050000
+
+// -------
+#Vehicles
+// -------
+
+$Vehicle:		"bh10_$v000"
+$Vehicle type:	"car_4dr_classic01"
+$Start nav:		"bh10_$v000"
+$Group:			"bh10_$saints1"
+$Stream Distance:			50.000
++Variant: "Standard"
+
+$Vehicle:		"bh10_$v001"
+$Vehicle type:	"car_2dr_luxury04"
+$Start nav:		"bh10_$v001"
+$Group:			"bh10_$saints2"
+$Stream Distance:			50.000
++Variant: "Standard"
+
+$Vehicle:		"bh10_$v002"
+$Vehicle type:	"suv_4dr_04"
+$Start nav:		"bh10_$v002"
+$Group:			"bh10_$saints3"
+$Stream Distance:			50.000
+
+$Vehicle:		"bh10_$v003"
+$Vehicle type:	"bike_rocket02"
+$Start nav:		"bh10_$v003"
+$Group:			"bh10_$saints4"
+$Stream Distance:			50.000
+
+$Vehicle:		"bh10_$v004"
+$Vehicle type:	"bike_rocket02"
+$Start nav:		"bh10_$v004"
+$Group:			"bh10_$saints4"
+$Stream Distance:			50.000
+
+$Vehicle:		"bh10_$v005"
+$Vehicle type:	"bike_rocket02"
+$Start nav:		"bh10_$v005"
+$Group:			"bh10_$saints4"
+$Stream Distance:			50.000
+
+$Vehicle:		"bh10_$v006"
+$Vehicle type:	"bike_rocket02"
+$Start nav:		"bh10_$v006"
+$Group:			"bh10_$saints4"
+$Stream Distance:			50.000
+
+$Vehicle:		"bh10_$v007"
+$Vehicle type:Saints customized car
+$Start nav:		"bh10_$v007"
+$Group:			"bh10_$courtesy_car"
+$Stream Distance:			50.000
+
+$Vehicle:		"bh10_$v008"
+$Vehicle type:Saints customized car
+$Start nav:		"bh10_$v008"
+$Group:			"bh10_$courtesy_car_coop"
+$Stream Distance:			50.000
+
+// -------
+#Respawns
+// -------
+
+// -------
+#Humans
+// -------
+
+$Human:					"bh10_$c000"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c000"
++Leash distance:		4.00
++Group:					"bh10_$standard_lieutenants"
+
+$Human:					"bh10_$c001"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c001"
++Group:					"bh10_$standard_lieutenants"
+
+$Human:					"bh10_$c002"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c002"
++Leash distance:		33.00
++Group:					"bh10_$standard_lieutenants"
+
+$Human:					"bh10_$c003"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c003"
++Leash distance:		7.75
++Group:					"bh10_$standard_lieutenants"
+
+$Human:					"bh10_$c004"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c004"
++Leash distance:		6.38
++Group:					"bh10_$standard_lieutenants"
+
+$Human:					"bh10_$c005"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c005"
++Leash distance:		12.63
++Group:					"bh10_$standard_lieutenants"
+
+$Human:					"bh10_$c009"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c009"
++Leash distance:		0.88
++Group:					"bh10_$standard_lieutenants"
+
+$Human:					"bh10_$c010"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c010"
++Leash distance:		12.50
++Group:					"bh10_$standard_lieutenants"
+
+$Human:					"bh10_$c011"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c011"
++Group:					"bh10_$rocket_lieutenants"
+
+$Human:					"bh10_$c012"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c012"
++Leash distance:		3.75
++Group:					"bh10_$rocket_lieutenants"
+
+$Human:					"bh10_$c015"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c015"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$maero"
+$Char type:				"npc_Maero"
+$Start nav:				"bh10_$maero"
++Item:					"minigun"
++Hearing distance:	70.00
++Personality:			"gang tough"
++AttackPlayerOnSight
++CantFlee
++CannotBeGrabbed
++NeverSwitchWeapons
++Group:					"bh10_$maero"
++Variant:					"shirtless"
++Team:					"Brotherhood"
+
+$Human:					"bh10_$c016"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c016"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c017"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c017"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c018"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c018"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c019"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c019"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c020"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c020"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c021"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c021"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c022"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c022"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c023"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c023"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c024"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c024"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c025"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c025"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c026"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c026"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c027"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c027"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c028"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c028"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c029"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c029"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c030"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c030"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c031"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c031"
++Group:					"bh10_$warehouse_soldiers"
+
+$Human:					"bh10_$c032"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c032"
++Item:					"ak47"
++Group:					"bh10_$player_homies"
+
+$Human:					"bh10_$c033"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c033"
++Item:					"ak47"
++Group:					"bh10_$player_homies"
+
+$Human:					"bh10_$c034"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c034"
++Item:					"ak47"
++Group:					"bh10_$saints1"
+
+$Human:					"bh10_$c035"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c035"
++Group:					"bh10_$saints1"
+
+$Human:					"bh10_$c036"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c036"
++Group:					"bh10_$saints1"
+
+$Human:					"bh10_$c037"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c037"
++Item:					"ak47"
++Group:					"bh10_$saints1"
+
+$Human:					"bh10_$c039"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c039"
++Group:					"bh10_$saints2"
+
+$Human:					"bh10_$c040"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c040"
++Item:					"ak47"
++Group:					"bh10_$saints2"
+
+$Human:					"bh10_$c038"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c038"
++Item:					"ak47"
++Group:					"bh10_$saints2"
+
+$Human:					"bh10_$c041"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c041"
++Group:					"bh10_$saints2"
+
+$Human:					"bh10_$c042"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c042"
++Item:					"ak47"
++Group:					"bh10_$saints3"
+
+$Human:					"bh10_$c043"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c043"
++Item:					"ak47"
++Group:					"bh10_$saints3"
+
+$Human:					"bh10_$c044"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c044"
++Group:					"bh10_$saints3"
+
+$Human:					"bh10_$c045"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c045"
++Group:					"bh10_$saints3"
+
+$Human:					"bh10_$c046"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c046"
++Group:					"bh10_$saints4"
+
+$Human:					"bh10_$c047"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c047"
++Item:					"ak47"
++Group:					"bh10_$saints4"
+
+$Human:					"bh10_$c048"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c048"
++Item:					"ak47"
++Group:					"bh10_$saints4"
+
+$Human:					"bh10_$c049"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c049"
++Group:					"bh10_$saints4"
+
+$Human:					"bh10_$c050"
+$Char type:				"npc_bum"
+$Start nav:				"bh10_$c050"
++Leash distance:		1.00
++Group:					"bh10_$los_dummies1"
+
+$Human:					"bh10_$c051"
+$Char type:				"npc_bum"
+$Start nav:				"bh10_$c051"
++Leash distance:		1.00
++Group:					"bh10_$los_dummies2"
+
+$Human:					"bh10_$c052"
+$Char type:				"npc_bum"
+$Start nav:				"bh10_$c052"
++Leash distance:		1.00
++Group:					"bh10_$los_dummies3"
+
+$Human:					"bh10_$c053"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c053"
++Team:					"Playas"
++Group:					"bh10_$warehouse_floor_1"
+
+$Human:					"bh10_$c054"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c054"
++Team:					"Playas"
++Group:					"bh10_$warehouse_floor_1"
+
+$Human:					"bh10_$c055"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c055"
++Team:					"Playas"
++Group:					"bh10_$warehouse_floor_1"
+
+$Human:					"bh10_$c056"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c056"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_1"
+
+$Human:					"bh10_$c057"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c057"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_1"
+
+$Human:					"bh10_$c058"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c058"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_1"
+
+$Human:					"bh10_$c059"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c059"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_1"
+
+$Human:					"bh10_$c060"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c060"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_1"
+
+$Human:					"bh10_$c061"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c061"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_1"
+
+$Human:					"bh10_$c062"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c062"
++Team:					"Playas"
++Group:					"bh10_$warehouse_floor_2"
+
+$Human:					"bh10_$c063"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c063"
++Team:					"Playas"
++Group:					"bh10_$warehouse_floor_2"
+
+$Human:					"bh10_$c064"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c064"
++Team:					"Playas"
++Group:					"bh10_$warehouse_floor_2"
+
+$Human:					"bh10_$c065"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c065"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_2"
+
+$Human:					"bh10_$c066"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c066"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_2"
+
+$Human:					"bh10_$c067"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c067"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_2"
+
+$Human:					"bh10_$c068"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c068"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_2"
+
+$Human:					"bh10_$c069"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c069"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_2"
+
+$Human:					"bh10_$c070"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c070"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_2"
+
+$Human:					"bh10_$c071"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c071"
++Team:					"Playas"
++Group:					"bh10_$warehouse_floor_3"
+
+$Human:					"bh10_$c072"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c072"
++Team:					"Playas"
++Group:					"bh10_$warehouse_floor_3"
+
+$Human:					"bh10_$c074"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c074"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_3"
+
+$Human:					"bh10_$c075"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c075"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_3"
+
+$Human:					"bh10_$c076"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c076"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_3"
+
+$Human:					"bh10_$c077"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c077"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_3"
+
+$Human:					"bh10_$c078"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c078"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_3"
+
+$Human:					"bh10_$c079"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c079"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_3"
+
+$Human:					"bh10_$c080"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c080"
++Team:					"Playas"
++Group:					"bh10_$warehouse_floor_4"
+
+$Human:					"bh10_$c081"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c081"
++Team:					"Playas"
++Group:					"bh10_$warehouse_floor_4"
+
+$Human:					"bh10_$c082"
+$Char type:				"npc_s_gangster_male_soldier"
+$Start nav:				"bh10_$c082"
++Team:					"Playas"
++Group:					"bh10_$warehouse_floor_4"
+
+$Human:					"bh10_$c083"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c083"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_4"
+
+$Human:					"bh10_$c084"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c084"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_4"
+
+$Human:					"bh10_$c085"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c085"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_4"
+
+$Human:					"bh10_$c086"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c086"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_4"
+
+$Human:					"bh10_$c087"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c087"
++Group:					"bh10_$warehouse_floor_4"
+
+$Human:					"bh10_$c088"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c088"
++AttackEnemiesOnSight
++AttackPlayerOnSight
++Group:					"bh10_$warehouse_floor_4"
+
+$Human:					"bh10_$c006"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c006"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c007"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c007"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c008"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c008"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c013"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c013"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c014"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c014"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c073"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c073"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c089"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c089"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c090"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c090"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c091"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c091"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c092"
+$Char type:				"npc_tribal_female_soldier"
+$Start nav:				"bh10_$c092"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c093"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c093"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c094"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c094"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c095"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c095"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c096"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c096"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c097"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c097"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c098"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c098"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c099"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c099"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c100"
+$Char type:				"npc_tribal_female_soldier"
+$Start nav:				"bh10_$c100"
++Group:					"bh10_$maero_exploits"
+
+$Human:					"bh10_$c101"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c101"
++Group:					"bh10_$warehouse_floor_5"
+
+$Human:					"bh10_$c102"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c102"
++Group:					"bh10_$warehouse_floor_5"
+
+$Human:					"bh10_$c103"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c103"
++Group:					"bh10_$warehouse_floor_5"
+
+$Human:					"bh10_$c104"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c104"
++Group:					"bh10_$warehouse_floor_5"
+
+$Human:					"bh10_$c105"
+$Char type:				"npc_tribal_male_soldier"
+$Start nav:				"bh10_$c105"
++Group:					"bh10_$warehouse_floor_5"
+
+// -------
+#Spawn NPC Regions
+// -------
+
+// -------
+#Action Nodes
+// -------
+
+// -------
+#Parking
+// -------
+
+// -------
+#Chunk Streaming Test Cases
+// -------
+
+// -------
+#Ambients
+// -------
+
+// ----------
+#DSP Regions
+// ----------
+
+// -------------
+#Audio Cluders
+// -------------
+
+// -------
+#Nodes
+// -------
+
+// -------
+#Searchlights
+// -------
+
+// -------
+#Movers
+// -------
+
+$Mover:		"bh10_MMroof_door"
+$Object UID:	44339
+$Chunk:		"sr2_chunk036"
+
+$Mover:		"bh10_$MMdoor_stairwell_1"
+$Object UID:	45233
+$Chunk:		"sr2_chunk025"
+
+$Mover:		"bh10_$MMdoor_stairwell_2"
+$Object UID:	45226
+$Chunk:		"sr2_chunk036"
+
+$Mover:		"bh10_MMexploit_door_1"
+$Object UID:	45225
+$Chunk:		"sr2_chunk036"
+
+$Mover:		"bh10_MMexploit_door_2"
+$Object UID:	45241
+$Chunk:		"sr2_chunk025"
+
+$Mover:		"bh10_MMexploit_door_3"
+$Object UID:	45231
+$Chunk:		"sr2_chunk025"
+
+$Mover:		"bh10_$MMdoor_to_hide_3"
+$Object UID:	45230
+$Chunk:		"sr2_chunk025"
+
+$Mover:		"bh10_$MMdoor_to_hide_4a"
+$Object UID:	45235
+$Chunk:		"sr2_chunk036"
+
+$Mover:		"bh10_$MMdoor_to_hide_4b"
+$Object UID:	45234
+$Chunk:		"sr2_chunk036"
+
+$Mover:		"bh10_$MMdoor_to_hide_5a"
+$Object UID:	45240
+$Chunk:		"sr2_chunk036"
+
+$Mover:		"bh10_$MMdoor_to_hide_5b"
+$Object UID:	45239
+$Chunk:		"sr2_chunk036"
+
+// -------
+#Interiors
+// -------
+
+
+// -------
+#Assets
+// -------
+$Asset:		"ooze.smeshx"
+$Asset:		"gml1_mng_fallovr.animx"
+
+#End

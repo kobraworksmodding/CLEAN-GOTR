@@ -1,0 +1,2864 @@
+<root>
+<Table>
+	<Color_Set>
+		<Name>Opaque Paint</Name>
+		<Display_Name>VEHICLE_PAINT_OPAQUE_PAINT</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Opaque Ultra Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Satin Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Galactic Dove Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Slate Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Abertawe Pewter</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Tabletop Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Tobias Fur White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Hazy Day Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Chaz Beige</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Coffee Creamer Tan</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Autumn Wood Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Trumpet Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Deep Bronze Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Candy Chew Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Rainedon Rust Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Bright Day Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Tangerine Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Furious Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Morph Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Blush Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Autumn Sand Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Wheatfield Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Double Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Toonshade Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Mustard Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Mint Char Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Khaki Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Mistletoe Kiss Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Faint Tarragon Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Deep Sage Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Wildlife Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Catalyst Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Breton Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque British Racing Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Belize Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Woodsman Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Deep Brunswick Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Grenade Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Frosted Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Seafoam Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Atlantic Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Solid Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Deep Starlight Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Ice White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Crystal Decanter White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Coldwash Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Regatta Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Dragon Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Dynasty Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Pinafore Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Deep Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Thunderhead Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Cloudy Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Steel Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Midnight Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Blue Shale</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Blue Wave</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Lunar Eclipse Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Cosmos Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Pretty Princess Pink</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Bruised Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Hot Pink</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Harlequin Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Fresh Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Royal Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Pink Salmon</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Active Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Kabuki Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Graig Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Lipstick Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Berry Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Insane Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Wine Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Slow Burn Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Toreador Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Opaque Americana Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Matte Paint</Name>
+		<Display_Name>VEHICLE_PAINT_MATTE_PAINT</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Matte Ultra Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Satin Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Galactic Dove Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Slate Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Abertawe Pewter</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Tabletop Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Tobias Fur White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Hazy Day Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Chaz Beige</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Coffee Creamer Tan</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Autumn Wood Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Trumpet Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Deep Bronze Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Candy Chew Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Rainedon Rust Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Bright Day Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Tangerine Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Furious Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Morph Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Blush Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Autumn Sand Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Wheatfield Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Double Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Toonshade Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Mustard Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Mint Char Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Khaki Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Mistletoe Kiss Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Faint Tarragon Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Deep Sage Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Wildlife Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Catalyst Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Breton Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte British Racing Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Belize Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Woodsman Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Deep Brunswick Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Grenade Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Frosted Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Seafoam Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Atlantic Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Solid Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Deep Starlight Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Ice White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Crystal Decanter White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Coldwash Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Regatta Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Dragon Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Dynasty Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Pinafore Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Deep Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Thunderhead Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Cloudy Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Steel Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Midnight Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Blue Shale</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Blue Wave</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Lunar Eclipse Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Cosmos Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Pretty Princess Pink</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Bruised Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Hot Pink</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Harlequin Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Fresh Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Royal Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Pink Salmon</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Active Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Kabuki Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Graig Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Lipstick Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Berry Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Insane Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Wine Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Slow Burn Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Toreador Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Americana Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Gloss Paint</Name>
+		<Display_Name>VEHICLE_PAINT_GLOSS_PAINT</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Gloss Ultra Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Satin Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Galactic Dove Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Slate Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Abertawe Pewter</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Tabletop Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Tobias Fur White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Hazy Day Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Chaz Beige</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Coffee Creamer Tan</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Autumn Wood Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Trumpet Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Deep Bronze Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Candy Chew Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Rainedon Rust Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Bright Day Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Tangerine Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Furious Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Morph Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Blush Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Autumn Sand Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Wheatfield Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Double Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Toonshade Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Mustard Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Mint Char Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Khaki Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Mistletoe Kiss Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Faint Tarragon Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Deep Sage Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Wildlife Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Catalyst Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Breton Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss British Racing Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Belize Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Woodsman Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Deep Brunswick Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Grenade Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Frosted Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Seafoam Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Atlantic Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Solid Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Deep Starlight Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Ice White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Crystal Decanter White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Coldwash Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Regatta Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Dragon Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Dynasty Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Pinafore Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Deep Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Thunderhead Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Cloudy Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Steel Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Midnight Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Blue Shale</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Blue Wave</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Lunar Eclipse Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Cosmos Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Pretty Princess Pink</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Bruised Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Hot Pink</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Harlequin Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Fresh Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Royal Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Pink Salmon</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Active Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Kabuki Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Graig Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Lipstick Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Berry Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Insane Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Wine Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Slow Burn Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Toreador Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Americana Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss True Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Chrome</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Platinum</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Black Titanium</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Gold</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal White Gold</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Copper Oxide</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Candy Paint</Name>
+		<Display_Name>VEHICLE_PAINT_CANDY_PAINT</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Candy Trumpet Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Deep Bronze Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Candy Chew Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Rainedon Rust Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Bright Day Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Tangerine Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Furious Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Morph Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Wheatfield Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Double Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Toonshade Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Khaki Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Mistletoe Kiss Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Breton Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy British Racing Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Deep Brunswick Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Grenade Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Solid Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Deep Starlight Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Regatta Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Dynasty Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Pinafore Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Thunderhead Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Blue Wave</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Lunar Eclipse Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Harlequin Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Fresh Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Royal Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Pink Salmon</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Graig Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Berry Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Slow Burn Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Candy Toreador Red</Color>
+				</Color_Element>
+
+			<Color_Element>
+				<Color>Gang Breton Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Grenade Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Double Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Graig Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Lipstick Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Insane Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Royal Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Royal Purple Candy</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Harlequin Purple</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Pearlescent Paint</Name>
+		<Display_Name>VEHICLE_PAINT_PEARLESCENT_PAINT</Display_Name>
+		<Price>100</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Pearlescent Satin Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Galactic Dove Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Tobias Fur White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Chaz Beige</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Autumn Wood Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Candy Chew Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Faint Tarragon Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Deep Sage Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Wildlife Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Frosted Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Atlantic Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Ice White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Crystal Decanter White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Coldwash Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Dragon Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Steel Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Pretty Princess Pink</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Bruised Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Hot Pink</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Harlequin Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Pink Salmon</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Active Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Pearlescent Lipstick Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Iridescent Paint</Name>
+		<Display_Name>VEHICLE_PAINT_IRIDESCENT_PAINT</Display_Name>
+		<Price>100</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Iridescent Galactic Dove Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Chaz Beige</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Autumn Wood Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Deep Bronze Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Bright Day Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Tangerine Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Double Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Mint Char Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Mistletoe Kiss Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Wildlife Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Breton Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Woodsman Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Deep Brunswick Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Atlantic Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Solid Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Ice White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Dynasty Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Deep Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Midnight Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Lunar Eclipse Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Pretty Princess Pink</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Harlequin Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Fresh Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Royal Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Kabuki Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Graig Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Berry Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Insane Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Iridescent Toreador Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Interiors</Name>
+		<Display_Name>VEHICLE_PAINT_INTERIORS</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Interiors Ultra Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Satin Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Galactic Dove Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Slate Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Tabletop Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Tobias Fur White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Hazy Day Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Chaz Beige</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Coffee Creamer Tan</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Coconut Tan</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Autumn Wood Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Candy Chew Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Bright Day Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Faint Tarragon Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Deep Sage Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Wildlife Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Catalyst Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Frosted Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Seafoam Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Atlantic Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Ice White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Crystal Decanter White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Coldwash Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Regatta Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Dragon Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Pretty Princess Pink</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Hot Pink</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Harlequin Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Pink Salmon</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Active Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Kabuki Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Deep Bronze Brown</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Interior Limited</Name>
+		<Display_Name>VEHICLE_PAINT_INTERIORS</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Interiors Tabletop Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Slate Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Coffee Creamer Tan</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Coconut Tan</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Autumn Wood Brown</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Interior Hues</Name>
+		<Display_Name>VEHICLE_PAINT_INTERIORS</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Interiors Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Candy Chew Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Wildlife Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Seafoam Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Coldwash Blue</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Interior Vinyl</Name>
+		<Display_Name>VEHICLE_PAINT_INTERIORS</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Interiors Satin Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Bright Day Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Catalyst Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Dragon Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Active Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Interior Bling</Name>
+		<Display_Name>VEHICLE_PAINT_INTERIORS</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Interiors Ultra Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Ice White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Bright Day Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Catalyst Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Atlantic Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Dragon Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Harlequin Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Interiors Active Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Glass</Name>
+		<Display_Name>VEHICLE_PAINT_GLASS</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Glass Tint 5%</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Tint 20%</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Tint 40%</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Tint 60%</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Tint 80%</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Tint 100%</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Red Dark Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Blue Dark Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Yellow Dark Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Purple Dark Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Green Dark Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Orange Dark Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Teal Dark Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Brown Dark Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass White Light Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Red Light Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Blue Light Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Yellow Light Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Purple Light Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Green Light Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Orange Light Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Teal Light Tint</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Glass Brown Light Tint</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Cloth</Name>
+		<Display_Name>VEHICLE_PAINT_CLOTH</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Cloth Satin Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Cloth Tabletop Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Cloth Deep Bronze Brown</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Rubber</Name>
+		<Display_Name>VEHICLE_PAINT_RUBBER</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Rubber Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Rubber Abertawe Pewter</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Rubber Tabletop Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Rubber Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Rubber Trumpet Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Rubber Deep Bronze Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Rubber Morph Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Rubber Blush Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Rubber Toonshade Yellow</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Plastic</Name>
+		<Display_Name>VEHICLE_PAINT_PLASTIC</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Plastic Ultra Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Satin Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Galactic Dove Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Slate Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Abertawe Pewter</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Tabletop Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Tobias Fur White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Hazy Day Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Chaz Beige</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Coffee Creamer Tan</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Autumn Wood Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Trumpet Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Deep Bronze Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Candy Chew Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Rainedon Rust Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Bright Day Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Tangerine Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Furious Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Morph Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Blush Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Autumn Sand Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Wheatfield Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Double Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Toonshade Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Mustard Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Mint Char Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Khaki Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Mistletoe Kiss Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Faint Tarragon Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Deep Sage Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Wildlife Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Catalyst Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Breton Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic British Racing Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Belize Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Woodsman Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Deep Brunswick Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Grenade Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Frosted Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Seafoam Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Atlantic Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Solid Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Deep Starlight Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Ice White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Crystal Decanter White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Coldwash Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Regatta Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Dragon Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Dynasty Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Pinafore Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Deep Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Thunderhead Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Cloudy Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Steel Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Midnight Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Blue Shale</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Blue Wave</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Lunar Eclipse Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Cosmos Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Pretty Princess Pink</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Bruised Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Hot Pink</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Harlequin Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Fresh Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Royal Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Pink Salmon</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Active Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Kabuki Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Graig Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Lipstick Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Berry Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Insane Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Wine Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Slow Burn Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Toreador Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Plastic Americana Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Metal</Name>
+		<Display_Name>VEHICLE_PAINT_METAL</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Metal Chrome</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Aluminum</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Silver</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Titanium</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Platinum</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Steel</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Stainless Steel</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Aluminum Alloy</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Carbon Steel</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Black Titanium</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Bronze</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Copper</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Brass</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Gold</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal White Gold</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Metal Copper Oxide</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Character-Reward</Name>
+		<Display_Name>VEHICLE_PAINT_CHARACTER_REWARD</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Character- Reward Ultra Bright White</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Tricked Metallic</Name>
+		<Display_Name>VEHICLE_PAINT_TRICKED_METALLIC</Display_Name>
+		<Price>100</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Tricked Galactic Dove Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Tobias Fur White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Chaz Beige</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Deep Bronze Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Candy Chew Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Bright Day Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Furious Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Double Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Mistletoe Kiss Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Faint Tarragon Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Wildlife Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Breton Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked British Racing Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Solid Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Deep Starlight Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Ice White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Dynasty Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Thunderhead Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Harlequin Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Active Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Graig Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Lipstick Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Berry Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Tricked Toreador Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Classic 50's - 60's</Name>
+		<Display_Name>VEHICLE_PAINT_CLASSIC_50_S___60_S</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Gloss Ultra Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Slate Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Hazy Day Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Chaz Beige</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Autumn Wood Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Trumpet Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Rainedon Rust Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Tangerine Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Double Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Mistletoe Kiss Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Deep Brunswick Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Grenade Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Atlantic Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Deep Starlight Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Regatta Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Thunderhead Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Blue Wave</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Graig Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Insane Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Americana Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Classic 70's - 80's</Name>
+		<Display_Name>VEHICLE_PAINT_CLASSIC_70_S___80_S</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Gloss Satin Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Tabletop Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Hazy Day Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Chaz Beige</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Autumn Wood Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Deep Bronze Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Rainedon Rust Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Morph Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Blush Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Toonshade Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Mint Char Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Khaki Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Woodsman Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Deep Brunswick Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Grenade Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Deep Starlight Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Ice White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Pinafore Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Deep Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Cloudy Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Steel Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Blue Shale</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Fresh Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Active Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Wine Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Slow Burn Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Americana Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Modern</Name>
+		<Display_Name>VEHICLE_PAINT_MODERN</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Gloss Ultra Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Galactic Dove Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Tabletop Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Hazy Day Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Chaz Beige</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Trumpet Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Furious Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Khaki Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Mistletoe Kiss Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Grenade Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Deep Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Blue Wave</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Lunar Eclipse Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Fresh Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Kabuki Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Berry Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Insane Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Wine Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Slow Burn Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Toreador Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Americana Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Exotic</Name>
+		<Display_Name>VEHICLE_PAINT_EXOTIC</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Gloss Ultra Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Slate Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Tabletop Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Candy Chew Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Tangerine Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Furious Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Double Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Mistletoe Kiss Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Catalyst Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Breton Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Deep Brunswick Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Grenade Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Solid Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Regatta Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Dynasty Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Blue Wave</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Cosmos Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Harlequin Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Royal Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Insane Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Slow Burn Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Toreador Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Municipal</Name>
+		<Display_Name>VEHICLE_PAINT_MUNICIPAL</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Gloss Ultra Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Abertawe Pewter</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Bright Day Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Lunar Eclipse Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gloss Graig Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Matte Classic 50's - 60's</Name>
+		<Display_Name>VEHICLE_PAINT_CLASSIC_50_S___60_S</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Matte Ultra Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Slate Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Hazy Day Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Chaz Beige</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Autumn Wood Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Trumpet Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Rainedon Rust Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Tangerine Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Double Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Mistletoe Kiss Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Deep Brunswick Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Grenade Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Atlantic Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Deep Starlight Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Regatta Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Thunderhead Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Blue Wave</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Graig Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Insane Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Americana Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Matte Classic 70's - 80's</Name>
+		<Display_Name>VEHICLE_PAINT_CLASSIC_70_S___80_S</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Matte Satin Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Tabletop Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Hazy Day Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Chaz Beige</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Autumn Wood Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Deep Bronze Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Rainedon Rust Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Morph Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Blush Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Toonshade Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Mint Char Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Khaki Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Woodsman Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Deep Brunswick Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Grenade Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Deep Starlight Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Ice White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Pinafore Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Deep Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Cloudy Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Steel Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Blue Shale</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Fresh Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Active Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Wine Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Slow Burn Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Americana Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Matte Modern</Name>
+		<Display_Name>VEHICLE_PAINT_MODERN</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Matte Ultra Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Galactic Dove Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Tabletop Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Hazy Day Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Chaz Beige</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Trumpet Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Furious Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Khaki Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Mistletoe Kiss Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Grenade Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Deep Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Blue Wave</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Lunar Eclipse Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Fresh Plum Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Kabuki Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Berry Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Insane Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Wine Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Slow Burn Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Toreador Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Americana Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Matte Exotic</Name>
+		<Display_Name>VEHICLE_PAINT_EXOTIC</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Matte Ultra Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Slate Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Tabletop Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Candy Chew Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Tangerine Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Furious Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Bay Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Double Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Mistletoe Kiss Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Catalyst Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Breton Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Deep Brunswick Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Grenade Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Solid Teal</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Regatta Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Dynasty Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Blue Wave</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Cosmos Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Harlequin Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Royal Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Insane Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Slow Burn Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Toreador Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Matte Municipal</Name>
+		<Display_Name>VEHICLE_PAINT_MUNICIPAL</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Matte Ultra Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Abertawe Pewter</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Bright Day Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Lunar Eclipse Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Graig Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Military</Name>
+		<Display_Name>VEHICLE_PAINT_MILITARY</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Matte Satin Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Autumn Wood Brown</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Autumn Sand Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Mint Char Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Mistletoe Kiss Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Pinafore Blue</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Deep Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Matte Steel Gray</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Gang SoS</Name>
+		<Display_Name>VEHICLE_PAINT_GANG_SOS</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Gang Breton Green</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Grenade Green</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Gang Ronin</Name>
+		<Display_Name>VEHICLE_PAINT_GANG_RONIN</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Gang Banana Yellow</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Double Yellow</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Gang Brotherhood</Name>
+		<Display_Name>VEHICLE_PAINT_GANG_BROTHERHOOD</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Gang Graig Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Lipstick Red</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Insane Red</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Gang Ultor</Name>
+		<Display_Name>VEHICLE_PAINT_GANG_ULTOR</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Gang Satin Bright White</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Water Bucket Gray</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Abertawe Pewter</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Jet Black</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Tangerine Orange</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Furious Orange</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Gang Saints</Name>
+		<Display_Name>VEHICLE_PAINT_GANG_SAINTS</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Gang Royal Purple</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Royal Purple Candy</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gang Harlequin Purple</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Gang Bonus</Name>
+		<Display_Name>VEHICLE_PAINT_GANG_BONUS</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Gang Ultra Bright White</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>License Plates</Name>
+		<Display_Name>VEHICLE_PAINT_LICENSE_PLATES</Display_Name>
+		<Price>50</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>License Ultra Bright White</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>Tire Tread</Name>
+		<Display_Name>VEHICLE_PAINT_TIRE_TREAD</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>Tire Ultra Bright White</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	<Color_Set>
+		<Name>White Wall</Name>
+		<Display_Name>VEHICLE_PAINT_WHITE_WALL</Display_Name>
+		<Price>25</Price>
+		<Color_Grid>
+			<Color_Element>
+				<Color>White Ultra Bright White</Color>
+				</Color_Element>
+			</Color_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Color_Set>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Color_Set</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Display_Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Price</Name>
+		<Type>Int</Type>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Color_Grid</Name>
+		<Type>Grid</Type>
+		<Display_Name>Colors</Display_Name>
+		<Element>
+			<Name>Color_Element</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Color</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>vehicle_cust_color_pool.xtbl</File>
+					<Type>Color.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

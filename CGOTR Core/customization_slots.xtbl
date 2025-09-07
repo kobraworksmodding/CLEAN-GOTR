@@ -1,0 +1,1334 @@
+<root>
+<Table>
+	<Slot>
+		<Name>belt</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>155648</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>77824</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>coat</Name>
+		<CPU_Size>28672</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>552960</GPU_Size>
+		<PS3_CPU_Size>57344</PS3_CPU_Size>
+		<PS3_GPU_Size>983040</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>eyes</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>required</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>16384</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>12288</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>eyewear</Name>
+		<CPU_Size>12288</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>122880</GPU_Size>
+		<PS3_CPU_Size>12288</PS3_CPU_Size>
+		<PS3_GPU_Size>69632</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>right ring finger</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>20480</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>8192</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>left ring finger</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>20480</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>8192</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>right index finger</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>20480</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>8192</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>left index finger</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>20480</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>8192</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>beard</Name>
+		<CPU_Size>16384</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>2</Render_Order>
+		<GPU_Size>86016</GPU_Size>
+		<PS3_CPU_Size>16384</PS3_CPU_Size>
+		<PS3_GPU_Size>69632</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>eyebrows</Name>
+		<CPU_Size>4096</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>2</Render_Order>
+		<GPU_Size>36864</GPU_Size>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>16384</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>head hair</Name>
+		<CPU_Size>45056</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>2</Render_Order>
+		<GPU_Size>311296</GPU_Size>
+		<PS3_CPU_Size>45056</PS3_CPU_Size>
+		<PS3_GPU_Size>286720</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>mustache</Name>
+		<CPU_Size>12288</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>2</Render_Order>
+		<GPU_Size>81920</GPU_Size>
+		<PS3_CPU_Size>12288</PS3_CPU_Size>
+		<PS3_GPU_Size>65536</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>sideburns</Name>
+		<CPU_Size>4096</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>2</Render_Order>
+		<GPU_Size>73728</GPU_Size>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>53248</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>headwear</Name>
+		<CPU_Size>28672</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>229376</GPU_Size>
+		<PS3_CPU_Size>28672</PS3_CPU_Size>
+		<PS3_GPU_Size>192512</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>left wrist</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>77824</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>69632</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>long medallion</Name>
+		<CPU_Size>12288</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>98304</GPU_Size>
+		<PS3_CPU_Size>12288</PS3_CPU_Size>
+		<PS3_GPU_Size>65536</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>mid-length medallion</Name>
+		<CPU_Size>12288</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>98304</GPU_Size>
+		<PS3_CPU_Size>12288</PS3_CPU_Size>
+		<PS3_GPU_Size>65536</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>long chain</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>86016</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>32768</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>mid-length chain</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>86016</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>32768</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>short chain</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>77824</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>32768</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>overshirt</Name>
+		<CPU_Size>20480</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>565248</GPU_Size>
+		<PS3_CPU_Size>20480</PS3_CPU_Size>
+		<PS3_GPU_Size>479232</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>bottoms</Name>
+		<CPU_Size>20480</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>425984</GPU_Size>
+		<PS3_CPU_Size>20480</PS3_CPU_Size>
+		<PS3_GPU_Size>397312</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>short medallion</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>57344</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>32768</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>right wrist</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>77824</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>61440</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>shoes</Name>
+		<CPU_Size>24576</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>143360</GPU_Size>
+		<PS3_CPU_Size>24576</PS3_CPU_Size>
+		<PS3_GPU_Size>139264</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>socks</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>135168</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>77824</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>undershirt</Name>
+		<CPU_Size>16384</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>303104</GPU_Size>
+		<PS3_CPU_Size>16384</PS3_CPU_Size>
+		<PS3_GPU_Size>262144</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>underwear</Name>
+		<CPU_Size>12288</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>151552</GPU_Size>
+		<PS3_CPU_Size>12288</PS3_CPU_Size>
+		<PS3_GPU_Size>114688</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>bra</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>192512</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>163840</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>left ear piercing</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>20480</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>16384</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>right ear piercing</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>20480</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>16384</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>left brow piercing</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>20480</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>12288</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>right brow piercing</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>20480</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>12288</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>nose piercing</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>16384</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>12288</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>mouth piercing</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>12288</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>8192</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>navel piercing</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags></Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>gloves</Name>
+		<CPU_Size>12288</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>151552</GPU_Size>
+		<PS3_CPU_Size>12288</PS3_CPU_Size>
+		<PS3_GPU_Size>151552</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>5 o-clock shadow</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>2</Render_Order>
+		<GPU_Size>65536</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>61440</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>armpit hair</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags></Flags>
+		<_Editor>
+			<Category>Entries:NPC slots</Category>
+			</_Editor>
+		<Render_Order>2</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>chest hair</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags></Flags>
+		<_Editor>
+			<Category>Entries:NPC slots</Category>
+			</_Editor>
+		<Render_Order>2</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>arm hair</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags></Flags>
+		<_Editor>
+			<Category>Entries:NPC slots</Category>
+			</_Editor>
+		<Render_Order>2</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>leg hair</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags></Flags>
+		<_Editor>
+			<Category>Entries:NPC slots</Category>
+			</_Editor>
+		<Render_Order>2</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>back hair</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags></Flags>
+		<_Editor>
+			<Category>Entries:NPC slots</Category>
+			</_Editor>
+		<Render_Order>2</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>tie</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>pack</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags></Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>pants chain</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>192512</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>163840</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>back pants pocket</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>192512</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>163840</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>loose belt</Name>
+		<CPU_Size>20480</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>565248</GPU_Size>
+		<PS3_CPU_Size>20480</PS3_CPU_Size>
+		<PS3_GPU_Size>479232</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>left thumb</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags></Flags>
+		<_Editor>
+			<Category>Entries:NPC slots</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>left middle finger</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags></Flags>
+		<_Editor>
+			<Category>Entries:NPC slots</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>left little finger</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags></Flags>
+		<_Editor>
+			<Category>Entries:NPC slots</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>right thumb</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags></Flags>
+		<_Editor>
+			<Category>Entries:NPC slots</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>right middle finger</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags></Flags>
+		<_Editor>
+			<Category>Entries:NPC slots</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>right little finger</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags></Flags>
+		<_Editor>
+			<Category>Entries:NPC slots</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>suit</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>stomach</Name>
+		<CPU_Size>4096</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>69632</GPU_Size>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>69632</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>left shin</Name>
+		<CPU_Size>4096</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>36864</GPU_Size>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>36864</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>entire left leg</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>right shin</Name>
+		<CPU_Size>4096</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>36864</GPU_Size>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>36864</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>entire right leg</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>cheeks</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>32768</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>16384</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>mouth</Name>
+		<CPU_Size>12288</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>49152</GPU_Size>
+		<PS3_CPU_Size>12288</PS3_CPU_Size>
+		<PS3_GPU_Size>49152</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>around eyes</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>28672</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>28672</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>upper back</Name>
+		<CPU_Size>4096</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>69632</GPU_Size>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>69632</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>lower back</Name>
+		<CPU_Size>4096</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>69632</GPU_Size>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>69632</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>entire back</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>chest</Name>
+		<CPU_Size>4096</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>69632</GPU_Size>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>69632</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>entire front</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>left upper arm</Name>
+		<CPU_Size>4096</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>69632</GPU_Size>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>69632</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>left forearm</Name>
+		<CPU_Size>4096</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>69632</GPU_Size>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>69632</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>entire left arm</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>right upper arm</Name>
+		<CPU_Size>4096</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>69632</GPU_Size>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>69632</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>right forearm</Name>
+		<CPU_Size>4096</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>69632</GPU_Size>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>69632</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>entire right arm</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>entire body</Name>
+		<CPU_Size>32768</CPU_Size>
+		<Flags></Flags>
+		<_Editor>
+			<Category>Entries:NPC slots</Category>
+			</_Editor>
+		<Render_Order>1</Render_Order>
+		<GPU_Size>617232</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>fingernails</Name>
+		<CPU_Size>12288</CPU_Size>
+		<Flags>
+			<Flag>remove on outfit</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Render_Order>3</Render_Order>
+		<GPU_Size>151552</GPU_Size>
+		<PS3_CPU_Size>12288</PS3_CPU_Size>
+		<PS3_GPU_Size>151552</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>toenails</Name>
+		<CPU_Size>0</CPU_Size>
+		<Flags></Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries:NPC slots</Category>
+			</_Editor>
+		<GPU_Size>0</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>eyelashes</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags>
+			</Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<GPU_Size>32768</GPU_Size>
+		<PS3_CPU_Size>8192</PS3_CPU_Size>
+		<PS3_GPU_Size>16384</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>teeth</Name>
+		<CPU_Size>4096</CPU_Size>
+		<Flags>
+			</Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<GPU_Size>16384</GPU_Size>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>16384</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>custom eyes</Name>
+		<CPU_Size>8192</CPU_Size>
+		<Flags></Flags>
+		<Render_Order>3</Render_Order>
+		<_Editor>
+			<Category>Entries:NPC slots</Category>
+			</_Editor>
+		<GPU_Size>77824</GPU_Size>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>privacy bar top</Name>
+		<CPU_Size>4096</CPU_Size>
+		<GPU_Size>4096</GPU_Size>
+		<Flags>
+			<Flag>required</Flag>
+			</Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>4096</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>privacy bar bottom</Name>
+		<CPU_Size>4096</CPU_Size>
+		<GPU_Size>12288</GPU_Size>
+		<Flags>
+			<Flag>required</Flag>
+			</Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<PS3_CPU_Size>4096</PS3_CPU_Size>
+		<PS3_GPU_Size>12288</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>forehead</Name>
+		<CPU_Size>0</CPU_Size>
+		<GPU_Size>0</GPU_Size>
+		<Flags></Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>left ankle</Name>
+		<CPU_Size>0</CPU_Size>
+		<GPU_Size>0</GPU_Size>
+		<Flags></Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>right thigh</Name>
+		<CPU_Size>0</CPU_Size>
+		<GPU_Size>0</GPU_Size>
+		<Flags></Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>right ankle</Name>
+		<CPU_Size>0</CPU_Size>
+		<GPU_Size>0</GPU_Size>
+		<Flags></Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>entire face</Name>
+		<CPU_Size>0</CPU_Size>
+		<GPU_Size>0</GPU_Size>
+		<Flags>
+			</Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>back of neck</Name>
+		<CPU_Size>0</CPU_Size>
+		<GPU_Size>0</GPU_Size>
+		<Flags></Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>front of neck</Name>
+		<CPU_Size>0</CPU_Size>
+		<GPU_Size>0</GPU_Size>
+		<Flags></Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>left hand</Name>
+		<CPU_Size>0</CPU_Size>
+		<GPU_Size>0</GPU_Size>
+		<Flags></Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>right hand</Name>
+		<CPU_Size>0</CPU_Size>
+		<GPU_Size>0</GPU_Size>
+		<Flags></Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>left thigh</Name>
+		<CPU_Size>0</CPU_Size>
+		<GPU_Size>0</GPU_Size>
+		<Flags></Flags>
+		<Render_Order>1</Render_Order>
+		<_Editor>
+			<Category>Entries:Tattoos</Category>
+			</_Editor>
+		<PS3_CPU_Size>0</PS3_CPU_Size>
+		<PS3_GPU_Size>0</PS3_GPU_Size>
+		</Slot>
+	<Slot>
+		<Name>Parachute</Name>
+		<CPU_Size>163136</CPU_Size>
+		<PS3_CPU_Size>163136</PS3_CPU_Size>
+		<GPU_Size>458752</GPU_Size>
+		<PS3_GPU_Size>327680</PS3_GPU_Size>
+		<Flags>
+			</Flags>
+		<Render_Order>3</Render_Order>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Slot>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Slot</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Name of this customization slot.</Description>
+		</Element>
+	<Element>
+		<Name>CPU_Size</Name>
+		<Type>Int</Type>
+		<Display_Name>CPU Size</Display_Name>
+		<Description>Memory footprint (CPU).</Description>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>PS3_CPU_Size</Name>
+		<Type>Int</Type>
+		<Display_Name>PS3 CPU Size</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>GPU_Size</Name>
+		<Type>Int</Type>
+		<Display_Name>GPU Size</Display_Name>
+		<Description>Memory footprint (GPU).</Description>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>PS3_GPU_Size</Name>
+		<Type>Int</Type>
+		<Display_Name>PS3 GPU Size</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Flags</Name>
+		<Type>Flags</Type>
+		<Flag>required</Flag>
+		<Flag>npc only</Flag>
+		<Flag>remove on outfit</Flag>
+		</Element>
+	<Element>
+		<Name>Render_Order</Name>
+		<Type>Int</Type>
+		<Display_Name>Render Order</Display_Name>
+		<Description>Order in which this slot should render (higher = later)</Description>
+		<Default>1</Default>
+		</Element>
+	<Element>
+		<Name>Default_Material</Name>
+		<Type>String</Type>
+		<Display_Name>Default Material</Display_Name>
+		<Description>Default material to use for this slot.</Description>
+		<Required>false</Required>
+		</Element>
+	<Element>
+		<Name>Default_Variable</Name>
+		<Type>String</Type>
+		<Display_Name>Default Variable</Display_Name>
+		<Description>Default variable to use for this slot.</Description>
+		<Required>false</Required>
+		</Element>
+	<Element>
+		<Name>NULL_Component</Name>
+		<Type>Element</Type>
+		<Display_Name>NULL Component</Display_Name>
+		<Required>false</Required>
+		<Element>
+			<Name>Texture_Infos</Name>
+			<Type>Grid</Type>
+			<Display_Name>Textures</Display_Name>
+			<Element>
+				<Name>Texture_Info</Name>
+				<Type>Element</Type>
+				<Display_Name>Texture</Display_Name>
+				<Element>
+					<Name>Material_Name</Name>
+					<Type>String</Type>
+					<Display_Name>Material Name</Display_Name>
+					<Required>false</Required>
+					</Element>
+				<Element>
+					<Name>Variable_Name</Name>
+					<Type>String</Type>
+					<Display_Name>Variable Name</Display_Name>
+					<Required>false</Required>
+					</Element>
+				<Element>
+					<Name>Bitmap_Name</Name>
+					<Type>String</Type>
+					<Display_Name>Bitmap Name</Display_Name>
+					<Default>misc-white.tga</Default>
+					</Element>
+				</Element>
+			<Num_Display_Rows>40</Num_Display_Rows>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		<Category>
+			<Name>NPC slots</Name>
+			</Category>
+		<Category>
+			<Name>Tattoos</Name>
+			</Category>
+		</Category>
+	</EntryCategories>
+</root>

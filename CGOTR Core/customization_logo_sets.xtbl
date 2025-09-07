@@ -1,0 +1,2058 @@
+<root>
+<Table>
+	<Logo_Set>
+		<Name>128x128 logos</Name>
+		<Display_Name>128X128_LOGOS</Display_Name>
+		<Logos>
+			<Logo_Element>
+				<Logo>log_256x256_tux01</Logo> sr3
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_beer01</Logo> GOTR
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_ghost01</Logo> PA
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x256_uninews01</Logo> sagoons
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_facepunch</Logo> FP
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_horse01</Logo> Epic Smiley
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition01</Logo> troll face
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>LOG_256x256_kmfdm</Logo> kmdfm
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_akustics01</Logo> nin
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_daftpunk</Logo> daft punk
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_eromenos01</Logo> justice
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_mech01</Logo> PWEI
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_muse</Logo> muse
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_phancave03</Logo> VB
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_ghost03</Logo> brock
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>LOG_256x256_hellboy</Logo> hellboy
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_lobster</Logo> lobster
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_bprd</Logo> bprd
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_bite01</Logo> batman
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_stalla01</Logo> punisher
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_greenlantern</Logo> green lantern
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_bat01</Logo> bender
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_kobra01</Logo> filler bunny
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_steer01</Logo> Zim
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_scorpion01</Logo> gir
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_skeeters06</Logo> Irken Empire
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_pheasant01</Logo> ZQ
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_rustys01</Logo> nee
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x128_sharks01</Logo> doughboys
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_brhood03</Logo> redribbon
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_rhombu01</Logo> taopaipai
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_section901</Logo> mademon
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_rounhous01</Logo> majin
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_feeddogs</Logo> Capsule Corp
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_hhh01</Logo> songoku
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_eromenos02</Logo> turtleschool
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_eromenos03</Logo> kaio
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_skeeters01</Logo> kami
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_ghostnappa</Logo> ghost nappa
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_washingt01</Logo> Cowboy Bebop
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_gblaster01</Logo> lagann
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_zombie01</Logo> nerv
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_wonmar01</Logo> strawhat
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_volition03</Logo> Half Life 2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_skeeters04</Logo> Black Mesa
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_aperture</Logo> aperture
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_guitar01</Logo> L4D
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_freckle01</Logo> TF2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_zombie01</Logo> Mann Co
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_volition05</Logo> Counterstrike
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_texas01</Logo> Headshot
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_volition01</Logo> Garrys Mod
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_cards01</Logo> objection
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_bat01</Logo> cerebus
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_bite01</Logo> n7
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_tux01</Logo> Quake
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_volition04</Logo> Quake 2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_trucks01</Logo> Quake 3
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_volition02</Logo> Quake 4
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_texas01</Logo> ut
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_trucks01</Logo> ut2004
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_beer01</Logo> serious sam
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_neverlan01</Logo> triforce
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_cards01</Logo> Borderlands Vault
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_8ball01</Logo> vault paint
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_volition04</Logo> crimson lance
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_horse01</Logo> godhand
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_pheasant01</Logo> gtasa
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_steer01</Logo> gtavc
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_washingt01</Logo> lostdamned
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_feeddogs</Logo> STARS
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_artmuse01</Logo> third echelon
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_bike01</Logo> akuma
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_hhh01</Logo> mortalkombat
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_washingt01</Logo> horus
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_neverlan01</Logo> miskatonic
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_boot01</Logo> cthulhu1
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_chainsaw01</Logo> cthulhu2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_gyros01</Logo> cthulhu3
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_bike01</Logo> Dolemite
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_boot01</Logo> SHAFT
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_cards01</Logo> Foxy Brown
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_cycles01</Logo> Superfly
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_chainsaw01</Logo> Black Dynamite
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_bat01</Logo> star wars
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_ghost03</Logo> stormtrooper
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_phancave03</Logo> darth vader
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_darts01</Logo> Blade Runner
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition03</Logo> Tyrell Corp
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_dogfight01</Logo> Babylon 5
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_fish01</Logo> Psi Corps
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_eromenos03</Logo> ALIENS
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition04</Logo> weylandyutani
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition05</Logo> sulaco
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_eromenos02</Logo> PREDATOR
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_89genx01</Logo> zorg
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_uninews01</Logo> buckaroobanzai
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_artmuse01</Logo> jurassic park
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_warriors</Logo> warriors
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_wonmar01</Logo> ninkanji
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_wonmar01</Logo> oda
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_peace01</Logo> Shaw Brothers
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_ghost02</Logo> bob dobbs
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_volition02</Logo> adidas
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_volition03</Logo> adidas2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_volition01</Logo> nike
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition02</Logo> NY
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_gyros01</Logo> gentlemanly gentlemen
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_su01</Logo> fuckyousay
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_su01</Logo> fleurwings
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_eromenos01</Logo> hard rock
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_volition05</Logo> Fight beauties 1
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_tux01</Logo> Fight Beauties 2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_feedsuck01</Logo> Fight Beauties 6
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_britflag01</Logo> Fight Beauties 7
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x256_chainsaw01</Logo> Hulkamania
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_roninlogo</Logo> ronin
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_samedilogo</Logo> samedi
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_phancave02</Logo> SRM
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x256_phancave04</Logo> longetivity
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_ghost03</Logo> star and shield
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_phancave03</Logo> ultor
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_phancave04</Logo> ultor security
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_ghost02</Logo> POLICE
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_FBI</Logo> FBI
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_security1</Logo> SECURITY
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_guard1</Logo> GUARD
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_rhombu01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_viral01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_viral02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_sharks01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_128x128_pot</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_repair01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_girl01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_mech01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_skeeters01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_skeeters02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_skeeters03</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_su02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_su03</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_128x128_skull01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_gblaster01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_saintsrw01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_phancave01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_spelunk01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_stalla01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_89genx01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_8ball01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_akustics01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_beer01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_bike01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_britflag01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_coffee01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_cycles01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_darts01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_dogfight01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_dragon01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_ezzzy01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_feedsuck01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_fish01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_fist01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_flowers</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_four20</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_freckle01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_funk01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_guitar01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_hammer01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_heart01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_hoe01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_k12</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_kboom01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_krhyme01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_mix01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_murry02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_peace01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_pms01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_reaper01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_rfs01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_rounhous01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_scorpion01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_section901</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_sizzurp01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_skeeters04</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_skeeters05</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_skeeters06</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_sqd01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_stalker01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_su04</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_su05</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_underg01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_vegas01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_xxxy01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_128x128_Stilcorrect</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_kobra01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_lollipop01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_nodrugs01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_brhood03</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_rustys01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_128x128_freckle02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_128x128_FUZZ</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_SRair</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_FireFit</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_nuke01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_fleur01</Logo>
+				</Logo_Element>
+			</Logos>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Logo_Set>
+	<Logo_Set>
+		<Name>256x128 logos</Name>
+		<Display_Name>128X256_LOGOS</Display_Name>
+		<Logos>
+			<Logo_Element>
+				<Logo>log_256x256_tux01</Logo> sr3
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_beer01</Logo> GOTR
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_ghost01</Logo> PA
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x256_uninews01</Logo> sagoons
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_facepunch</Logo> FP
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_horse01</Logo> Epic Smiley
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition01</Logo> troll face
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>LOG_256x256_kmfdm</Logo> kmdfm
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_akustics01</Logo> nin
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_daftpunk</Logo> daft punk
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_eromenos01</Logo> justice
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_mech01</Logo> PWEI
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_muse</Logo> muse
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_phancave03</Logo> VB
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_ghost03</Logo> brock
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>LOG_256x256_hellboy</Logo> hellboy
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_lobster</Logo> lobster
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_bprd</Logo> bprd
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_bite01</Logo> batman
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_stalla01</Logo> punisher
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_greenlantern</Logo> green lantern
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_bat01</Logo> bender
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_kobra01</Logo> filler bunny
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_steer01</Logo> Zim
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_scorpion01</Logo> gir
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_skeeters06</Logo> Irken Empire
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_pheasant01</Logo> ZQ
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_rustys01</Logo> nee
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x128_sharks01</Logo> doughboys
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_brhood03</Logo> redribbon
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_rhombu01</Logo> taopaipai
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_section901</Logo> mademon
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_rounhous01</Logo> majin
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_feeddogs</Logo> Capsule Corp
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_hhh01</Logo> songoku
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_eromenos02</Logo> turtleschool
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_eromenos03</Logo> kaio
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_skeeters01</Logo> kami
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_ghostnappa</Logo> ghost nappa
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_washingt01</Logo> Cowboy Bebop
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_gblaster01</Logo> lagann
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_zombie01</Logo> nerv
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_wonmar01</Logo> strawhat
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_volition03</Logo> Half Life 2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_skeeters04</Logo> Black Mesa
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_aperture</Logo> aperture
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_guitar01</Logo> L4D
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_freckle01</Logo> TF2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_zombie01</Logo> Mann Co
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_volition05</Logo> Counterstrike
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_texas01</Logo> Headshot
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_volition01</Logo> Garrys Mod
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_cards01</Logo> objection
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_bat01</Logo> cerebus
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_bite01</Logo> n7
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_tux01</Logo> Quake
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_volition04</Logo> Quake 2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_trucks01</Logo> Quake 3
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_volition02</Logo> Quake 4
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_texas01</Logo> ut
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_trucks01</Logo> ut2004
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_beer01</Logo> serious sam
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_neverlan01</Logo> triforce
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_cards01</Logo> Borderlands Vault
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_8ball01</Logo> vault paint
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_volition04</Logo> crimson lance
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_horse01</Logo> godhand
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_pheasant01</Logo> gtasa
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_steer01</Logo> gtavc
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_washingt01</Logo> lostdamned
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_feeddogs</Logo> STARS
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_artmuse01</Logo> third echelon
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_bike01</Logo> akuma
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_hhh01</Logo> mortalkombat
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_washingt01</Logo> horus
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_neverlan01</Logo> miskatonic
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_boot01</Logo> cthulhu1
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_chainsaw01</Logo> cthulhu2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_gyros01</Logo> cthulhu3
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_bike01</Logo> Dolemite
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_boot01</Logo> SHAFT
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_cards01</Logo> Foxy Brown
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_cycles01</Logo> Superfly
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_chainsaw01</Logo> Black Dynamite
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_bat01</Logo> star wars
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_ghost03</Logo> stormtrooper
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_phancave03</Logo> darth vader
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_darts01</Logo> Blade Runner
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition03</Logo> Tyrell Corp
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_dogfight01</Logo> Babylon 5
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_fish01</Logo> Psi Corps
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_eromenos03</Logo> ALIENS
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition04</Logo> weylandyutani
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition05</Logo> sulaco
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_eromenos02</Logo> PREDATOR
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_89genx01</Logo> zorg
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_uninews01</Logo> buckaroobanzai
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_artmuse01</Logo> jurassic park
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_warriors</Logo> warriors
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_wonmar01</Logo> ninkanji
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_wonmar01</Logo> oda
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_peace01</Logo> Shaw Brothers
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_ghost02</Logo> bob dobbs
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_volition02</Logo> adidas
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_volition03</Logo> adidas2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_volition01</Logo> nike
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition02</Logo> NY
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_gyros01</Logo> gentlemanly gentlemen
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_su01</Logo> fuckyousay
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_su01</Logo> fleurwings
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_eromenos01</Logo> hard rock
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_volition05</Logo> Fight beauties 1
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_tux01</Logo> Fight Beauties 2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_feedsuck01</Logo> Fight Beauties 6
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_britflag01</Logo> Fight Beauties 7
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x256_chainsaw01</Logo> Hulkamania
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_roninlogo</Logo> ronin
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_samedilogo</Logo> samedi
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_phancave02</Logo> SRM
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x256_phancave04</Logo> longetivity
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_ghost02</Logo> POLICE
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_ghost02</Logo> POLICE
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_phancave04</Logo> ULTOR
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_FBI</Logo> FBI
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_security1</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_guard1</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_balance1</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_repair01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_skeeters02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_skeeters03</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_su01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_saintsrw01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_phancave01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_spelunk01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_89genx01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_8ball01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_akustics01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_coffee01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_dragon01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_ezzzy01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_fist01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_flowers</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_four20</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_funk01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_hammer01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_heart01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_hoe01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_k12</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_kboom01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_krhyme01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_mix01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_murry02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_pms01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_reaper01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_rfs01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_sizzurp01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_skeeters05</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_sqd01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_stalker01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_su04</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_su05</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_underg01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_vegas01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_xxxy01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x128_Stilcorrect</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_lollipop01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_nodrugs01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_girl01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x128_pot01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x128_skull01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_su02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_su03</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_viral01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_viral02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x128_freckle02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x128_FUZZ</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_SRair</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_FireFit</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_nuke01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_fleur01</Logo>
+				</Logo_Element>
+			</Logos>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Logo_Set>
+	<Logo_Set>
+		<Name>256x256 logos</Name>
+		<Display_Name>256X256_LOGOS</Display_Name>
+		<Logos>
+			<Logo_Element>
+				<Logo>log_256x256_tux01</Logo> sr3
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_beer01</Logo> GOTR
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_ghost01</Logo> PA
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x256_uninews01</Logo> sagoons
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_facepunch</Logo> FP
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_horse01</Logo> Epic Smiley
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition01</Logo> troll face
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>LOG_256x256_kmfdm</Logo> kmdfm
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_akustics01</Logo> nin
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_daftpunk</Logo> daft punk
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_eromenos01</Logo> justice
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_mech01</Logo> PWEI
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_muse</Logo> muse
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_phancave03</Logo> VB
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_ghost03</Logo> brock
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>LOG_256x256_hellboy</Logo> hellboy
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_lobster</Logo> lobster
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_bprd</Logo> bprd
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_bite01</Logo> batman
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_stalla01</Logo> punisher
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_greenlantern</Logo> green lantern
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_bat01</Logo> bender
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_kobra01</Logo> filler bunny
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_steer01</Logo> Zim
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_scorpion01</Logo> gir
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_skeeters06</Logo> Irken Empire
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_pheasant01</Logo> ZQ
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_rustys01</Logo> nee
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x128_sharks01</Logo> doughboys
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_brhood03</Logo> redribbon
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_rhombu01</Logo> taopaipai
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_section901</Logo> mademon
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_rounhous01</Logo> majin
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_feeddogs</Logo> Capsule Corp
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_hhh01</Logo> songoku
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_eromenos02</Logo> turtleschool
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_eromenos03</Logo> kaio
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_skeeters01</Logo> kami
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_ghostnappa</Logo> ghost nappa
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_washingt01</Logo> Cowboy Bebop
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_gblaster01</Logo> lagann
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_zombie01</Logo> nerv
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_wonmar01</Logo> strawhat
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_volition03</Logo> Half Life 2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_skeeters04</Logo> Black Mesa
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_aperture</Logo> aperture
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_guitar01</Logo> L4D
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_freckle01</Logo> TF2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_zombie01</Logo> Mann Co
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_volition05</Logo> Counterstrike
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_texas01</Logo> Headshot
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_volition01</Logo> Garrys Mod
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_cards01</Logo> objection
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_bat01</Logo> cerebus
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_bite01</Logo> n7
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_tux01</Logo> Quake
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_volition04</Logo> Quake 2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_trucks01</Logo> Quake 3
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_volition02</Logo> Quake 4
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_texas01</Logo> ut
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_trucks01</Logo> ut2004
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_beer01</Logo> serious sam
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_neverlan01</Logo> triforce
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_cards01</Logo> Borderlands Vault
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_8ball01</Logo> vault paint
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_volition04</Logo> crimson lance
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_horse01</Logo> godhand
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_pheasant01</Logo> gtasa
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_steer01</Logo> gtavc
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_washingt01</Logo> lostdamned
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_feeddogs</Logo> STARS
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_artmuse01</Logo> third echelon
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_bike01</Logo> akuma
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_hhh01</Logo> mortalkombat
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_washingt01</Logo> horus
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_neverlan01</Logo> miskatonic
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_boot01</Logo> cthulhu1
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_chainsaw01</Logo> cthulhu2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_gyros01</Logo> cthulhu3
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_bike01</Logo> Dolemite
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_boot01</Logo> SHAFT
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_cards01</Logo> Foxy Brown
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_cycles01</Logo> Superfly
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_chainsaw01</Logo> Black Dynamite
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_bat01</Logo> star wars
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_ghost03</Logo> stormtrooper
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_phancave03</Logo> darth vader
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_darts01</Logo> Blade Runner
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition03</Logo> Tyrell Corp
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_dogfight01</Logo> Babylon 5
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_fish01</Logo> Psi Corps
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_eromenos03</Logo> ALIENS
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition04</Logo> weylandyutani
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition05</Logo> sulaco
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_eromenos02</Logo> PREDATOR
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_89genx01</Logo> zorg
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_uninews01</Logo> buckaroobanzai
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_artmuse01</Logo> jurassic park
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_warriors</Logo> warriors
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_wonmar01</Logo> ninkanji
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_wonmar01</Logo> oda
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_peace01</Logo> Shaw Brothers
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_ghost02</Logo> bob dobbs
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_volition02</Logo> adidas
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_volition03</Logo> adidas2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_volition01</Logo> nike
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_volition02</Logo> NY
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x128_gyros01</Logo> gentlemanly gentlemen
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_su01</Logo> fuckyousay
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_su01</Logo> fleurwings
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_eromenos01</Logo> hard rock
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_128x128_volition05</Logo> Fight beauties 1
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_tux01</Logo> Fight Beauties 2
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_feedsuck01</Logo> Fight Beauties 6
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x128_britflag01</Logo> Fight Beauties 7
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x256_chainsaw01</Logo> Hulkamania
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_roninlogo</Logo> ronin
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_samedilogo</Logo> samedi
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_phancave02</Logo> SRM
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x256_phancave04</Logo> longetivity
+				</Logo_Element>
+
+			<Logo_Element>
+				<Logo>log_256x256_security1</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_guard1</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_rustys01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_brhood03</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_rhombu01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_viral01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_viral02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_repair01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_girl01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_mech01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_skeeters01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_skeeters02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_skeeters03</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_su02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_su03</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_feeddogs</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_skull01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_gblaster01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_saintsrw01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_phancave01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_spelunk01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_stalla01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_89genx01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_8ball01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_akustics01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_artmuse01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_beer01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_bike01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_bite01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_britflag01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_coffee01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_cycles01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_darts01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_dogfight01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_dragon01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_eromenos01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_eromenos02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_eromenos03</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_ezzzy01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_feedsuck01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_fish01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_fist01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_flowers</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_four20</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_freckle01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_funk01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_guitar01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_gyros01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_hammer01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_heart01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_hhh01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_hoe01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_k12</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_kboom01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_krhyme01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_mix01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_murry02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_neverlan01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_peace01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_pheasant01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_pms01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_reaper01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_rfs01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_rounhous01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_scorpion01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_section901</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_sizzurp01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_skeeters04</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_skeeters05</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_skeeters06</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_sqd01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_stalker01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_steer01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_su04</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_su05</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_texas01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_trucks01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_underg01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_vegas01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_xxxy01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_zombie01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_Stilcorrect</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_boot01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_horse01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_kobra01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_lollipop01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_nodrugs01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_pot01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_sharks01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_freckle02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>LOG_256x256_FUZZ</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_SRair</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_FireFit</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_nuke01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_fleur01</Logo>
+				</Logo_Element>
+			</Logos>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Logo_Set>
+	<Logo_Set>
+		<Name>128x128 numbers</Name>
+		<Display_Name>128X128_NUMBERS</Display_Name>
+		<Logos>
+			<Logo_Element>
+				<Logo>log_128x128_no01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_no02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_no03</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_no04</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_no05</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_no06</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_no07</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_no08</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_no09</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_no10</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_no11</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_no12</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_128x128_no13</Logo>
+				</Logo_Element>
+			</Logos>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Logo_Set>
+	<Logo_Set>
+		<Name>256x256 numbers</Name>
+		<Display_Name>256X256_NUMBERS</Display_Name>
+		<Logos>
+			<Logo_Element>
+				<Logo>log_256x256_no01</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_no02</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_no03</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_no04</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_no05</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_no06</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_no07</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_no08</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_no09</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_no10</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_no11</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_no12</Logo>
+				</Logo_Element>
+			<Logo_Element>
+				<Logo>log_256x256_no13</Logo>
+				</Logo_Element>
+			</Logos>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Logo_Set>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Logo_Set</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Display_Name</Name>
+		<Type>String</Type>
+		<Display_Name>Display Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>Logos</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Logo_Element</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Logo</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>customization_logos.xtbl</File>
+					<Type>Logo.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

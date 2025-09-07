@@ -1,0 +1,44 @@
+<root>
+<Table>
+	<Character>
+		<Name>StyleTest_PC</Name>
+		<Model>
+			<Filename>cmbod_human.cmeshx</Filename>
+			</Model>
+		<Anim_Set>GML1</Anim_Set>
+		<Rig>
+			<Filename>SR2_Main_Rig.rigx</Filename>
+			<Preload>true</Preload>
+			</Rig>
+		<Height>1.1</Height>
+		<Variation>0</Variation>
+		<Base_Height_Offset>0</Base_Height_Offset>
+		<Approved>Yes</Approved>
+		<Height_Class>Medium</Height_Class>
+		<Min_Blink>1000</Min_Blink>
+		<Max_Blink>4000</Max_Blink>
+		<Morph>
+			<Filename>cmBod_human_pc_IGF.morphx</Filename>
+			</Morph>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Cloth_Sim>
+			<Filename>Sim_Breasts.simx</Filename>
+			<Preload>true</Preload>
+			</Cloth_Sim>
+		</Character>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription source="character_desc.xml">
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

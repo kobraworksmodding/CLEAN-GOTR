@@ -1,0 +1,678 @@
+<root>
+<Table>
+	<GangCustomization>
+		<Name>SR2_Player_Gang_Cust</Name>
+		<Types>
+			<Type>
+				<SoldierMale>npc_s_80s_male_soldier</SoldierMale>
+				<Display_Name>CUST_GANG_NAME_80S</Display_Name>
+				<SoldierFemale>npc_s_80s_female_soldier</SoldierFemale>
+				<LieutenantMale>npc_s_80s_male_lt</LieutenantMale>
+				<LieutenantFemale>npc_s_80s_female_lt</LieutenantFemale>
+				<Flags>
+					</Flags>
+				<name>80s</name>
+				</Type>
+			<Type>
+				<Display_Name>CUST_GANG_NAME_GANGSTER</Display_Name>
+				<SoldierMale>npc_s_gangster_male_soldier</SoldierMale>
+				<SoldierFemale>npc_s_gangster_fem_soldier</SoldierFemale>
+				<LieutenantMale>npc_s_gangster_male_lt</LieutenantMale>
+				<LieutenantFemale>npc_s_gangster_female_lt</LieutenantFemale>
+				<Flags>
+					</Flags>
+				<name>gangster</name>
+				</Type>
+			<Type>
+				<name>sporty</name>
+				<Display_Name>CUST_GANG_NAME_SPORTY</Display_Name>
+				<SoldierMale>npc_s_sporty_male_soldier</SoldierMale>
+				<SoldierFemale>npc_s_sporty_female_soldier</SoldierFemale>
+				<LieutenantMale>npc_s_sporty_male_lt</LieutenantMale>
+				<LieutenantFemale>npc_s_sporty_female_lt</LieutenantFemale>
+				<Flags>
+					</Flags>
+				</Type>
+			<Type>
+				<name>prephop</name>
+				<Display_Name>CUST_GANG_NAME_PREPHOP</Display_Name>
+				<SoldierMale>npc_s_prephop_male_soldier</SoldierMale>
+				<SoldierFemale>npc_s_prephop_fem_soldier</SoldierFemale>
+				<LieutenantMale>npc_s_prephop_male_lt</LieutenantMale>
+				<LieutenantFemale>npc_s_prephop_female_lt</LieutenantFemale>
+				<Flags>
+					</Flags>
+				</Type>
+			<Type>
+				<name>ninja</name>
+				<Display_Name>CUST_GANG_NAME_NINJA</Display_Name>
+				<SoldierMale>npc_s_ninja_mal_sol_1</SoldierMale>
+				<SoldierFemale>npc_s_ninja_mal_sol_2</SoldierFemale>
+				<LieutenantMale>npc_s_ninja_mal_lt_1</LieutenantMale>
+				<LieutenantFemale>npc_s_ninja_mal_lt_2</LieutenantFemale>
+				<Flags>
+					<Flag>locked</Flag>
+					</Flags>
+				</Type>
+			<Type>
+				<name>pimpho</name>
+				<Display_Name>CUST_GANG_NAME_PIMP</Display_Name>
+				<SoldierMale>npc_s_pimpho_mal_sol</SoldierMale>
+				<SoldierFemale>npc_s_pimpho_fem_sol</SoldierFemale>
+				<LieutenantMale>npc_s_pimpho_mal_lt</LieutenantMale>
+				<LieutenantFemale>npc_s_pimpho_fem_lt</LieutenantFemale>
+				<Flags>
+					</Flags>
+				</Type>
+			<Type>
+				<name>bodyguard</name>
+				<Display_Name>CUST_GANG_NAME_BODYGUARD</Display_Name>
+				<SoldierMale>npc_s_private_mal_sol_1</SoldierMale>
+				<SoldierFemale>npc_s_private_mal_sol_2</SoldierFemale>
+				<LieutenantMale>npc_s_private_mal_lt_1</LieutenantMale>
+				<LieutenantFemale>npc_s_private_mal_lt_2</LieutenantFemale>
+				<Flags>
+					<Flag>locked</Flag>
+					</Flags>
+				</Type>
+
+			</Types>
+		<Vehicles>
+			<Vehicle>
+				<Vehicle>car_2dr_compact04</Vehicle>
+				</Vehicle>
+			<Vehicle>
+				<Vehicle>car_2dr_muscle02</Vehicle>
+				</Vehicle>
+			<Vehicle>
+				<Vehicle>car_2dr_standard03</Vehicle>
+				</Vehicle>
+			<Vehicle>
+				<Vehicle>car_2dr_standard06</Vehicle>
+				</Vehicle>
+			<Vehicle>
+				<Vehicle>car_4dr_lowrider01</Vehicle>
+				</Vehicle>
+			<Vehicle>
+				<Vehicle>car_4dr_standard03</Vehicle>
+				</Vehicle>
+			<Vehicle>
+				<Vehicle>suv_4dr_04</Vehicle>
+				</Vehicle>
+			<Vehicle>
+				<Vehicle>truck_2dr_classic01</Vehicle>
+				</Vehicle>
+			<Vehicle>
+				<Vehicle>van_4dr_04</Vehicle>
+				</Vehicle>
+			<Vehicle>
+				<Vehicle>wagon_4dr_01</Vehicle>
+				</Vehicle>
+			<Vehicle>
+				<Vehicle>car_4dr_std01</Vehicle>
+				</Vehicle>
+			</Vehicles>
+		<PlayerDefaults>
+			<DefaultType>CUST_GANG_NAME_GANGSTER</DefaultType>
+			<DefaultTag>Saints01</DefaultTag>
+			<DefaultVehicles>
+				<Slot1>car_2dr_muscle02</Slot1>
+				<Slot2>car_4dr_lowrider01</Slot2>
+				<Slot3>car_4dr_standard03</Slot3>
+				</DefaultVehicles>
+			</PlayerDefaults>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Gang_Signs>
+			<Pose>
+				<Pose>
+					<display_name>CUST_COMPLIMENT_A</display_name>
+					<animation>Compliment A</animation>
+					</Pose>
+				<Pose>
+					<display_name>Take a Picture</display_name>
+					<animation>Compliment B</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_COMPLIMENT_C</display_name>
+					<animation>Compliment C</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_COMPLIMENT_D</display_name>
+					<animation>Compliment D</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_COMPLIMENT_E</display_name>
+					<animation>Compliment E</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_COMPLIMENT_F</display_name>
+					<animation>Compliment F</animation>
+					</Pose>
+				<Pose>
+					<display_name>Play 'dem Blues</display_name>
+					<animation>Compliment G</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_COMPLIMENT_H</display_name>
+					<animation>Compliment H</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_COMPLIMENT_I</display_name>
+					<animation>Compliment I</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_COMPLIMENT_J</display_name>
+					<animation>Compliment J</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_COMPLIMENT_K</display_name>
+					<animation>Compliment K</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_INSULT_A</display_name>
+					<animation>Insult A</animation>
+					</Pose>
+				<Pose>
+					<display_name>Slick Hair</display_name>
+					<animation>Insult B</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_INSULT_C</display_name>
+					<animation>Insult C</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_INSULT_D</display_name>
+					<animation>Insult D</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_INSULT_E</display_name>
+					<animation>Insult E</animation>
+					</Pose>
+				<Pose>
+					<display_name>Eat Takeout</display_name>
+					<animation>Insult F</animation>
+					</Pose>
+				<Pose>
+					<display_name>Eat the Dead (Zombie)</display_name>
+					<animation>Insult G</animation>
+					</Pose>
+				<Pose>
+					<display_name>Ash Away</display_name>
+					<animation>Insult H</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_INSULT_I</display_name>
+					<animation>Insult I</animation>
+					</Pose>
+				<Pose>
+					<display_name>Zombie Attack!</display_name>
+					<animation>Insult J</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_INSULT_K</display_name>
+					<animation>Insult K</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_INSULT_L</display_name>
+					<animation>Insult L</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_INSULT_M</display_name>
+					<animation>Insult M</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_INSULT_N</display_name>
+					<animation>Insult N</animation>
+					</Pose>
+				<Pose>
+					<display_name>Polish Sword</display_name>
+					<animation>Insult O</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_INSULT_P</display_name>
+					<animation>Insult P</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_INSULT_Q</display_name>
+					<animation>Insult Q</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_INSULT_R</display_name>
+					<animation>Insult R</animation>
+					</Pose>
+				<Pose>
+					<display_name>CUST_INSULT_S</display_name>
+					<animation>Insult S</animation>
+					</Pose>
+				<Pose>
+					<display_name>Bring the Voodoo</display_name>
+					<animation>Insult T</animation>
+					</Pose>
+				</Pose>
+			<Voice></Voice>
+			</Gang_Signs>
+		<gang_vehicles>
+			<gang_vehicles>
+				<Vehicles>
+					<Vehicle>
+						<Vehicle>car_2dr_compact04</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_2dr_muscle02</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_2dr_standard03</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_2dr_standard06</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_4dr_lowrider01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_4dr_standard03</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>suv_4dr_04</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>truck_2dr_classic01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>van_4dr_04</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>wagon_4dr_01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_4dr_std01</Vehicle>
+						</Vehicle>
+					</Vehicles>
+				<name>initial</name>
+				<Flags>
+					</Flags>
+				</gang_vehicles>
+			<gang_vehicles>
+				<Vehicles>
+					<Vehicle>
+						<Vehicle>car_2dr_compact03</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_2dr_luxury04</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_2dr_muscle03</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_2dr_sports06</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_4dr_classic01</Vehicle>
+						</Vehicle>
+					</Vehicles>
+				<name>unlock_set_1</name>
+				<Flags>
+					<Flag>locked</Flag>
+					</Flags>
+				</gang_vehicles>
+			<gang_vehicles>
+				<Vehicles>
+					<Vehicle>
+						<Vehicle>car_2dr_exolux01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_2dr_exoticsports04</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_2dr_muscle01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_2dr_sports05</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_4dr_classic02</Vehicle>
+						</Vehicle>
+					</Vehicles>
+				<name>unlock_set_2</name>
+				<Flags>
+					<Flag>locked</Flag>
+					</Flags>
+				</gang_vehicles>
+			<gang_vehicles>
+				<Vehicles>
+					<Vehicle>
+						<Vehicle>car_2dr_exoticsports01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_2dr_exoticsports05</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_2dr_exoticsports06</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>suv_4dr_luxury05</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_4dr_exoticluxury01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>bike_rocket02</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>bike_standard02</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>bike_pocket01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>bike_chopper01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>bike_dirt01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>bike_standard01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>bike_rocket01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>bike_moped01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>sp_atv01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>car_2dr_buggy01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>sp_cart01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>truck_4dr_pickup04</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>truck_2dr_monster01</Vehicle>
+						</Vehicle>
+
+					<Vehicle>
+						<Vehicle>car_4dr_police01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>suv_4dr_fbi01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>sp_metermaid01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>sp_apc01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>sp_limosuv01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>sp_limo01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>sp_novelty01</Vehicle>
+						</Vehicle>
+					<Vehicle>
+						<Vehicle>sp_eltrain_01</Vehicle>
+						</Vehicle>
+					</Vehicles>
+				<name>unlock_set_3</name>
+				<Flags>
+					<Flag>locked</Flag>
+					</Flags>
+				</gang_vehicles>
+			</gang_vehicles>
+		</GangCustomization>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>GangCustomization</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Types</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Type</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Display_Name</Name>
+				<Type>Reference</Type>
+				<Display_Name>Display Name</Display_Name>
+				<Reference>
+					<File>localized_exports\Gang_Names.xtbl</File>
+					<Type>Gangs_Identifier.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>SoldierMale</Name>
+				<Type>Reference</Type>
+				<Display_Name>Soldier Male</Display_Name>
+				<Reference>
+					<File>character_presets.xtbl</File>
+					<Type>Preset.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>SoldierFemale</Name>
+				<Type>Reference</Type>
+				<Display_Name>Soldier Female</Display_Name>
+				<Reference>
+					<File>character_presets.xtbl</File>
+					<Type>Preset.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>LieutenantMale</Name>
+				<Type>Reference</Type>
+				<Display_Name>Lieutenant Male</Display_Name>
+				<Reference>
+					<File>character_presets.xtbl</File>
+					<Type>Preset.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>LieutenantFemale</Name>
+				<Type>Reference</Type>
+				<Display_Name>Lieutenant Female</Display_Name>
+				<Reference>
+					<File>character_presets.xtbl</File>
+					<Type>Preset.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Flags</Name>
+				<Type>Flags</Type>
+				<Flag>locked</Flag>
+				</Element>
+			</Element>
+		<Min_Children>1</Min_Children>
+		<Num_Display_Rows>16</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>PlayerDefaults</Name>
+		<Type>Element</Type>
+		<Display_Name>Player Defaults</Display_Name>
+		<Element>
+			<Name>DefaultType</Name>
+			<Type>Reference</Type>
+			<Display_Name>Default Type</Display_Name>
+			<Reference>
+				<File>gang_customization.xtbl</File>
+				<Type>GangCustomization.Types.Type.Display_Name</Type>
+				<OpenSeparate>False</OpenSeparate>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>DefaultTag</Name>
+			<Type>Reference</Type>
+			<Display_Name>Default Tag</Display_Name>
+			<Reference>
+				<File>diversions\tagging_options.xtbl</File>
+				<Type>Tag.Name</Type>
+				<OpenSeparate>False</OpenSeparate>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>DefaultVehicles</Name>
+			<Type>Element</Type>
+			<Display_Name>Default Vehicles</Display_Name>
+			<Element>
+				<Name>Slot1</Name>
+				<Type>Reference</Type>
+				<Display_Name>Slot 1</Display_Name>
+				<Reference>
+					<File>gang_customization.xtbl</File>
+					<Type>GangCustomization.Vehicles.Vehicle.Vehicle</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Slot2</Name>
+				<Type>Reference</Type>
+				<Display_Name>Slot 2</Display_Name>
+				<Reference>
+					<File>gang_customization.xtbl</File>
+					<Type>GangCustomization.Vehicles.Vehicle.Vehicle</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Slot3</Name>
+				<Type>Reference</Type>
+				<Display_Name>Slot 3</Display_Name>
+				<Reference>
+					<File>gang_customization.xtbl</File>
+					<Type>GangCustomization.Vehicles.Vehicle.Vehicle</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			</Element>
+		</Element>
+	<Element>
+		<Name>gang_vehicles</Name>
+		<Type>Grid</Type>
+		<Display_Name>Gang Vehicles</Display_Name>
+		<Element>
+			<Name>gang_vehicles</Name>
+			<Type>Element</Type>
+			<Display_Name>Gang Vehicles</Display_Name>
+			<Element>
+				<Name>Vehicles</Name>
+				<Type>Grid</Type>
+				<Element>
+					<Name>Vehicle</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>Vehicle</Name>
+						<Type>Reference</Type>
+						<Reference>
+							<File>vehicles.xtbl</File>
+							<Type>Vehicle.Name</Type>
+							<OpenSeparate>False</OpenSeparate>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Variant</Name>
+						<Type>String</Type>
+						<Required>false</Required>
+						</Element>
+					</Element>
+				<Min_Children>1</Min_Children>
+				<Num_Display_Rows>16</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>name</Name>
+				<Type>String</Type>
+				<Display_Name>Name</Display_Name>
+				</Element>
+			<Element>
+				<Name>Flags</Name>
+				<Type>Flags</Type>
+				<Flag>locked</Flag>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Gang_Signs</Name>
+		<Type>Element</Type>
+		<Display_Name>Gang Signs</Display_Name>
+		<Element>
+			<Name>Pose</Name>
+			<Type>Grid</Type>
+			<Element>
+				<Name>Pose</Name>
+				<Type>Element</Type>
+				<Element>
+					<Name>display_name</Name>
+					<Type>Reference</Type>
+					<Display_Name>Display Name</Display_Name>
+					<Reference>
+						<File>localized_exports\PlayerCreation_text.xtbl</File>
+						<Type>PlayerCreat_Identifier.Name</Type>
+						<OpenSeparate>False</OpenSeparate>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>animation</Name>
+					<Type>Reference</Type>
+					<Display_Name>Animation</Display_Name>
+					<Reference>
+						<File>GML1.xtbl</File>
+						<Type>Skeleton_Set.Groups.Group.Actions.Action.ID</Type>
+						<OpenSeparate>False</OpenSeparate>
+						</Reference>
+					</Element>
+				</Element>
+			<Num_Display_Rows>8</Num_Display_Rows>
+			</Element>
+		<Element>
+			<Name>Voice</Name>
+			<Type>Grid</Type>
+			<Element>
+				<Name>Voice</Name>
+				<Type>Element</Type>
+				<Element>
+					<Name>display_name</Name>
+					<Type>String</Type>
+					<Display_Name>Display Name</Display_Name>
+					</Element>
+				<Element>
+					<Name>voice_file</Name>
+					<Type>String</Type>
+					<Display_Name>Voice</Display_Name>
+					</Element>
+				</Element>
+			<Num_Display_Rows>8</Num_Display_Rows>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,6107 @@
+<root>
+<Table>
+	<MeleeMove>
+		<Name>Sword_move_flip</Name>
+		<AttackAnim>move attack b</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<Flags>
+			<Flag>moving attack</Flag>
+			<Flag>boss only</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Boss_Attacks</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Grab_flip</Name>
+		<AttackAnim>melee grab reversal</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>60</NPCDamage>
+			<PlayerDamage>60</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>ragdoll victim</Flag>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Grab_Failures</Category>
+			</_Editor>
+		<AttackerSynchedAnim>melee grab reversal</AttackerSynchedAnim>
+		<VictimSynchedAnim>melee grab reversal receive</VictimSynchedAnim>
+		<SynchMoveXOffset>0.828</SynchMoveXOffset>
+		<SynchMoveZOffset>0.005</SynchMoveZOffset>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>tribal_brute_punch_backfist</Name>
+		<AttackAnim>tribal brute punch backfist</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>.214</X>
+			<Y>.226</Y>
+			<Z>.949</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries:Gang_Specific</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Both hands</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>yakuza_martial_arts_punch1L1</Name>
+		<AttackAnim>yakuza martial arts punch left</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>.214</X>
+			<Y>.226</Y>
+			<Z>.949</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries:Gang_Specific</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>yakuza_martial_arts_punch1R1</Name>
+		<AttackAnim>yakuza martial arts punch right</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>-.214</X>
+			<Y>.079</Y>
+			<Z>.973</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries:Gang_Specific</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>yakuza_martial_arts_kick1L2</Name>
+		<AttackAnim>yakuza martial arts kick left</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>.214</X>
+			<Y>.226</Y>
+			<Z>.949</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries:Gang_Specific</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Left foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>punch2L</Name>
+		<AttackAnim>punch L 2</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0</X>
+			<Y>0</Y>
+			<Z>1</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>finish1R</MeleeMove>
+			<MeleeMove>finish2R</MeleeMove>
+			<MeleeMove>finish1L</MeleeMove>
+			<MeleeMove>finish2L</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>finish1L</MeleeMove>
+			<MeleeMove>finish2L</MeleeMove>
+			<MeleeMove>finish1R</MeleeMove>
+			<MeleeMove>finish2R</MeleeMove>
+			</NextSecondary>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>punch3L</Name>
+		<AttackAnim>punch L 3</AttackAnim>
+		<HitRadius>0.2</HitRadius>
+		<ImpactDir>
+			<X>0.1</X>
+			<Y>0.5</Y>
+			<Z>1</Z>
+			</ImpactDir>
+		<ImpactForce>65</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>95</NPCDamage>
+			<PlayerDamage>60</PlayerDamage>
+			<OnlineDamage>95</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>BloodHit</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>punch2R</Name>
+		<AttackAnim>punch R 2</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0</X>
+			<Y>0</Y>
+			<Z>1</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>finish1R</MeleeMove>
+			<MeleeMove>finish2R</MeleeMove>
+			<MeleeMove>finish1L</MeleeMove>
+			<MeleeMove>finish2L</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>finish1L</MeleeMove>
+			<MeleeMove>finish2L</MeleeMove>
+			<MeleeMove>finish1R</MeleeMove>
+			<MeleeMove>finish2R</MeleeMove>
+			</NextSecondary>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>BloodHit</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>punch3R</Name>
+		<AttackAnim>punch R 3</AttackAnim>
+		<HitRadius>0.2</HitRadius>
+		<ImpactDir>
+			<X>0</X>
+			<Y>1</Y>
+			<Z>1</Z>
+			</ImpactDir>
+		<ImpactForce>65</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>95</NPCDamage>
+			<PlayerDamage>60</PlayerDamage>
+			<OnlineDamage>95</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_hit02</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>finish1L</Name>
+		<AttackAnim>finish L 1</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>.69</X>
+			<Y>-.489</Y>
+			<Z>.533</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>always knock down</Flag>
+			<Flag>ragdoll victim</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		<AttackerSynchedAnim>finish L 1</AttackerSynchedAnim>
+		<VictimSynchedAnim>finish L 1 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.26</SynchMoveXOffset>
+		<SynchMoveZOffset>0</SynchMoveZOffset>
+		<Notes>Nut Kick</Notes>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>finish2L</Name>
+		<AttackAnim>finish L 2</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>.493</X>
+			<Y>-.378</Y>
+			<Z>.782</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>synched melee combo</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>BloodHit</ImpactFX>
+		<AttackerSynchedAnim>finish L 2</AttackerSynchedAnim>
+		<VictimSynchedAnim>finish L 2 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.7</SynchMoveXOffset>
+		<SynchMoveZOffset>0.07</SynchMoveZOffset>
+		<Notes>Big jump Punch</Notes>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>finish2R</Name>
+		<AttackAnim>finish R 2</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>-.11</X>
+			<Y>.979</Y>
+			<Z>.166</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>synched melee combo</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<AttackerSynchedAnim>finish R 2</AttackerSynchedAnim>
+		<VictimSynchedAnim>finish R 2 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.16865</SynchMoveXOffset>
+		<SynchMoveZOffset>0.1</SynchMoveZOffset>
+		<Impact_Human_Effect>BloodHit</Impact_Human_Effect>
+		<Notes>Right Knee to Face</Notes>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>finish1R</Name>
+		<AttackAnim>finish R 1</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>-.452</X>
+			<Y>-.364</Y>
+			<Z>.813</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>synched melee combo</Flag>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<AttackerSynchedAnim>finish R 1</AttackerSynchedAnim>
+		<VictimSynchedAnim>finish R 1 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.34384</SynchMoveXOffset>
+		<SynchMoveZOffset>0</SynchMoveZOffset>
+		<Notes>Pimp slap</Notes>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>prone_stomp_short</Name>
+		<AttackAnim>prone stomp med</AttackAnim>
+		<HitRadius>0.4</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Left foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_hit</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>prone_stomp_med</Name>
+		<AttackAnim>prone stomp med</AttackAnim>
+		<AttackLimb>Left foot</AttackLimb>
+		<HitRadius>0.4</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_hit</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>prone_kick_short</Name>
+		<AttackAnim>prone stomp short</AttackAnim>
+		<HitRadius>0.4</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_hit</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>prone_kick_med</Name>
+		<AttackAnim>prone stomp short</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<HitRadius>0.4</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_hit</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>1hm_a</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>Blood_slice_sm</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>1hm_b</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>Blood_slice_sm</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>1hm_move_a</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>Blood_slice</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>1hm_move_b</Name>
+		<AttackAnim>move attack b</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>Blood_slice_sm</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>1hm_prone_attack</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>10</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>Blood_slice</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>nstick_a</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>60</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>nstick_b</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>60</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>nstick_move_a</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>60</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>nstick_move_b</Name>
+		<AttackAnim>move attack b</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>60</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_a</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>-1.0</X>
+			<Y>0.25</Y>
+			<Z>.7</Z>
+			</ImpactDir>
+		<ImpactForce>800</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>Blood_slice_sm</Impact_Human_Effect>
+		<NextPrimary>
+			<MeleeMove>2hm_b</MeleeMove>
+			</NextPrimary>
+		<Impact_reaction_time>50</Impact_reaction_time>
+		<Impact_reaction_reverse_speed>0.4</Impact_reaction_reverse_speed>
+		<Impact_reaction_speed_ramp>0.0</Impact_reaction_speed_ramp>
+		<Impact_reaction_blend_out_time>0.3</Impact_reaction_blend_out_time>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_b</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.4</Y>
+			<Z>0.6</Z>
+			</ImpactDir>
+		<ImpactForce>700</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>Blood_slice_sm</Impact_Human_Effect>
+		<NextPrimary>
+			<MeleeMove>2hm_a</MeleeMove>
+			</NextPrimary>
+		<Impact_reaction_time>50</Impact_reaction_time>
+		<Impact_reaction_reverse_speed>0.4</Impact_reaction_reverse_speed>
+		<Impact_reaction_speed_ramp>0.0</Impact_reaction_speed_ramp>
+		<Impact_reaction_blend_out_time>0.3</Impact_reaction_blend_out_time>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_move_a</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>700</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>Blood_slice_sm</Impact_Human_Effect>
+		<Impact_reaction_time>50</Impact_reaction_time>
+		<Impact_reaction_reverse_speed>0.4</Impact_reaction_reverse_speed>
+		<Impact_reaction_speed_ramp>0.0</Impact_reaction_speed_ramp>
+		<Impact_reaction_blend_out_time>0.3</Impact_reaction_blend_out_time>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_move_b</Name>
+		<AttackAnim>move attack b</AttackAnim>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>700</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>Blood_slice_sm</Impact_Human_Effect>
+		<Impact_reaction_time>50</Impact_reaction_time>
+		<Impact_reaction_reverse_speed>0.4</Impact_reaction_reverse_speed>
+		<Impact_reaction_speed_ramp>0.0</Impact_reaction_speed_ramp>
+		<Impact_reaction_blend_out_time>0.3</Impact_reaction_blend_out_time>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_prone_attack</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>1000</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_reaction_time>50</Impact_reaction_time>
+		<Impact_reaction_reverse_speed>0.4</Impact_reaction_reverse_speed>
+		<Impact_reaction_speed_ramp>0.0</Impact_reaction_speed_ramp>
+		<Impact_reaction_blend_out_time>0.3</Impact_reaction_blend_out_time>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>doorkick1</Name>
+		<AttackAnim>kick door</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<HitRadius>0.2</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>20.0</NPCDamage>
+			<PlayerDamage>20.0</PlayerDamage>
+			<OnlineDamage>20.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>10</ImpactForce>
+		<Flags>
+			<Flag>door attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>nstick_prone_attack</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>10</ImpactForce>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>tireiron_a</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>tireiron_b</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>tireiron_move_a</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			<Flag>knock down from behind (NPC only)</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>tireiron_move_b</Name>
+		<AttackAnim>move attack b</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			<Flag>knock down from behind (NPC only)</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>tireiron_prone_attack</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>10</ImpactForce>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>kick1</Name>
+		<AttackAnim>kick</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<HitRadius>0.2</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>punch2L</MeleeMove>
+			</NextSecondary>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>tackle</Name>
+		<AttackAnim>tackle</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>150</NPCDamage>
+			<PlayerDamage>80</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>fraud_dive</Name>
+		<AttackAnim>Dive</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>1.0</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>20.0</NPCDamage>
+			<PlayerDamage>20.0</PlayerDamage>
+			<OnlineDamage>20.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>10</ImpactForce>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>ragdoll victim</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h1h_attack_a</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h1h_attack_b</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h1h_prone_attack</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			<Flag>havok attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2h_attack_a</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2h_attack_b</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2h_prone_attack</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>110</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2hl_attack_a</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Grab</Name>
+		<AttackAnim>melee grab</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Human_Shield</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Grab_throw_forward</Name>
+		<AttackAnim>melee grab throw forward</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Human_Shield</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Grab_to_Human_Shield</Name>
+		<AttackAnim>melee grab to hs</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Human_Shield</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Shield_quickkill</Name>
+		<AttackAnim>hs kill</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Human_Shield</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Shield_release</Name>
+		<AttackAnim>hs release</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Human_Shield</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Shield_toss</Name>
+		<AttackAnim>hs toss</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Human_Shield</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2hl_attack_b</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2hl_prone_attack</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>110</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2hh_attack_a</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2hh_attack_b</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2hh_prone_attack</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>110</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Grab_to_Human_Shield_Away</Name>
+		<AttackAnim>melee grab away to hs</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Human_Shield</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>yakuza_martial_arts_kick1R1</Name>
+		<AttackAnim>yakuza martial arts kick right</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>.214</X>
+			<Y>.226</Y>
+			<Z>.949</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries:Gang_Specific</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>yakuza_martial_arts_kick_roundhouse</Name>
+		<AttackAnim>yakuza martial arts kick roundhouse</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>.214</X>
+			<Y>.226</Y>
+			<Z>.949</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries:Gang_Specific</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>yakuza_martial_arts_kick_butterfly</Name>
+		<AttackAnim>yakuza martial arts kick butterfly</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>.214</X>
+			<Y>.226</Y>
+			<Z>.949</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries:Gang_Specific</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Motorcycle_driver_a</Name>
+		<AttackAnim>Drive Attack A</AttackAnim>
+		<AttackLimb>Left hand</AttackLimb>
+		<ImpactFX>melee_blood</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>200</NPCDamage>
+			<PlayerDamage>200</PlayerDamage>
+			<OnlineDamage>200</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>always lethal</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Vehicle</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Motorcycle_driver_b</Name>
+		<AttackAnim>Drive Attack B</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_blood</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>200</NPCDamage>
+			<PlayerDamage>200</PlayerDamage>
+			<OnlineDamage>200</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>always lethal</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Vehicle</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Motorcycle_passenger_a</Name>
+		<AttackAnim>Ride Attack A</AttackAnim>
+		<AttackLimb>Left hand</AttackLimb>
+		<ImpactFX>melee_blood</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>200</NPCDamage>
+			<PlayerDamage>200</PlayerDamage>
+			<OnlineDamage>200</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>always lethal</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Vehicle</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Motorcycle_passenger_b</Name>
+		<AttackAnim>Ride Attack B</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_blood</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>200</NPCDamage>
+			<PlayerDamage>200</PlayerDamage>
+			<OnlineDamage>200</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>always lethal</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Vehicle</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Sword_1</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>sword_finish_R1</MeleeMove>
+			<MeleeMove>sword_finish_R2</MeleeMove>
+			<MeleeMove>Akuji_slash</MeleeMove>
+			</NextPrimary>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<NextSecondary>
+			<MeleeMove>sword_finish_L1</MeleeMove>
+			<MeleeMove>sword_finish_L2</MeleeMove>
+			<MeleeMove>Akuji_sweep</MeleeMove>
+			</NextSecondary>
+		<Impact_Human_Effect>Blood_slice</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Sword_2</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<AttackLimb>Left hand</AttackLimb>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>sword_finish_R3</MeleeMove>
+			<MeleeMove>sword_finish_R4</MeleeMove>
+			<MeleeMove>Akuji_slash</MeleeMove>
+			</NextPrimary>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<NextSecondary>
+			<MeleeMove>sword_finish_L3</MeleeMove>
+			<MeleeMove>sword_finish_L4</MeleeMove>
+			<MeleeMove>Akuji_sweep</MeleeMove>
+			</NextSecondary>
+		<Impact_Human_Effect>Blood_slice_sm</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Sword_move</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>150</ImpactForce>
+		<Flags>
+			<Flag>moving attack</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>Sword_move_flip</MeleeMove>
+			<MeleeMove>Sword_1</MeleeMove>
+			</NextPrimary>
+		<Impact_Human_Effect>Blood_sputter</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Sword_prone</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>120</NPCDamage>
+			<PlayerDamage>140</PlayerDamage>
+			<OnlineDamage>120</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			<Flag>two-handed attack</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Impact_Human_Effect>Blood_sputter</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Dual_swords_a</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>-1.0</X>
+			<Y>-0.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>unblockable</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Both hands</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>150</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<NextPrimary>
+			<MeleeMove>Dual_swords_b</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>Jyunichi_slash</MeleeMove>
+			</NextSecondary>
+		<Impact_Human_Effect>Blood_slice</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Dual_swords_b</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>-1.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>unblockable</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Both hands</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>150</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<NextPrimary>
+			<MeleeMove>Jyunichi_slash</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>Dual_swords_a</MeleeMove>
+			</NextSecondary>
+		<Impact_Human_Effect>Blood_slice</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Dual_swords_move</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Both hands</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>150</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<NextPrimary>
+			<MeleeMove>Sword_move_flip</MeleeMove>
+			</NextPrimary>
+		<Impact_Human_Effect>Blood_slice</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Grab_Away</Name>
+		<AttackAnim>melee grab away</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Human_Shield</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Grab_Away_flip</Name>
+		<AttackAnim>melee grab reversal</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>60</NPCDamage>
+			<PlayerDamage>60</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Grab_Failures</Category>
+			</_Editor>
+		<AttackerSynchedAnim>melee grab reversal</AttackerSynchedAnim>
+		<VictimSynchedAnim>melee grab reversal receive</VictimSynchedAnim>
+		<SynchMoveXOffset>0.828</SynchMoveXOffset>
+		<SynchMoveZOffset>0.005</SynchMoveZOffset>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Grab_failed</Name>
+		<AttackAnim>melee grab failed</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0</NPCDamage>
+			<PlayerDamage>0</PlayerDamage>
+			<OnlineDamage>0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Grab_Failures</Category>
+			</_Editor>
+		<AttackerSynchedAnim>melee grab failed</AttackerSynchedAnim>
+		<VictimSynchedAnim>melee grab failed receive</VictimSynchedAnim>
+		<SynchMoveXOffset>0.828</SynchMoveXOffset>
+		<SynchMoveZOffset>0.005</SynchMoveZOffset>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Grab_Away_failed</Name>
+		<AttackAnim>melee grab failed</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0</NPCDamage>
+			<PlayerDamage>0</PlayerDamage>
+			<OnlineDamage>0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Grab_Failures</Category>
+			</_Editor>
+		<AttackerSynchedAnim>melee grab failed</AttackerSynchedAnim>
+		<VictimSynchedAnim>melee grab failed receive</VictimSynchedAnim>
+		<SynchMoveXOffset>0.828</SynchMoveXOffset>
+		<SynchMoveZOffset>0.005</SynchMoveZOffset>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Jyunichi_slash</Name>
+		<AttackAnim>attack c</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>150</NPCDamage>
+			<PlayerDamage>150</PlayerDamage>
+			<OnlineDamage>150</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>unblockable</Flag>
+			<Flag>boss only</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Boss_Attacks</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Akuji_sweep</Name>
+		<AttackAnim>attack c</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>150</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>1</X>
+			<Y>0.1</Y>
+			<Z>0.1</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>unblockable</Flag>
+			<Flag>boss only</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Boss_Attacks</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Akuji_slash</Name>
+		<AttackAnim>attack d</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>150</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>unblockable</Flag>
+			<Flag>boss only</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Boss_Attacks</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Grab_throw_forward_away</Name>
+		<AttackAnim>melee grab away throw forward</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Human_Shield</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Melee_Grapple_Grab</Name>
+		<AttackAnim>grapple grab</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Melee_Grapple</Category>
+			</_Editor>
+		<AttackerSynchedAnim>grapple grab</AttackerSynchedAnim>
+		<VictimSynchedAnim>grapple grab victim</VictimSynchedAnim>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Melee_Grapple_Grab_Behind</Name>
+		<AttackAnim>grapple grab away</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Melee_Grapple</Category>
+			</_Editor>
+		<AttackerSynchedAnim>grapple grab away</AttackerSynchedAnim>
+		<VictimSynchedAnim>grapple grab away victim</VictimSynchedAnim>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Melee_Grapple_Punch</Name>
+		<AttackAnim>grapple hold punch</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>20.0</NPCDamage>
+			<PlayerDamage>20.0</PlayerDamage>
+			<OnlineDamage>20.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Melee_Grapple</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Melee_Grapple_Kick</Name>
+		<AttackAnim>grapple hold knee</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>20.0</NPCDamage>
+			<PlayerDamage>20.0</PlayerDamage>
+			<OnlineDamage>20.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Melee_Grapple</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Melee_Grapple_Throw</Name>
+		<AttackAnim>grapple hold throw</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Melee_Grapple</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Melee_Grapple_Escape</Name>
+		<AttackAnim>grapple hold escape</AttackAnim>
+		<AttackerSynchedAnim>grapple hold escape</AttackerSynchedAnim>
+		<VictimSynchedAnim>grapple hold escape victim</VictimSynchedAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Melee_Grapple</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sword_finish_L1</Name>
+		<AttackAnim>finish L 1</AttackAnim>
+		<AttackerSynchedAnim>finish L 1</AttackerSynchedAnim>
+		<VictimSynchedAnim>swd finish L 1 victim</VictimSynchedAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>500.0</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>sword_blood_effect</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<SynchMoveXOffset>1.92698</SynchMoveXOffset>
+		<SynchMoveZOffset>0.00672769</SynchMoveZOffset>
+		<Impact_Human_Effect>Blood_sputter</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sword_finish_L2</Name>
+		<AttackAnim>finish L 2</AttackAnim>
+		<AttackerSynchedAnim>finish L 2</AttackerSynchedAnim>
+		<VictimSynchedAnim>swd finish L 2 victim</VictimSynchedAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>500</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>sword_blood_effect</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<SynchMoveXOffset>1.556</SynchMoveXOffset>
+		<SynchMoveZOffset>0.187</SynchMoveZOffset>
+		<Impact_Human_Effect>Blood_sputter</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sword_finish_L3</Name>
+		<AttackAnim>finish L 3</AttackAnim>
+		<AttackerSynchedAnim>finish L 3</AttackerSynchedAnim>
+		<VictimSynchedAnim>swd finish L 3 victim</VictimSynchedAnim>
+		<AttackLimb>Left hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>500</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>sword_blood_effect</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<SynchMoveXOffset>1.238</SynchMoveXOffset>
+		<SynchMoveZOffset>0.0</SynchMoveZOffset>
+		<Impact_Human_Effect>Blood_sputter</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sword_finish_L4</Name>
+		<AttackAnim>finish L 4</AttackAnim>
+		<AttackerSynchedAnim>finish L 4</AttackerSynchedAnim>
+		<VictimSynchedAnim>swd finish L 4 victim</VictimSynchedAnim>
+		<AttackLimb>Left hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>500</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>sword_blood_effect</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<SynchMoveXOffset>1.238</SynchMoveXOffset>
+		<SynchMoveZOffset>0.0</SynchMoveZOffset>
+		<Impact_Human_Effect>Blood_sputter</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sword_finish_R1</Name>
+		<AttackAnim>finish R 1</AttackAnim>
+		<AttackerSynchedAnim>finish R 1</AttackerSynchedAnim>
+		<VictimSynchedAnim>swd finish R 1 victim</VictimSynchedAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>500</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>sword_blood_effect</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<SynchMoveXOffset>1.56</SynchMoveXOffset>
+		<SynchMoveZOffset>0.364</SynchMoveZOffset>
+		<Impact_Human_Effect>BloodHit</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sword_finish_R2</Name>
+		<AttackAnim>finish R 2</AttackAnim>
+		<AttackerSynchedAnim>finish R 2</AttackerSynchedAnim>
+		<VictimSynchedAnim>swd finish R 2 victim</VictimSynchedAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>500</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>sword_blood_effect</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<SynchMoveXOffset>1.74</SynchMoveXOffset>
+		<SynchMoveZOffset>0.0</SynchMoveZOffset>
+		<Impact_Human_Effect>Blood_sputter</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sword_finish_R3</Name>
+		<AttackAnim>finish R 3</AttackAnim>
+		<AttackerSynchedAnim>finish R 3</AttackerSynchedAnim>
+		<VictimSynchedAnim>swd finish R 3 victim</VictimSynchedAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>500</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>sword_blood_effect</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<SynchMoveXOffset>1.238</SynchMoveXOffset>
+		<SynchMoveZOffset>0.0</SynchMoveZOffset>
+		<Impact_Human_Effect>Blood_sputter</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sword_finish_R4</Name>
+		<AttackAnim>finish R 4</AttackAnim>
+		<AttackerSynchedAnim>finish R 4</AttackerSynchedAnim>
+		<VictimSynchedAnim>swd finish R 4 victim</VictimSynchedAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>500</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>sword_blood_effect</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<SynchMoveXOffset>1.238</SynchMoveXOffset>
+		<SynchMoveZOffset>0.0</SynchMoveZOffset>
+		<Impact_Human_Effect>Blood_sputter</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bh_punch1L</Name>
+		<AttackAnim>punch L 1</AttackAnim>
+		<AttackLimb>Left hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>85</NPCDamage>
+			<PlayerDamage>50</PlayerDamage>
+			<OnlineDamage>85</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Brotherhood</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>bh_punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>bh_punch2L</MeleeMove>
+			</NextSecondary>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bh_punch3L</Name>
+		<AttackAnim>punch L 2</AttackAnim>
+		<AttackLimb>Left hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>110</NPCDamage>
+			<PlayerDamage>70</PlayerDamage>
+			<OnlineDamage>110</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-0.5</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Brotherhood</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bh_punch1R</Name>
+		<AttackAnim>punch R 1</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>85</NPCDamage>
+			<PlayerDamage>50</PlayerDamage>
+			<OnlineDamage>85</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Brotherhood</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>bh_punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>bh_punch2L</MeleeMove>
+			</NextSecondary>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bh_punch3R</Name>
+		<AttackAnim>punch R 2</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>110</NPCDamage>
+			<PlayerDamage>70</PlayerDamage>
+			<OnlineDamage>110</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>-1</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Brotherhood</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bh_finish1L</Name>
+		<AttackAnim>finish L 1</AttackAnim>
+		<AttackerSynchedAnim>finish L 1</AttackerSynchedAnim>
+		<VictimSynchedAnim>br finish L 1 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.146</SynchMoveXOffset>
+		<SynchMoveZOffset>0.003</SynchMoveZOffset>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>110</NPCDamage>
+			<PlayerDamage>110</PlayerDamage>
+			<OnlineDamage>110</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>70</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Brotherhood</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bh_finish2L</Name>
+		<AttackAnim>finish L 2</AttackAnim>
+		<AttackerSynchedAnim>finish L 2</AttackerSynchedAnim>
+		<VictimSynchedAnim>br finish L 2 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.02411</SynchMoveXOffset>
+		<SynchMoveZOffset>-0.0264</SynchMoveZOffset>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>110</NPCDamage>
+			<PlayerDamage>110</PlayerDamage>
+			<OnlineDamage>110</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>70</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Brotherhood</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bh_finish1R</Name>
+		<AttackAnim>finish R 1</AttackAnim>
+		<AttackerSynchedAnim>finish R 1</AttackerSynchedAnim>
+		<VictimSynchedAnim>br finish R 1 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>0.95111</SynchMoveXOffset>
+		<SynchMoveZOffset>0.31478</SynchMoveZOffset>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>110</NPCDamage>
+			<PlayerDamage>110</PlayerDamage>
+			<OnlineDamage>110</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>70</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Brotherhood</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bh_finish2R</Name>
+		<AttackAnim>finish R 2</AttackAnim>
+		<AttackerSynchedAnim>finish R 2</AttackerSynchedAnim>
+		<VictimSynchedAnim>br finish R 2 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.26725</SynchMoveXOffset>
+		<SynchMoveZOffset>-0.124</SynchMoveZOffset>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>110</NPCDamage>
+			<PlayerDamage>110</PlayerDamage>
+			<OnlineDamage>110</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>70</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Brotherhood</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ro_punch1L</Name>
+		<AttackAnim>punch L 1</AttackAnim>
+		<AttackLimb>Left foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>65</NPCDamage>
+			<PlayerDamage>35</PlayerDamage>
+			<OnlineDamage>65</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>ro_punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>ro_punch2L</MeleeMove>
+			</NextSecondary>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Ronin</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ro_punch1R</Name>
+		<AttackAnim>punch R 1</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>65</NPCDamage>
+			<PlayerDamage>35</PlayerDamage>
+			<OnlineDamage>65</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>ro_punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>ro_punch2L</MeleeMove>
+			</NextSecondary>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Ronin</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ro_punch3L</Name>
+		<AttackAnim>punch L 2</AttackAnim>
+		<AttackLimb>Left foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>50</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.5</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>90</ImpactForce>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Ronin</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ro_punch3R</Name>
+		<AttackAnim>punch R 2</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>50</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>1</X>
+			<Y>-0.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>90</ImpactForce>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Ronin</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ro_finish1L</Name>
+		<AttackAnim>finish L 1</AttackAnim>
+		<AttackerSynchedAnim>finish L 1</AttackerSynchedAnim>
+		<VictimSynchedAnim>ro finish L 1 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.46119</SynchMoveXOffset>
+		<SynchMoveZOffset>-0.017</SynchMoveZOffset>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>90</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>90</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Ronin</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ro_finish2L</Name>
+		<AttackAnim>finish L 2</AttackAnim>
+		<AttackerSynchedAnim>finish L 2</AttackerSynchedAnim>
+		<VictimSynchedAnim>ro finish L 2 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.49548</SynchMoveXOffset>
+		<SynchMoveZOffset>0.02</SynchMoveZOffset>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>90</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>90</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Ronin</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ro_finish1R</Name>
+		<AttackAnim>finish R 1</AttackAnim>
+		<AttackerSynchedAnim>finish R 1</AttackerSynchedAnim>
+		<VictimSynchedAnim>ro finish R 1 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.18516</SynchMoveXOffset>
+		<SynchMoveZOffset>-0.0687</SynchMoveZOffset>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>90</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>90</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Ronin</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ro_finish2R</Name>
+		<AttackAnim>finish R 2</AttackAnim>
+		<AttackerSynchedAnim>finish R 2</AttackerSynchedAnim>
+		<VictimSynchedAnim>ro finish R 2 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.57024</SynchMoveXOffset>
+		<SynchMoveZOffset>-0.126429</SynchMoveZOffset>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>90</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>90</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Ronin</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ss_punch1L</Name>
+		<AttackAnim>punch L 1</AttackAnim>
+		<AttackLimb>Left hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>60</NPCDamage>
+			<PlayerDamage>30</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>ss_punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>ss_punch2L</MeleeMove>
+			</NextSecondary>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Samedi</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ss_punch3L</Name>
+		<AttackAnim>punch L 2</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>55</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>1</X>
+			<Y>0.5</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>90</ImpactForce>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Samedi</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ss_punch1R</Name>
+		<AttackAnim>punch R 1</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>60</NPCDamage>
+			<PlayerDamage>30</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>ss_punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>ss_punch2L</MeleeMove>
+			</NextSecondary>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Samedi</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ss_punch3R</Name>
+		<AttackAnim>punch R 2</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>55</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.5</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>90</ImpactForce>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Samedi</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ss_finish1L</Name>
+		<AttackAnim>finish L 1</AttackAnim>
+		<AttackerSynchedAnim>finish L 1</AttackerSynchedAnim>
+		<VictimSynchedAnim>ss finish L 1 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.24078</SynchMoveXOffset>
+		<SynchMoveZOffset>-0.073</SynchMoveZOffset>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>90</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>90</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Samedi</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ss_finish2L</Name>
+		<AttackAnim>finish L 2</AttackAnim>
+		<AttackerSynchedAnim>finish L 2</AttackerSynchedAnim>
+		<VictimSynchedAnim>ss finish L 2 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.22708</SynchMoveXOffset>
+		<SynchMoveZOffset>0.0</SynchMoveZOffset>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>90</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>90</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Samedi</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ss_finish1R</Name>
+		<AttackAnim>finish R 1</AttackAnim>
+		<AttackerSynchedAnim>finish R 1</AttackerSynchedAnim>
+		<VictimSynchedAnim>ss finish R 1 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>0.800533</SynchMoveXOffset>
+		<SynchMoveZOffset>0.026</SynchMoveZOffset>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>90</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>90</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Samedi</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ss_finish2R</Name>
+		<AttackAnim>finish R 2</AttackAnim>
+		<AttackerSynchedAnim>finish R 2</AttackerSynchedAnim>
+		<VictimSynchedAnim>ss finish R 2 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.21089</SynchMoveXOffset>
+		<SynchMoveZOffset>0</SynchMoveZOffset>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>90</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>90</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>always knock down</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Samedi</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Chainsaw_attack_front</Name>
+		<AttackAnim>chainsaw attack front</AttackAnim>
+		<AttackerSynchedAnim>chainsaw attack front</AttackerSynchedAnim>
+		<VictimSynchedAnim>chainsaw attack front victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.314</SynchMoveXOffset>
+		<SynchMoveZOffset>0.122</SynchMoveZOffset>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50.0</NPCDamage>
+			<PlayerDamage>500.0</PlayerDamage>
+			<OnlineDamage>20.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>ragdoll victim</Flag>
+			<Flag>unblockable</Flag>
+			<Flag>always lethal</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Impact_Human_Effect>Blood_chainsaw</Impact_Human_Effect>
+		<ImpactFX>Blood_slice_sm</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Chainsaw_attack_back</Name>
+		<AttackAnim>chainsaw attack back</AttackAnim>
+		<AttackerSynchedAnim>chainsaw attack back</AttackerSynchedAnim>
+		<VictimSynchedAnim>chainsaw attack back victim</VictimSynchedAnim>
+		<SynchMoveXOffset>-1.314</SynchMoveXOffset>
+		<SynchMoveZOffset>-0.122</SynchMoveZOffset>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50.0</NPCDamage>
+			<PlayerDamage>500.0</PlayerDamage>
+			<OnlineDamage>20.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>ragdoll victim</Flag>
+			<Flag>synched move facing away</Flag>
+			<Flag>unblockable</Flag>
+			<Flag>always lethal</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Impact_Human_Effect>Blood_chainsaw</Impact_Human_Effect>
+		<ImpactFX>Blood_slice</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Grab_Unarmed</Name>
+		<AttackAnim>melee grab unarmed</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Human_Shield</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Human_Grab_Away_Unarmed</Name>
+		<AttackAnim>melee grab away unarmed</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>0.0</NPCDamage>
+			<PlayerDamage>0.0</PlayerDamage>
+			<OnlineDamage>0.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<Flags>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Human_Shield</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Sword_L1</Name>
+		<AttackAnim>attack L 1</AttackAnim>
+		<AttackLimb>Left hand</AttackLimb>
+		<Impact_Human_Effect>Blood_slice</Impact_Human_Effect>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>Sword_R2</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>Sword_L2</MeleeMove>
+			</NextSecondary>
+		<_Editor>
+			<Category>Entries:Power_Attacks</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Sword_L2</Name>
+		<AttackAnim>attack L 2</AttackAnim>
+		<AttackLimb>Left hand</AttackLimb>
+		<Impact_Human_Effect>Blood_slice</Impact_Human_Effect>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>sword_finish_R1</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>sword_finish_L1</MeleeMove>
+			</NextSecondary>
+		<_Editor>
+			<Category>Entries:Power_Attacks</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Sword_L3</Name>
+		<AttackLimb>Left hand</AttackLimb>
+		<Impact_Human_Effect>Blood_slice</Impact_Human_Effect>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>sword_finish_R1</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>sword_finish_L1</MeleeMove>
+			</NextSecondary>
+		<_Editor>
+			<Category>Entries:Power_Attacks</Category>
+			</_Editor>
+		<AttackAnim>attack L 3</AttackAnim>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Sword_R1</Name>
+		<AttackAnim>attack R 1</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<Impact_Human_Effect>Blood_slice</Impact_Human_Effect>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>two-handed attack</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>Sword_R2</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>Sword_L2</MeleeMove>
+			</NextSecondary>
+		<_Editor>
+			<Category>Entries:Power_Attacks</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Sword_R2</Name>
+		<AttackAnim>attack R 2</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<Impact_Human_Effect>Blood_slice</Impact_Human_Effect>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>sword_finish_R2</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>sword_finish_L2</MeleeMove>
+			</NextSecondary>
+		<_Editor>
+			<Category>Entries:Power_Attacks</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Sword_R3</Name>
+		<AttackAnim>attack R 3</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<Impact_Human_Effect>Blood_slice</Impact_Human_Effect>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>sword_finish_R2</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>sword_finish_L2</MeleeMove>
+			</NextSecondary>
+		<_Editor>
+			<Category>Entries:Power_Attacks</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Pwr_Havok_2hl_2</Name>
+		<AttackAnim>attack R 2</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>Pwr_Havok_2hl_3</MeleeMove>
+			</NextPrimary>
+		<_Editor>
+			<Category>Entries:Power_Attacks</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Pwr_Havok_2hl_1</Name>
+		<AttackAnim>attack R 1</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>Pwr_Havok_2hl_2</MeleeMove>
+			</NextPrimary>
+		<_Editor>
+			<Category>Entries:Power_Attacks</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Pwr_Havok_2hl_3</Name>
+		<AttackAnim>attack R 3</AttackAnim>
+		<AttackLimb>Both hands</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>100</ImpactForce>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Power_Attacks</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>punch_move_L</Name>
+		<AttackAnim>punch L 2</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>.843</X>
+			<Y>.186</Y>
+			<Z>.503</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>punch2L</MeleeMove>
+			</NextSecondary>
+		<Flags>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_hit02</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>punch_move_R</Name>
+		<AttackAnim>punch R 2</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>-.719</X>
+			<Y>.229</Y>
+			<Z>.655</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>punch2L</MeleeMove>
+			</NextSecondary>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ak_move</Name>
+		<AttackAnim>bash</AttackAnim>
+		<HitRadius>0.65</HitRadius>
+		<ImpactDir>
+			<X>-.11</X>
+			<Y>.979</Y>
+			<Z>.166</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			<Flag>melee finisher</Flag>
+			<Flag>synched melee combo</Flag>
+			<Flag>ragdoll victim</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		<AttackerSynchedAnim>bash</AttackerSynchedAnim>
+		<VictimSynchedAnim>bash victim rifle</VictimSynchedAnim>
+		<SynchMoveXOffset>0.955</SynchMoveXOffset>
+		<SynchMoveZOffset>0.234</SynchMoveZOffset>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>pistol_stand</Name>
+		<AttackAnim>finish L 1</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>.69</X>
+			<Y>-.489</Y>
+			<Z>.533</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>ragdoll victim</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		<AttackerSynchedAnim>finish L 1</AttackerSynchedAnim>
+		<VictimSynchedAnim>finish L 1 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.371</SynchMoveXOffset>
+		<SynchMoveZOffset>0</SynchMoveZOffset>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>rpg_move</Name>
+		<AttackAnim>bash</AttackAnim>
+		<HitRadius>0.75</HitRadius>
+		<ImpactDir>
+			<X>-.11</X>
+			<Y>.979</Y>
+			<Z>.166</Z>
+			</ImpactDir>
+		<ImpactForce>90</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			<Flag>melee finisher</Flag>
+			<Flag>synched melee combo</Flag>
+			<Flag>ragdoll victim</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<AttackerSynchedAnim>bash</AttackerSynchedAnim>
+		<VictimSynchedAnim>bash victim rpg</VictimSynchedAnim>
+		<SynchMoveXOffset>1.225</SynchMoveXOffset>
+		<SynchMoveZOffset>0.53</SynchMoveZOffset>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>smg_stand</Name>
+		<AttackAnim>finish L 1</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>.69</X>
+			<Y>-.489</Y>
+			<Z>.533</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>ragdoll victim</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		<AttackerSynchedAnim>finish L 1</AttackerSynchedAnim>
+		<VictimSynchedAnim>finish L 1 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.371</SynchMoveXOffset>
+		<SynchMoveZOffset>0</SynchMoveZOffset>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>prone_stomp_long</Name>
+		<AttackAnim>prone stomp med</AttackAnim>
+		<AttackLimb>Left foot</AttackLimb>
+		<HitRadius>0.4</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_hit</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>prone_kick_long</Name>
+		<AttackAnim>prone stomp short</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<HitRadius>0.4</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_hit</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h1h_move_attack</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2h_move_attack</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2hh_move_attack</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2hl_move_attack</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sg_move</Name>
+		<AttackAnim>bash</AttackAnim>
+		<HitRadius>0.65</HitRadius>
+		<ImpactDir>
+			<X>-.11</X>
+			<Y>.979</Y>
+			<Z>.166</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			<Flag>melee finisher</Flag>
+			<Flag>synched melee combo</Flag>
+			<Flag>ragdoll victim</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		<AttackerSynchedAnim>bash</AttackerSynchedAnim>
+		<VictimSynchedAnim>bash victim rifle</VictimSynchedAnim>
+		<SynchMoveXOffset>0.955</SynchMoveXOffset>
+		<SynchMoveZOffset>0.234</SynchMoveZOffset>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ak_stand</Name>
+		<AttackAnim>bash</AttackAnim>
+		<HitRadius>0.65</HitRadius>
+		<ImpactDir>
+			<X>-.11</X>
+			<Y>.979</Y>
+			<Z>.166</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			<Flag>melee finisher</Flag>
+			<Flag>synched melee combo</Flag>
+			<Flag>ragdoll victim</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		<AttackerSynchedAnim>bash</AttackerSynchedAnim>
+		<VictimSynchedAnim>bash victim rifle</VictimSynchedAnim>
+		<SynchMoveXOffset>0.955</SynchMoveXOffset>
+		<SynchMoveZOffset>0.234</SynchMoveZOffset>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sg_stand</Name>
+		<AttackAnim>bash</AttackAnim>
+		<HitRadius>0.65</HitRadius>
+		<ImpactDir>
+			<X>-.11</X>
+			<Y>.979</Y>
+			<Z>.166</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			<Flag>melee finisher</Flag>
+			<Flag>synched melee combo</Flag>
+			<Flag>ragdoll victim</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		<AttackerSynchedAnim>bash</AttackerSynchedAnim>
+		<VictimSynchedAnim>bash victim rifle</VictimSynchedAnim>
+		<SynchMoveXOffset>0.955</SynchMoveXOffset>
+		<SynchMoveZOffset>0.234</SynchMoveZOffset>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>rpg_stand</Name>
+		<AttackAnim>bash</AttackAnim>
+		<HitRadius>0.75</HitRadius>
+		<ImpactDir>
+			<X>-.11</X>
+			<Y>.979</Y>
+			<Z>.166</Z>
+			</ImpactDir>
+		<ImpactForce>90</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			<Flag>melee finisher</Flag>
+			<Flag>synched melee combo</Flag>
+			<Flag>ragdoll victim</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<AttackerSynchedAnim>bash</AttackerSynchedAnim>
+		<VictimSynchedAnim>bash victim rpg</VictimSynchedAnim>
+		<SynchMoveXOffset>1.225</SynchMoveXOffset>
+		<SynchMoveZOffset>0.53</SynchMoveZOffset>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>pistol_move</Name>
+		<AttackAnim>finish L 1</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>.69</X>
+			<Y>-.489</Y>
+			<Z>.533</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>ragdoll victim</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		<AttackerSynchedAnim>finish L 1</AttackerSynchedAnim>
+		<VictimSynchedAnim>finish L 1 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.371</SynchMoveXOffset>
+		<SynchMoveZOffset>0</SynchMoveZOffset>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>smg_move</Name>
+		<AttackAnim>finish L 1</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>.69</X>
+			<Y>-.489</Y>
+			<Z>.533</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>ragdoll victim</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		<AttackerSynchedAnim>finish L 1</AttackerSynchedAnim>
+		<VictimSynchedAnim>finish L 1 victim</VictimSynchedAnim>
+		<SynchMoveXOffset>1.371</SynchMoveXOffset>
+		<SynchMoveZOffset>0</SynchMoveZOffset>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ak_move_ns</Name>
+		<AttackAnim>bash</AttackAnim>
+		<HitRadius>0.65</HitRadius>
+		<ImpactDir>
+			<X>-.11</X>
+			<Y>.979</Y>
+			<Z>.166</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ak_stand_ns</Name>
+		<AttackAnim>bash</AttackAnim>
+		<HitRadius>0.65</HitRadius>
+		<ImpactDir>
+			<X>-.11</X>
+			<Y>.979</Y>
+			<Z>.166</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>pistol_move_ns</Name>
+		<AttackAnim>melee moving</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>.69</X>
+			<Y>-.489</Y>
+			<Z>.533</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>pistol_stand_ns</Name>
+		<AttackAnim>melee</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>.69</X>
+			<Y>-.489</Y>
+			<Z>.533</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>rpg_move_ns</Name>
+		<AttackAnim>bash</AttackAnim>
+		<HitRadius>0.75</HitRadius>
+		<ImpactDir>
+			<X>-.11</X>
+			<Y>.979</Y>
+			<Z>.166</Z>
+			</ImpactDir>
+		<ImpactForce>90</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>rpg_stand_ns</Name>
+		<AttackAnim>bash</AttackAnim>
+		<HitRadius>0.75</HitRadius>
+		<ImpactDir>
+			<X>-.11</X>
+			<Y>.979</Y>
+			<Z>.166</Z>
+			</ImpactDir>
+		<ImpactForce>90</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sg_move_ns</Name>
+		<AttackAnim>bash</AttackAnim>
+		<HitRadius>0.65</HitRadius>
+		<ImpactDir>
+			<X>-.11</X>
+			<Y>.979</Y>
+			<Z>.166</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sg_stand_ns</Name>
+		<AttackAnim>bash</AttackAnim>
+		<HitRadius>0.65</HitRadius>
+		<ImpactDir>
+			<X>-.11</X>
+			<Y>.979</Y>
+			<Z>.166</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>smg_move_ns</Name>
+		<AttackAnim>melee moving</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>.69</X>
+			<Y>-.489</Y>
+			<Z>.533</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>smg_stand_ns</Name>
+		<AttackAnim>melee</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>.69</X>
+			<Y>-.489</Y>
+			<Z>.533</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>pimp_slap_stand</Name>
+		<AttackAnim>unique Pimp Slap</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.3</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>2000</NPCDamage>
+			<PlayerDamage>2000</PlayerDamage>
+			<OnlineDamage>2000</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>.277</X>
+			<Y>.577</Y>
+			<Z>.577</Z>
+			</ImpactDir>
+		<ImpactForce>250</ImpactForce>
+		<Flags>
+			<Flag>unblockable</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>pimp_slap_move</Name>
+		<AttackAnim>unique Pimp SlapMove</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.3</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>2000</NPCDamage>
+			<PlayerDamage>2000</PlayerDamage>
+			<OnlineDamage>2000</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>.277</X>
+			<Y>.577</Y>
+			<Z>.577</Z>
+			</ImpactDir>
+		<ImpactForce>350</ImpactForce>
+		<Flags>
+			<Flag>moving attack</Flag>
+			<Flag>unblockable</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>pimp_slap_prone_attack</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>2000</NPCDamage>
+			<PlayerDamage>2000</PlayerDamage>
+			<OnlineDamage>2000</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>.707</Y>
+			<Z>.707</Z>
+			</ImpactDir>
+		<ImpactForce>200</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>pimp_slap_prone_kick</Name>
+		<AttackAnim>prone stomp short</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.4</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>2000</NPCDamage>
+			<PlayerDamage>2000</PlayerDamage>
+			<OnlineDamage>2000</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>.447</Y>
+			<Z>.894</Z>
+			</ImpactDir>
+		<ImpactForce>200</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sword_parry_A</Name>
+		<AttackAnim>Parry A</AttackAnim>
+		<AttackerSynchedAnim>Parry A</AttackerSynchedAnim>
+		<VictimSynchedAnim>Parry A b</VictimSynchedAnim>
+		<SynchMoveXOffset>1.5866</SynchMoveXOffset>
+		<SynchMoveZOffset>0.321666</SynchMoveZOffset>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>150.0</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>90</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>sword_blood_effect</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_hit</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sword_parry_B</Name>
+		<AttackAnim>Parry B</AttackAnim>
+		<AttackerSynchedAnim>Parry B</AttackerSynchedAnim>
+		<VictimSynchedAnim>Parry B b</VictimSynchedAnim>
+		<SynchMoveXOffset>1.53502</SynchMoveXOffset>
+		<SynchMoveZOffset>0.285502</SynchMoveZOffset>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>150.0</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>90</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>sword_blood_effect</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sword_parry_C</Name>
+		<AttackAnim>Parry C</AttackAnim>
+		<AttackerSynchedAnim>Parry C</AttackerSynchedAnim>
+		<VictimSynchedAnim>Parry C b</VictimSynchedAnim>
+		<SynchMoveXOffset>1.72588</SynchMoveXOffset>
+		<SynchMoveZOffset>0.193734</SynchMoveZOffset>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>20.0</NPCDamage>
+			<PlayerDamage>50.0</PlayerDamage>
+			<OnlineDamage>20.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>always lethal</Flag>
+			<Flag>sword_blood_effect</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Impact_Human_Effect>Blood_sputter</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sword_parry_D</Name>
+		<AttackAnim>Parry D</AttackAnim>
+		<AttackerSynchedAnim>Parry D</AttackerSynchedAnim>
+		<VictimSynchedAnim>Parry D b</VictimSynchedAnim>
+		<SynchMoveXOffset>1.92979</SynchMoveXOffset>
+		<SynchMoveZOffset>0.178879</SynchMoveZOffset>
+		<AttackLimb>Right hand</AttackLimb>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>20.0</NPCDamage>
+			<PlayerDamage>50.0</PlayerDamage>
+			<OnlineDamage>20.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>always lethal</Flag>
+			<Flag>sword_blood_effect</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		<Impact_Human_Effect>Blood_sputter</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>1hm_prone_kick</Name>
+		<AttackAnim>prone stomp short</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<HitRadius>0.4</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_hit</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_prone_kick</Name>
+		<AttackAnim>prone stomp short</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<HitRadius>0.4</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_hit</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ak_prone_kick</Name>
+		<AttackAnim>prone stomp short</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<HitRadius>0.4</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sg_prone_kick</Name>
+		<AttackAnim>prone stomp short</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<HitRadius>0.4</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>pistol_prone_kick</Name>
+		<AttackAnim>prone stomp short</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<HitRadius>0.4</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>rpg_prone_kick</Name>
+		<AttackAnim>prone stomp short</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<HitRadius>0.4</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>smg_prone_kick</Name>
+		<AttackAnim>prone stomp short</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<HitRadius>0.4</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>punch1L</Name>
+		<AttackAnim>punch L 2</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0</X>
+			<Y>0</Y>
+			<Z>1</Z>
+			</ImpactDir>
+		<ImpactForce>15</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>punch2L</MeleeMove>
+			</NextSecondary>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>punch1R</Name>
+		<AttackAnim>punch R 2</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0</X>
+			<Y>0</Y>
+			<Z>1</Z>
+			</ImpactDir>
+		<ImpactForce>15</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>punch2L</MeleeMove>
+			</NextSecondary>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		<Impact_Human_Effect>melee_hit02</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bh_punch2L</Name>
+		<AttackAnim>punch L 1</AttackAnim>
+		<AttackLimb>Left hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>85</NPCDamage>
+			<PlayerDamage>50</PlayerDamage>
+			<OnlineDamage>85</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Brotherhood</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>bh_finish1R</MeleeMove>
+			<MeleeMove>bh_finish2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>bh_finish1L</MeleeMove>
+			<MeleeMove>bh_finish2L</MeleeMove>
+			</NextSecondary>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bh_punch2R</Name>
+		<AttackAnim>punch R 1</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>85</NPCDamage>
+			<PlayerDamage>50</PlayerDamage>
+			<OnlineDamage>85</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Brotherhood</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>bh_finish1R</MeleeMove>
+			<MeleeMove>bh_finish2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>bh_finish1L</MeleeMove>
+			<MeleeMove>bh_finish2L</MeleeMove>
+			</NextSecondary>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ro_punch2R</Name>
+		<AttackAnim>punch R 1</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>65</NPCDamage>
+			<PlayerDamage>35</PlayerDamage>
+			<OnlineDamage>65</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>ro_finish1R</MeleeMove>
+			<MeleeMove>ro_finish2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>ro_finish1L</MeleeMove>
+			<MeleeMove>ro_finish2L</MeleeMove>
+			</NextSecondary>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Ronin</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ro_punch2L</Name>
+		<AttackAnim>punch L 1</AttackAnim>
+		<AttackLimb>Left foot</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>65</NPCDamage>
+			<PlayerDamage>35</PlayerDamage>
+			<OnlineDamage>65</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>ro_finish1R</MeleeMove>
+			<MeleeMove>ro_finish2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>ro_finish1L</MeleeMove>
+			<MeleeMove>ro_finish2L</MeleeMove>
+			</NextSecondary>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Ronin</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ss_punch2R</Name>
+		<AttackAnim>punch R 1</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>60</NPCDamage>
+			<PlayerDamage>30</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>ss_finish1R</MeleeMove>
+			<MeleeMove>ss_finish2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>ss_finish1L</MeleeMove>
+			<MeleeMove>ss_finish2L</MeleeMove>
+			</NextSecondary>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Samedi</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ss_punch2L</Name>
+		<AttackAnim>punch L 1</AttackAnim>
+		<AttackLimb>Left hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.15</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>60</NPCDamage>
+			<PlayerDamage>30</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<NextPrimary>
+			<MeleeMove>ss_finish1R</MeleeMove>
+			<MeleeMove>ss_finish2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>ss_finish1L</MeleeMove>
+			<MeleeMove>ss_finish2L</MeleeMove>
+			</NextSecondary>
+		<_Editor>
+			<Category>Entries:Gang_Specific:Melee_Samedi</Category>
+			</_Editor>
+		<Impact_Human_Effect>melee_blood</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h1h_attack_c</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2h_attack_c</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2hl_attack_c</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2hh_attack_c</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>Defib_Stand_Shock</Name>
+		<AttackAnim>defib stand shock</AttackAnim>
+		<AttackerSynchedAnim>defib stand shock</AttackerSynchedAnim>
+		<VictimSynchedAnim>defib stand shock b</VictimSynchedAnim>
+		<SynchMoveXOffset>1.04594</SynchMoveXOffset>
+		<SynchMoveZOffset>-0.0255236</SynchMoveZOffset>
+		<AttackLimb>Both hands</AttackLimb>
+		<HitRadius>0.25</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50.0</NPCDamage>
+			<PlayerDamage>500.0</PlayerDamage>
+			<OnlineDamage>20.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<Flags>
+			<Flag>synched melee combo</Flag>
+			<Flag>melee finisher</Flag>
+			<Flag>ragdoll victim</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Weapon</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>1hm_d</Name>
+		<AttackAnim>attack d</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_blood</ImpactFX>
+		<Impact_Human_Effect>Blood_sputter</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_a_mjolnir</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>-1.0</X>
+			<Y>0.25</Y>
+			<Z>.7</Z>
+			</ImpactDir>
+		<ImpactForce>800</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>2700</NPCDamage>
+			<PlayerDamage>2700</PlayerDamage>
+			<OnlineDamage>2700</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>cf_lightning_gnd01</ImpactFX>
+		<Impact_Human_Effect>tazer_hit</Impact_Human_Effect>
+		<NextPrimary>
+			<MeleeMove>2hm_b</MeleeMove>
+			</NextPrimary>
+		<Impact_reaction_time>50</Impact_reaction_time>
+		<Impact_reaction_reverse_speed>0.4</Impact_reaction_reverse_speed>
+		<Impact_reaction_speed_ramp>0.0</Impact_reaction_speed_ramp>
+		<Impact_reaction_blend_out_time>0.3</Impact_reaction_blend_out_time>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_b_mjolnir</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.4</Y>
+			<Z>0.6</Z>
+			</ImpactDir>
+		<ImpactForce>800</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>2700</NPCDamage>
+			<PlayerDamage>2700</PlayerDamage>
+			<OnlineDamage>2700</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>cf_lightning_gnd01</ImpactFX>
+		<Impact_Human_Effect>tazer_hit</Impact_Human_Effect>
+		<NextPrimary>
+			<MeleeMove>2hm_a</MeleeMove>
+			</NextPrimary>
+		<Impact_reaction_time>50</Impact_reaction_time>
+		<Impact_reaction_reverse_speed>0.4</Impact_reaction_reverse_speed>
+		<Impact_reaction_speed_ramp>0.0</Impact_reaction_speed_ramp>
+		<Impact_reaction_blend_out_time>0.3</Impact_reaction_blend_out_time>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_move_a_mjolnir</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>700</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>2700</NPCDamage>
+			<PlayerDamage>2700</PlayerDamage>
+			<OnlineDamage>2700</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>cf_lightning_gnd01</ImpactFX>
+		<Impact_Human_Effect>tazer_hit</Impact_Human_Effect>
+		<Impact_reaction_time>50</Impact_reaction_time>
+		<Impact_reaction_reverse_speed>0.4</Impact_reaction_reverse_speed>
+		<Impact_reaction_speed_ramp>0.0</Impact_reaction_speed_ramp>
+		<Impact_reaction_blend_out_time>0.3</Impact_reaction_blend_out_time>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_move_b_mjolnir</Name>
+		<AttackAnim>move attack b</AttackAnim>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>700</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>2700</NPCDamage>
+			<PlayerDamage>2700</PlayerDamage>
+			<OnlineDamage>2700</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>cf_lightning_gnd01</ImpactFX>
+		<Impact_Human_Effect>tazer_hit</Impact_Human_Effect>
+		<Impact_reaction_time>50</Impact_reaction_time>
+		<Impact_reaction_reverse_speed>0.4</Impact_reaction_reverse_speed>
+		<Impact_reaction_speed_ramp>0.0</Impact_reaction_speed_ramp>
+		<Impact_reaction_blend_out_time>0.3</Impact_reaction_blend_out_time>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_prone_attack_mjolnir</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>1500</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>2000</NPCDamage>
+			<PlayerDamage>2000</PlayerDamage>
+			<OnlineDamage>2000</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>cf_lightning_gnd01</ImpactFX>
+		<Impact_Human_Effect>tazer_hit</Impact_Human_Effect>
+		<Impact_reaction_time>50</Impact_reaction_time>
+		<Impact_reaction_reverse_speed>0.4</Impact_reaction_reverse_speed>
+		<Impact_reaction_speed_ramp>0.0</Impact_reaction_speed_ramp>
+		<Impact_reaction_blend_out_time>0.3</Impact_reaction_blend_out_time>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bling_punch1L</Name>
+		<AttackAnim>punch L 2</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0</X>
+			<Y>0</Y>
+			<Z>1</Z>
+			</ImpactDir>
+		<ImpactForce>15</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>bling_punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>bling_punch2L</MeleeMove>
+			</NextSecondary>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>fire_sticky_sm</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bling_punch2L</Name>
+		<AttackAnim>punch L 2</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0</X>
+			<Y>0.2</Y>
+			<Z>0.6</Z>
+			</ImpactDir>
+		<ImpactForce>250</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always lethal</Flag>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>camera_flash</ImpactFX>
+		<Impact_Human_Effect>fire_sticky_sm</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bling_punch3L</Name>
+		<AttackAnim>punch L 3</AttackAnim>
+		<HitRadius>0.2</HitRadius>
+		<ImpactDir>
+			<X>0.1</X>
+			<Y>0.5</Y>
+			<Z>1</Z>
+			</ImpactDir>
+		<ImpactForce>2300</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>95</NPCDamage>
+			<PlayerDamage>60</PlayerDamage>
+			<OnlineDamage>95</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>CarDamage-Explosion</ImpactFX>
+		<Impact_Human_Effect>cf_lightning_gnd01</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bling_punch1R</Name>
+		<AttackAnim>punch R 2</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0</X>
+			<Y>0</Y>
+			<Z>1</Z>
+			</ImpactDir>
+		<ImpactForce>15</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>bling_punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>bling_punch2L</MeleeMove>
+			</NextSecondary>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		<Impact_Human_Effect>fire_sticky_sm</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bling_punch2R</Name>
+		<AttackAnim>punch R 2</AttackAnim>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0</X>
+			<Y>0.2</Y>
+			<Z>0.6</Z>
+			</ImpactDir>
+		<ImpactForce>250</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always lethal</Flag>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>camera_flash</ImpactFX>
+		<Impact_Human_Effect>fire_sticky_sm</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bling_punch3R</Name>
+		<AttackAnim>punch R 3</AttackAnim>
+		<HitRadius>0.2</HitRadius>
+		<ImpactDir>
+			<X>0</X>
+			<Y>1</Y>
+			<Z>1</Z>
+			</ImpactDir>
+		<ImpactForce>2300</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>95</NPCDamage>
+			<PlayerDamage>60</PlayerDamage>
+			<OnlineDamage>95</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>CarDamage-Explosion</ImpactFX>
+		<Impact_Human_Effect>cf_lightning_gnd01</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bling_punch_move_L</Name>
+		<AttackAnim>punch L 2</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>.843</X>
+			<Y>.186</Y>
+			<Z>.503</Z>
+			</ImpactDir>
+		<ImpactForce>150</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>punch2L</MeleeMove>
+			</NextSecondary>
+		<Flags>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<Impact_Human_Effect>fire_sticky_sm</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bling_punch_move_R</Name>
+		<AttackAnim>punch R 2</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>-.719</X>
+			<Y>.229</Y>
+			<Z>.655</Z>
+			</ImpactDir>
+		<ImpactForce>150</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>punch2L</MeleeMove>
+			</NextSecondary>
+		<Flags>
+			<Flag>effect_contains_blood</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit02</ImpactFX>
+		<Impact_Human_Effect>fire_sticky_sm</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bling_prone_primary</Name> PRONE PRIMARY
+		<AttackAnim>prone attack</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>2000</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>exp_gas_huge</ImpactFX>
+		<Impact_Human_Effect>cf_lightning_gnd01</Impact_Human_Effect>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>bling_prone_secondary</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>2000</ImpactForce>
+		<_Editor>
+			<Category>Entries:Default_Melee</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			<Flag>dont_play_weapon_sound</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>125</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>exp_gas_huge</ImpactFX>
+		<Impact_Human_Effect>cf_lightning_gnd01</Impact_Human_Effect>
+		<Impact_reaction_time>50</Impact_reaction_time>
+		<Impact_reaction_reverse_speed>0.4</Impact_reaction_reverse_speed>
+		<Impact_reaction_speed_ramp>0.0</Impact_reaction_speed_ramp>
+		<Impact_reaction_blend_out_time>0.3</Impact_reaction_blend_out_time>
+		</MeleeMove>
+	</Table>
+
+<TableTemplates>
+	<MeleeMove>
+		<Name>h1h_move_attack</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2h_move_attack</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>moving attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		<NextSpecial>
+			<MeleeMove>finish3R</MeleeMove>
+			</NextSpecial>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2hl_move_attack</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>moving attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		<NextSpecial>
+			<MeleeMove>finish3R</MeleeMove>
+			</NextSpecial>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>h2hh_move_attack</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRadius>0.5</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>-1</X>
+			<Y>-.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<Flags>
+			<Flag>havok attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries:Havok_Object</Category>
+			</_Editor>
+		<NextSpecial>
+			<MeleeMove>finish3R</MeleeMove>
+			</NextSpecial>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sg_prone_kickOLD</Name>
+		<AttackAnim>prone kick short</AttackAnim>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries:WeaponBashes</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		</MeleeMove>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>MeleeMove</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>AttackAnim</Name>
+		<Type>Reference</Type>
+		<Display_Name>Attack Animation</Display_Name>
+		<Description>The string name of the attack animation, ie "pistol prone kick"</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>anim_actions.xtbl</File>
+			<Type>Action.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>AttackerSynchedAnim</Name>
+		<Type>Reference</Type>
+		<Display_Name>Attacker Synched Anim</Display_Name>
+		<Description>Animation for attacker to use in a 2-person synched combo finisher.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>anim_actions.xtbl</File>
+			<Type>Action.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>VictimSynchedAnim</Name>
+		<Type>Reference</Type>
+		<Display_Name>Victim Synched Animation</Display_Name>
+		<Description>Animation for attacker to use in a 2-person synched combo finisher.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>anim_actions.xtbl</File>
+			<Type>Action.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>SynchMoveXOffset</Name>
+		<Type>Float</Type>
+		<Display_Name>Synched move X-Offset</Display_Name>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>SynchMoveZOffset</Name>
+		<Type>Float</Type>
+		<Display_Name>Synched Move Z-Offset</Display_Name>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>AttackLimb</Name>
+		<Type>Selection</Type>
+		<Display_Name>Attacking Limb</Display_Name>
+		<Default>Right hand</Default>
+		<Choice>Right hand</Choice>
+		<Choice>Left hand</Choice>
+		<Choice>Right foot</Choice>
+		<Choice>Left foot</Choice>
+		<Choice>Both hands</Choice>
+		</Element>
+	<Element>
+		<Name>ImpactFX</Name>
+		<Type>Reference</Type>
+		<Display_Name>Impact Effect</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>effects.xtbl</File>
+			<Type>Effect.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Impact_Human_Effect</Name>
+		<Type>Reference</Type>
+		<Display_Name>Impact Human Effect</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>effects.xtbl</File>
+			<Type>Effect.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Impact_reaction_time</Name>
+		<Type>Int</Type>
+		<Display_Name>Impact reaction time</Display_Name>
+		<Required>false</Required>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Impact_reaction_reverse_speed</Name>
+		<Type>Float</Type>
+		<Display_Name>Impact reaction reverse speed</Display_Name>
+		<Required>false</Required>
+		<Default>1.0</Default>
+		</Element>
+	<Element>
+		<Name>Impact_reaction_speed_ramp</Name>
+		<Type>Float</Type>
+		<Display_Name>Impact reaction speed ramp</Display_Name>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Impact_reaction_blend_out_time</Name>
+		<Type>Float</Type>
+		<Display_Name>Impact reaction blend out time</Display_Name>
+		<Required>false</Required>
+		<Default>0.3</Default>
+		</Element>
+	<Element>
+		<Name>HitRadius</Name>
+		<Type>Float</Type>
+		<Display_Name>Hit Radius (meters)</Display_Name>
+		<Description>Radius of the hit detection spherecast.</Description>
+		<Default>0.15</Default>
+		</Element>
+	<Element>
+		<Name>DefaultDamage</Name>
+		<Type>Element</Type>
+		<Display_Name>Default Damage Dealt By</Display_Name>
+		<Description>Default damage.  May be overridden per-character.</Description>
+		<Element>
+			<Name>NPCDamage</Name>
+			<Type>Float</Type>
+			<Display_Name>NPC</Display_Name>
+			<Description>Default damage if attacker is an NPC.</Description>
+			<Default>20.0</Default>
+			</Element>
+		<Element>
+			<Name>PlayerDamage</Name>
+			<Type>Float</Type>
+			<Display_Name>Player</Display_Name>
+			<Description>Default damage if attacker is a player.</Description>
+			<Default>20.0</Default>
+			</Element>
+		<Element>
+			<Name>OnlineDamage</Name>
+			<Type>Float</Type>
+			<Display_Name>Online</Display_Name>
+			<Description>Default damage if attacker is an online player.</Description>
+			<Default>20.0</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>ImpactDir</Name>
+		<Type>Vector</Type>
+		<Display_Name>Impact Direction</Display_Name>
+		<Description>Direction of impact force, used for initiating ragdolls.  In the local space of the attacker.  Need not be normalized.</Description>
+		<X>
+			<Name>X</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</X>
+		<Y>
+			<Name>Y</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</Y>
+		<Z>
+			<Name>Z</Name>
+			<Type>Float</Type>
+			<Default>1.0</Default>
+			</Z>
+		</Element>
+	<Element>
+		<Name>ImpactForce</Name>
+		<Type>Float</Type>
+		<Display_Name>Impact Force</Display_Name>
+		<Description>How much force to apply when beginning ragdoll in response to this attack.</Description>
+		<Default>10</Default>
+		</Element>
+	<Element>
+		<Name>Flags</Name>
+		<Type>Flags</Type>
+		<Flag>always knock down</Flag>
+		<Flag>knock down from behind (NPC only)</Flag>
+		<Flag>disable character collide</Flag>
+		<Flag>prone attack</Flag>
+		<Flag>door attack</Flag>
+		<Flag>moving attack</Flag>
+		<Flag>havok attack</Flag>
+		<Flag>synched melee combo</Flag>
+		<Flag>melee finisher</Flag>
+		<Flag>anim state attack</Flag>
+		<Flag>repeating animation</Flag>
+		<Flag>ragdoll victim</Flag>
+		<Flag>unblockable</Flag>
+		<Flag>boss only</Flag>
+		<Flag>dont_play_weapon_sound</Flag>
+		<Flag>synched move facing away</Flag>
+		<Flag>always lethal</Flag>
+		<Flag>two-handed attack</Flag>
+		<Flag>sword_blood_effect</Flag>
+		<Flag>effect_contains_blood</Flag>
+		</Element>
+	<Element>
+		<Name>NextPrimary</Name>
+		<Type>Grid</Type>
+		<Display_Name>Next Primary</Display_Name>
+		<Description>When PRIMARY ATTACK is pressed, one of these moves will be chosen at random.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>MeleeMove</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>melee.xtbl</File>
+				<Type>MeleeMove.Name</Type>
+				<OpenSeparate>False</OpenSeparate>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>NextSecondary</Name>
+		<Type>Grid</Type>
+		<Display_Name>Next Secondary</Display_Name>
+		<Required>false</Required>
+		<Element>
+			<Name>MeleeMove</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>melee.xtbl</File>
+				<Type>MeleeMove.Name</Type>
+				<OpenSeparate>False</OpenSeparate>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>NextSpecial</Name>
+		<Type>Grid</Type>
+		<Display_Name>Next Special</Display_Name>
+		<Description>Next kick attack</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>MeleeMove</Name>
+			<Type>Reference</Type>
+			<Description>When SPECIAL ATTACK is pressed, one of these moves will be chosen at random.</Description>
+			<Reference>
+				<File>melee.xtbl</File>
+				<Type>MeleeMove.Name</Type>
+				<OpenSeparate>False</OpenSeparate>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Notes</Name>
+		<Type>String</Type>
+		<Description>TFE only notes.</Description>
+		<Required>false</Required>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		<Category>
+			<Name>Boss_Attacks</Name>
+			</Category>
+		<Category>
+			<Name>Default_Melee</Name>
+			</Category>
+		<Category>
+			<Name>Gang_Specific</Name>
+			<Category>
+				<Name>Melee_Brotherhood</Name>
+				</Category>
+			<Category>
+				<Name>Melee_Ronin</Name>
+				</Category>
+			<Category>
+				<Name>Melee_Samedi</Name>
+				</Category>
+			</Category>
+		<Category>
+			<Name>Grab_Failures</Name>
+			</Category>
+		<Category>
+			<Name>Havok_Object</Name>
+			</Category>
+		<Category>
+			<Name>Human_Shield</Name>
+			</Category>
+		<Category>
+			<Name>Melee_Grapple</Name>
+			</Category>
+		<Category>
+			<Name>Power_Attacks</Name>
+			</Category>
+		<Category>
+			<Name>Vehicle</Name>
+			</Category>
+		<Category>
+			<Name>Weapon</Name>
+			</Category>
+		<Category>
+			<Name>WeaponBashes</Name>
+			</Category>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,313 @@
+<root>
+<Table>
+	<Ambulance>
+		<Name>Ambulance</Name>
+		<Levels>
+			<Level>
+				<Min_Distance>150</Min_Distance>
+				<Time_Bonus>60</Time_Bonus>
+				<Cash_Reward>50</Cash_Reward>
+				<Victims>1</Victims>
+				<Vehicles>1</Vehicles>
+				</Level>
+			<Level>
+				<Min_Distance>200</Min_Distance>
+				<Time_Bonus>70</Time_Bonus>
+				<Cash_Reward>100</Cash_Reward>
+				<Victims>2</Victims>
+				<Vehicles>1</Vehicles>
+				</Level>
+			<Level>
+				<Min_Distance>250</Min_Distance>
+				<Time_Bonus>80</Time_Bonus>
+				<Cash_Reward>200</Cash_Reward>
+				<Victims>2</Victims>
+				<Vehicles>2</Vehicles>
+				</Level>
+			<Level>
+				<Min_Distance>300</Min_Distance>
+				<Time_Bonus>90</Time_Bonus>
+				<Cash_Reward>300</Cash_Reward>
+				<Victims>3</Victims>
+				<Vehicles>2</Vehicles>
+				</Level>
+			<Level>
+				<Min_Distance>350</Min_Distance>
+				<Time_Bonus>100</Time_Bonus>
+				<Cash_Reward>400</Cash_Reward>
+				<Victims>3</Victims>
+				<Vehicles>3</Vehicles>
+				</Level>
+			<Level>
+				<Min_Distance>400</Min_Distance>
+				<Time_Bonus>110</Time_Bonus>
+				<Cash_Reward>500</Cash_Reward>
+				<Victims>4</Victims>
+				<Vehicles>3</Vehicles>
+				</Level>
+			<Level>
+				<Min_Distance>450</Min_Distance>
+				<Time_Bonus>120</Time_Bonus>
+				<Cash_Reward>1000</Cash_Reward>
+				<Victims>4</Victims>
+				<Vehicles>4</Vehicles>
+				</Level>
+			<Level>
+				<Min_Distance>500</Min_Distance>
+				<Time_Bonus>130</Time_Bonus>
+				<Cash_Reward>1500</Cash_Reward>
+				<Victims>5</Victims>
+				<Vehicles>4</Vehicles>
+				</Level>
+			<Level>
+				<Min_Distance>550</Min_Distance>
+				<Time_Bonus>140</Time_Bonus>
+				<Cash_Reward>2000</Cash_Reward>
+				<Victims>5</Victims>
+				<Vehicles>5</Vehicles>
+				</Level>
+			<Level>
+				<Min_Distance>600</Min_Distance>
+				<Time_Bonus>150</Time_Bonus>
+				<Cash_Reward>2500</Cash_Reward>
+				<Victims>6</Victims>
+				<Vehicles>5</Vehicles>
+				</Level>
+			</Levels>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Total_Charge_Needed>100</Total_Charge_Needed>
+		<Ambulance_Exit_Timeout>30</Ambulance_Exit_Timeout>
+		<Charge_Lost_Per_Second>5</Charge_Lost_Per_Second>
+		<Starting_Time>120</Starting_Time>
+		<In_Range_Of_Accident_Distance>50</In_Range_Of_Accident_Distance>
+		<In_Range_Of_Victim_Distance>1</In_Range_Of_Victim_Distance>
+		<Required_Combo_Accuracy>0.97</Required_Combo_Accuracy>
+		<Shock_Paddles_Charged_Timeout>5.0</Shock_Paddles_Charged_Timeout>
+		<Maximum_Combo_Time_For_Charge>0.75</Maximum_Combo_Time_For_Charge>
+		<Base_Charge_Per_Stick_Combo>15</Base_Charge_Per_Stick_Combo>
+		<Unlockable_Name_1>Diversion_Ambulance1</Unlockable_Name_1>
+		<Base_Charge_Per_CPR_Stick_Combo>35</Base_Charge_Per_CPR_Stick_Combo>
+		<Unlockable_Name_2>Diversion_Ambulance2</Unlockable_Name_2>
+		<Vehicle_Exclusions>
+			<Vehicle_Exclusion>
+				<Name>sp_ambulance01</Name>
+				</Vehicle_Exclusion>
+			<Vehicle_Exclusion>
+				<Name>sp_charterbus02</Name>
+				</Vehicle_Exclusion>
+			<Vehicle_Exclusion>
+				<Name>sp_combine</Name>
+				</Vehicle_Exclusion>
+			<Vehicle_Exclusion>
+				<Name>sp_novelty01</Name>
+				</Vehicle_Exclusion>
+			<Vehicle_Exclusion>
+				<Name>sp_ufo01</Name>
+				</Vehicle_Exclusion>
+			<Vehicle_Exclusion>
+				<Name>truck_2dr_construct01</Name>
+				</Vehicle_Exclusion>
+			<Vehicle_Exclusion>
+				<Name>car_2dr_exolux01</Name>
+				</Vehicle_Exclusion>
+			<Vehicle_Exclusion>
+				<Name>truck_2dr_armored01</Name>
+				</Vehicle_Exclusion>
+			<Vehicle_Exclusion>
+				<Name>truck_2dr_fire01</Name>
+				</Vehicle_Exclusion>
+			<Vehicle_Exclusion>
+				<Name>sp_eltrain_01</Name>
+				</Vehicle_Exclusion>
+			<Vehicle_Exclusion>
+				<Name>sp_el_train_cutscene</Name>
+				</Vehicle_Exclusion>
+			</Vehicle_Exclusions>
+		</Ambulance>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Ambulance</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Starting_Time</Name>
+		<Type>Float</Type>
+		<Display_Name>Starting Time (s)</Display_Name>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Total_Charge_Needed</Name>
+		<Type>Float</Type>
+		<Display_Name>Total Charge Needed (To Pass Minigame)</Display_Name>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Charge_Lost_Per_Second</Name>
+		<Type>Float</Type>
+		<Display_Name>Charge Lost Per Second</Display_Name>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Maximum_Combo_Time_For_Charge</Name>
+		<Type>Float</Type>
+		<Display_Name>Maximum Combo Time For Charge (s)</Display_Name>
+		<Description>The maximum amount of time a player can take to complete a stick combo in order to receive charge.</Description>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Base_Charge_Per_Stick_Combo</Name>
+		<Type>Float</Type>
+		<Display_Name>Base Charge Per Stick Combo</Display_Name>
+		<Description>The base amount a player is given for a stick "combo" (The amount given if the player takes 0.0s to complete a combo).  This decays to 0 in the specified "Maximum Combo Time for Charge" time.</Description>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Base_Charge_Per_CPR_Stick_Combo</Name>
+		<Type>Float</Type>
+		<Display_Name>Base Charge Per Stick Combo (CPR)</Display_Name>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Required_Combo_Accuracy</Name>
+		<Type>Float</Type>
+		<Display_Name>Required Combo Accuracy</Display_Name>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>1</MaxValue>
+		</Element>
+	<Element>
+		<Name>Shock_Paddles_Charged_Timeout</Name>
+		<Type>Float</Type>
+		<Display_Name>Shock Paddles Charged Timeout (s)</Display_Name>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Ambulance_Exit_Timeout</Name>
+		<Type>Float</Type>
+		<Display_Name>Ambulance Exit Timeout</Display_Name>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>In_Range_Of_Accident_Distance</Name>
+		<Type>Float</Type>
+		<Display_Name>In Range Of Accident Distance</Display_Name>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>In_Range_Of_Victim_Distance</Name>
+		<Type>Float</Type>
+		<Display_Name>In Range Of Victim Distance</Display_Name>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Levels</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Level</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Victims</Name>
+				<Type>Int</Type>
+				<Description>Total number of victims.</Description>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Vehicles</Name>
+				<Type>Int</Type>
+				<Description>Number of vehicles per accident.</Description>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Time_Bonus</Name>
+				<Type>Float</Type>
+				<Display_Name>Time Bonus (s)</Display_Name>
+				<Description>Extra time awarded for reviving a victim.</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Cash_Reward</Name>
+				<Type>Float</Type>
+				<Display_Name>Cash Reward</Display_Name>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>Min_Distance</Name>
+				<Type>Float</Type>
+				<Display_Name>Min Distance</Display_Name>
+				<Description>Min distance between the accident and the player starting point.</Description>
+				<Default>0.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Max_Children>10</Max_Children>
+		<Min_Children>1</Min_Children>
+		<Num_Display_Rows>12</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Unlockable_Name_1</Name>
+		<Type>Reference</Type>
+		<Display_Name>Unlockable 1</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>unlockables.xtbl</File>
+			<Type>Unlockable.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Unlockable_Name_2</Name>
+		<Type>Reference</Type>
+		<Display_Name>Unlockable 2</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>unlockables.xtbl</File>
+			<Type>Unlockable.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Vehicle_Exclusions</Name>
+		<Type>Grid</Type>
+		<Display_Name>Vehicle Exclusions</Display_Name>
+		<Element>
+			<Name>Vehicle_Exclusion</Name>
+			<Type>Element</Type>
+			<Display_Name>Vehicle Exclusion</Display_Name>
+			<Element>
+				<Name>Name</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>vehicles.xtbl</File>
+					<Type>Vehicle.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			</Element>
+		<Max_Children>32</Max_Children>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

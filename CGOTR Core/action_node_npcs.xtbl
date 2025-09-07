@@ -1,0 +1,5562 @@
+<root>
+<Table>
+	<Action_node_npc>
+		<Name>Fisherman</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Persona_situation>special - fishing</Persona_situation>
+		<Follow_Nodes>
+			<Node>Sitting</Node>
+			<Node>Fisherman</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>20.0</Random_destination_percent>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Fishing Cast</Animation_action>
+					<Animation_action>Fishing Reel</Animation_action>
+					</Actions>
+				<Animation_State>Fishing Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>4.6</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Waterer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Follow_Nodes>
+			<Node>GroundReader</Node>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Spawn_Only>True</Spawn_Only>
+		<Stationary_Node>True</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Random_destination_percent>20</Random_destination_percent>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Persona_situation>special - trim hedges</Persona_situation>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>WaterCan Water Plants</Animation_action>
+					</Actions>
+				<Animation_State>WaterCan Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>HedgeTrimmer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Persona_situation>special - trim hedges</Persona_situation>
+		<Follow_Nodes>
+			<Node>LawnChLounge</Node>
+			<Node>LawnDrinker</Node>
+			<Node>GroundReader</Node>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Spawn_Only>True</Spawn_Only>
+		<Sex>male</Sex>
+		<Stationary_Node>True</Stationary_Node>
+		<Random_destination_percent>25</Random_destination_percent>
+		<Standardize_Height>True</Standardize_Height>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>HedgeTrimmer Trim</Animation_action>
+					</Actions>
+				<Animation_State>HedgeTrimmer Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Gardener</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Persona_situation>special - trim hedges</Persona_situation>
+		<Follow_Nodes>
+			<Node>Sitting</Node>
+			<Node>LawnChLounge</Node>
+			<Node>LawnDrinker</Node>
+			<Node>Gardener</Node>
+			<Node>GroundReader</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Stationary_Node>True</Stationary_Node>
+		<Standardize_Height>True</Standardize_Height>
+		<Model_List>
+			<Model>npc_middle-aged_female_gen</Model>
+			<Model>npc_middle-aged_male_gen</Model>
+			</Model_List>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Gardner Garden</Animation_action>
+					</Actions>
+				<Animation_State>Gardner Kneel</Animation_State>
+				</State>
+			</Animations>
+		<Enter_anim>Gardner Stand to Kneel</Enter_anim>
+		<Exit_anim>Gardner Kneel to Stand</Exit_anim>
+		<Startle_anim>Gardner Kneel to Stand</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Hammerer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Persona_situation>special - construction work (home)</Persona_situation>
+		<Follow_Nodes>
+			<Node>Hammerer</Node>
+			<Node>40ozPed</Node>
+			<Node>Sawer</Node>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Sex>male</Sex>
+		<Stationary_Node>True</Stationary_Node>
+		<Model_List>
+			<Model>npc_construction</Model>
+			</Model_List>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Construction Hammer Kneel</Animation_State>
+				</State>
+			</Animations>
+		<Enter_anim>Construction Stand to Hammer</Enter_anim>
+		<Exit_anim>Construction Hammer to Stand</Exit_anim>
+		<Min_anim_delay>0.2</Min_anim_delay>
+		<Max_anim_delay>0.6</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Juggler</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Model_List>
+			<Model>npc_mime</Model>
+			<Model>npc_middle-aged_male_gen</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Juggle</Animation_State>
+				</State>
+			</Animations>
+		<Enter_anim>Juggle to Stand</Enter_anim>
+		<Exit_anim>Juggle to Stand</Exit_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>StickHolder_Left</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Stationary_Node>True</Stationary_Node>
+		<Standardize_Height>True</Standardize_Height>
+		<Persona_situation>voice - cheer</Persona_situation>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Limbo Pole Stand Left</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5</Min_anim_delay>
+		<Max_anim_delay>10</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>StickHolder_Right</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Stationary_Node>True</Stationary_Node>
+		<Standardize_Height>True</Standardize_Height>
+		<Persona_situation>voice - cheer</Persona_situation>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Limbo Pole Stand Right</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5</Min_anim_delay>
+		<Max_anim_delay>10</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Limbo_Dancer_A</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Stationary_Node>False</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Standardize_Height>True</Standardize_Height>
+		<Persona_situation>voice - cheer</Persona_situation>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Limbo Dance A</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5</Min_anim_delay>
+		<Max_anim_delay>10</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Limbo_Dancer_B</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Stationary_Node>False</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Standardize_Height>True</Standardize_Height>
+		<Persona_situation>voice - cheer</Persona_situation>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Limbo Dance B</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5</Min_anim_delay>
+		<Max_anim_delay>10</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>LifeGuard</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Model_List>
+			<Model>npc_lifeguard</Model>
+			</Model_List>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Lifeguard Binoculars</Animation_action>
+					</Actions>
+				<Animation_State>Lifeguard Sit</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>4.1</Min_anim_delay>
+		<Max_anim_delay>8.3</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Sawer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Persona_situation>special - construction work (home)</Persona_situation>
+		<Follow_Nodes>
+			<Node>Hammerer</Node>
+			<Node>Sawer</Node>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>10</Random_destination_percent>
+		<Sex>male</Sex>
+		<Stationary_Node>True</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Standardize_Height>True</Standardize_Height>
+		<Model_List>
+			<Model>npc_construction</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Construction Saw Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>0.2</Min_anim_delay>
+		<Max_anim_delay>0.5</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Picnic_LeftSitter</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Stationary_Node>True</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Standardize_Height>True</Standardize_Height>
+		<Persona_situation>special - picnic</Persona_situation>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Picnic Sit A</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Picnic_RightSitter</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Stationary_Node>True</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Persona_situation>special - picnic</Persona_situation>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Picnic Sit B</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Painter</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Spawn_Only>True</Spawn_Only>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Persona_situation>special - drawing</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Never_Exit>True</Never_Exit>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Artist Paint</Animation_action>
+					</Actions>
+				<Animation_State>Artist Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.5</Min_anim_delay>
+		<Max_anim_delay>5.3</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>LawnDrinker</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Persona_situation>special - drink</Persona_situation>
+		<Spawn_Only>True</Spawn_Only>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Never_Exit>True</Never_Exit>
+		<Stationary_Node>True</Stationary_Node>
+		<Sex>male</Sex>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Lawnchair Sit Drink</Animation_action>
+					</Actions>
+				<Animation_State>Lawnchair Sit</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>6.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Vendor</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Sex>male</Sex>
+		<Stationary_Node>True</Stationary_Node>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations></Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Customer</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Get_Bag>True</Get_Bag>
+		<Persona_situation>special - store customer idle</Persona_situation>
+		<Team>Civilian</Team>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>browse jewelry</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>HotDogVendor</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Standardize_Height>True</Standardize_Height>
+		<Stationary_Node>True</Stationary_Node>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Persona_situation>special - sell hotdog</Persona_situation>
+		<Model_List>
+			<Model>npc_hotdog</Model>
+			</Model_List>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Hotdog Vendor Sell</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>0</Min_anim_delay>
+		<Max_anim_delay>0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>HotDogCustomer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>special - store customer buy</Persona_situation>
+		<Standardize_Height>True</Standardize_Height>
+		<Stationary_Node>True</Stationary_Node>
+		<Follow_Nodes>
+			<Node>Food_Eater</Node>
+			</Follow_Nodes>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Hotdog Buy</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>0</Min_anim_delay>
+		<Max_anim_delay>0</Max_anim_delay>
+		<Synced_Animation>true</Synced_Animation>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Dummy NPC</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations></Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Sitting</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Reverse_Enter>True</Reverse_Enter>
+		<Team>Civilian</Team>
+		<Standardize_Height>True</Standardize_Height>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>sitting</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>Bench Beverage Drink</Animation_action>
+					</Actions>
+				<Animation_State>Bench Beverage</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Bench Newspaper</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Bench Cellphone</Animation_State>
+				</State>
+			</Animations>
+		<Enter_anim>trans Stand to Sitting</Enter_anim>
+		<Exit_anim>trans Sitting to Stand</Exit_anim>
+		<Startle_anim>Sitting Startled</Startle_anim>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>6.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Shopper</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>special - store customer idle</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Follow_Nodes>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>40</Random_destination_percent>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Retail Buy</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Synced_Animation>true</Synced_Animation>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Clerk</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Persona_situation>special - store owner greet</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Retail Sell</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>0</Min_anim_delay>
+		<Max_anim_delay>0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>ClothesShopper</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Follow_Nodes>
+			<Node>ShopperBuying</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>25</Random_destination_percent>
+		<Persona_situation>special - store customer browses</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>browse clothing</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>GunShopper_Bouncer</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>special - store customer idle</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Model_List>
+			<Model>npc_bouncer</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Follow_Nodes>
+			<Node>ShopperBuying</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>50.0</Random_destination_percent>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>browse gun</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>BoozeShopper</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Follow_Nodes>
+			<Node>ShopperBuying</Node>
+			</Follow_Nodes>
+		<Persona_situation>special - store customer browses</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>browse wine</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>JewelryShopper_Thug</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>special - store customer idle</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Follow_Nodes>
+			<Node>ShopperBuying</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>25</Random_destination_percent>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Model_List>
+			<Model>npc_athlete_male</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>browse jewelry</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Cheerleader_A</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Sex>female</Sex>
+		<Spawn_Only>True</Spawn_Only>
+		<Stationary_Node>True</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Model_List>
+			<Model>npc_cheerleader</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Cheer Routine A</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Cheerleader_B</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Sex>female</Sex>
+		<Spawn_Only>True</Spawn_Only>
+		<Stationary_Node>True</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Model_List>
+			<Model>npc_cheerleader</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Cheer Routine B</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>FireBreather</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Spawn_Only>True</Spawn_Only>
+		<Never_Exit>True</Never_Exit>
+		<Stationary_Node>False</Stationary_Node>
+		<Model_List>
+			<Model>npc_mime</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>FireBreather Breathe Fire</Animation_action>
+					<Animation_action>FireBreather Flip Fire</Animation_action>
+					</Actions>
+				<Animation_State>FireBreather Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.2</Min_anim_delay>
+		<Max_anim_delay>4.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Doorman</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Persona_situation>special - door man</Persona_situation>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<React_To_Peds>True</React_To_Peds>
+		<Sex>male</Sex>
+		<Stationary_Node>True</Stationary_Node>
+		<Model_List>
+			<Model>npc_doorman</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Doorman Greet</Animation_action>
+					</Actions>
+				<Animation_State>Doorman stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>4.0</Min_anim_delay>
+		<Max_anim_delay>8.3</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>RoadSignGuy</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Persona_situation>special - constriction work (street)</Persona_situation>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Model_List>
+			<Model>npc_construction</Model>
+			</Model_List>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<React_To_Peds>True</React_To_Peds>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Construction RoadSign Stop</Animation_action>
+					<Animation_action>Construction RoadSign WaveThrough</Animation_action>
+					</Actions>
+				<Animation_State>Construction RoadSign Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.6</Min_anim_delay>
+		<Max_anim_delay>6.1</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Jackhammer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Model_List>
+			<Model>npc_construction_road</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Persona_situation>special - jackhammer</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Construction Jackhammer</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Supervisor</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Sex>male</Sex>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Model_List>
+			<Model>npc_construction_road</Model>
+			</Model_List>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Clipboard Lean In</Animation_action>
+					<Animation_action>Clipboard Write</Animation_action>
+					</Actions>
+				<Animation_State>Clipboard Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.2</Min_anim_delay>
+		<Max_anim_delay>4.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Rapper</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Persona_situation>special - rap battle</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Sex>male</Sex>
+		<Never_Exit>True</Never_Exit>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Rap A</Animation_action>
+					<Animation_action>Rap B</Animation_action>
+					<Animation_action>Rap C</Animation_action>
+					</Actions>
+				<Animation_State>Rap Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>3.1</Min_anim_delay>
+		<Max_anim_delay>8.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>YogaPed</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Persona_situation>special - yoga</Persona_situation>
+		<Spawn_Only>True</Spawn_Only>
+		<Stationary_Node>True</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Yoga Sit</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>Yoga Sit Startled</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>TaiChier</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>False</Stationary_Node>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Never_Exit>True</Never_Exit>
+		<Persona_situation>special - yoga</Persona_situation>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>TaiChi Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>QuartetSinger</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Sex>male</Sex>
+		<Spawn_Only>True</Spawn_Only>
+		<Stationary_Node>True</Stationary_Node>
+		<Model_List>
+			<Model>npc_barbershop</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Never_Exit>True</Never_Exit>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Quartet Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Showerer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Model_List>
+			<Model>npc_beach_female</Model>
+			<Model>npc_beach_male</Model>
+			<Model>npc_sunbather_female</Model>
+			</Model_List>
+		<Stationary_Node>True</Stationary_Node>
+		<Follow_Nodes>
+			<Node>Recliner</Node>
+			<Node>BeachTowelBather</Node>
+			<Node>GroundReader</Node>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>20.0</Random_destination_percent>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Beach Shower</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>RPS</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Persona_situation>special - larp (rps)</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Model_List>
+			<Model>npc_goth_female</Model>
+			<Model>npc_goth_male</Model>
+			<Model>npc_punk_male</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>RPS Paper Lose</Animation_action>
+					<Animation_action>RPS Rock Win</Animation_action>
+					<Animation_action>RPS Scissors Lose</Animation_action>
+					<Animation_action>RPS Scissors Win</Animation_action>
+					</Actions>
+				<Animation_State>RPS Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.5</Min_anim_delay>
+		<Max_anim_delay>1.5</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Vampire</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>special - larp (rps)</Persona_situation>
+		<Model_List>
+			<Model>npc_goth_female</Model>
+			<Model>npc_goth_male</Model>
+			</Model_List>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>RPS Vampire</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Sketcher</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Spawn_Only>True</Spawn_Only>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Persona_situation>special - drawing</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Sketchpad Sit</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>Sketchpad Startled</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>RPS2</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Persona_situation>special - larp (rps)</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Model_List>
+			<Model>npc_goth_female</Model>
+			<Model>npc_goth_male</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>RPS Paper Win</Animation_action>
+					<Animation_action>RPS Rock Lose</Animation_action>
+					<Animation_action>RPS Rock Win</Animation_action>
+					<Animation_action>RPS Scissors Lose</Animation_action>
+					</Actions>
+				<Animation_State>RPS Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.5</Min_anim_delay>
+		<Max_anim_delay>1.5</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Tourist</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>special - take pictures</Persona_situation>
+		<Team>Civilian</Team>
+		<Follow_Nodes>
+			<Node>Tourist</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>25</Random_destination_percent>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Tourist Take Picture</Animation_action>
+					</Actions>
+				<Animation_State>Tourist Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>15</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SlotPlayer</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>special - gambling</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Team>Civilian</Team>
+		<Stationary_Node>True</Stationary_Node>
+		<Spawn_Only>True</Spawn_Only>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Model_List>
+			<Model>npc_elderly_female</Model>
+			<Model>npc_elderly_male</Model>
+			<Model>npc_middle-aged_female_gen</Model>
+			<Model>npc_middle-aged_male_gen</Model>
+			</Model_List>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Num_Resource_Requests>2</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Slot Machine Pull</Animation_action>
+					<Animation_action>Slot Machine Win</Animation_action>
+					</Actions>
+				<Animation_State>Slot Machine Sit</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>Stool Sit Startled</Startle_anim>
+		<Min_anim_delay>2.5</Min_anim_delay>
+		<Max_anim_delay>4.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>BlackJack_Player</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>special - gambling</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Random_destination_percent>5</Random_destination_percent>
+		<Stationary_Node>True</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Team>Civilian</Team>
+		<Standardize_Height>True</Standardize_Height>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>BlackJack Hit</Animation_action>
+					<Animation_action>BlackJack Stay</Animation_action>
+					</Actions>
+				<Animation_State>BlackJack Sit</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>BlackJack Sit Startle</Startle_anim>
+		<Min_anim_delay>3.0</Min_anim_delay>
+		<Max_anim_delay>6.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>BJ_Dealer</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Never_Exit>True</Never_Exit>
+		<Stationary_Node>True</Stationary_Node>
+		<Spawn_Only>True</Spawn_Only>
+		<Model_List>
+			<Model>npc_service_casino</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Standardize_Height>True</Standardize_Height>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>BlackJack Dealer Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>3.0</Min_anim_delay>
+		<Max_anim_delay>5.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Poker_Player</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>special - gambling</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Standardize_Height>True</Standardize_Height>
+		<Num_Resource_Requests>2</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Poker Sit</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>Stool Sit Startled</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Roulette_Dealer</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<React_To_Peds>True</React_To_Peds>
+		<Stationary_Node>True</Stationary_Node>
+		<Standardize_Height>True</Standardize_Height>
+		<Model_List>
+			<Model>npc_service_casino</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Roulette Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Roulette_Player</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>special - gambling</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Team>Civilian</Team>
+		<Stationary_Node>True</Stationary_Node>
+		<Standardize_Height>True</Standardize_Height>
+		<Spawn_Only>True</Spawn_Only>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Roulette Place Bet</Animation_action>
+					</Actions>
+				<Animation_State>Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.5</Min_anim_delay>
+		<Max_anim_delay>4.5</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>GroundReader</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>special - reading book</Persona_situation>
+		<Team>Civilian</Team>
+		<Spawn_Only>True</Spawn_Only>
+		<Stationary_Node>True</Stationary_Node>
+		<Standardize_Height>True</Standardize_Height>
+		<Follow_Nodes>
+			<Node>HotDogCustomer</Node>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>20.0</Random_destination_percent>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>GroundReading Sit</Animation_State>
+				</State>
+			</Animations>
+		<Exit_anim>GroundReading Sit to Stand</Exit_anim>
+		<Startle_anim>Sketchpad Startled</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>BeachTowelBather</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Persona_situation>special - sunbathing</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Model_List>
+			<Model>npc_sunbather_female</Model>
+			<Model>npc_beach_female</Model>
+			<Model>npc_beach_male</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>BeachTowel Lay A</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>BeachTowel Lay B</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>BeachTowel Startled</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Swimmer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Stationary_Node>True</Stationary_Node>
+		<Follow_Nodes>
+			<Node>Swimmer</Node>
+			</Follow_Nodes>
+		<Model_List>
+			<Model>npc_beach_female</Model>
+			<Model>npc_beach_male</Model>
+			<Model>npc_sunbather_female</Model>
+			</Model_List>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Num_Resource_Requests>2</Num_Resource_Requests>
+		<Random_destination_percent>20.0</Random_destination_percent>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>tread</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1</Min_anim_delay>
+		<Max_anim_delay>2</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>RainCoverPed</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Persona_situation>special - running from rain</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Follow_Nodes>
+			<Node>Sitting</Node>
+			<Node>RainCoverPed</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>20.0</Random_destination_percent>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Watch Rain</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Rocket_gang_spawn</Name>
+		<Team>Gang</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Owned_Store_Saint</Name>
+		<Team>Saints</Team>
+		<Never_Exit>True</Never_Exit>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>observe - pc (flash gang sign to saints)</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>idle variant 5</Animation_action>
+					<Animation_action>idle variant 6</Animation_action>
+					<Animation_action>idle variant 7</Animation_action>
+					<Animation_action>Compliment F</Animation_action>
+					</Actions>
+				<Animation_State>stand b</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>10</Min_anim_delay>
+		<Max_anim_delay>20.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>InLinePed</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>special - waiting in line</Persona_situation>
+		<Team>Civilian</Team>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>InLine Step A</Animation_action>
+					<Animation_action>InLine Step B</Animation_action>
+					</Actions>
+				<Animation_State>InLine Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>8</Min_anim_delay>
+		<Max_anim_delay>40.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>DrugDealer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Persona_situation>special - drug dealing</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<Stationary_Node>True</Stationary_Node>
+		<Standardize_Height>True</Standardize_Height>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>sit Sell Shady</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>0</Min_anim_delay>
+		<Max_anim_delay>0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>DrugBuyer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>special - drug receiving</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Standardize_Height>True</Standardize_Height>
+		<Team>Civilian</Team>
+		<Follow_Nodes>
+			<Node>Junky</Node>
+			<Node>40ozPed</Node>
+			<Node>Blunt_Ped</Node>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>sit Buy Shady</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>0</Min_anim_delay>
+		<Max_anim_delay>0</Max_anim_delay>
+		<Synced_Animation>true</Synced_Animation>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>PoolPlay</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Persona_situation>special - gambling</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Pool Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>PoolWatch</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Persona_situation>special - gambling</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Pool Watch</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>40ozPed</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>special - drink</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Follow_Nodes>
+			<Node>Sitting</Node>
+			<Node>DancingMale</Node>
+			<Node>DancingFemale</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>30.0</Random_destination_percent>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>drink action</Animation_action>
+					</Actions>
+				<Animation_State>forty drinking</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>drink action B</Animation_action>
+					</Actions>
+				<Animation_State>forty drinking B</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>3</Min_anim_delay>
+		<Max_anim_delay>12</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Stripper</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>False</Stationary_Node>
+		<Standardize_Height>True</Standardize_Height>
+		<Model_List>
+			<Model>npc_stripper_female</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Persona_situation>special - receiving lap dance</Persona_situation>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>pole dance a</Animation_action>
+					<Animation_action>pole dance b</Animation_action>
+					</Actions>
+				<Animation_State>pole stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>5.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Blunt_Ped</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>special - drug doing</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Follow_Nodes>
+			<Node>40ozPed</Node>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>20.0</Random_destination_percent>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>smoke action</Animation_action>
+					</Actions>
+				<Animation_State>blunt smoking</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>smoke action B</Animation_action>
+					</Actions>
+				<Animation_State>blunt smoking B</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>3</Min_anim_delay>
+		<Max_anim_delay>12</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>DancingFemale</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Sex>female</Sex>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Model_List>
+			<Model>npc_young_female_generic</Model>
+			<Model>npc_athlete_female</Model>
+			<Model>npc_rich_female</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Num_Resource_Requests>2</Num_Resource_Requests>
+		<Persona_situation>voice - cheer</Persona_situation>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance a</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance c</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance d</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>DancingMale</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Sex>male</Sex>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Model_List>
+			<Model>npc_young_male_generic</Model>
+			<Model>npc_athlete_male</Model>
+			<Model>npc_rich_male</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Num_Resource_Requests>2</Num_Resource_Requests>
+		<Persona_situation>voice - cheer</Persona_situation>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance a</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance b</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance c</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>CrapsPlayer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Persona_situation>special - gambling</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Team>Civilian</Team>
+		<Stationary_Node>True</Stationary_Node>
+		<Standardize_Height>True</Standardize_Height>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Craps Toss</Animation_action>
+					</Actions>
+				<Animation_State>Craps Crouch</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.6</Min_anim_delay>
+		<Max_anim_delay>6.29999</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>LawnChLounge</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Persona_situation>special - drink</Persona_situation>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Lawnchair Lounge Drink</Animation_action>
+					</Actions>
+				<Animation_State>Lawnchair Lounge</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.5</Min_anim_delay>
+		<Max_anim_delay>4.8</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SleepingBum</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>special - sleeping</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<Team>Civilian</Team>
+		<Stationary_Node>True</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Model_List>
+			<Model>npc_bum</Model>
+			</Model_List>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Bum sleep</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>Bum Sleep Startled</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>WallLeaner</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Standardize_Height>True</Standardize_Height>
+		<Follow_Nodes>
+			<Node>Blunt_Ped</Node>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Team>Civilian</Team>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Lean</Animation_State>
+				</State>
+			</Animations>
+		<Enter_anim>Stand to Lean</Enter_anim>
+		<Exit_anim>Lean to Stand</Exit_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Crib_40ozPed</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Crib Specific</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Persona_situation>special - drink</Persona_situation>
+		<Team>Saints</Team>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>drink action</Animation_action>
+					</Actions>
+				<Animation_State>forty drinking</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2</Min_anim_delay>
+		<Max_anim_delay>12</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Crib_Blunt_Ped</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Crib Specific</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Persona_situation>special - drug doing</Persona_situation>
+		<Team>Saints</Team>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>smoke action</Animation_action>
+					</Actions>
+				<Animation_State>blunt smoking</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>3</Min_anim_delay>
+		<Max_anim_delay>12</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Crib_DancingMale</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Crib Specific</Category>
+			</_Editor>
+		<Sex>male</Sex>
+		<Never_Exit>True</Never_Exit>
+		<Team>Saints</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Spawn_Only>True</Spawn_Only>
+		<Persona_situation>voice - cheer</Persona_situation>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance a</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance b</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance c</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>BluntSitA</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>special - drug doing</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Standardize_Height>True</Standardize_Height>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Blunt Sit Smoke</Animation_action>
+					</Actions>
+				<Animation_State>Blunt Sit Left</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.8</Min_anim_delay>
+		<Max_anim_delay>5.7</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>BluntSitB</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>special - drug doing</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Standardize_Height>True</Standardize_Height>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Blunt Sit Smoke B</Animation_action>
+					</Actions>
+				<Animation_State>Blunt Sit Right</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.1</Min_anim_delay>
+		<Max_anim_delay>6.3</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Sitting2</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Standardize_Height>True</Standardize_Height>
+		<Reverse_Enter>True</Reverse_Enter>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Bench Laptop</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Bench Cellphone</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Bench Newspaper</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Bench Lean</Animation_State>
+				</State>
+			</Animations>
+		<Enter_anim>trans Stand to Sitting</Enter_anim>
+		<Exit_anim>trans Sitting to Stand</Exit_anim>
+		<Startle_anim>Sitting Startled</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>PatioChairSitter</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Spawn_Only>True</Spawn_Only>
+		<Standardize_Height>True</Standardize_Height>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<CowerAnims>
+			<CowerAnim>Chair Cower A</CowerAnim>
+			<CowerAnim>Chair Cower B</CowerAnim>
+			<CowerAnim>Chair Cower C</CowerAnim>
+			</CowerAnims>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Chair Cellphone</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>Chair Beverage Drink</Animation_action>
+					</Actions>
+				<Animation_State>Chair Beverage</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Chair Newspaper</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Chair Sit</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>5.5</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>PatioChairSitter2</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Spawn_Only>True</Spawn_Only>
+		<Standardize_Height>True</Standardize_Height>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<CowerAnims>
+			<CowerAnim>Chair Cower A</CowerAnim>
+			<CowerAnim>Chair Cower B</CowerAnim>
+			<CowerAnim>Chair Cower C</CowerAnim>
+			</CowerAnims>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Chair Laptop</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Chair Newspaper</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Chair Cellphone</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>Chair Beverage Drink</Animation_action>
+					</Actions>
+				<Animation_State>Chair Beverage</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.2</Min_anim_delay>
+		<Max_anim_delay>6.5</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>PatioChairsitter3</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Spawn_Only>True</Spawn_Only>
+		<Standardize_Height>True</Standardize_Height>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<CowerAnims>
+			<CowerAnim>Chair Cower A</CowerAnim>
+			<CowerAnim>Chair Cower B</CowerAnim>
+			<CowerAnim>Chair Cower C</CowerAnim>
+			</CowerAnims>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Chair Sit</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Chair Newspaper</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Chair Cellphone</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Chair Beverage</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Crib_IdleGuy</Name>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:Crib Specific</Category>
+			</_Editor>
+		<Persona_situation>observe - pc (flash gang sign to saints)</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Team>Saints</Team>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>idle variant 5</Animation_action>
+					<Animation_action>idle variant 6</Animation_action>
+					<Animation_action>idle variant 7</Animation_action>
+					<Animation_action>Compliment F</Animation_action>
+					</Actions>
+				<Animation_State>stand b</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>10</Min_anim_delay>
+		<Max_anim_delay>20.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>GuitarPlayer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Spawn_Only>True</Spawn_Only>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Sex>male</Sex>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Never_Exit>True</Never_Exit>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Guitar Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Protester</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>special - protesting</Persona_situation>
+		<Team>Civilian</Team>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Never_Exit>True</Never_Exit>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Protest Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>ShopperBuying</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>special - store customer buy</Persona_situation>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Follow_Nodes>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>40.0</Random_destination_percent>
+		<Get_Bag>True</Get_Bag>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Retail Buy</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>InmateHarmonica</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Prison Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Model_List>
+			<Model>npc_prisoner</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Inmate Harmonica Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>InmateSitWriting</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Prison Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Persona_situation>special - write letter</Persona_situation>
+		<Model_List>
+			<Model>npc_prisoner</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Inmate Write Sit</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>InmateStandCarve</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Prison Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Persona_situation>special - prisoner dating walls</Persona_situation>
+		<Model_List>
+			<Model>npc_prisoner</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Standardize_Height>True</Standardize_Height>
+		<Spawn_Only>True</Spawn_Only>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Inmate Carve Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SuicideJumper</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Persona_situation>special - suicide</Persona_situation>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<SpawnOffNavmesh>True</SpawnOffNavmesh>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Suicide Jump</Animation_action>
+					</Actions>
+				<Animation_State>Suicide Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>InmateDigging</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Prison Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Persona_situation>special - prisoner digging a hole in cell</Persona_situation>
+		<Model_List>
+			<Model>npc_prisoner</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Inmate Dig Kneel</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>InmateShanking</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Prison Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<NPC_Dies>True</NPC_Dies>
+		<Persona_situation>special - prisoner yelling crazy things</Persona_situation>
+		<Model_List>
+			<Model>npc_prisoner</Model>
+			</Model_List>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations></Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>InmateAtCellDoor</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Prison Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Standardize_Height>True</Standardize_Height>
+		<Persona_situation>voice - struggling</Persona_situation>
+		<Model_List>
+			<Model>npc_prisoner</Model>
+			</Model_List>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Inmate Bars Scream</Animation_action>
+					</Actions>
+				<Animation_State>Inmate Bars Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>5.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>InmateCurling</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Prison Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Follow_Nodes></Follow_Nodes>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Persona_situation>special - prisoner lifting weights</Persona_situation>
+		<Model_List>
+			<Model>npc_prisoner</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Random_destination_percent>20.0</Random_destination_percent>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Inmate Curl Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>InmateScrubFloor</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Prison Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>special - prisoner doing menial work</Persona_situation>
+		<Model_List>
+			<Model>npc_prisoner</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Never_Exit>True</Never_Exit>
+		<Standardize_Height>True</Standardize_Height>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Inmate Scrub Kneel</Animation_State>
+				</State>
+			</Animations>
+		<Enter_anim>Inmate Stand to Scrub</Enter_anim>
+		<Exit_anim>Inmate Scrub to Stand</Exit_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>BH_DrinkBeer</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Gang Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Gang</Team>
+		<Persona_situation>special - drink</Persona_situation>
+		<Follow_Nodes>
+			<Node>BH_RandomAction</Node>
+			<Node>BH_DrinkBeer</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Beer Can Drink</Animation_action>
+					</Actions>
+				<Animation_State>Beer Can Stand</Animation_State>
+				</State>
+			</Animations>
+		<Enter_anim>Beer Can Pullout</Enter_anim>
+		<Exit_anim>Beer Can Crush</Exit_anim>
+		<Min_anim_delay>1.0</Min_anim_delay>
+		<Max_anim_delay>2.5</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>BH_Cooler</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Gang Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Gang</Team>
+		<Persona_situation>special - drink</Persona_situation>
+		<Never_Exit>True</Never_Exit>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations></Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>BH_RandomAction</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Gang Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Gang</Team>
+		<Persona_situation>observe - pc (insult)</Persona_situation>
+		<Follow_Nodes>
+			<Node>BH_DrinkBeer</Node>
+			<Node>BH_RandomAction</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Scratch Balls</Animation_action>
+					<Animation_action>Spit</Animation_action>
+					<Animation_action>Point at Tattoos</Animation_action>
+					</Actions>
+				<Animation_State>BRO Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.5</Min_anim_delay>
+		<Max_anim_delay>3.5</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SS_RandomSitAct</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Gang Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Gang</Team>
+		<Standardize_Height>True</Standardize_Height>
+		<Persona_situation>special - drug doing</Persona_situation>
+		<Follow_Nodes>
+			<Node>SS_RandomSitAct</Node>
+			<Node>Sitting</Node>
+			<Node>WallLeaner</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>20.0</Random_destination_percent>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Bong Sit Smoke</Animation_action>
+					<Animation_action>Blunt Sit Smoke</Animation_action>
+					</Actions>
+				<Animation_State>CRIB Sit Ground</Animation_State>
+				</State>
+			</Animations>
+		<Enter_anim>Stand To Ground</Enter_anim>
+		<Exit_anim>Ground To Stand</Exit_anim>
+		<Startle_anim>Ground Sit Startled</Startle_anim>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>15</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SS_SteelDrumAct</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Gang Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Gang</Team>
+		<Standardize_Height>True</Standardize_Height>
+		<Persona_situation>observe - pc (insult)</Persona_situation>
+		<Never_Exit>True</Never_Exit>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<ExitOnItemDislodge>True</ExitOnItemDislodge>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>CRIB Steel Drums</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>RO_BikeHelmet</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Gang Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Gang</Team>
+		<Spawn_Only>True</Spawn_Only>
+		<Standardize_Height>True</Standardize_Height>
+		<Persona_situation>special - drug doing</Persona_situation>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Helmet Sit Ash</Animation_action>
+					<Animation_action>Helmet Sit Smoke</Animation_action>
+					</Actions>
+				<Animation_State>Helmet Sit</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>Helmet Sit Startled</Startle_anim>
+		<Min_anim_delay>1.5</Min_anim_delay>
+		<Max_anim_delay>3.7</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>RO_Smoking</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Gang Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Gang</Team>
+		<Persona_situation>special - drug doing</Persona_situation>
+		<Follow_Nodes>
+			<Node>RO_Smoking</Node>
+			<Node>RO_RandomAction</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Smoking Smoke</Animation_action>
+					<Animation_action>Smoking Ash</Animation_action>
+					</Actions>
+				<Animation_State>Smoking</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.5</Min_anim_delay>
+		<Max_anim_delay>4.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>RO_RandomAction</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Gang Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Gang</Team>
+		<Persona_situation>observe - pc (insult)</Persona_situation>
+		<Follow_Nodes>
+			<Node>RO_Smoking</Node>
+			<Node>RO_RandomAction</Node>
+			<Node>RO_MartialArts</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Fix Hair</Animation_action>
+					<Animation_action>Eat Takeout</Animation_action>
+					</Actions>
+				<Animation_State>YKZA Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>5.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SlapBoxerA</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Gang Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Gang</Team>
+		<Persona_situation>observe - pc (insult)</Persona_situation>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>idle</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SlapBoxerB</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Gang Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Gang</Team>
+		<Persona_situation>observe - pc (insult)</Persona_situation>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>idle</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>ClipboardInspect</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Model_List>
+			<Model>npc_plant_clipboard</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Sidewalk (normal)</Spawn_Priority>
+		<Follow_Nodes>
+			<Node>ClipboardInspect</Node>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>20.0</Random_destination_percent>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Clipboard Lean In</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>HoboBegging</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Model_List>
+			<Model>npc_bum</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>special - beg for money</Persona_situation>
+		<Follow_Nodes>
+			<Node>HoboBegging</Node>
+			<Node>Junky</Node>
+			<Node>40ozPed</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>20.0</Random_destination_percent>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<React_To_Peds>True</React_To_Peds>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Begger Beg</Animation_action>
+					</Actions>
+				<Animation_State>Begger Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.1</Min_anim_delay>
+		<Max_anim_delay>3.5</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Junky</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Model_List>
+			<Model>npc_junky</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Never_Exit>True</Never_Exit>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>special - drug doing</Persona_situation>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Junkie Ground</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.5</Min_anim_delay>
+		<Max_anim_delay>4.6</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>WindowWasher</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Model_List>
+			<Model>npc_mid-aged_female_window</Model>
+			<Model>npc_mid-aged_male_window</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Follow_Nodes>
+			<Node>WindowWasher</Node>
+			</Follow_Nodes>
+		<Never_Exit>True</Never_Exit>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Windowwash Wash</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1</Min_anim_delay>
+		<Max_anim_delay>2</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Sweeper</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Model_List>
+			<Model>npc_mid-aged_female_sweep</Model>
+			<Model>npc_mid-aged_male_sweep</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Follow_Nodes>
+			<Node>Sweeper</Node>
+			</Follow_Nodes>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Broom Sweep</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>0.5</Min_anim_delay>
+		<Max_anim_delay>3</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>ArcadePlayer</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Model_List>
+			<Model>npc_punk_male</Model>
+			<Model>npc_young_male_generic</Model>
+			<Model>npc_goth_male</Model>
+			<Model>npc_otaku_male</Model>
+			</Model_List>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Never_Exit>True</Never_Exit>
+		<Num_Resource_Requests>2</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Arcade Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Crib_DancingFemale</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Crib Specific</Category>
+			</_Editor>
+		<Sex>female</Sex>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Model_List>
+			<Model>npc_stripper_female</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Only>True</Spawn_Only>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Persona_situation>voice - cheer</Persona_situation>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance a</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance c</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance d</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Bartender</Name>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Never_Exit>True</Never_Exit>
+		<Stationary_Node>True</Stationary_Node>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Model_List>
+			<Model>npc_service_bartender</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Follow_Nodes>
+			<Node>Bartender</Node>
+			</Follow_Nodes>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Bouncer</Name>
+		<Model_List>
+			<Model>npc_bouncer</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Never_Exit>True</Never_Exit>
+		<Stationary_Node>True</Stationary_Node>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand b</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Young_Ballers</Name>
+		<Model_List>
+			<Model>npc_athlete_female</Model>
+			<Model>npc_athlete_male</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>BrowsePlastic</Name>
+		<Model_List>
+			<Model>npc_nurse</Model>
+			<Model>npc_doctor</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>stand idle a</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Doctor_Clipboard</Name>
+		<Model_List>
+			<Model>npc_doctor</Model>
+			<Model>npc_doctor_scrubs</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Follow_Nodes>
+			<Node>Doctor_Clipboard</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Num_Resource_Requests>2</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Clipboard Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Ho_Corner_Stand</Name>
+		<Model_List>
+			<Model>npc_ho</Model>
+			</Model_List>
+		<Sex>female</Sex>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Never_Exit>True</Never_Exit>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>misc - ho propositions pedestrian</Persona_situation>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>idle touchself</Animation_action>
+					<Animation_action>idle showcase</Animation_action>
+					</Actions>
+				<Animation_State>celebrity stand moviestar</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>idle touchself</Animation_action>
+					<Animation_action>idle showcase</Animation_action>
+					</Actions>
+				<Animation_State>celebrity stand musician</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>idle touchself</Animation_action>
+					<Animation_action>idle showcase</Animation_action>
+					</Actions>
+				<Animation_State>celebrity stand pornstar</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>3</Min_anim_delay>
+		<Max_anim_delay>8</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Laundry_Poor</Name>
+		<Model_List>
+			<Model>npc_poor_female_laundry</Model>
+			<Model>npc_poor_male_laundry</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Follow_Nodes>
+			<Node>Laundry_Poor</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>50.0</Random_destination_percent>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Airport</Name>
+		<Model_List>
+			<Model>npc_pilot</Model>
+			<Model>npc_stewardess</Model>
+			<Model>npc_baggage</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>BoozeShopper_Bum</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Follow_Nodes>
+			<Node>ShopperBuying</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>25</Random_destination_percent>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Model_List>
+			<Model>npc_bum</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>browse wine</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>ClothesShopper_Msct</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Follow_Nodes>
+			<Node>ShopperBuying</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>25</Random_destination_percent>
+		<Persona_situation>special - store customer idle</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Model_List>
+			<Model>npc_freckle_bitch</Model>
+			<Model>npc_Skeeter</Model>
+			<Model>npc_gyros</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>browse clothing</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Browse_Hippie</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>special - store customer browses</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Follow_Nodes>
+			<Node>ShopperBuying</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>75</Random_destination_percent>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Model_List>
+			<Model>npc_hippie_female</Model>
+			<Model>npc_hippie_male</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>browse jewelry</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Browse_Punk</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>special - store customer idle</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Follow_Nodes>
+			<Node>ShopperBuying</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>75</Random_destination_percent>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Model_List>
+			<Model>npc_punk_female</Model>
+			<Model>npc_punk_male</Model>
+			<Model>npc_otaku_female</Model>
+			<Model>npc_otaku_male</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>browse jewelry</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>BrowseTats</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>special - store customer browses</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Model_List>
+			<Model>npc_goth_female</Model>
+			<Model>npc_goth_male</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Never_Exit>True</Never_Exit>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>browse clothing</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Beach</Name>
+		<Model_List>
+			<Model>npc_beach_female</Model>
+			<Model>npc_beach_male</Model>
+			<Model>npc_beach_male_metal</Model>
+			<Model>npc_sunbather_female</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Cop</Name>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Model_List>
+			<Model>npc_cop</Model>
+			</Model_List>
+		<Follow_Nodes>
+			<Node>spawn_cop</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>idle variant 4</Animation_action>
+					<Animation_action>stand write</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Court</Name>
+		<Model_List>
+			<Model>npc_business_female</Model>
+			<Model>npc_business_male</Model>
+			<Model>npc_paparazzi</Model>
+			<Model>npc_judge_female</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Num_Resource_Requests>4</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>idle</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Crook</Name>
+		<Model_List>
+			<Model>npc_biker_male</Model>
+			<Model>npc_biker_male</Model>
+			<Model>npc_cowboy</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Default</Name>
+		<Model_List>
+			<Model>npc_middle-aged_female_gen</Model>
+			<Model>npc_middle-aged_male_gen</Model>
+			<Model>npc_young_female_generic</Model>
+			<Model>npc_young_male_generic</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Default_Asian</Name>
+		<Model_List>
+			<Model>npc_business_male_asian</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_FBI</Name>
+		<Model_List>
+			<Model>npc_cop</Model>
+			</Model_List>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Follow_Nodes>
+			<Node>SPAWN_FBI</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>idle variant 4</Animation_action>
+					<Animation_action>idle</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Hospital</Name>
+		<Model_List>
+			<Model>npc_doctor</Model>
+			<Model>npc_doctor_scrubs</Model>
+			<Model>npc_nurse</Model>
+			<Model>npc_patient</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Num_Resource_Requests>3</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Janitor</Name>
+		<Model_List>
+			<Model>npc_repair</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Pirate</Name>
+		<Model_List>
+			<Model>npc_pirate</Model>
+			<Model>npc_pirate_waiter</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Prisoner</Name>
+		<Model_List>
+			<Model>npc_prisoner</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>idle</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Security_Gen</Name>
+		<Model_List>
+			<Model>npc_security</Model>
+			</Model_List>
+		<Team>Police</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>idle variant 2</Animation_action>
+					<Animation_action>idle adjustCrouch</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Security_Prsn</Name>
+		<Model_List>
+			<Model>npc_prison</Model>
+			</Model_List>
+		<Team>Police</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Service</Name>
+		<Model_List>
+			<Model>npc_service</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_SWAT</Name>
+		<Model_List>
+			<Model>npc_cop</Model>
+			</Model_List>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Follow_Nodes>
+			<Node>spawn_swat</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>idle variant 4</Animation_action>
+					<Animation_action>idle</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Workers</Name>
+		<Model_List>
+			<Model>npc_repair</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>GunShopper</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>special - store customer browses</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Follow_Nodes>
+			<Node>ShopperBuying</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>50.0</Random_destination_percent>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>browse gun</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>JewelryShopper</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Persona_situation>special - store customer browses</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Follow_Nodes>
+			<Node>ShopperBuying</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>25</Random_destination_percent>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>browse jewelry</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Food_Eater</Name>
+		<Persona_situation>special - eating</Persona_situation>
+		<Team>Civilian</Team>
+		<Follow_Nodes>
+			<Node>Sitting</Node>
+			<Node>PatioChairSitter</Node>
+			<Node>PicnicTableSit</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>40.0</Random_destination_percent>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Standardize_Height>True</Standardize_Height>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>powerup food</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2</Min_anim_delay>
+		<Max_anim_delay>5</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>InLinePedAirport</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>special - waiting for flight</Persona_situation>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>InLine Step A</Animation_action>
+					<Animation_action>InLine Step B</Animation_action>
+					</Actions>
+				<Animation_State>InLine Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>10</Min_anim_delay>
+		<Max_anim_delay>30.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>InLinePedSick</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Model_List>
+			<Model>npc_poor_female</Model>
+			<Model>npc_poor_male</Model>
+			<Model>npc_ho</Model>
+			<Model>npc_bum</Model>
+			</Model_List>
+		<Follow_Nodes></Follow_Nodes>
+		<Num_Resource_Requests>3</Num_Resource_Requests>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>InLine Step A</Animation_action>
+					<Animation_action>InLine Step B</Animation_action>
+					</Actions>
+				<Animation_State>InLine Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>25.0</Min_anim_delay>
+		<Max_anim_delay>40.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Ticket_Sell</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Sex>female</Sex>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Standardize_Height>True</Standardize_Height>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>special - sell plane ticket</Persona_situation>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Model_List>
+			<Model>npc_stewardess</Model>
+			</Model_List>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>talk long</Animation_action>
+					<Animation_action>talk no</Animation_action>
+					<Animation_action>talk short</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Ticket_Buy</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Follow_Nodes>
+			<Node>Sitting</Node>
+			<Node>Sitting2</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>5</Random_destination_percent>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>special - buy plane ticket</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>talk no</Animation_action>
+					<Animation_action>talk dunno</Animation_action>
+					<Animation_action>talk short</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Synced_Animation>true</Synced_Animation>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Fireman</Name>
+		<Model_List>
+			<Model>npc_firefighter</Model>
+			</Model_List>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<_Editor>
+			<Category>Action Node NPCs:BurningChunks</Category>
+			</_Editor>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Pinballer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>voice - cheer</Persona_situation>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Never_Exit>True</Never_Exit>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Model_List>
+			<Model>npc_otaku_male</Model>
+			<Model>npc_punk_male</Model>
+			<Model>npc_athlete_male</Model>
+			<Model>npc_goth_male</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Pinball Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>BinocularLooker</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Team>Civilian</Team>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Follow_Nodes>
+			<Node>Sitting</Node>
+			<Node>Tourist</Node>
+			</Follow_Nodes>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Lookout Stand</Animation_State>
+				</State>
+			</Animations>
+		<Enter_anim>Stand to Lookout</Enter_anim>
+		<Exit_anim>Lookout to Stand</Exit_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>ATM_User</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Team>Civilian</Team>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Follow_Nodes>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>20.0</Random_destination_percent>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>ATM Use</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>6.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Bum_Fire</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Model_List>
+			<Model>npc_bum</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Warmhands</Animation_action>
+					</Actions>
+				<Animation_State>Warmhands Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.5</Min_anim_delay>
+		<Max_anim_delay>4.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>InmateCupBang</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Prison Specific</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Persona_situation>special - prisoner yelling crazy things</Persona_situation>
+		<Model_List>
+			<Model>npc_prisoner</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Inmate Bang Cup</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>PianoPlayer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Model_List>
+			<Model>npc_service_formal</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Piano Sit</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>Piano Startled</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>InmateSleeping</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Prison Specific</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Persona_situation>special - sleeping</Persona_situation>
+		<Model_List>
+			<Model>npc_prisoner</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Bum sleep</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Reporter</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Model_List>
+			<Model>npc_reporter</Model>
+			</Model_List>
+		<Sex>female</Sex>
+		<Never_Exit>True</Never_Exit>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>News Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>CameraMan</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Sex>male</Sex>
+		<Model_List>
+			<Model>npc_paparazzi</Model>
+			</Model_List>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Never_Exit>True</Never_Exit>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>CameraMan Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>LapDanceRecive</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Sex>male</Sex>
+		<Spawn_Only>True</Spawn_Only>
+		<Team>Civilian</Team>
+		<Persona_situation>observe - female</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Never_Exit>True</Never_Exit>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Lapdance Sit Get</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>Lapdance Startled A</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>LapDancer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Sex>female</Sex>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Team>Civilian</Team>
+		<Persona_situation>special - receiving lap dance</Persona_situation>
+		<Model_List>
+			<Model>npc_stripper_female</Model>
+			</Model_List>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>False</Stationary_Node>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Lapdance Stand Give</Animation_State>
+				</State>
+			</Animations>
+		<Exit_anim>Lapdance Startled B</Exit_anim>
+		<Startle_anim>Lapdance Startled B</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>LoverBottom</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Sex>male</Sex>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Team>Civilian</Team>
+		<Persona_situation>special - snuggle with significant other</Persona_situation>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Lover Sit A</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>Lover Sit Startled A</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>LoverTop</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Sex>female</Sex>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Team>Civilian</Team>
+		<Persona_situation>special - snuggle with significant other</Persona_situation>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Lover Sit B</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>Lover Sit Startled B</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>FailedSkyDive</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Model_List>
+			<Model>npc_skydive</Model>
+			</Model_List>
+		<SpawnInAir>True</SpawnInAir>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>ChuteFail Falls</Animation_action>
+					</Actions>
+				<Animation_State>panic fall</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>0.0</Min_anim_delay>
+		<Max_anim_delay>0.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>FlyerHandout</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<React_To_Peds>True</React_To_Peds>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Sex>male</Sex>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>special - hawking goods (street vendors)</Persona_situation>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Flyer Passout A</Animation_action>
+					<Animation_action>Flyer Passout B</Animation_action>
+					</Actions>
+				<Animation_State>Flyer Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.0</Min_anim_delay>
+		<Max_anim_delay>2.8</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>StoolSitter</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Stool Sit LookAround</Animation_action>
+					</Actions>
+				<Animation_State>Stool Sit</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>Stool Beer Drink</Animation_action>
+					</Actions>
+				<Animation_State>Stool Beer</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>Stool Cig Smoke</Animation_action>
+					</Actions>
+				<Animation_State>Stool Cig</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>Stool Sit Startled</Startle_anim>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>5.1</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>LaptopGround</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>special - write letter</Persona_situation>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Standardize_Height>True</Standardize_Height>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Laptop Ground</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>Sketchpad Startled</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Megaphone</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>special - yelling from megaphone</Persona_situation>
+		<Team>Civilian</Team>
+		<Never_Exit>True</Never_Exit>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Megaphone Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>DominoPlayer</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Follow_Nodes>
+			<Node>CrapsPlayer</Node>
+			<Node>40ozPed</Node>
+			<Node>Blunt_Ped</Node>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>special - gambling</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Domino Sit Pickup</Animation_action>
+					<Animation_action>Domino Sit Putdown</Animation_action>
+					<Animation_action>Domino Sit Win</Animation_action>
+					</Actions>
+				<Animation_State>Domino Sit</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.2</Min_anim_delay>
+		<Max_anim_delay>3.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>PicnicTableSit</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Team>Civilian</Team>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>special - picnic</Persona_situation>
+		<Standardize_Height>True</Standardize_Height>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>PicnicTable Sit</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>PicnicTable Eat Bite</Animation_action>
+					</Actions>
+				<Animation_State>PicnicTable Eat</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>Picnic Startled B</Animation_action>
+					</Actions>
+				<Animation_State>PicnicTable Drink</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>PicnicTable Startled</Startle_anim>
+		<Min_anim_delay>1.5</Min_anim_delay>
+		<Max_anim_delay>3.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>NormalSit</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Standardize_Height>True</Standardize_Height>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Spawn_Only>True</Spawn_Only>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<CowerAnims>
+			<CowerAnim>Chair Cower A</CowerAnim>
+			<CowerAnim>Chair Cower B</CowerAnim>
+			<CowerAnim>Chair Cower C</CowerAnim>
+			</CowerAnims>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Chair Sit</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>6.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>RestarauntSit</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<CowerAnims>
+			<CowerAnim>Chair Cower A</CowerAnim>
+			<CowerAnim>Chair Cower B</CowerAnim>
+			<CowerAnim>Chair Cower C</CowerAnim>
+			</CowerAnims>
+		<Never_Exit>True</Never_Exit>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Standardize_Height>True</Standardize_Height>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Chair Eat Bite</Animation_action>
+					</Actions>
+				<Animation_State>Chair Eat</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>Chair Drink Drink</Animation_action>
+					</Actions>
+				<Animation_State>Chair Drink</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.0</Min_anim_delay>
+		<Max_anim_delay>3.5</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SignIn</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Civilian</Team>
+		<Follow_Nodes>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>special - waiting in line</Persona_situation>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>SignIn Write</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SofaSit</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Follow_Nodes>
+			<Node>Sitting</Node>
+			<Node>40ozPed</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>20.0</Random_destination_percent>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<CowerAnims>
+			<CowerAnim>Sofa Cower A</CowerAnim>
+			<CowerAnim>Sofa Cower B</CowerAnim>
+			</CowerAnims>
+		<Never_Exit>True</Never_Exit>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Sofa Sit</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Recliner</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Standardize_Height>True</Standardize_Height>
+		<Model_List>
+			<Model>npc_beach_female</Model>
+			<Model>npc_beach_male</Model>
+			<Model>npc_sunbather_female</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>BeachChair Sit</Animation_State>
+				</State>
+			</Animations>
+		<Startle_anim>BeachChair Startled</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>ChurchBench</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Follow_Nodes>
+			<Node>Food_Eater</Node>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>20.0</Random_destination_percent>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Team>Civilian</Team>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Bench Lean</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>sitting</Animation_State>
+				</State>
+			</Animations>
+		<Enter_anim>trans Stand to Sitting</Enter_anim>
+		<Exit_anim>trans Sitting to Stand</Exit_anim>
+		<Startle_anim>Sitting Startled</Startle_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Gurney</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Model_List>
+			<Model>npc_patient</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>voice - whimper</Persona_situation>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Gurney Sleep A</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>GurneyB</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Model_List>
+			<Model>npc_patient</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>voice - whimper</Persona_situation>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Gurney Sleep B</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>RO_Sword</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Gang Specific</Category>
+			</_Editor>
+		<Team>Gang</Team>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>observe - pc (insult)</Persona_situation>
+		<Drunk_Node>False</Drunk_Node>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Polish Sword</Animation_action>
+					</Actions>
+				<Animation_State>YKZA Sword Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>6.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Securityman</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>special - security pat down (guard)</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Security Scan A</Animation_action>
+					</Actions>
+				<Animation_State>Security Scan Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>6.0</Max_anim_delay>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Securityvictim</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Standardize_Height>True</Standardize_Height>
+		<Team>Civilian</Team>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>special - security pat down (traveler)</Persona_situation>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Follow_Nodes>
+			<Node>Sitting</Node>
+			<Node>Sitting2</Node>
+			</Follow_Nodes>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Security Scan B</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>6.0</Max_anim_delay>
+		<Synced_Animation>true</Synced_Animation>
+		<Single_Use>true</Single_Use>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>RO_MartialArts</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Gang Specific</Category>
+			</_Editor>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Team>Gang</Team>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>observe - pc (insult)</Persona_situation>
+		<Follow_Nodes>
+			<Node>RO_RandomAction</Node>
+			<Node>RO_Smoking</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Martial Arts Practice</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>6.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		<Synced_Animation>true</Synced_Animation>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Fireman_Clipboard</Name>
+		<_Editor>
+			<Category>Action Node NPCs:BurningChunks</Category>
+			</_Editor>
+		<Model_List>
+			<Model>npc_firefighter</Model>
+			</Model_List>
+		<Sex>male</Sex>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Follow_Nodes>
+			<Node>Fireman_Clipboard</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Clipboard Lean In</Animation_action>
+					</Actions>
+				<Animation_State>Clipboard Stand</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>idle adjustCrouch</Animation_action>
+					<Animation_action>idle</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1</Min_anim_delay>
+		<Max_anim_delay>6</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Crib_Stripper_Wander</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Crib Specific</Category>
+			</_Editor>
+		<Sex>female</Sex>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Model_List>
+			<Model>npc_stripper_female</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Persona_situation>special - receiving lap dance</Persona_situation>
+		<Follow_Nodes>
+			<Node>Crib_Stripper_Wander</Node>
+			</Follow_Nodes>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>idle flirt</Animation_action>
+					</Actions>
+				<Animation_State>celebrity stand moviestar</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>celebrity stand musician</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>celebrity stand pornstar</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2.0</Min_anim_delay>
+		<Max_anim_delay>5.0</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>SPAWN_Baggage</Name>
+		<Model_List>
+			<Model>npc_baggage</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<_Editor>
+			<Category>Action Node NPCs:SPAWNING</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Follow_Nodes>
+			<Node>SPAWN_Baggage</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>5</Random_destination_percent>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>idle variant 4</Animation_action>
+					<Animation_action>idle variant 6</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>IdleTalker</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Use_With_Bag>True</Can_Use_With_Bag>
+		<Team>Civilian</Team>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>talk long</Animation_action>
+					<Animation_action>talk no</Animation_action>
+					<Animation_action>talk yes</Animation_action>
+					<Animation_action>talk short</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>Smoking Smoke</Animation_action>
+					<Animation_action>Smoking Ash</Animation_action>
+					</Actions>
+				<Animation_State>Smoking</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>talk dunno</Animation_action>
+					<Animation_action>talk with respect</Animation_action>
+					<Animation_action>talk yes</Animation_action>
+					<Animation_action>talk no</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>0.1</Min_anim_delay>
+		<Max_anim_delay>1</Max_anim_delay>
+		<Required_NPC>true</Required_NPC>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>PedSmoker</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Follow_Nodes>
+			<Node>PedSmoker</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>Smoking Smoke</Animation_action>
+					<Animation_action>Smoking Ash</Animation_action>
+					</Actions>
+				<Animation_State>Smoking</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>Smoking Ash B</Animation_action>
+					<Animation_action>Smoking Smoke B</Animation_action>
+					</Actions>
+				<Animation_State>Smoking B</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>1.5</Min_anim_delay>
+		<Max_anim_delay>4.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Crib_WallLeaner</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Crib Specific</Category>
+			</_Editor>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Standardize_Height>True</Standardize_Height>
+		<Follow_Nodes>
+			<Node>Blunt_Ped</Node>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Team>Saints</Team>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Lean</Animation_State>
+				</State>
+			</Animations>
+		<Enter_anim>Stand to Lean</Enter_anim>
+		<Exit_anim>Lean to Stand</Exit_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>DancingMaleGay</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Interior Specific</Category>
+			</_Editor>
+		<Sex>male</Sex>
+		<Never_Exit>True</Never_Exit>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Model_List>
+			<Model>npc_trucker</Model>
+			<Model>npc_cowboy</Model>
+			<Model>npc_biker_male</Model>
+			<Model>npc_beach_male</Model>
+			</Model_List>
+		<Team>Civilian</Team>
+		<Num_Resource_Requests>3</Num_Resource_Requests>
+		<Persona_situation>voice - cheer</Persona_situation>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance a</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance b</Animation_State>
+				</State>
+			<State>
+				<Actions></Actions>
+				<Animation_State>dance c</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>NormalCouch</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Team>Saints</Team>
+		<Never_Exit>True</Never_Exit>
+		<Can_Not_Exit>True</Can_Not_Exit>
+		<Spawn_Only>True</Spawn_Only>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Sofa Sit</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Cemetary_Mourner</Name>
+		<Persona_situation>voice - whimper</Persona_situation>
+		<Team>Civilian</Team>
+		<Follow_Nodes>
+			<Node>Cemetary_Mourner</Node>
+			</Follow_Nodes>
+		<Random_destination_percent>10</Random_destination_percent>
+		<Can_Use_With_Bag>False</Can_Use_With_Bag>
+		<Standardize_Height>True</Standardize_Height>
+		<Can_Be_Bumped>False</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Mourn Crouch</Animation_State>
+				</State>
+			</Animations>
+		<Enter_anim>stand to crouch</Enter_anim>
+		<Exit_anim>crouch to stand</Exit_anim>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>IdleTalker2</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Stationary_Node>True</Stationary_Node>
+		<Can_Use_With_Bag>True</Can_Use_With_Bag>
+		<Team>Civilian</Team>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>talk long</Animation_action>
+					<Animation_action>talk no</Animation_action>
+					<Animation_action>talk yes</Animation_action>
+					<Animation_action>talk short</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>Smoking Smoke</Animation_action>
+					<Animation_action>Smoking Ash</Animation_action>
+					</Actions>
+				<Animation_State>Smoking</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>talk dunno</Animation_action>
+					<Animation_action>talk with respect</Animation_action>
+					<Animation_action>talk yes</Animation_action>
+					<Animation_action>talk no</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>0.1</Min_anim_delay>
+		<Max_anim_delay>1</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>BH_Curling</Name>
+		<_Editor>
+			<Category>Action Node NPCs:Gang Specific</Category>
+			</_Editor>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Gang</Team>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Persona_situation>voice - struggling</Persona_situation>
+		<Spawn_Only>True</Spawn_Only>
+		<Animations>
+			<State>
+				<Actions></Actions>
+				<Animation_State>Inmate Curl Stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>5.0</Min_anim_delay>
+		<Max_anim_delay>10.0</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Wall_Idler</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Spawn_Priority>Action Node (high)</Spawn_Priority>
+		<Stationary_Node>True</Stationary_Node>
+		<Follow_Nodes>
+			<Node>Blunt_Ped</Node>
+			<Node>Sitting</Node>
+			</Follow_Nodes>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Persona_situation>misc - walk by ambient</Persona_situation>
+		<Random_destination_percent>10.0</Random_destination_percent>
+		<Team>Civilian</Team>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>idle</Animation_action>
+					<Animation_action>idle variant 1</Animation_action>
+					<Animation_action>idle variant 7</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>idle adjustCrouch</Animation_action>
+					<Animation_action>idle scratchAss</Animation_action>
+					<Animation_action>idle tie Shoe</Animation_action>
+					</Actions>
+				<Animation_State>stand</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>2</Min_anim_delay>
+		<Max_anim_delay>7</Max_anim_delay>
+		</Action_node_npc>
+	<Action_node_npc>
+		<Name>Bum_40ozPed</Name>
+		<_Editor>
+			<Category>Action Node NPCs</Category>
+			</_Editor>
+		<Persona_situation>special - drink</Persona_situation>
+		<Stationary_Node>True</Stationary_Node>
+		<Team>Civilian</Team>
+		<Random_destination_percent>30.0</Random_destination_percent>
+		<Can_Be_Bumped>True</Can_Be_Bumped>
+		<Model_List>
+			<Model>npc_bum</Model>
+			</Model_List>
+		<Num_Resource_Requests>1</Num_Resource_Requests>
+		<Animations>
+			<State>
+				<Actions>
+					<Animation_action>drink action</Animation_action>
+					</Actions>
+				<Animation_State>forty drinking</Animation_State>
+				</State>
+			<State>
+				<Actions>
+					<Animation_action>drink action B</Animation_action>
+					</Actions>
+				<Animation_State>forty drinking B</Animation_State>
+				</State>
+			</Animations>
+		<Min_anim_delay>3</Min_anim_delay>
+		<Max_anim_delay>12</Max_anim_delay>
+		</Action_node_npc>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Action_node_npc</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Action node npc</Display_Name>
+	<Description>If you want more than 60, a programmer must bump MAX_ACTION_NODE_NPC_TYPES</Description>
+	<MaxCount>260</MaxCount>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		<MaxLength>20</MaxLength>
+		</Element>
+	<Element>
+		<Name>Animations</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>State</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Animation_State</Name>
+				<Type>Reference</Type>
+				<Display_Name>Animation State</Display_Name>
+				<MaxCount>4</MaxCount>
+				<Reference>
+					<File>anim_states.xtbl</File>
+					<Type>State.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Actions</Name>
+				<Type>Grid</Type>
+				<Element>
+					<Name>Animation_action</Name>
+					<Type>Reference</Type>
+					<Display_Name>Animation Action</Display_Name>
+					<MaxCount>4</MaxCount>
+					<Reference>
+						<File>anim_actions.xtbl</File>
+						<Type>Action.Name</Type>
+						<OpenSeparate>False</OpenSeparate>
+						</Reference>
+					</Element>
+				<Max_Children>4</Max_Children>
+				<Min_Children>0</Min_Children>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Max_Children>4</Max_Children>
+		<Min_Children>0</Min_Children>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>CowerAnims</Name>
+		<Type>Grid</Type>
+		<Required>false</Required>
+		<Element>
+			<Name>CowerAnim</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>anim_states.xtbl</File>
+				<Type>State.Name</Type>
+				<OpenSeparate>False</OpenSeparate>
+				</Reference>
+			</Element>
+		<Max_Children>3</Max_Children>
+		<Min_Children>0</Min_Children>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Enter_anim</Name>
+		<Type>Reference</Type>
+		<Display_Name>Enter animation</Display_Name>
+		<Description>Animation that will be played when a pedestrian enters this special spawn.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>anim_actions.xtbl</File>
+			<Type>Action.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Exit_anim</Name>
+		<Type>Reference</Type>
+		<Display_Name>Exit animation</Display_Name>
+		<Description>Animation that will be played when a pedestrian enters this special spawn.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>anim_actions.xtbl</File>
+			<Type>Action.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Startle_anim</Name>
+		<Type>Reference</Type>
+		<Display_Name>Startle animation</Display_Name>
+		<Description>Will override normal animation action when the character is startled by gunfire, etc.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>anim_actions.xtbl</File>
+			<Type>Action.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Min_anim_delay</Name>
+		<Type>Float</Type>
+		<Display_Name>Min animation delay</Display_Name>
+		<Description>Minimum time that will elapse before a selected animation is played again.</Description>
+		<Default>5.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Max_anim_delay</Name>
+		<Type>Float</Type>
+		<Display_Name>Max animation delay</Display_Name>
+		<Description>Maximum time that will elapse before a selected animation is played again.</Description>
+		<Default>10.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Persona_situation</Name>
+		<Type>Reference</Type>
+		<Display_Name>Persona situation</Display_Name>
+		<Description>Determines the set of lines this special spawn character will play when they play their action animation.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>persona_situations.xtbl</File>
+			<Type>Situation_List.Situations.Situation.Type</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Model_List</Name>
+		<Type>Grid</Type>
+		<Display_Name>Model List</Display_Name>
+		<Required>false</Required>
+		<MaxCount>4</MaxCount>
+		<Element>
+			<Name>Model</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>character_presets.xtbl</File>
+				<Type>Preset.Name</Type>
+				<OpenSeparate>False</OpenSeparate>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>4</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Num_Resource_Requests</Name>
+		<Type>Int</Type>
+		<Display_Name>Num Resource Requests</Display_Name>
+		<Description>If this is optionally selected, then this determines how many resource requests can be made from the Model List.</Description>
+		<Required>false</Required>
+		<Default>1</Default>
+		<MinValue>1</MinValue>
+		<MaxValue>4</MaxValue>
+		</Element>
+	<Element>
+		<Name>Sex</Name>
+		<Type>Selection</Type>
+		<Required>false</Required>
+		<Default>male</Default>
+		<Choice>male</Choice>
+		<Choice>female</Choice>
+		</Element>
+	<Element>
+		<Name>Team</Name>
+		<Type>Selection</Type>
+		<Required>false</Required>
+		<Choice>Police</Choice>
+		<Choice>Civilian</Choice>
+		<Choice>Gang</Choice>
+		<Choice>Saints</Choice>
+		</Element>
+	<Element>
+		<Name>Required_NPC</Name>
+		<Type>Selection</Type>
+		<Display_Name>Required NPC</Display_Name>
+		<Description>For multi-person spawns.  If a required NPC doesn't spawn, nobody spawns.  If a required NPC despawns, everybody despawns.</Description>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>Spawn_Priority</Name>
+		<Type>Selection</Type>
+		<Display_Name>Spawn Priority</Display_Name>
+		<Description>Sometimes you need a lot of peds using action nodes (e.g. a night club).  Do you steal from the sidewalks to create a crowd of action node users?</Description>
+		<Required>false</Required>
+		<Default>Sidewalk (normal)</Default>
+		<Choice>Sidewalk (normal)</Choice>
+		<Choice>Action Node (high)</Choice>
+		</Element>
+	<Element>
+		<Name>Synced_Animation</Name>
+		<Type>Selection</Type>
+		<Display_Name>Synced Animation</Display_Name>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>Single_Use</Name>
+		<Type>Selection</Type>
+		<Display_Name>Single Use</Display_Name>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>Flee_On_Exit</Name>
+		<Type>Selection</Type>
+		<Display_Name>Flee On Exit</Display_Name>
+		<Description>Used with Single Use.  Pedestrian will flee after performing their action.Ignored if single  use is not checked.</Description>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>Follow_Nodes</Name>
+		<Type>Grid</Type>
+		<Display_Name>Follow Nodes</Display_Name>
+		<Description>Types of NPC nodes this NPC should use directly after leaving this node</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>Node</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>action_node_npcs.xtbl</File>
+				<Type>Action_node_npc.Name</Type>
+				<OpenSeparate>False</OpenSeparate>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Random_destination_percent</Name>
+		<Type>Float</Type>
+		<Display_Name>Random destination percent</Display_Name>
+		<Description>Percentage of time the NPC leaving this node will not go to a follow node and go to a random node instead. Ignored if no follow nodes</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Get_Bag</Name>
+		<Type>Selection</Type>
+		<Display_Name>Get Bag</Display_Name>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>Can_Use_With_Bag</Name>
+		<Type>Selection</Type>
+		<Display_Name>Can Use With Bag</Display_Name>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>Reverse_Enter</Name>
+		<Type>Selection</Type>
+		<Display_Name>Reverse Enter</Display_Name>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>ExitOnItemDislodge</Name>
+		<Type>Selection</Type>
+		<Display_Name>Exit On Item Dislodge</Display_Name>
+		<Description>If an item, such as the inmate scrub bucket get knocked, should the person leave the node?</Description>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>Never_Exit</Name>
+		<Type>Selection</Type>
+		<Display_Name>Never Exit Voluntarily</Display_Name>
+		<Description>Npcs should never choose to leave this node. They can be caused to flee it however</Description>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>Can_Not_Exit</Name>
+		<Type>Selection</Type>
+		<Display_Name>Can Not Exit</Display_Name>
+		<Description>The only way the ped can leave this node is ragdoll, death, or despawn</Description>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>Spawn_Only</Name>
+		<Type>Selection</Type>
+		<Display_Name>Spawn Only</Display_Name>
+		<Description>No one can walk up and use this node</Description>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>Standardize_Height</Name>
+		<Type>Selection</Type>
+		<Display_Name>Standardize Height</Display_Name>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>React_To_Peds</Name>
+		<Type>Selection</Type>
+		<Display_Name>React To Peds</Display_Name>
+		<Description>if this is set to true, this NPC will play their action when a ped comes close</Description>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>NPC_Dies</Name>
+		<Type>Selection</Type>
+		<Display_Name>NPC Dies</Display_Name>
+		<Description>Kills the person using this node after they complete their action</Description>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>Drunk_Node</Name>
+		<Type>Selection</Type>
+		<Display_Name>Drunk Node</Display_Name>
+		<Description>If this node is supposed to be for drunks</Description>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>Can_Be_Bumped</Name>
+		<Type>Selection</Type>
+		<Display_Name>Can Be Bumped</Display_Name>
+		<Description>Can an NPC be bumped out of this node</Description>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>Stationary_Node</Name>
+		<Type>Selection</Type>
+		<Display_Name>Stationary Node</Display_Name>
+		<Description>True if the person in this node is not supposed to move their controller position. Marked as true if not set</Description>
+		<Required>false</Required>
+		<Default>True</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>SpawnInAir</Name>
+		<Type>Selection</Type>
+		<Display_Name>Spawn In Air</Display_Name>
+		<Description>Used for failed skydiver.  Spawn him way off the ground.</Description>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	<Element>
+		<Name>SpawnOffNavmesh</Name>
+		<Type>Selection</Type>
+		<Display_Name>Spawn Off Navmesh</Display_Name>
+		<Description>We can spawn off the navmesh.  Useful for suicide jumpers.</Description>
+		<Required>false</Required>
+		<Default>False</Default>
+		<Choice>True</Choice>
+		<Choice>False</Choice>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Action Node NPCs</Name>
+		<Category>
+			<Name>BurningChunks</Name>
+			</Category>
+		<Category>
+			<Name>Crib Specific</Name>
+			</Category>
+		<Category>
+			<Name>Gang Specific</Name>
+			</Category>
+		<Category>
+			<Name>Interior Specific</Name>
+			</Category>
+		<Category>
+			<Name>Prison Specific</Name>
+			</Category>
+		<Category>
+			<Name>SPAWNING</Name>
+			</Category>
+		</Category>
+	</EntryCategories>
+</root>

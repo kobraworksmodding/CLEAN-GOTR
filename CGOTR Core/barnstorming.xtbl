@@ -1,0 +1,165 @@
+<root>
+<Table>
+	<Barnstorming>
+		<Name>Barnstorming</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Rewards>
+			<Reward>
+				<Unlockable>unlock_water</Unlockable>
+				<Stunts_Required>5</Stunts_Required>
+				</Reward>
+			<Reward>
+				<Unlockable>unlock_flamethrower</Unlockable>
+				<Stunts_Required>10</Stunts_Required>
+				</Reward>
+			<Reward>
+				<Unlockable>unlock_minigun</Unlockable>
+				<Stunts_Required>20</Stunts_Required>
+				</Reward>
+			<Reward>
+				<Unlockable>unlock_launcher</Unlockable>
+				<Stunts_Required>30</Stunts_Required>
+				</Reward>
+
+		</Rewards>
+		<Cash_Per_Star>0</Cash_Per_Star>
+		<Props_Per_Star>5</Props_Per_Star>
+		<Cash_Per_Stunt>0</Cash_Per_Stunt>
+		<Props_Per_Stunt>0</Props_Per_Stunt>
+		<Minimum_Speed>5.0</Minimum_Speed>
+		<Crash_Delay>2</Crash_Delay>
+		<Failure_Restart_Delay>10</Failure_Restart_Delay>
+		<Inverted_Tolerance>30</Inverted_Tolerance>
+		<Knife_Edge_Tolerance>30</Knife_Edge_Tolerance>
+		<Inverted_Multiplier>1.5</Inverted_Multiplier>
+		<Knife_Edge_Multiplier>2.0</Knife_Edge_Multiplier>
+		<Stunts_Complete_Unlockable>unlock_thrown</Stunts_Complete_Unlockable>
+		</Barnstorming>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Barnstorming</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Minimum_Speed</Name>
+		<Type>String</Type>
+		<Display_Name>Minimum Speed</Display_Name>
+		<Default>5.0</Default>
+		</Element>
+	<Element>
+		<Name>Crash_Delay</Name>
+		<Type>Int</Type>
+		<Display_Name>Crash Delay (s)</Display_Name>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Failure_Restart_Delay</Name>
+		<Type>Int</Type>
+		<Display_Name>Failure Restart Delay (s)</Display_Name>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Cash_Per_Star</Name>
+		<Type>Int</Type>
+		<Display_Name>Cash Per Star</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Props_Per_Star</Name>
+		<Type>Int</Type>
+		<Display_Name>Props Per Star</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Cash_Per_Stunt</Name>
+		<Type>Int</Type>
+		<Display_Name>Cash Per Stunt</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Props_Per_Stunt</Name>
+		<Type>Int</Type>
+		<Display_Name>Props Per Stunt</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Inverted_Tolerance</Name>
+		<Type>Float</Type>
+		<Display_Name>Inverted Tolerance (Degrees in Each Direction)</Display_Name>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Inverted_Multiplier</Name>
+		<Type>Float</Type>
+		<Display_Name>Inverted Multiplier</Display_Name>
+		<Default>1.0</Default>
+		</Element>
+	<Element>
+		<Name>Knife_Edge_Tolerance</Name>
+		<Type>Float</Type>
+		<Display_Name>Knife Edge Tolerance (Degrees in Each Direction)</Display_Name>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Knife_Edge_Multiplier</Name>
+		<Type>Float</Type>
+		<Display_Name>Knife Edge Multiplier</Display_Name>
+		<Default>1.0</Default>
+		</Element>
+	<Element>
+		<Name>Rewards</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Reward</Name>
+			<Type>Element</Type>
+			<Required>false</Required>
+			<Element>
+				<Name>Unlockable</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>unlockables.xtbl</File>
+					<Type>Unlockable.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Stunts_Required</Name>
+				<Type>Int</Type>
+				<Display_Name>Stunts Required</Display_Name>
+				<Unique>true</Unique>
+				<Default>0</Default>
+				<MinValue>1</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Stunts_Complete_Unlockable</Name>
+		<Type>Reference</Type>
+		<Display_Name>Stunts Complete Unlockable</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>unlockables.xtbl</File>
+			<Type>Unlockable.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

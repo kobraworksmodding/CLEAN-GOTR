@@ -1,0 +1,1065 @@
+<root><Table><Skeleton_Set>
+<Name>GML1_Vehicles</Name>
+<Parent_Skeleton>Anim_Face</Parent_Skeleton>
+<Groups>
+<Group><group>Default</group><States>
+<State><ID>worried fall</ID><Animation><Filename>gml1_bs_fl.animx</Filename></Animation></State>
+<State><ID>worried fall run</ID><Animation><Filename>gml1_bs_fl.animx</Filename></Animation></State>
+<State><ID>panic fall</ID><Animation><Filename>gml1_fl_pan.animx</Filename></Animation></State>
+<State><ID>fall dead</ID><Animation><Filename>gml1_fl_dead.animx</Filename></Animation></State>
+<State><ID>calm fall run state</ID><Animation><Filename>gml1_bs_fl.animx</Filename></Animation></State>
+<State><ID>calm fall state</ID><Animation><Filename>gml1_bs_fl.animx</Filename></Animation></State>
+<State><ID>tread</ID><Animation><Filename>gml1_bs_swim_tred.animx</Filename></Animation></State>
+<State><ID>swim_slow</ID><Animation><Filename>gml1_bs_swim_breast.animx</Filename></Animation></State>
+<State><ID>flip fall</ID><Animation><Filename>gml1_fl_flip.animx</Filename></Animation></State>
+<State><ID>hose sprayed</ID><Animation><Filename>gml1_bs_hose_sprayed.animx</Filename></Animation></State>
+<State><ID>grapple holding A</ID><Animation><Filename>gml1_melee_holding_a.animx</Filename></Animation></State>
+<State><ID>grapple holding B</ID><Animation><Filename>gml1_melee_holding_b.animx</Filename></Animation></State>
+<State><ID>melee strafe left</ID><Animation><Filename>gml1_melee_strafel.animx</Filename></Animation></State>
+<State><ID>melee strafe right</ID><Animation><Filename>gml1_melee_strafer.animx</Filename></Animation></State>
+<State><ID>melee walk back</ID><Animation><Filename>gml1_melee_walkb.animx</Filename></Animation></State>
+<State><ID>atm using</ID><Animation><Filename>pml1_atm_using.animx</Filename></Animation></State>
+<State><ID>defib flinch facedown</ID><Animation><Filename>pml1_defib_flinch_down.animx</Filename></Animation></State>
+<State><ID>defib flinch faceup</ID><Animation><Filename>pml1_defib_flinch_up.animx</Filename></Animation></State>
+<State><ID>melee grab hold</ID><Animation><Filename>gml1_mg_hl_a.animx</Filename></Animation></State>
+<State><ID>melee grab hold receive</ID><Animation><Filename>gml1_mg_hl_b.animx</Filename></Animation></State>
+<State><ID>melee grab away hold</ID><Animation><Filename>gml1_mg_hl_away_a.animx</Filename></Animation></State>
+<State><ID>melee grab away hold receive</ID><Animation><Filename>gml1_mg_hl_away_b.animx</Filename></Animation></State>
+<State><ID>grapple finish1 A</ID><Animation><Filename>gml1_mg_finsh1_a.animx</Filename></Animation></State>
+<State><ID>grapple finish1 B</ID><Animation><Filename>gml1_mg_finsh1_b.animx</Filename></Animation></State>
+<State><ID>grapple finish2 A</ID><Animation><Filename>gml1_mg_finsh2_a.animx</Filename></Animation></State>
+<State><ID>grapple finish2 B</ID><Animation><Filename>gml1_mg_finsh2_b.animx</Filename></Animation></State>
+<State><ID>hs stand</ID><Animation><Filename>gml1_hs_sd_a.animx</Filename></Animation></State>
+<State><ID>hs victim stand</ID><Animation><Filename>gml1_hs_sd_b.animx</Filename></Animation></State>
+<State><ID>hs walk forward</ID><Animation><Filename>gml1_hs_walk_a.animx</Filename></Animation></State>
+<State><ID>hs victim walk forward</ID><Animation><Filename>gml1_hs_walk_b.animx</Filename></Animation></State>
+<State><ID>hs walk back</ID><Animation><Filename>gml1_hs_walk_bck_a.animx</Filename></Animation></State>
+<State><ID>hs victim walk back</ID><Animation><Filename>gml1_hs_walk_bck_b.animx</Filename></Animation></State>
+<State><ID>hs walk left</ID><Animation><Filename>gml1_hs_walk_lft_a.animx</Filename></Animation></State>
+<State><ID>hs victim walk left</ID><Animation><Filename>gml1_hs_walk_lft_b.animx</Filename></Animation></State>
+<State><ID>hs walk right</ID><Animation><Filename>gml1_hs_walk_rgt_a.animx</Filename></Animation></State>
+<State><ID>hs victim walk right</ID><Animation><Filename>gml1_hs_walk_rgt_b.animx</Filename></Animation></State>
+<State><ID>hs run forward</ID><Animation><Filename>gml1_hs_run_a.animx</Filename></Animation></State>
+<State><ID>hs victim run forward</ID><Animation><Filename>gml1_hs_run_b.animx</Filename></Animation></State>
+<State><ID>hs run back</ID><Animation><Filename>gml1_hs_run_bck_a.animx</Filename></Animation></State>
+<State><ID>hs victim run back</ID><Animation><Filename>gml1_hs_run_bck_b.animx</Filename></Animation></State>
+<State><ID>hs run left</ID><Animation><Filename>gml1_hs_run_lft_a.animx</Filename></Animation></State>
+<State><ID>hs victim run left</ID><Animation><Filename>gml1_hs_run_lft_b.animx</Filename></Animation></State>
+<State><ID>hs run right</ID><Animation><Filename>gml1_hs_run_rgt_a.animx</Filename></Animation></State>
+<State><ID>hs victim run right</ID><Animation><Filename>gml1_hs_run_rgt_b.animx</Filename></Animation></State>
+<State><ID>cpr crouch state 1</ID><Animation><Filename>gml1_cpr_ch_st_1.animx</Filename></Animation></State>
+<State><ID>cpr crouch state 2</ID><Animation><Filename>gml1_cpr_ch_st_2.animx</Filename></Animation></State>
+<State><ID>cpr liedown</ID><Animation><Filename>gml1_cpr_down.animx</Filename></Animation></State>
+<State><ID>react shocked</ID><Animation><Filename>gml1_bs_reac_shock.animx</Filename></Animation></State>
+<State><ID>thrown drive ready</ID><Animation><Filename>gml1_dr_bm.animx</Filename></Animation></State>
+<State><ID>thrown drive left ready</ID><Animation><Filename>gml1_dr_bm_ster_lft.animx</Filename></Animation></State>
+<State><ID>thrown drive right ready</ID><Animation><Filename>gml1_dr_bm_ster_rgt.animx</Filename></Animation></State>
+<State><ID>Tear Gas Move</ID><Animation><Filename>gml1_bs_sd_reac_tgasm.animx</Filename></Animation></State>
+<State><ID>thrown ride ready</ID><Animation><Filename>gml1_pa_bm.animx</Filename></Animation></State>
+<State><ID>thrown ride l ready</ID><Animation><Filename>gml1_dp_bm.animx</Filename></Animation></State>
+<State><ID>walk ready</ID><Animation><Filename>gml1_mc_rd_walk.animx</Filename></Animation></State>
+<State><ID>block</ID><Animation><Filename>gml1_mc_rd_block.animx</Filename></Animation></State>
+<State><ID>combat stand</ID><Animation><Filename>gml1_mc_rd.animx</Filename></Animation></State>
+<State><ID>arrest cuffed</ID><Animation><Filename>gml1_ar_cuffed.animx</Filename></Animation></State>
+<State><ID>support walk</ID><Animation><Filename>gml1_support_walk_a.animx</Filename></Animation></State>
+<State><ID>support victim walk</ID><Animation><Filename>gml1_support_walk_b.animx</Filename></Animation></State>
+<State><ID>support stand</ID><Animation><Filename>gml1_support_sd_a.animx</Filename></Animation></State>
+<State><ID>support victim stand</ID><Animation><Filename>gml1_support_sd_b.animx</Filename></Animation></State>
+<State><ID>support laying</ID><Animation><Filename>gml1_support_laying.animx</Filename></Animation></State>
+<State><ID>hsg stand</ID><Animation><Filename>gml1_hs_gnade_sd_a.animx</Filename></Animation></State>
+<State><ID>hsg walk forward</ID><Animation><Filename>gml1_hs_gnade_walk.animx</Filename></Animation></State>
+<State><ID>hsg walk back</ID><Animation><Filename>gml1_hs_gnade_walk_bck.animx</Filename></Animation></State>
+<State><ID>hsg walk left</ID><Animation><Filename>gml1_hs_gnade_walk_lft.animx</Filename></Animation></State>
+<State><ID>hsg walk right</ID><Animation><Filename>gml1_hs_gnade_walk_rgt.animx</Filename></Animation></State>
+<State><ID>hsg run forward</ID><Animation><Filename>gml1_hs_gnade_run.animx</Filename></Animation></State>
+<State><ID>hsg run back</ID><Animation><Filename>gml1_hs_gnade_run_bck.animx</Filename></Animation></State>
+<State><ID>hsg run left</ID><Animation><Filename>gml1_hs_gnade_run_lft.animx</Filename></Animation></State>
+<State><ID>hsg run right</ID><Animation><Filename>gml1_hs_gnade_run_rgt.animx</Filename></Animation></State>
+<State><ID>stand injured</ID><Animation><Filename>gml1_bs_sd_injured.animx</Filename></Animation></State>
+<State><ID>walk ready back</ID><Animation><Filename>gml1_mc_rd_walk_bck.animx</Filename></Animation></State>
+<State><ID>walk ready left</ID><Animation><Filename>gml1_mc_rd_walk_lft.animx</Filename></Animation></State>
+<State><ID>walk ready right</ID><Animation><Filename>gml1_mc_rd_walk_rgt.animx</Filename></Animation></State>
+<State><ID>react helicopter</ID><Animation><Filename>pml1_bs_sd_reac_heliroto.animx</Filename></Animation></State>
+<State><ID>grapple hold</ID><Animation><Filename>gml1_grp_hl_a.animx</Filename></Animation></State>
+<State><ID>grapple hold victim</ID><Animation><Filename>gml1_grp_hl_b.animx</Filename></Animation></State>
+<State><ID>hs reorient left</ID><Animation><Filename>gml1_hs_walk_lft_a.animx</Filename></Animation></State>
+<State><ID>hs victim reorient left</ID><Animation><Filename>gml1_hs_walk_lft_b.animx</Filename></Animation></State>
+<State><ID>hs reorient right</ID><Animation><Filename>gml1_hs_walk_rgt_a.animx</Filename></Animation></State>
+<State><ID>hs victim reorient right</ID><Animation><Filename>gml1_hs_walk_rgt_b.animx</Filename></Animation></State>
+<State><ID>cower run</ID><Animation><Filename>pml1_bs_cw_run_a.animx</Filename></Animation></State>
+<State><ID>cower run variant 1</ID><Animation><Filename>pml1_bs_cw_run_b.animx</Filename></Animation></State>
+<State><ID>cower run variant 2</ID><Animation><Filename>pml1_bs_cw_run_f.animx</Filename></Animation></State>
+<State><ID>cower stand</ID><Animation><Filename>pml1_bs_cw_a.animx</Filename></Animation></State>
+<State><ID>cower stand variant 1</ID><Animation><Filename>pml1_bs_cw_b.animx</Filename></Animation></State>
+<State><ID>cower stand variant 2</ID><Animation><Filename>pml1_bs_cw_c.animx</Filename></Animation></State>
+<State><ID>cower stand variant 3</ID><Animation><Filename>pml1_bs_cw_d.animx</Filename></Animation></State>
+<State><ID>flee walk A</ID><Animation><Filename>pml1_wory_fle_walk_a.animx</Filename></Animation></State>
+<State><ID>flee walk B</ID><Animation><Filename>pml1_wory_fle_walk_b.animx</Filename></Animation></State>
+<State><ID>flee walk C</ID><Animation><Filename>pml1_wory_fle_walk_b.animx</Filename></Animation></State>
+<State><ID>grapple finish3 A</ID><Animation><Filename>gml1_mg_finsh3_a.animx</Filename></Animation></State>
+<State><ID>grapple finish3 B</ID><Animation><Filename>gml1_mg_finsh3_b.animx</Filename></Animation></State>
+<State><ID>zombie grab B biting victim</ID><Animation><Filename>pml1_zm_grab_b_biting_a.animx</Filename></Animation></State>
+<State><ID>zombie grab biting victim</ID><Animation><Filename>pml1_zm_grab_biting_a.animx</Filename></Animation></State>
+<State><ID>attack prep left</ID><Animation><Filename>gml1_mc_rd_prepl.animx</Filename></Animation></State>
+<State><ID>attack prep right</ID><Animation><Filename>gml1_mc_rd_prepr.animx</Filename></Animation></State>
+<State><ID>drunk flee walk A</ID><Animation><Filename>pml1_dk_fle_walk_a.animx</Filename></Animation></State>
+<State><ID>drunk flee walk B</ID><Animation><Filename>pml1_dk_fle_walk_b.animx</Filename></Animation></State>
+<State><ID>drunk run</ID><Animation><Filename>pml1_dk_run.animx</Filename></Animation></State>
+<State><ID>drunk stand</ID><Animation><Filename>pml1_dk_sd.animx</Filename></Animation></State>
+<State><ID>drunk walk</ID><Animation><Filename>pml1_dk_walk.animx</Filename></Animation></State>
+<State><ID>drunk walk b</ID><Animation><Filename>pml1_dk_walk_b.animx</Filename></Animation></State>
+<State><ID>drunk walk</ID><Animation><Filename>pfl1_bs_walk_b.animx</Filename></Animation></State>
+<State><ID>FlashBanged</ID><Animation><Filename>gml1_bs_sd_reac_flashbang.animx</Filename></Animation></State>
+<State><ID>Gat Injured</ID><Animation><Filename>gml1_gat_st_injured.animx</Filename></Animation></State>
+<State><ID>Gat Injured inCar</ID><Animation><Filename>gml1_gat_st_injured_in.animx</Filename></Animation></State>
+<State><ID>grapple finish2 1 A</ID><Animation><Filename>gml1_mg_finsh2_1_a.animx</Filename></Animation></State>
+<State><ID>grapple finish2 1 B</ID><Animation><Filename>gml1_mg_finsh2_1_b.animx</Filename></Animation></State>
+<State><ID>grapple finish2 2 A</ID><Animation><Filename>gml1_mg_finsh2_2_a.animx</Filename></Animation></State>
+<State><ID>grapple finish2 2 B</ID><Animation><Filename>gml1_mg_finsh2_2_b.animx</Filename></Animation></State>
+<State><ID>grapple finish2 3 A</ID><Animation><Filename>gml1_mg_finsh2_3_a.animx</Filename></Animation></State>
+<State><ID>grapple finish2 3 B</ID><Animation><Filename>gml1_mg_finsh2_3_b.animx</Filename></Animation></State>
+<State><ID>back liedown</ID><Animation><Filename>gml1_fl_bk_down.animx</Filename></Animation></State>
+<State><ID>cower run variant 3</ID><Animation><Filename>pml1_bs_cw_run_d.animx</Filename></Animation></State>
+<State><ID>cower run variant 4</ID><Animation><Filename>pml1_bs_cw_run_e.animx</Filename></Animation></State>
+<State><ID>cower run variant 5</ID><Animation><Filename>pml1_bs_cw_run_f.animx</Filename></Animation></State>
+<State><ID>chainsaw tree</ID><Animation><Filename>pml1_csaw_tree.animx</Filename></Animation></State>
+<State><ID>react PepperSpray Stand</ID><Animation><Filename>gml1_bs_sd_reac_pepspry.animx</Filename></Animation></State>
+<State><ID>cpr crouch pressing</ID><Animation><Filename>cml1_bs_sd_reac_cob.animx</Filename></Animation></State>
+<State><ID>defib crouch charging</ID><Animation><Filename>gml1_dfib_ch_chg.animx</Filename></Animation></State>
+<State><ID>swim surface</ID><Animation><Filename>gml1_bs_swim_uw.animx</Filename></Animation></State>
+<State><ID>BRO Stand</ID><Animation><Filename>bro_sd.animx</Filename></Animation></State>
+<State><ID>Beer Can Stand</ID><Animation><Filename>bro_br_sd.animx</Filename></Animation></State>
+<State><ID>Cooler Sit</ID><Animation><Filename>bro_cooler_st.animx</Filename></Animation></State>
+<State><ID>Cooler Lean</ID><Animation><Filename>bro_cooler_ln.animx</Filename></Animation></State>
+<State><ID>Cooler Tattoo A</ID><Animation><Filename>bro_cooler_tatt_a.animx</Filename></Animation></State>
+<State><ID>Cooler Tattoo B</ID><Animation><Filename>bro_cooler_tatt_b.animx</Filename></Animation></State>
+<State><ID>CRIB stand</ID><Animation><Filename>crib_sd.animx</Filename></Animation></State>
+<State><ID>CRIB Sit Ground</ID><Animation><Filename>crib_st.animx</Filename></Animation></State>
+<State><ID>CRIB Steel Drums</ID><Animation><Filename>crib_sd_drum.animx</Filename></Animation></State>
+<State><ID>YKZA stand</ID><Animation><Filename>ykza_sd.animx</Filename></Animation></State>
+<State><ID>Smoking</ID><Animation><Filename>ykza_smkin_sd.animx</Filename></Animation></State>
+<State><ID>helmet sit</ID><Animation><Filename>ykza_hlmt_st.animx</Filename></Animation></State>
+<State><ID>YKZA Sword Stand</ID><Animation><Filename>ykza_sword_sd.animx</Filename></Animation></State>
+<State><ID>Martial Arts Practice</ID><Animation><Filename>ykza_ma_prtice.animx</Filename></Animation></State>
+</States><Actions>
+<Action><ID>land hard</ID><Animation><Filename>gml1_fl_hrd.animx</Filename></Animation></Action>
+<Action><ID>land slam</ID><Animation><Filename>gml1_fl_slm.animx</Filename></Animation></Action>
+<Action><ID>fwd getup</ID><Animation><Filename>gml1_fl_fr_getup.animx</Filename></Animation></Action>
+<Action><ID>Brotherhood Compliment D</ID><Animation><Filename>trbl_bs_sd_comp_d.animx</Filename></Animation></Action>
+<Action><ID>Brotherhood Insult A</ID><Animation><Filename>trbl_bs_sd_insult_a.animx</Filename></Animation></Action>
+<Action><ID>jump Air</ID><Animation><Filename>gml1_bs_jm_air.animx</Filename></Animation></Action>
+<Action><ID>jump run air</ID><Animation><Filename>gml1_bs_jr_air.animx</Filename></Animation></Action>
+<Action><ID>stand to jump high</ID><Animation><Filename>gml1_bs_sd_to_jm_hi.animx</Filename></Animation></Action>
+<Action><ID>swim to jump</ID><Animation><Filename>gml1_bs_swim_to_jm.animx</Filename></Animation></Action>
+<Action><ID>jump to grip low</ID><Animation><Filename>gml1_bs_jm_to_gr_low.animx</Filename></Animation></Action>
+<Action><ID>jump to grip med</ID><Animation><Filename>gml1_bs_jm_to_gr_med.animx</Filename></Animation></Action>
+<Action><ID>jump to grip high</ID><Animation><Filename>gml1_bs_jm_to_gr_hi.animx</Filename></Animation></Action>
+<Action><ID>grip to flip low</ID><Animation><Filename>gml1_bs_gr_flip_low.animx</Filename></Animation></Action>
+<Action><ID>grip to flip med</ID><Animation><Filename>gml1_bs_gr_flip_hi.animx</Filename></Animation></Action>
+<Action><ID>grip to flip high</ID><Animation><Filename>gml1_bs_gr_flip_hi.animx</Filename></Animation></Action>
+<Action><ID>grip to stand low</ID><Animation><Filename>gml1_bs_gr_sd_low.animx</Filename></Animation></Action>
+<Action><ID>grip to stand med</ID><Animation><Filename>gml1_bs_gr_sd_hi.animx</Filename></Animation></Action>
+<Action><ID>grip to stand high</ID><Animation><Filename>gml1_bs_gr_sd_hi.animx</Filename></Animation></Action>
+<Action><ID>Brotherhood Insult B</ID><Animation><Filename>trbl_bs_sd_insult_b.animx</Filename></Animation></Action>
+<Action><ID>fwd getup fire</ID><Animation><Filename>gml1_fl_fr_getup_onf.animx</Filename></Animation></Action>
+<Action><ID>jump start</ID><Animation><Filename>gml1_bs_jm_jump.animx</Filename></Animation></Action>
+<Action><ID>jump run start</ID><Animation><Filename>gml1_bs_jr_jump.animx</Filename></Animation></Action>
+<Action><ID>jump land</ID><Animation><Filename>gml1_bs_jm_land.animx</Filename></Animation></Action>
+<Action><ID>jump run land</ID><Animation><Filename>gml1_bs_jr_land.animx</Filename></Animation></Action>
+<Action><ID>jump air to fall</ID><Animation><Filename>gml1_bs_jm_to_fl.animx</Filename></Animation></Action>
+<Action><ID>jump run air to fall</ID><Animation><Filename>gml1_bs_jr_to_fl.animx</Filename></Animation></Action>
+<Action><ID>run to sprint left</ID><Animation><Filename>gml1_bs_run_g.animx</Filename></Animation></Action>
+<Action><ID>run to sprint right</ID><Animation><Filename>gml1_bs_run_h.animx</Filename></Animation></Action>
+<Action><ID>run to sprint back</ID><Animation><Filename>gml1_bs_run_i.animx</Filename></Animation></Action>
+<Action><ID>sprint to run left</ID><Animation><Filename>gml1_bs_run_j.animx</Filename></Animation></Action>
+<Action><ID>sprint to run right</ID><Animation><Filename>gml1_bs_run_k.animx</Filename></Animation></Action>
+<Action><ID>sprint to run back</ID><Animation><Filename>gml1_bs_run_l.animx</Filename></Animation></Action>
+<Action><ID>death</ID><Animation><Filename>gml1_fl_fr.animx</Filename></Animation></Action>
+<Action><ID>heil dpassflr reload</ID><Animation><Filename>poli_rd_rider_rload.animx</Filename></Animation></Action>
+<Action><ID>heil passflr reload</ID><Animation><Filename>poli_rd_ridel_rload.animx</Filename></Animation></Action>
+<Action><ID>heli passflr rdy fire</ID><Animation><Filename>poli_rd_ridel_fire.animx</Filename></Animation></Action>
+<Action><ID>heli dpassflr rdy fire</ID><Animation><Filename>poli_rd_rider_fire.animx</Filename></Animation></Action>
+<Action><ID>heli driver flinch</ID><Animation><Filename>cml1_hd_dr_flnch.animx</Filename></Animation></Action>
+<Action><ID>heli passflr flinch</ID><Animation><Filename>cml1_hp_fk_flnch.animx</Filename></Animation></Action>
+<Action><ID>heli dpassflr flinch</ID><Animation><Filename>cml1_hds_fk_flnch.animx</Filename></Animation></Action>
+<Action><ID>heli passback flinch</ID><Animation><Filename>cml1_hp_bks_flnch.animx</Filename></Animation></Action>
+<Action><ID>heli dpassback flinch</ID><Animation><Filename>cml1_hds_bks_flnch.animx</Filename></Animation></Action>
+<Action><ID>calm fall to panic</ID><Animation><Filename>gml1_bs_fl_to_pan.animx</Filename></Animation></Action>
+<Action><ID>stun flinch</ID><Animation><Filename>gml1_bs_flnch_stun.animx</Filename></Animation></Action>
+<Action><ID>grapple grabber knee L A</ID><Animation><Filename>gml1_melee_grabber_kneel_a.animx</Filename></Animation></Action>
+<Action><ID>grapple grabber knee L B</ID><Animation><Filename>gml1_melee_grabber_kneel_b.animx</Filename></Animation></Action>
+<Action><ID>grapple grabber knee R A</ID><Animation><Filename>gml1_melee_grabber_kneer_a.animx</Filename></Animation></Action>
+<Action><ID>grapple grabber knee R B</ID><Animation><Filename>gml1_melee_grabber_kneer_b.animx</Filename></Animation></Action>
+<Action><ID>grapple grabber punch L A</ID><Animation><Filename>gml1_melee_grabber_punchl_a.animx</Filename></Animation></Action>
+<Action><ID>grapple grabber punch L B</ID><Animation><Filename>gml1_melee_grabber_punchl_b.animx</Filename></Animation></Action>
+<Action><ID>grapple grabber punch R A</ID><Animation><Filename>gml1_melee_grabber_punchr_a.animx</Filename></Animation></Action>
+<Action><ID>grapple grabber punch R B</ID><Animation><Filename>gml1_melee_grabber_punchr_b.animx</Filename></Animation></Action>
+<Action><ID>grapple grab A</ID><Animation><Filename>gml1_melee_grab_a.animx</Filename></Animation></Action>
+<Action><ID>grapple grab B</ID><Animation><Filename>gml1_melee_grab_b.animx</Filename></Animation></Action>
+<Action><ID>grapple holding escape A</ID><Animation><Filename>gml1_melee_holding_escape_a.animx</Filename></Animation></Action>
+<Action><ID>grapple holding escape B</ID><Animation><Filename>gml1_melee_holding_escape_b.animx</Filename></Animation></Action>
+<Action><ID>grapple holding release A</ID><Animation><Filename>gml1_melee_holding_release_a.animx</Filename></Animation></Action>
+<Action><ID>grapple holding release B</ID><Animation><Filename>gml1_melee_holding_release_b.animx</Filename></Animation></Action>
+<Action><ID>Brotherhood Compliment B</ID><Animation><Filename>trbl_bs_sd_comp_b.animx</Filename></Animation></Action>
+<Action><ID>Brotherhood Compliment C</ID><Animation><Filename>trbl_bs_sd_comp_c.animx</Filename></Animation></Action>
+<Action><ID>surrender give wallet</ID><Animation><Filename>pml1_surrender_givewallet.animx</Filename></Animation></Action>
+<Action><ID>npc toss coin stand</ID><Animation><Filename>pml1_phand_tosscoin_std.animx</Filename></Animation></Action>
+<Action><ID>npc toss coin walk</ID><Animation><Filename>pml1_phand_tosscoin_wlk.animx</Filename></Animation></Action>
+<Action><ID>melee grab</ID><Animation><Filename>gml1_mg_grab_a.animx</Filename></Animation></Action>
+<Action><ID>melee grab receive</ID><Animation><Filename>gml1_mg_grab_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab away receive</ID><Animation><Filename>gml1_mg_grab_away_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab away</ID><Animation><Filename>gml1_mg_grab_away_a.animx</Filename></Animation></Action>
+<Action><ID>melee grab throw forward</ID><Animation><Filename>gml1_mg_thrw_frn_a.animx</Filename></Animation></Action>
+<Action><ID>melee grab throw forward receive</ID><Animation><Filename>gml1_mg_thrw_frn_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab away throw forward receive</ID><Animation><Filename>gml1_mg_thrw_frtawy_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab throw left</ID><Animation><Filename>gml1_mg_thrw_lft_a.animx</Filename></Animation></Action>
+<Action><ID>melee grab throw left receive</ID><Animation><Filename>gml1_mg_thrw_lft_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab away throw left receive</ID><Animation><Filename>gml1_mg_thrw_lftawy_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab throw right</ID><Animation><Filename>gml1_mg_thrw_rgt_a.animx</Filename></Animation></Action>
+<Action><ID>melee grab throw right receive</ID><Animation><Filename>gml1_mg_thrw_rgt_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab away throw right receive</ID><Animation><Filename>gml1_mg_thrw_rgtawy_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab throw back</ID><Animation><Filename>gml1_mg_thrw_bck_a.animx</Filename></Animation></Action>
+<Action><ID>melee grab throw back receive</ID><Animation><Filename>gml1_mg_thrw_bck_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab away throw back receive</ID><Animation><Filename>gml1_mg_thrw_bckawy_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab away throw back</ID><Animation><Filename>gml1_mg_thrw_bckawy_a.animx</Filename></Animation></Action>
+<Action><ID>melee grab to hs</ID><Animation><Filename>gml1_mg_tohs_a.animx</Filename></Animation></Action>
+<Action><ID>melee grab to hs receive</ID><Animation><Filename>gml1_mg_tohs_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab away to hs receive</ID><Animation><Filename>gml1_mg_tohs_away_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab away to hs</ID><Animation><Filename>gml1_mg_tohs_away_a.animx</Filename></Animation></Action>
+<Action><ID>hs victim kill</ID><Animation><Filename>gml1_hs_ncksnp_b.animx</Filename></Animation></Action>
+<Action><ID>hs kill</ID><Animation><Filename>gml1_hs_ncksnp_a.animx</Filename></Animation></Action>
+<Action><ID>hs idle</ID><Animation><Filename>gml1_hs_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>hs victim idle</ID><Animation><Filename>gml1_hs_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>hs release</ID><Animation><Filename>gml1_hs_rlease_a.animx</Filename></Animation></Action>
+<Action><ID>hs victim release</ID><Animation><Filename>gml1_hs_rlease_b.animx</Filename></Animation></Action>
+<Action><ID>hs toss</ID><Animation><Filename>gml1_hs_toss_a.animx</Filename></Animation></Action>
+<Action><ID>hs victim toss</ID><Animation><Filename>gml1_hs_toss_b.animx</Filename></Animation></Action>
+<Action><ID>hs patdown</ID><Animation><Filename>gml1_hs_sd_patdwn_a.animx</Filename></Animation></Action>
+<Action><ID>hs victim patdown</ID><Animation><Filename>gml1_hs_sd_patdwn_b.animx</Filename></Animation></Action>
+<Action><ID>surrender patdown</ID><Animation><Filename>pml1_bs_su_patdwn.animx</Filename></Animation></Action>
+<Action><ID>grapple to finish A</ID><Animation><Filename>gml1_mg_tofinsh_a.animx</Filename></Animation></Action>
+<Action><ID>grapple to finish B</ID><Animation><Filename>gml1_mg_tofinsh_b.animx</Filename></Animation></Action>
+<Action><ID>grapple kill A</ID><Animation><Filename>gml1_mg_killd_a.animx</Filename></Animation></Action>
+<Action><ID>grapple kill B</ID><Animation><Filename>gml1_mg_killd_b.animx</Filename></Animation></Action>
+<Action><ID>grapple escape A</ID><Animation><Filename>gml1_mg_escape_a.animx</Filename></Animation></Action>
+<Action><ID>grapple escape B</ID><Animation><Filename>gml1_mg_escape_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab pickup facedown</ID><Animation><Filename>gml1_mg_pkup_fcedwn_a.animx</Filename></Animation></Action>
+<Action><ID>melee grab pickup facedown recieve</ID><Animation><Filename>gml1_mg_pkup_fcedwn_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab pickup faceup</ID><Animation><Filename>gml1_mg_pkup_fceup_a.animx</Filename></Animation></Action>
+<Action><ID>melee grab pickup faceup recieve</ID><Animation><Filename>gml1_mg_pkup_fceup_b.animx</Filename></Animation></Action>
+<Action><ID>finish L 1</ID><Animation><Filename>gml1_mc_rd_atkfl_a.animx</Filename></Animation></Action>
+<Action><ID>finish L 2</ID><Animation><Filename>gml1_mc_rd_atkfl_b.animx</Filename></Animation></Action>
+<Action><ID>finish R 1</ID><Animation><Filename>gml1_mc_rd_atkfr_b.animx</Filename></Animation></Action>
+<Action><ID>finish R 2</ID><Animation><Filename>gml1_mc_rd_atkfr_d.animx</Filename></Animation></Action>
+<Action><ID>finish L 1 victim</ID><Animation><Filename>gml1_mc_rd_atkfl_a_b.animx</Filename></Animation></Action>
+<Action><ID>finish L 2 victim</ID><Animation><Filename>gml1_mc_rd_atkfl_b_b.animx</Filename></Animation></Action>
+<Action><ID>finish R 1 victim</ID><Animation><Filename>gml1_mc_rd_atkfr_b_b.animx</Filename></Animation></Action>
+<Action><ID>finish R 2 victim</ID><Animation><Filename>gml1_mc_rd_atkfr_d_b.animx</Filename></Animation></Action>
+<Action><ID>cpr stand to crouch</ID><Animation><Filename>gml1_cpr_sd_to_ch.animx</Filename></Animation></Action>
+<Action><ID>cpr crouch to stand</ID><Animation><Filename>gml1_cpr_ch_to_sd.animx</Filename></Animation></Action>
+<Action><ID>cpr crouch press</ID><Animation><Filename>gml1_cpr_ch_press.animx</Filename></Animation></Action>
+<Action><ID>cpr liedown flinch</ID><Animation><Filename>gml1_cpr_down_flnch.animx</Filename></Animation></Action>
+<Action><ID>react caltrop left</ID><Animation><Filename>gml1_bs_sd_reac_cal_lft.animx</Filename></Animation></Action>
+<Action><ID>react caltrop right</ID><Animation><Filename>gml1_bs_sd_reac_cal_rgt.animx</Filename></Animation></Action>
+<Action><ID>TearGassed</ID><Animation><Filename>gml1_bs_sd_reac_tgas.animx</Filename></Animation></Action>
+<Action><ID>ready to crouch</ID><Animation><Filename>gml1_mc_rd_to_ch.animx</Filename></Animation></Action>
+<Action><ID>crouch to ready</ID><Animation><Filename>gml1_mc_ch_to_rd.animx</Filename></Animation></Action>
+<Action><ID>stand Turn Left</ID><Animation><Filename>gml1_mc_rd_sttle_lft.animx</Filename></Animation></Action>
+<Action><ID>stand Turn Right</ID><Animation><Filename>gml1_mc_rd_sttle_rgt.animx</Filename></Animation></Action>
+<Action><ID>prone kick short</ID><Animation><Filename>gml1_mc_rd_atkpk_a.animx</Filename></Animation></Action>
+<Action><ID>prone kick med</ID><Animation><Filename>gml1_mc_rd_atkpk_b.animx</Filename></Animation></Action>
+<Action><ID>prone kick long</ID><Animation><Filename>gml1_mc_rd_atkpk_c.animx</Filename></Animation></Action>
+<Action><ID>prone stomp short</ID><Animation><Filename>gml1_mc_rd_atkps_a.animx</Filename></Animation></Action>
+<Action><ID>prone stomp med</ID><Animation><Filename>gml1_mc_rd_atkps_b.animx</Filename></Animation></Action>
+<Action><ID>prone stomp long</ID><Animation><Filename>gml1_mc_rd_atkps_c.animx</Filename></Animation></Action>
+<Action><ID>punch L 1</ID><Animation><Filename>gml1_mc_rd_atkl_a.animx</Filename></Animation></Action>
+<Action><ID>punch L 2</ID><Animation><Filename>gml1_mc_rd_atkl_b.animx</Filename></Animation></Action>
+<Action><ID>punch R 1</ID><Animation><Filename>gml1_mc_rd_atkr_a.animx</Filename></Animation></Action>
+<Action><ID>punch R 2</ID><Animation><Filename>gml1_mc_rd_atkr_b.animx</Filename></Animation></Action>
+<Action><ID>punch move l</ID><Animation><Filename>gml1_mc_rd_attkm_lft.animx</Filename></Animation></Action>
+<Action><ID>punch move r</ID><Animation><Filename>gml1_mc_rd_attkm_rgt.animx</Filename></Animation></Action>
+<Action><ID>stand ready shuffle left</ID><Animation><Filename>gml1_mc_rd_sttle_lft.animx</Filename></Animation></Action>
+<Action><ID>stand ready shuffle right</ID><Animation><Filename>gml1_mc_rd_sttle_rgt.animx</Filename></Animation></Action>
+<Action><ID>kick</ID><Animation><Filename>gml1_mc_rd_atkpk_b.animx</Filename></Animation></Action>
+<Action><ID>tackle</ID><Animation><Filename>gml1_mc_rd_attkm_a.animx</Filename></Animation></Action>
+<Action><ID>trans mc stand to block</ID><Animation><Filename>gml1_mc_stnd_to_rd.animx</Filename></Animation></Action>
+<Action><ID>block flinch front</ID><Animation><Filename>gml1_mc_rd_blk_flnchf.animx</Filename></Animation></Action>
+<Action><ID>block flinch left</ID><Animation><Filename>gml1_mc_rd_blk_flnchl.animx</Filename></Animation></Action>
+<Action><ID>block flinch right</ID><Animation><Filename>gml1_mc_rd_blk_flnchr.animx</Filename></Animation></Action>
+<Action><ID>block flinch back</ID><Animation><Filename>gml1_mc_rd_blk_flnchb.animx</Filename></Animation></Action>
+<Action><ID>flinch bullet front</ID><Animation><Filename>gml1_mc_rd_flnfa_frn.animx</Filename></Animation></Action>
+<Action><ID>flinch bullet back</ID><Animation><Filename>gml1_mc_rd_flnfa_bck.animx</Filename></Animation></Action>
+<Action><ID>flinch bullet left</ID><Animation><Filename>gml1_mc_rd_flnfa_lft.animx</Filename></Animation></Action>
+<Action><ID>flinch bullet right</ID><Animation><Filename>gml1_mc_rd_flnfa_rgt.animx</Filename></Animation></Action>
+<Action><ID>flinch melee front high</ID><Animation><Filename>gml1_mc_rd_flnch_frn.animx</Filename></Animation></Action>
+<Action><ID>flinch melee front low</ID><Animation><Filename>gml1_mc_rd_flnch_stm.animx</Filename></Animation></Action>
+<Action><ID>flinch melee front left high</ID><Animation><Filename>gml1_mc_rd_flnch_upl.animx</Filename></Animation></Action>
+<Action><ID>flinch melee front left low</ID><Animation><Filename>gml1_mc_rd_flnch_lwr.animx</Filename></Animation></Action>
+<Action><ID>flinch melee front right high</ID><Animation><Filename>gml1_mc_rd_flnch_upr.animx</Filename></Animation></Action>
+<Action><ID>flinch melee front right low</ID><Animation><Filename>gml1_mc_rd_flnch_lwl.animx</Filename></Animation></Action>
+<Action><ID>flinch melee back high</ID><Animation><Filename>gml1_mc_rd_flnch_bhh.animx</Filename></Animation></Action>
+<Action><ID>flinch melee back low</ID><Animation><Filename>gml1_mc_rd_flnch_bhl.animx</Filename></Animation></Action>
+<Action><ID>flinch melee left high</ID><Animation><Filename>gml1_mc_rd_flnfa_lft.animx</Filename></Animation></Action>
+<Action><ID>flinch melee left low</ID><Animation><Filename>gml1_mc_rd_flnfa_lft.animx</Filename></Animation></Action>
+<Action><ID>flinch melee right high</ID><Animation><Filename>gml1_mc_rd_flnfa_rgt.animx</Filename></Animation></Action>
+<Action><ID>flinch melee right low</ID><Animation><Filename>gml1_mc_rd_flnfa_rgt.animx</Filename></Animation></Action>
+<Action><ID>trans MC ready to stand</ID><Animation><Filename>gml1_mc_rd_to_sd.animx</Filename></Animation></Action>
+<Action><ID>melee grab reversal</ID><Animation><Filename>gml1_mg_grab_rvrsl_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab reversal receive</ID><Animation><Filename>gml1_mg_grab_rvrsl_a.animx</Filename></Animation></Action>
+<Action><ID>grapple to finish A faceup</ID><Animation><Filename>gml1_mg_tofinsh_fceup_a.animx</Filename></Animation></Action>
+<Action><ID>grapple to finish B faceup</ID><Animation><Filename>gml1_mg_tofinsh_fceup_b.animx</Filename></Animation></Action>
+<Action><ID>grapple to finish A facedown</ID><Animation><Filename>gml1_mg_tofinsh_fcedwn_a.animx</Filename></Animation></Action>
+<Action><ID>grapple to finish B facedown</ID><Animation><Filename>gml1_mg_tofinsh_fcedwn_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab failed receive</ID><Animation><Filename>gml1_mg_grab_fail_a.animx</Filename></Animation></Action>
+<Action><ID>melee grab failed</ID><Animation><Filename>gml1_mg_grab_fail_b.animx</Filename></Animation></Action>
+<Action><ID>hs trunk toss</ID><Animation><Filename>gml1_hs_trnk_toss_a.animx</Filename></Animation></Action>
+<Action><ID>hs trunk toss receive</ID><Animation><Filename>gml1_hs_trnk_toss_b.animx</Filename></Animation></Action>
+<Action><ID>stand Sign In</ID><Animation><Filename>gml1_bs_sd_signin.animx</Filename></Animation></Action>
+<Action><ID>support end</ID><Animation><Filename>gml1_support_end_a.animx</Filename></Animation></Action>
+<Action><ID>support victim end</ID><Animation><Filename>gml1_support_end_b.animx</Filename></Animation></Action>
+<Action><ID>support start</ID><Animation><Filename>gml1_support_start_a.animx</Filename></Animation></Action>
+<Action><ID>support victim start</ID><Animation><Filename>gml1_support_start_b.animx</Filename></Animation></Action>
+<Action><ID>load box</ID><Animation><Filename>gml1_bs_cy_load.animx</Filename></Animation></Action>
+<Action><ID>working on truck</ID><Animation><Filename>gml1_bs_sd_wrkngtrk.animx</Filename></Animation></Action>
+<Action><ID>minigun flinch</ID><Animation><Filename>gml1_mng_rd_flnch.animx</Filename></Animation></Action>
+<Action><ID>hsg throw a</ID><Animation><Filename>gml1_hs_gnade_thrw_a.animx</Filename></Animation></Action>
+<Action><ID>hsg throw b</ID><Animation><Filename>gml1_hs_gnade_thrw_b.animx</Filename></Animation></Action>
+<Action><ID>hsg toss a</ID><Animation><Filename>gml1_hs_gnade_toss_a.animx</Filename></Animation></Action>
+<Action><ID>hsg toss b</ID><Animation><Filename>gml1_hs_gnade_toss_b.animx</Filename></Animation></Action>
+<Action><ID>hsg throw move</ID><Animation><Filename>gml1_hs_gnade_thrwm.animx</Filename></Animation></Action>
+<Action><ID>hs flinch front</ID><Animation><Filename>gml1_hs_flnch_frn.animx</Filename></Animation></Action>
+<Action><ID>hs flinch left</ID><Animation><Filename>gml1_hs_flnch_lft.animx</Filename></Animation></Action>
+<Action><ID>hs flinch right</ID><Animation><Filename>gml1_hs_flnch_rgt.animx</Filename></Animation></Action>
+<Action><ID>hs flinch back a</ID><Animation><Filename>gml1_hs_flnch_bck.animx</Filename></Animation></Action>
+<Action><ID>hs flinch back b</ID><Animation><Filename>gml1_hs_flnch_bckb.animx</Filename></Animation></Action>
+<Action><ID>hs pour out a</ID><Animation><Filename>gml1_hs_pourout_a.animx</Filename></Animation></Action>
+<Action><ID>hs pour out b</ID><Animation><Filename>gml1_hs_pourout_b.animx</Filename></Animation></Action>
+<Action><ID>hs dead discard</ID><Animation><Filename>gml1_hs_dead.animx</Filename></Animation></Action>
+<Action><ID>hs van toss</ID><Animation><Filename>gml1_hs_van_toss_a.animx</Filename></Animation></Action>
+<Action><ID>hs van toss receive</ID><Animation><Filename>gml1_hs_van_toss_b.animx</Filename></Animation></Action>
+<Action><ID>stand plant bomb</ID><Animation><Filename>gml1_bs_sd_plntbmb.animx</Filename></Animation></Action>
+<Action><ID>hs dead discard b</ID><Animation><Filename>gml1_hs_dead_b.animx</Filename></Animation></Action>
+<Action><ID>grapple hold punch</ID><Animation><Filename>gml1_grp_hl_pnch_a.animx</Filename></Animation></Action>
+<Action><ID>grapple hold punch victim</ID><Animation><Filename>gml1_grp_hl_pnch_b.animx</Filename></Animation></Action>
+<Action><ID>grapple hold knee</ID><Animation><Filename>gml1_grp_hl_knee_a.animx</Filename></Animation></Action>
+<Action><ID>grapple hold knee victim</ID><Animation><Filename>gml1_grp_hl_knee_b.animx</Filename></Animation></Action>
+<Action><ID>grapple hold escape</ID><Animation><Filename>gml1_grp_hl_escape_a.animx</Filename></Animation></Action>
+<Action><ID>grapple hold escape victim</ID><Animation><Filename>gml1_grp_hl_escape_b.animx</Filename></Animation></Action>
+<Action><ID>grapple hold throw</ID><Animation><Filename>gml1_grp_hl_thrw_a.animx</Filename></Animation></Action>
+<Action><ID>grapple hold throw victim</ID><Animation><Filename>gml1_grp_hl_thrw_b.animx</Filename></Animation></Action>
+<Action><ID>grapple grab</ID><Animation><Filename>gml1_grp_grab_a.animx</Filename></Animation></Action>
+<Action><ID>grapple grab victim</ID><Animation><Filename>gml1_grp_grab_b.animx</Filename></Animation></Action>
+<Action><ID>melee reversal</ID><Animation><Filename>gml1_mc_rd_rvrsl_a.animx</Filename></Animation></Action>
+<Action><ID>melee reversal receive</ID><Animation><Filename>gml1_mc_rd_rvrsl_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab away throw forward</ID><Animation><Filename>gml1_mg_thrw_frtawy_a.animx</Filename></Animation></Action>
+<Action><ID>hs flinch left a</ID><Animation><Filename>gml1_hs_flnch_lft_a.animx</Filename></Animation></Action>
+<Action><ID>hs flinch right a</ID><Animation><Filename>gml1_hs_flnch_rgt_a.animx</Filename></Animation></Action>
+<Action><ID>cower run fall</ID><Animation><Filename>pml1_bs_cw_fallovr_a.animx</Filename></Animation></Action>
+<Action><ID>cower run fall variant 1</ID><Animation><Filename>pml1_bs_cw_fallovr_b.animx</Filename></Animation></Action>
+<Action><ID>cower run fall variant 2</ID><Animation><Filename>pml1_bs_cw_fallovr_c.animx</Filename></Animation></Action>
+<Action><ID>trans cower to stand</ID><Animation><Filename>pml1_bs_cw_to_sd_a.animx</Filename></Animation></Action>
+<Action><ID>trans cower to stand B</ID><Animation><Filename>pml1_bs_cw_to_sd_b.animx</Filename></Animation></Action>
+<Action><ID>trans cower to stand C</ID><Animation><Filename>pml1_bs_cw_to_sd_c.animx</Filename></Animation></Action>
+<Action><ID>trans cower to stand D</ID><Animation><Filename>pml1_bs_cw_to_sd_d.animx</Filename></Animation></Action>
+<Action><ID>trans cower to stand fast</ID><Animation><Filename>pml1_bs_cw_to_sd_a.animx</Filename></Animation></Action>
+<Action><ID>trans cower to stand B fast</ID><Animation><Filename>pml1_bs_cw_to_sd_b.animx</Filename></Animation></Action>
+<Action><ID>trans cower to stand C fast</ID><Animation><Filename>pml1_bs_cw_to_sd_c.animx</Filename></Animation></Action>
+<Action><ID>trans cower to stand D fast</ID><Animation><Filename>pml1_bs_cw_to_sd_d.animx</Filename></Animation></Action>
+<Action><ID>trans stand to cower</ID><Animation><Filename>pml1_bs_sd_to_cw_a.animx</Filename></Animation></Action>
+<Action><ID>trans stand to cower B</ID><Animation><Filename>pml1_bs_sd_to_cw_b.animx</Filename></Animation></Action>
+<Action><ID>trans stand to cower C</ID><Animation><Filename>pml1_bs_sd_to_cw_c.animx</Filename></Animation></Action>
+<Action><ID>trans stand to cower D</ID><Animation><Filename>pml1_bs_sd_to_cw_d.animx</Filename></Animation></Action>
+<Action><ID>flee start</ID><Animation><Filename>pml1_wory_fle_start_a.animx</Filename></Animation></Action>
+<Action><ID>flee start variant 1</ID><Animation><Filename>pml1_wory_fle_start_b.animx</Filename></Animation></Action>
+<Action><ID>flee start variant 2</ID><Animation><Filename>pml1_wory_fle_start_c.animx</Filename></Animation></Action>
+<Action><ID>grapple grab away</ID><Animation><Filename>gml1_grp_grab_away_a.animx</Filename></Animation></Action>
+<Action><ID>grapple grab away victim</ID><Animation><Filename>gml1_grp_grab_away_b.animx</Filename></Animation></Action>
+<Action><ID>trans Run to Cower A</ID><Animation><Filename>pml1_bs_run_to_cw_a.animx</Filename></Animation></Action>
+<Action><ID>trans Run to Cower B</ID><Animation><Filename>pml1_bs_run_to_cw_b.animx</Filename></Animation></Action>
+<Action><ID>trans Run to Cower C</ID><Animation><Filename>pml1_bs_run_to_cw_c.animx</Filename></Animation></Action>
+<Action><ID>trans Run to Cower D</ID><Animation><Filename>pml1_bs_run_to_cw_d.animx</Filename></Animation></Action>
+<Action><ID>trans Cower to Run A</ID><Animation><Filename>pml1_bs_cw_torun_a.animx</Filename></Animation></Action>
+<Action><ID>trans Cower to Run B</ID><Animation><Filename>pml1_bs_cw_torun_b.animx</Filename></Animation></Action>
+<Action><ID>trans Cower to Run C</ID><Animation><Filename>pml1_bs_cw_torun_c.animx</Filename></Animation></Action>
+<Action><ID>trans Cower to Run D</ID><Animation><Filename>pml1_bs_cw_torun_d.animx</Filename></Animation></Action>
+<Action><ID>react nut shot</ID><Animation><Filename>gml1_mc_rd_atkfl_a_b.animx</Filename></Animation></Action>
+<Action><ID>react flashbang</ID><Animation><Filename>gml1_bs_sd_reac_flashbang.animx</Filename></Animation></Action>
+<Action><ID>swd finish L 1 victim</ID><Animation><Filename>gml1_swd_1h_rd_atkfl_a_b.animx</Filename></Animation></Action>
+<Action><ID>swd finish L 2 victim</ID><Animation><Filename>gml1_swd_1h_rd_atkfl_b_b.animx</Filename></Animation></Action>
+<Action><ID>swd finish R 1 victim</ID><Animation><Filename>gml1_swd_1h_rd_atkfr_a_b.animx</Filename></Animation></Action>
+<Action><ID>swd finish R 2 victim</ID><Animation><Filename>gml1_swd_1h_rd_atkfr_b_b.animx</Filename></Animation></Action>
+<Action><ID>swd finish L 3 victim</ID><Animation><Filename>gml1_swd_1h_rd_atkfl_a_b.animx</Filename></Animation></Action>
+<Action><ID>swd finish L 4 victim</ID><Animation><Filename>gml1_swd_1h_rd_atkfl_b_b.animx</Filename></Animation></Action>
+<Action><ID>swd finish R 3 victim</ID><Animation><Filename>gml1_swd_1h_rd_atkfr_a_b.animx</Filename></Animation></Action>
+<Action><ID>swd finish R 4 victim</ID><Animation><Filename>gml1_swd_1h_rd_atkfr_b_b.animx</Filename></Animation></Action>
+<Action><ID>chainsaw attack front victim</ID><Animation><Filename>gml1_csaw_attk_vic.animx</Filename></Animation></Action>
+<Action><ID>chainsaw attack back victim</ID><Animation><Filename>gml1_csaw_attk_bck_vic.animx</Filename></Animation></Action>
+<Action><ID>zombie grab B release victim</ID><Animation><Filename>pml1_zm_grab_b_rlease_a.animx</Filename></Animation></Action>
+<Action><ID>zombie grab victim</ID><Animation><Filename>pml1_zm_grab_a.animx</Filename></Animation></Action>
+<Action><ID>zombie grab release victim</ID><Animation><Filename>pml1_zm_grab_rlease_a.animx</Filename></Animation></Action>
+<Action><ID>zombie grab B victim</ID><Animation><Filename>pml1_zm_grab_b_a.animx</Filename></Animation></Action>
+<Action><ID>melee grab away unarmed</ID><Animation><Filename>gml1_mg_grab_unarmd_away_a.animx</Filename></Animation></Action>
+<Action><ID>melee grab unarmed</ID><Animation><Filename>gml1_mg_grab_unarmd_a.animx</Filename></Animation></Action>
+<Action><ID>punch L 3</ID><Animation><Filename>gml1_mc_rd_atkl_c.animx</Filename></Animation></Action>
+<Action><ID>punch R 3</ID><Animation><Filename>gml1_mc_rd_atkr_c.animx</Filename></Animation></Action>
+<Action><ID>melee grab unarmed receive</ID><Animation><Filename>gml1_mg_grab_unarmd_b.animx</Filename></Animation></Action>
+<Action><ID>melee grab away unarmed receive</ID><Animation><Filename>gml1_mg_grab_unarmd_away_b.animx</Filename></Animation></Action>
+<Action><ID>drunk beg</ID><Animation><Filename>pml1_dk_sd_beg.animx</Filename></Animation></Action>
+<Action><ID>drunk flee start A</ID><Animation><Filename>pml1_dk_fle_start_a.animx</Filename></Animation></Action>
+<Action><ID>drunk flee start B</ID><Animation><Filename>pml1_dk_fle_start_b.animx</Filename></Animation></Action>
+<Action><ID>drunk piss</ID><Animation><Filename>pml1_dk_sd_pswl.animx</Filename></Animation></Action>
+<Action><ID>drunk vomit</ID><Animation><Filename>pml1_dk_sd_vom.animx</Filename></Animation></Action>
+<Action><ID>drunk walk fall over b</ID><Animation><Filename>pml1_dk_walk_fallovr_b.animx</Filename></Animation></Action>
+<Action><ID>drunk walk stumble</ID><Animation><Filename>pml1_dk_walk_stmble.animx</Filename></Animation></Action>
+<Action><ID>react sitting shocked</ID><Animation><Filename>gml1_bs_reac_shock_sit.animx</Filename></Animation></Action>
+<Action><ID>Brotherhood Insult C</ID><Animation><Filename>trbl_bs_sd_insult_c.animx</Filename></Animation></Action>
+<Action><ID>Brotherhood Insult D</ID><Animation><Filename>pml1_rap_rap_a.animx</Filename></Animation></Action>
+<Action><ID>trans swim to stand</ID><Animation><Filename>gml1_bs_swim_tred_to_sd.animx</Filename></Animation></Action>
+<Action><ID>trans stand to swim</ID><Animation><Filename>gml1_bs_sd_totred.animx</Filename></Animation></Action>
+<Action><ID>hs victim toss crowd control</ID><Animation><Filename>gml1_hs_toss_c.animx</Filename></Animation></Action>
+<Action><ID>parry A b</ID><Animation><Filename>gml1_swd_1h_rd_parry_a_b.animx</Filename></Animation></Action>
+<Action><ID>parry B b</ID><Animation><Filename>gml1_swd_1h_rd_parry_b_b.animx</Filename></Animation></Action>
+<Action><ID>parry C b</ID><Animation><Filename>gml1_swd_1h_rd_parry_c_b.animx</Filename></Animation></Action>
+<Action><ID>parry D b</ID><Animation><Filename>gml1_swd_1h_rd_parry_d_b.animx</Filename></Animation></Action>
+<Action><ID>Stand to FlashBang</ID><Animation><Filename>gml1_sd_to_flshbng.animx</Filename></Animation></Action>
+<Action><ID>FlashBang To Stand</ID><Animation><Filename>gml1_flshbng_to_sd.animx</Filename></Animation></Action>
+<Action><ID>stand to jump med</ID><Animation><Filename>gml1_bs_sd_to_jm_hi.animx</Filename></Animation></Action>
+<Action><ID>stand to jump low</ID><Animation><Filename>gml1_bs_sd_to_jm_low.animx</Filename></Animation></Action>
+<Action><ID>hs jessica dial</ID><Animation><Filename>gml1_hs_sd_dial_jessica.animx</Filename></Animation></Action>
+<Action><ID>jump sprint air</ID><Animation><Filename>gml1_bs_js_air.animx</Filename></Animation></Action>
+<Action><ID>jump sprint air to fall</ID><Animation><Filename>gml1_bs_js_to_fl.animx</Filename></Animation></Action>
+<Action><ID>jump sprint land</ID><Animation><Filename>gml1_bs_js_land.animx</Filename></Animation></Action>
+<Action><ID>jump sprint start</ID><Animation><Filename>gml1_bs_js_jump.animx</Filename></Animation></Action>
+<Action><ID>grapple kill2 A</ID><Animation><Filename>gml1_mg_killd2_a.animx</Filename></Animation></Action>
+<Action><ID>grapple kill2 B</ID><Animation><Filename>gml1_mg_killd2_b.animx</Filename></Animation></Action>
+<Action><ID>defib stand shock b</ID><Animation><Filename>gml1_dfib_sd_shock_b.animx</Filename></Animation></Action>
+<Action><ID>Brotherhood Compliment A</ID><Animation><Filename>trbl_bs_sd_comp_a.animx</Filename></Animation></Action>
+<Action><ID>Compliment A</ID><Animation><Filename>gml1_bs_sd_comp_a.animx</Filename></Animation></Action>
+<Action><ID>Compliment B</ID><Animation><Filename>gml1_bs_sd_comp_b.animx</Filename></Animation></Action>
+<Action><ID>Compliment C</ID><Animation><Filename>gml1_bs_sd_comp_c.animx</Filename></Animation></Action>
+<Action><ID>Compliment D</ID><Animation><Filename>gml1_bs_sd_comp_d.animx</Filename></Animation></Action>
+<Action><ID>Compliment E</ID><Animation><Filename>gml1_bs_sd_comp_e.animx</Filename></Animation></Action>
+<Action><ID>Compliment F</ID><Animation><Filename>gml1_bs_sd_comp_f.animx</Filename></Animation></Action>
+<Action><ID>Compliment G</ID><Animation><Filename>pml1_inmate_playharmon.animx</Filename></Animation></Action>
+<Action><ID>Compliment H</ID><Animation><Filename>gml1_bs_sd_comp_h.animx</Filename></Animation></Action>
+<Action><ID>Compliment I</ID><Animation><Filename>gml1_bs_sd_comp_i.animx</Filename></Animation></Action>
+<Action><ID>Compliment J</ID><Animation><Filename>gml1_bs_sd_comp_j.animx</Filename></Animation></Action>
+<Action><ID>Compliment K</ID><Animation><Filename>gml1_bs_sd_comp_k.animx</Filename></Animation></Action>
+<Action><ID>Insult A</ID><Animation><Filename>gml1_bs_sd_insult_a.animx</Filename></Animation></Action>
+<Action><ID>Insult B</ID><Animation><Filename>ykza_sd_hair.animx</Filename></Animation></Action>
+<Action><ID>Insult C</ID><Animation><Filename>gml1_bs_sd_insult_c.animx</Filename></Animation></Action>
+<Action><ID>Insult D</ID><Animation><Filename>gml1_bs_sd_insult_d.animx</Filename></Animation></Action>
+<Action><ID>Insult E</ID><Animation><Filename>gml1_bs_sd_insult_e.animx</Filename></Animation></Action>
+<Action><ID>Insult F</ID><Animation><Filename>ykza_sd_eat_tkout.animx</Filename></Animation></Action>
+<Action><ID>Insult G</ID><Animation><Filename>pml1_inmate_playharmon.animx</Filename></Animation></Action>
+<Action><ID>Insult H</ID><Animation><Filename>ykza_smkin_sd_smoke.animx</Filename></Animation></Action>
+<Action><ID>Insult I</ID><Animation><Filename>gml1_bs_sd_insult_i.animx</Filename></Animation></Action>
+<Action><ID>Insult J</ID><Animation><Filename>gml1_bs_sd_insult_j.animx</Filename></Animation></Action>
+<Action><ID>Insult K</ID><Animation><Filename>gml1_bs_sd_insult_k.animx</Filename></Animation></Action>
+<Action><ID>Insult L</ID><Animation><Filename>gml1_bs_sd_insult_l.animx</Filename></Animation></Action>
+<Action><ID>Insult M</ID><Animation><Filename>gml1_bs_sd_insult_m.animx</Filename></Animation></Action>
+<Action><ID>Insult N</ID><Animation><Filename>gml1_bs_sd_insult_n.animx</Filename></Animation></Action>
+<Action><ID>Insult O</ID><Animation><Filename>gml1_bs_sd_insult_o.animx</Filename></Animation></Action>
+<Action><ID>Insult P</ID><Animation><Filename>gml1_bs_sd_insult_p.animx</Filename></Animation></Action>
+<Action><ID>Insult Q</ID><Animation><Filename>gml1_bs_sd_insult_q.animx</Filename></Animation></Action>
+<Action><ID>Insult R</ID><Animation><Filename>gml1_bs_sd_insult_r.animx</Filename></Animation></Action>
+<Action><ID>Insult S</ID><Animation><Filename>gml1_bs_sd_insult_s.animx</Filename></Animation></Action>
+<Action><ID>Insult T</ID><Animation><Filename>gml1_ak_rd_usevodo.animx</Filename></Animation></Action>
+<Action><ID>Ronin Compliment A</ID><Animation><Filename>ykza_bs_sd_comp_a.animx</Filename></Animation></Action>
+<Action><ID>Ronin Compliment B</ID><Animation><Filename>ykza_bs_sd_comp_b.animx</Filename></Animation></Action>
+<Action><ID>Ronin Compliment C</ID><Animation><Filename>ykza_bs_sd_comp_c.animx</Filename></Animation></Action>
+<Action><ID>Ronin Compliment D</ID><Animation><Filename>ykza_bs_sd_comp_d.animx</Filename></Animation></Action>
+<Action><ID>Ronin Insult A</ID><Animation><Filename>ykza_bs_sd_insult_a.animx</Filename></Animation></Action>
+<Action><ID>Ronin Insult B</ID><Animation><Filename>ykza_bs_sd_insult_b.animx</Filename></Animation></Action>
+<Action><ID>Ronin Insult C</ID><Animation><Filename>pml1_rap_rap_c.animx</Filename></Animation></Action>
+<Action><ID>Ronin Insult D</ID><Animation><Filename>ykza_bs_sd_insult_d.animx</Filename></Animation></Action>
+<Action><ID>Samedi Compliment A</ID><Animation><Filename>crib_bs_sd_comp_a.animx</Filename></Animation></Action>
+<Action><ID>Samedi Compliment B</ID><Animation><Filename>pml1_gp_sd.animx</Filename></Animation></Action>
+<Action><ID>Samedi Compliment C</ID><Animation><Filename>crib_bs_sd_comp_c.animx</Filename></Animation></Action>
+<Action><ID>Samedi Compliment D</ID><Animation><Filename>crib_bs_sd_comp_d.animx</Filename></Animation></Action>
+<Action><ID>Samedi Insult A</ID><Animation><Filename>crib_bs_sd_insult_a.animx</Filename></Animation></Action>
+<Action><ID>Samedi Insult B</ID><Animation><Filename>pml1_firbrthr_brthfire.animx</Filename></Animation></Action>
+<Action><ID>Samedi Insult C</ID><Animation><Filename>crib_bs_sd_insult_c.animx</Filename></Animation></Action>
+<Action><ID>Samedi Insult D</ID><Animation><Filename>crib_bs_sd_insult_d.animx</Filename></Animation></Action>
+<Action><ID>back getup</ID><Animation><Filename>gml1_fl_bk_getup.animx</Filename></Animation></Action>
+<Action><ID>bash victim rifle</ID><Animation><Filename>gml1_ak_bash_b.animx</Filename></Animation></Action>
+<Action><ID>bash victim rpg</ID><Animation><Filename>gml1_rl_bash_b.animx</Filename></Animation></Action>
+<Action><ID>powerup food</ID><Animation><Filename>gml1_bs_sd_eat.animx</Filename></Animation></Action>
+<Action><ID>cell phone answer</ID><Animation><Filename>gml1_bs_cell_answr.animx</Filename></Animation></Action>
+<Action><ID>cell phone hangup</ID><Animation><Filename>gml1_bs_cell_hngup.animx</Filename></Animation></Action>
+<Action><ID>talk to drugdealer</ID><Animation><Filename>gml1_bs_sd_talk.animx</Filename></Animation></Action>
+<Action><ID>watermelon long</ID><Animation><Filename>pml1_watermelon_long.animx</Filename></Animation></Action>
+<Action><ID>watermelon short</ID><Animation><Filename>pml1_watermelon_short.animx</Filename></Animation></Action>
+<Action><ID>fall fence high</ID><Animation><Filename>gml1_fl_fn_hi.animx</Filename></Animation></Action>
+<Action><ID>fall fence low</ID><Animation><Filename>gml1_fl_fn_low.animx</Filename></Animation></Action>
+<Action><ID>fall fence med</ID><Animation><Filename>gml1_fl_fn_hi.animx</Filename></Animation></Action>
+<Action><ID>grip to flip air</ID><Animation><Filename>gml1_bs_gr_flip_air.animx</Filename></Animation></Action>
+<Action><ID>grip to stand air</ID><Animation><Filename>gml1_bs_gr_sd_low.animx</Filename></Animation></Action>
+<Action><ID>ro finish L 1 victim</ID><Animation><Filename>ykza_mc_rd_atkfl_a_b.animx</Filename></Animation></Action>
+<Action><ID>ro finish L 2 victim</ID><Animation><Filename>ykza_mc_rd_atkfl_b_b.animx</Filename></Animation></Action>
+<Action><ID>ro finish R 1 victim</ID><Animation><Filename>ykza_mc_rd_atkfr_a_b.animx</Filename></Animation></Action>
+<Action><ID>ro finish R 2 victim</ID><Animation><Filename>ykza_mc_rd_atkfr_b_b.animx</Filename></Animation></Action>
+<Action><ID>br finish L 1 victim</ID><Animation><Filename>trbl_mc_rd_atkfl_a_b.animx</Filename></Animation></Action>
+<Action><ID>br finish L 2 victim</ID><Animation><Filename>trbl_mc_rd_atkfl_c_b.animx</Filename></Animation></Action>
+<Action><ID>br finish R 1 victim</ID><Animation><Filename>trbl_mc_rd_atkfl_d_b.animx</Filename></Animation></Action>
+<Action><ID>br finish R 2 victim</ID><Animation><Filename>trbl_mc_rd_atkfr_a_b.animx</Filename></Animation></Action>
+<Action><ID>ss finish L 1 victim</ID><Animation><Filename>crib_mc_rd_atkfl_a_b.animx</Filename></Animation></Action>
+<Action><ID>ss finish L 2 victim</ID><Animation><Filename>crib_mc_rd_atkfl_b_b.animx</Filename></Animation></Action>
+<Action><ID>ss finish R 1 victim</ID><Animation><Filename>crib_mc_rd_atkfr_a_b.animx</Filename></Animation></Action>
+<Action><ID>ss finish R 2 victim</ID><Animation><Filename>crib_mc_rd_atkfr_b_b.animx</Filename></Animation></Action>
+<Action><ID>kick door</ID><Animation><Filename>gml1_bs_sd_kick_a.animx</Filename></Animation></Action>
+<Action><ID>react PepperSpray toStand</ID><Animation><Filename>gml1_bs_reac_pspry_to_sd.animx</Filename></Animation></Action>
+<Action><ID>react Standto PepperSpray</ID><Animation><Filename>gml1_bs_reac_standto_pepspry.animx</Filename></Animation></Action>
+<Action><ID>jessica dial</ID><Animation><Filename>gfl1_bs_sd_dial.animx</Filename></Animation></Action>
+<Action><ID>back falldown</ID><Animation><Filename>gml1_fl_bk.animx</Filename></Animation></Action>
+<Action><ID>swim start fall transition</ID><Animation><Filename>gml1_bs_swim_hit.animx</Filename></Animation></Action>
+<Action><ID>swim start ragdoll forward transition</ID><Animation><Filename>gml1_bs_swim_ragfwd.animx</Filename></Animation></Action>
+<Action><ID>bumped back left</ID><Animation><Filename>pml1_bs_reac_bmp_bcklft.animx</Filename></Animation></Action>
+<Action><ID>bumped back right</ID><Animation><Filename>pml1_bs_reac_bmp_bckrgt.animx</Filename></Animation></Action>
+<Action><ID>bumped front left</ID><Animation><Filename>pml1_bs_reac_bmp_frnlft.animx</Filename></Animation></Action>
+<Action><ID>bumped front right</ID><Animation><Filename>pml1_bs_reac_bmp_frnrgt.animx</Filename></Animation></Action>
+<Action><ID>bumped left</ID><Animation><Filename>pml1_bs_reac_bmp_lft.animx</Filename></Animation></Action>
+<Action><ID>bumped right</ID><Animation><Filename>pml1_bs_reac_bmp_rgt.animx</Filename></Animation></Action>
+<Action><ID>trans swim to move</ID><Animation><Filename>gml1_bs_swim_tred_tomove.animx</Filename></Animation></Action>
+<Action><ID>trans move to swim</ID><Animation><Filename>gml1_bs_move_totred.animx</Filename></Animation></Action>
+<Action><ID>lipsync_WM1</ID><Animation><Filename>wmplayer_timeout_12.animx</Filename></Animation></Action>
+<Action><ID>lipsync_WM2</ID><Animation><Filename>wmplayer_timeout_04.animx</Filename></Animation></Action>
+<Action><ID>lipsync_WM3</ID><Animation><Filename>wmplayer_congrat_self_15.animx</Filename></Animation></Action>
+<Action><ID>lipsync_WM4</ID><Animation><Filename>wmplayer_collide_npc_14.animx</Filename></Animation></Action>
+<Action><ID>lipsync_WF1</ID><Animation><Filename>wfplayer_dismiss_13.animx</Filename></Animation></Action>
+<Action><ID>lipsync_WF2</ID><Animation><Filename>wfplayer_congrat_self_07.animx</Filename></Animation></Action>
+<Action><ID>lipsync_WF3</ID><Animation><Filename>wfplayer_congrat_self_03.animx</Filename></Animation></Action>
+<Action><ID>lipsync_WF4</ID><Animation><Filename>wfplayer_congrat_self_01.animx</Filename></Animation></Action>
+<Action><ID>lipsync_HM1</ID><Animation><Filename>hmplayer_timeout_12.animx</Filename></Animation></Action>
+<Action><ID>lipsync_HM2</ID><Animation><Filename>hmplayer_thr_driver_extract_27.animx</Filename></Animation></Action>
+<Action><ID>lipsync_HM3</ID><Animation><Filename>hmplayer_congrat_self_21.animx</Filename></Animation></Action>
+<Action><ID>lipsync_HM4</ID><Animation><Filename>hmplayer_collide_npc_01.animx</Filename></Animation></Action>
+<Action><ID>lipsync_HF1</ID><Animation><Filename>hfplayer_timeout_10.animx</Filename></Animation></Action>
+<Action><ID>lipsync_HF2</ID><Animation><Filename>hfplayer_timeout_09.animx</Filename></Animation></Action>
+<Action><ID>lipsync_HF3</ID><Animation><Filename>hfplayer_congrat_self_18.animx</Filename></Animation></Action>
+<Action><ID>lipsync_HF4</ID><Animation><Filename>hfplayer_congrat_self_04.animx</Filename></Animation></Action>
+<Action><ID>lipsync_BM1</ID><Animation><Filename>bmplayer_timeout_11.animx</Filename></Animation></Action>
+<Action><ID>lipsync_BM2</ID><Animation><Filename>bmplayer_spe_arrested_02.animx</Filename></Animation></Action>
+<Action><ID>lipsync_BM3</ID><Animation><Filename>bmplayer_dismiss_14.animx</Filename></Animation></Action>
+<Action><ID>lipsync_BM4</ID><Animation><Filename>bmplayer_dismiss_11.animx</Filename></Animation></Action>
+<Action><ID>lipsync_BF1</ID><Animation><Filename>bfplayer_timeout_12.animx</Filename></Animation></Action>
+<Action><ID>lipsync_BF2</ID><Animation><Filename>bfplayer_timeout_11.animx</Filename></Animation></Action>
+<Action><ID>lipsync_BF3</ID><Animation><Filename>bfplayer_timeout_07.animx</Filename></Animation></Action>
+<Action><ID>lipsync_BF4</ID><Animation><Filename>bfplayer_timeout_04.animx</Filename></Animation></Action>
+<Action><ID>Beer Can Crush</ID><Animation><Filename>bro_br_crush.animx</Filename></Animation></Action>
+<Action><ID>Beer Can Pullout</ID><Animation><Filename>bro_br_plout.animx</Filename></Animation></Action>
+<Action><ID>Beer Can Drink</ID><Animation><Filename>bro_br_drink.animx</Filename></Animation></Action>
+<Action><ID>Cooler Lean Drink</ID><Animation><Filename>bro_cooler_ln_drink.animx</Filename></Animation></Action>
+<Action><ID>Cooler Sit Drink</ID><Animation><Filename>bro_cooler_st_drink.animx</Filename></Animation></Action>
+<Action><ID>Cooler Sit Startled</ID><Animation><Filename>bro_cooler_strtl.animx</Filename></Animation></Action>
+<Action><ID>Scratch Balls</ID><Animation><Filename>bro_sd_adc.animx</Filename></Animation></Action>
+<Action><ID>Howl</ID><Animation><Filename>bro_sd_howl.animx</Filename></Animation></Action>
+<Action><ID>Pound chest</ID><Animation><Filename>bro_sd_pndchst.animx</Filename></Animation></Action>
+<Action><ID>Pound Fist</ID><Animation><Filename>bro_sd_pndfist.animx</Filename></Animation></Action>
+<Action><ID>Point at Tattoos</ID><Animation><Filename>bro_sd_pt_tats.animx</Filename></Animation></Action>
+<Action><ID>Spit</ID><Animation><Filename>bro_sd_spt.animx</Filename></Animation></Action>
+<Action><ID>dance around fire</ID><Animation><Filename>crib_sd_dance_fire.animx</Filename></Animation></Action>
+<Action><ID>blunt stand smoke</ID><Animation><Filename>crib_sd_smoke_blnt.animx</Filename></Animation></Action>
+<Action><ID>stand roll bones</ID><Animation><Filename>crib_sd_roll_bones.animx</Filename></Animation></Action>
+<Action><ID>ground to stand</ID><Animation><Filename>crib_st_to_sd.animx</Filename></Animation></Action>
+<Action><ID>stand to ground</ID><Animation><Filename>crib_sd_to_st.animx</Filename></Animation></Action>
+<Action><ID>ground sit draw</ID><Animation><Filename>crib_st_draw.animx</Filename></Animation></Action>
+<Action><ID>ground sit startled</ID><Animation><Filename>crib_st_strtl.animx</Filename></Animation></Action>
+<Action><ID>terrorize jewelry a</ID><Animation><Filename>crib_terror_jewelry_a.animx</Filename></Animation></Action>
+<Action><ID>terrorize voodoo a</ID><Animation><Filename>crib_terror_usevodo_a.animx</Filename></Animation></Action>
+<Action><ID>Blunt Sit Smoke</ID><Animation><Filename>crib_st_smoke_blnt.animx</Filename></Animation></Action>
+<Action><ID>Bong Sit Smoke</ID><Animation><Filename>crib_st_smoke_bong.animx</Filename></Animation></Action>
+<Action><ID>Smoking Smoke</ID><Animation><Filename>ykza_smkin_sd_smoke.animx</Filename></Animation></Action>
+<Action><ID>Smoking Ash</ID><Animation><Filename>ykza_smkin_sd_ash.animx</Filename></Animation></Action>
+<Action><ID>Polish Sword</ID><Animation><Filename>ykza_sd_plsh_swrd.animx</Filename></Animation></Action>
+<Action><ID>Fix Hair</ID><Animation><Filename>ykza_sd_hair.animx</Filename></Animation></Action>
+<Action><ID>Eat TakeOut</ID><Animation><Filename>ykza_sd_eat_tkout.animx</Filename></Animation></Action>
+<Action><ID>Shadow Box</ID><Animation><Filename>ykza_sd_shdwbox.animx</Filename></Animation></Action>
+<Action><ID>Helmet Sit Ash</ID><Animation><Filename>ykza_hlmt_st_ash.animx</Filename></Animation></Action>
+<Action><ID>Helmet Sit Smoke</ID><Animation><Filename>ykza_hlmt_st_smoke.animx</Filename></Animation></Action>
+<Action><ID>Helmet Sit Startled</ID><Animation><Filename>ykza_hlmt_st_strtl.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Shot Gun</group><States>
+</States><Actions>
+<Action><ID>hs fire</ID><Animation><Filename>gml1_hs_sg_fire.animx</Filename></Animation></Action>
+<Action><ID>hs reload</ID><Animation><Filename>gml1_hs_sg_rload.animx</Filename></Animation></Action>
+<Action><ID>hs walkfire left</ID><Animation><Filename>gml1_hs_sg_wlkfr_l.animx</Filename></Animation></Action>
+<Action><ID>hs walkfire right</ID><Animation><Filename>gml1_hs_sg_wlkfr_r.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>AK</group><States>
+<State><ID>worried fall</ID><Animation><Filename>gml1_ak_fl.animx</Filename></Animation></State>
+<State><ID>worried fall run</ID><Animation><Filename>gml1_ak_fl.animx</Filename></Animation></State>
+<State><ID>calm fall run state</ID><Animation><Filename>gml1_ak_fl.animx</Filename></Animation></State>
+<State><ID>calm fall state</ID><Animation><Filename>gml1_ak_fl.animx</Filename></Animation></State>
+</States><Actions>
+<Action><ID>land hard</ID><Animation><Filename>gml1_ak_fl_hrd.animx</Filename></Animation></Action>
+<Action><ID>jump start</ID><Animation><Filename>gml1_ak_jm_jump.animx</Filename></Animation></Action>
+<Action><ID>jump run start</ID><Animation><Filename>gml1_ak_jr_jump.animx</Filename></Animation></Action>
+<Action><ID>jump land</ID><Animation><Filename>gml1_ak_jm_land.animx</Filename></Animation></Action>
+<Action><ID>jump run land</ID><Animation><Filename>gml1_ak_jr_land.animx</Filename></Animation></Action>
+<Action><ID>jump air to fall</ID><Animation><Filename>gml1_ak_jm_to_fl.animx</Filename></Animation></Action>
+<Action><ID>jump run air to fall</ID><Animation><Filename>gml1_ak_jr_to_fl.animx</Filename></Animation></Action>
+<Action><ID>hs fire</ID><Animation><Filename>gml1_hs_ak_fire.animx</Filename></Animation></Action>
+<Action><ID>hs reload</ID><Animation><Filename>gml1_hs_ak_rload.animx</Filename></Animation></Action>
+<Action><ID>use voodoo</ID><Animation><Filename>gml1_ak_rd_usevodo.animx</Filename></Animation></Action>
+<Action><ID>hs kill</ID><Animation><Filename>gml1_hs_ak_killd_a.animx</Filename></Animation></Action>
+<Action><ID>hs victim kill</ID><Animation><Filename>gml1_hs_ak_killd_b.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Pistol</group><States>
+</States><Actions>
+<Action><ID>land hard</ID><Animation><Filename>gml1_ps_fl_hrd.animx</Filename></Animation></Action>
+<Action><ID>hs fire</ID><Animation><Filename>gml1_hs_ps_fire.animx</Filename></Animation></Action>
+<Action><ID>hs reload</ID><Animation><Filename>gml1_hs_ak_rload.animx</Filename></Animation></Action>
+<Action><ID>hs kill</ID><Animation><Filename>gml1_hs_killd_a.animx</Filename></Animation></Action>
+<Action><ID>hs victim kill</ID><Animation><Filename>gml1_hs_killd_b.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>SMG</group><States>
+</States><Actions>
+</Actions></Group>
+<Group><group>RPG</group><States>
+<State><ID>worried fall</ID><Animation><Filename>gml1_rl_fl.animx</Filename></Animation></State>
+<State><ID>worried fall run</ID><Animation><Filename>gml1_rl_fl.animx</Filename></Animation></State>
+<State><ID>calm fall run state</ID><Animation><Filename>gml1_rl_fl.animx</Filename></Animation></State>
+<State><ID>calm fall state</ID><Animation><Filename>gml1_rl_fl.animx</Filename></Animation></State>
+</States><Actions>
+<Action><ID>land hard</ID><Animation><Filename>gml1_rl_fl_hrd.animx</Filename></Animation></Action>
+<Action><ID>jump start</ID><Animation><Filename>gml1_rl_jm_jump.animx</Filename></Animation></Action>
+<Action><ID>jump run start</ID><Animation><Filename>gml1_rl_jr_jump.animx</Filename></Animation></Action>
+<Action><ID>jump land</ID><Animation><Filename>gml1_rl_jm_land.animx</Filename></Animation></Action>
+<Action><ID>jump run land</ID><Animation><Filename>gml1_rl_jr_land.animx</Filename></Animation></Action>
+<Action><ID>jump air to fall</ID><Animation><Filename>gml1_rl_jm_to_fl.animx</Filename></Animation></Action>
+<Action><ID>jump run air to fall</ID><Animation><Filename>gml1_rl_jr_to_fl.animx</Filename></Animation></Action>
+<Action><ID>hs fire</ID><Animation><Filename>gml1_hs_rl_fire.animx</Filename></Animation></Action>
+<Action><ID>hs walkfire left</ID><Animation><Filename>gml1_hs_rl_wlkfr_l.animx</Filename></Animation></Action>
+<Action><ID>hs walkfire right</ID><Animation><Filename>gml1_hs_rl_wlkfr_r.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Sniper</group><States>
+</States><Actions>
+</Actions></Group>
+<Group><group>SawedOff</group><States>
+</States><Actions>
+<Action><ID>hs fire</ID><Animation><Filename>gml1_hs_so_fire.animx</Filename></Animation></Action>
+<Action><ID>hs walkfire left</ID><Animation><Filename>gml1_hs_so_wlkfr_l.animx</Filename></Animation></Action>
+<Action><ID>hs walkfire right</ID><Animation><Filename>gml1_hs_so_wlkfr_r.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Spas12</group><States>
+</States><Actions>
+<Action><ID>hs fire</ID><Animation><Filename>gml1_hs_so_fire.animx</Filename></Animation></Action>
+<Action><ID>hs walkfire left</ID><Animation><Filename>gml1_hs_so_wlkfr_l.animx</Filename></Animation></Action>
+<Action><ID>hs walkfire right</ID><Animation><Filename>gml1_hs_so_wlkfr_r.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Melee 1h</group><States>
+<State><ID>crouch wary</ID><Animation><Filename>gml1_ps_cv.animx</Filename></Animation></State>
+<State><ID>walk</ID><Animation><Filename>gml1_1h_walk.animx</Filename></Animation></State>
+<State><ID>pant</ID><Animation><Filename>gml1_1h_pt.animx</Filename></Animation></State>
+<State><ID>crouch wary</ID><Animation><Filename>gml1_1h_cv.animx</Filename></Animation></State>
+<State><ID>walk ready back</ID><Animation><Filename>gml1_1h_rd_walk_bck.animx</Filename></Animation></State>
+<State><ID>walk ready left</ID><Animation><Filename>gml1_1h_rd_walk_lft.animx</Filename></Animation></State>
+<State><ID>walk ready right</ID><Animation><Filename>gml1_1h_rd_walk_rgt.animx</Filename></Animation></State>
+<State><ID>stand ready</ID><Animation><Filename>gml1_h1h_sd.animx</Filename></Animation></State>
+<State><ID>walk ready</ID><Animation><Filename>gml1_1h_rd_walk.animx</Filename></Animation></State>
+<State><ID>run ready</ID><Animation><Filename>gml1_h1h_run.animx</Filename></Animation></State>
+<State><ID>sprint</ID><Animation><Filename>gml1_h1h_sprint.animx</Filename></Animation></State>
+<State><ID>crouch</ID><Animation><Filename>gml1_h1h_ch.animx</Filename></Animation></State>
+<State><ID>crouch walk</ID><Animation><Filename>gml1_h1h_ch_walk.animx</Filename></Animation></State>
+<State><ID>block</ID><Animation><Filename>gml1_h1h_block.animx</Filename></Animation></State>
+<State><ID>worried fall</ID><Animation><Filename>gml1_h1h_fl.animx</Filename></Animation></State>
+<State><ID>worried fall run</ID><Animation><Filename>gml1_h1h_fl.animx</Filename></Animation></State>
+<State><ID>calm fall state</ID><Animation><Filename>gml1_h1h_fl.animx</Filename></Animation></State>
+<State><ID>calm fall run state</ID><Animation><Filename>gml1_h1h_fl.animx</Filename></Animation></State>
+<State><ID>crouch ready</ID><Animation><Filename>gml1_h1h_ch.animx</Filename></Animation></State>
+<State><ID>combat stand</ID><Animation><Filename>gml1_h1h_sd.animx</Filename></Animation></State>
+<State><ID>stand</ID><Animation><Filename>gml1_1h_sd.animx</Filename></Animation></State>
+<State><ID>run</ID><Animation><Filename>gml1_h1h_run.animx</Filename></Animation></State>
+<State><ID>attack prep left</ID><Animation><Filename>gml1_mc_rd_prepr.animx</Filename></Animation></State>
+<State><ID>attack prep right</ID><Animation><Filename>gml1_mc_rd_prepr.animx</Filename></Animation></State>
+<State><ID>stand b</ID><Animation><Filename>gml1_1h_sd.animx</Filename></Animation></State>
+<State><ID>stand c</ID><Animation><Filename>gml1_1h_sd.animx</Filename></Animation></State>
+<State><ID>stand d</ID><Animation><Filename>gml1_1h_sd.animx</Filename></Animation></State>
+</States><Actions>
+<Action><ID>stand Cough</ID><Animation><Filename>gml1_1h_sd_cough.animx</Filename></Animation></Action>
+<Action><ID>ready to stand</ID><Animation><Filename>gml1_1h_rd_to_sd.animx</Filename></Animation></Action>
+<Action><ID>pant to stand</ID><Animation><Filename>gml1_1h_pt_to_sd.animx</Filename></Animation></Action>
+<Action><ID>stand to pant</ID><Animation><Filename>gml1_1h_sd_topt.animx</Filename></Animation></Action>
+<Action><ID>idle</ID><Animation><Filename>gml1_1h_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 1</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 2</ID><Animation><Filename>gml1_1h_sd_idle_c.animx</Filename></Animation></Action>
+<Action><ID>idle variant 3</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 4</ID><Animation><Filename>gml1_1h_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 5</ID><Animation><Filename>gml1_1h_sd_idle_c.animx</Filename></Animation></Action>
+<Action><ID>idle variant 6</ID><Animation><Filename>gml1_1h_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 7</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>attack c</ID><Animation><Filename>gml1_h1h_attk_a.animx</Filename></Animation></Action>
+<Action><ID>attack d</ID><Animation><Filename>gml1_1h_rd_attk_d.animx</Filename></Animation></Action>
+<Action><ID>move attack b</ID><Animation><Filename>gml1_h1h_attk_a.animx</Filename></Animation></Action>
+<Action><ID>prone kick</ID><Animation><Filename>gml1_1h_rd_attkd_a.animx</Filename></Animation></Action>
+<Action><ID>prone stab A</ID><Animation><Filename>gml1_1h_rd_attkd_c.animx</Filename></Animation></Action>
+<Action><ID>crouch to ready</ID><Animation><Filename>gml1_1h_ch_to_sd.animx</Filename></Animation></Action>
+<Action><ID>stand Vomit</ID><Animation><Filename>gml1_1h_sd_vom.animx</Filename></Animation></Action>
+<Action><ID>attack a</ID><Animation><Filename>gml1_h1h_attk_a.animx</Filename></Animation></Action>
+<Action><ID>attack b</ID><Animation><Filename>gml1_h1h_attk_b.animx</Filename></Animation></Action>
+<Action><ID>prone attack</ID><Animation><Filename>gml1_h1h_attkp.animx</Filename></Animation></Action>
+<Action><ID>trans Stand to Crouch</ID><Animation><Filename>gml1_1h_sd_to_ch.animx</Filename></Animation></Action>
+<Action><ID>trans Crouch to Stand</ID><Animation><Filename>gml1_1h_ch_to_sd.animx</Filename></Animation></Action>
+<Action><ID>jump land</ID><Animation><Filename>gml1_h1h_land.animx</Filename></Animation></Action>
+<Action><ID>jump Air</ID><Animation><Filename>gml1_h1h_air.animx</Filename></Animation></Action>
+<Action><ID>jump start</ID><Animation><Filename>gml1_h1h_jump.animx</Filename></Animation></Action>
+<Action><ID>flinch front</ID><Animation><Filename>gml1_h1h_flnch_frn.animx</Filename></Animation></Action>
+<Action><ID>flinch back</ID><Animation><Filename>gml1_h1h_flnch_bck.animx</Filename></Animation></Action>
+<Action><ID>flinch left</ID><Animation><Filename>gml1_h1h_flnch_lft.animx</Filename></Animation></Action>
+<Action><ID>flinch right</ID><Animation><Filename>gml1_h1h_flnch_rgt.animx</Filename></Animation></Action>
+<Action><ID>pickup item</ID><Animation><Filename>gml1_h1h_pkup.animx</Filename></Animation></Action>
+<Action><ID>block flinch back</ID><Animation><Filename>gml1_h1h_block_flnchb.animx</Filename></Animation></Action>
+<Action><ID>block flinch front</ID><Animation><Filename>gml1_h1h_block_flnchf.animx</Filename></Animation></Action>
+<Action><ID>block flinch left</ID><Animation><Filename>gml1_h1h_block_flnchl.animx</Filename></Animation></Action>
+<Action><ID>block flinch right</ID><Animation><Filename>gml1_h1h_block_flnchr.animx</Filename></Animation></Action>
+<Action><ID>jump run land</ID><Animation><Filename>gml1_h1h_jr_land.animx</Filename></Animation></Action>
+<Action><ID>jump run start</ID><Animation><Filename>gml1_h1h_jr_jump.animx</Filename></Animation></Action>
+<Action><ID>jump run air</ID><Animation><Filename>gml1_h1h_jr_air.animx</Filename></Animation></Action>
+<Action><ID>move attack a</ID><Animation><Filename>gml1_h1h_attk_a.animx</Filename></Animation></Action>
+<Action><ID>run 180</ID><Animation><Filename>gml1_1h_skid_trn.animx</Filename></Animation></Action>
+<Action><ID>ready to crouch</ID><Animation><Filename>gml1_h1h_sd_to_ch.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Melee 2h</group><States>
+<State><ID>stand</ID><Animation><Filename>gml1_1h_sd.animx</Filename></Animation></State>
+<State><ID>combat stand</ID><Animation><Filename>gml1_h1h_sd.animx</Filename></Animation></State>
+<State><ID>walk</ID><Animation><Filename>gml1_1h_walk.animx</Filename></Animation></State>
+<State><ID>run</ID><Animation><Filename>gml1_h1h_run.animx</Filename></Animation></State>
+<State><ID>run ready</ID><Animation><Filename>gml1_h1h_run.animx</Filename></Animation></State>
+<State><ID>walk ready</ID><Animation><Filename>gml1_h1h_walk.animx</Filename></Animation></State>
+<State><ID>crouch</ID><Animation><Filename>gml1_h1h_ch.animx</Filename></Animation></State>
+<State><ID>crouch ready</ID><Animation><Filename>gml1_h1h_ch.animx</Filename></Animation></State>
+<State><ID>sprint</ID><Animation><Filename>gml1_h1h_sprint.animx</Filename></Animation></State>
+<State><ID>block</ID><Animation><Filename>gml1_h1h_block.animx</Filename></Animation></State>
+<State><ID>stand ready</ID><Animation><Filename>gml1_h1h_sd.animx</Filename></Animation></State>
+<State><ID>stand b</ID><Animation><Filename>gml1_1h_sd.animx</Filename></Animation></State>
+<State><ID>stand c</ID><Animation><Filename>gml1_1h_sd.animx</Filename></Animation></State>
+<State><ID>stand d</ID><Animation><Filename>gml1_1h_sd.animx</Filename></Animation></State>
+</States><Actions>
+<Action><ID>idle</ID><Animation><Filename>gml1_2h_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 1</ID><Animation><Filename>gml1_2h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 2</ID><Animation><Filename>gml1_1h_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 3</ID><Animation><Filename>gml1_2h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 4</ID><Animation><Filename>gml1_2h_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 5</ID><Animation><Filename>gml1_1h_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 6</ID><Animation><Filename>gml1_2h_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 7</ID><Animation><Filename>gml1_2h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>attack a</ID><Animation><Filename>gml1_2h_rd_attk_a.animx</Filename></Animation></Action>
+<Action><ID>attack b</ID><Animation><Filename>gml1_2h_rd_attk_b.animx</Filename></Animation></Action>
+<Action><ID>move attack a</ID><Animation><Filename>gml1_2h_rd_attkm_a.animx</Filename></Animation></Action>
+<Action><ID>move attack b</ID><Animation><Filename>gml1_2h_rd_attkm_a.animx</Filename></Animation></Action>
+<Action><ID>prone attack</ID><Animation><Filename>gml1_2h_rd_attkd_b.animx</Filename></Animation></Action>
+<Action><ID>prone kick</ID><Animation><Filename>gml1_1h_rd_attkd_a.animx</Filename></Animation></Action>
+<Action><ID>trans Stand to Crouch</ID><Animation><Filename>gml1_1h_sd_to_ch.animx</Filename></Animation></Action>
+<Action><ID>trans Crouch to Stand</ID><Animation><Filename>gml1_1h_ch_to_sd.animx</Filename></Animation></Action>
+<Action><ID>ready to crouch</ID><Animation><Filename>gml1_h1h_sd_to_ch.animx</Filename></Animation></Action>
+<Action><ID>run 180</ID><Animation><Filename>gml1_1h_skid_trn.animx</Filename></Animation></Action>
+<Action><ID>stand Vomit</ID><Animation><Filename>gml1_1h_sd_vom.animx</Filename></Animation></Action>
+<Action><ID>crouch to ready</ID><Animation><Filename>gml1_h1h_ch_to_sd.animx</Filename></Animation></Action>
+<Action><ID>flinch front</ID><Animation><Filename>gml1_h1h_flnch_frn.animx</Filename></Animation></Action>
+<Action><ID>flinch back</ID><Animation><Filename>gml1_h1h_flnch_bck.animx</Filename></Animation></Action>
+<Action><ID>flinch left</ID><Animation><Filename>gml1_h1h_flnch_lft.animx</Filename></Animation></Action>
+<Action><ID>flinch right</ID><Animation><Filename>gml1_h1h_flnch_rgt.animx</Filename></Animation></Action>
+<Action><ID>block flinch back</ID><Animation><Filename>gml1_h1h_block_flnchb.animx</Filename></Animation></Action>
+<Action><ID>block flinch front</ID><Animation><Filename>gml1_h1h_block_flnchf.animx</Filename></Animation></Action>
+<Action><ID>block flinch left</ID><Animation><Filename>gml1_h1h_block_flnchl.animx</Filename></Animation></Action>
+<Action><ID>block flinch right</ID><Animation><Filename>gml1_h1h_block_flnchr.animx</Filename></Animation></Action>
+<Action><ID>pickup item</ID><Animation><Filename>gml1_h1h_pkup.animx</Filename></Animation></Action>
+<Action><ID>ready to stand</ID><Animation><Filename>gml1_1h_rd_to_sd.animx</Filename></Animation></Action>
+<Action><ID>attack a recoil</ID><Animation><Filename>gml1_2h_rcoil_attk_a.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Sword_1h</group><States>
+<State><ID>block</ID><Animation><Filename>ykza_swd_2h_rd_block.animx</Filename></Animation></State>
+<State><ID>attack prep left</ID><Animation><Filename>gml1_swd_1h_rd_prepl.animx</Filename></Animation></State>
+<State><ID>attack prep right</ID><Animation><Filename>gml1_swd_1h_rd_prepr.animx</Filename></Animation></State>
+<State><ID>stand ready</ID><Animation><Filename>ykza_swd_2h_rd.animx</Filename></Animation></State>
+<State><ID>stand b</ID><Animation><Filename>gml1_1h_sd.animx</Filename></Animation></State>
+<State><ID>stand c</ID><Animation><Filename>gml1_1h_sd.animx</Filename></Animation></State>
+<State><ID>stand d</ID><Animation><Filename>gml1_1h_sd.animx</Filename></Animation></State>
+<State><ID>walk ready</ID><Animation><Filename>ykza_swd_2h_rd_walk.animx</Filename></Animation></State>
+<State><ID>walk ready back</ID><Animation><Filename>ykza_swd_2h_rd_walk_bck.animx</Filename></Animation></State>
+<State><ID>walk ready left</ID><Animation><Filename>ykza_swd_2h_rd_walk_lft.animx</Filename></Animation></State>
+<State><ID>walk ready right</ID><Animation><Filename>ykza_swd_2h_rd_walk_rgt.animx</Filename></Animation></State>
+<State><ID>run ready</ID><Animation><Filename>ykza_swd_2h_rd_run.animx</Filename></Animation></State>
+<State><ID>run ready back</ID><Animation><Filename>ykza_swd_2h_rd_run_bck.animx</Filename></Animation></State>
+<State><ID>run ready left</ID><Animation><Filename>ykza_swd_2h_rd_run_lft.animx</Filename></Animation></State>
+<State><ID>run ready right</ID><Animation><Filename>ykza_swd_2h_rd_run_rgt.animx</Filename></Animation></State>
+</States><Actions>
+<Action><ID>block flinch back</ID><Animation><Filename>ykza_swd_2h_rd_block_flnchb.animx</Filename></Animation></Action>
+<Action><ID>block flinch front</ID><Animation><Filename>ykza_swd_2h_rd_block_flnchf.animx</Filename></Animation></Action>
+<Action><ID>block flinch left</ID><Animation><Filename>ykza_swd_2h_rd_block_flnchl.animx</Filename></Animation></Action>
+<Action><ID>block flinch right</ID><Animation><Filename>ykza_swd_2h_rd_block_flnchr.animx</Filename></Animation></Action>
+<Action><ID>attack a</ID><Animation><Filename>gml1_swd_1h_rd_attk_a.animx</Filename></Animation></Action>
+<Action><ID>attack b</ID><Animation><Filename>gml1_swd_1h_rd_attk_b.animx</Filename></Animation></Action>
+<Action><ID>move attack a</ID><Animation><Filename>ykza_swd_2h_rd_attkm_a.animx</Filename></Animation></Action>
+<Action><ID>move attack b</ID><Animation><Filename>ykza_swd_2h_rd_attkm_b.animx</Filename></Animation></Action>
+<Action><ID>prone attack</ID><Animation><Filename>gml1_swd_1h_rd_attkp.animx</Filename></Animation></Action>
+<Action><ID>flinch front</ID><Animation><Filename>ykza_swd_2h_rd_flnch_frn.animx</Filename></Animation></Action>
+<Action><ID>flinch back</ID><Animation><Filename>ykza_swd_2h_rd_flnch_bck.animx</Filename></Animation></Action>
+<Action><ID>flinch left</ID><Animation><Filename>ykza_swd_2h_rd_flnch_lft.animx</Filename></Animation></Action>
+<Action><ID>flinch right</ID><Animation><Filename>ykza_swd_2h_rd_flnch_rgt.animx</Filename></Animation></Action>
+<Action><ID>finish L 1</ID><Animation><Filename>gml1_swd_1h_rd_atkfl_a.animx</Filename></Animation></Action>
+<Action><ID>finish L 2</ID><Animation><Filename>gml1_swd_1h_rd_atkfl_b.animx</Filename></Animation></Action>
+<Action><ID>finish R 1</ID><Animation><Filename>gml1_swd_1h_rd_atkfr_a.animx</Filename></Animation></Action>
+<Action><ID>finish R 2</ID><Animation><Filename>gml1_swd_1h_rd_atkfr_b.animx</Filename></Animation></Action>
+<Action><ID>attack L 1</ID><Animation><Filename>gml1_swd_1h_rd_atkl_a.animx</Filename></Animation></Action>
+<Action><ID>attack L 2</ID><Animation><Filename>gml1_swd_1h_rd_atkl_b.animx</Filename></Animation></Action>
+<Action><ID>attack L 3</ID><Animation><Filename>gml1_swd_1h_rd_atkl_c.animx</Filename></Animation></Action>
+<Action><ID>attack R 1</ID><Animation><Filename>gml1_swd_1h_rd_atkr_a.animx</Filename></Animation></Action>
+<Action><ID>attack R 2</ID><Animation><Filename>gml1_swd_1h_rd_atkr_b.animx</Filename></Animation></Action>
+<Action><ID>attack R 3</ID><Animation><Filename>gml1_swd_1h_rd_atkr_c.animx</Filename></Animation></Action>
+<Action><ID>attack d</ID><Animation><Filename>gml1_swd_1h_rd_atkr_c.animx</Filename></Animation></Action>
+<Action><ID>parry A</ID><Animation><Filename>gml1_swd_1h_rd_parry_a.animx</Filename></Animation></Action>
+<Action><ID>parry B</ID><Animation><Filename>gml1_swd_1h_rd_parry_b.animx</Filename></Animation></Action>
+<Action><ID>parry C</ID><Animation><Filename>gml1_swd_1h_rd_parry_c.animx</Filename></Animation></Action>
+<Action><ID>parry D</ID><Animation><Filename>gml1_swd_1h_rd_parry_d.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Sword_2h</group><States>
+<State><ID>stand ready</ID><Animation><Filename>ykza_swd_2h_rd.animx</Filename></Animation></State>
+<State><ID>block</ID><Animation><Filename>ykza_swd_2h_rd_block.animx</Filename></Animation></State>
+<State><ID>run ready</ID><Animation><Filename>ykza_swd_2h_rd_run.animx</Filename></Animation></State>
+<State><ID>run ready back</ID><Animation><Filename>ykza_swd_2h_rd_run_bck.animx</Filename></Animation></State>
+<State><ID>run ready left</ID><Animation><Filename>ykza_swd_2h_rd_run_lft.animx</Filename></Animation></State>
+<State><ID>run ready right</ID><Animation><Filename>ykza_swd_2h_rd_run_rgt.animx</Filename></Animation></State>
+<State><ID>walk ready</ID><Animation><Filename>ykza_swd_2h_rd_walk.animx</Filename></Animation></State>
+<State><ID>walk ready back</ID><Animation><Filename>ykza_swd_2h_rd_walk_bck.animx</Filename></Animation></State>
+<State><ID>walk ready left</ID><Animation><Filename>ykza_swd_2h_rd_walk_lft.animx</Filename></Animation></State>
+<State><ID>walk ready right</ID><Animation><Filename>ykza_swd_2h_rd_walk_rgt.animx</Filename></Animation></State>
+<State><ID>stand b</ID><Animation><Filename>gml1_1h_sd.animx</Filename></Animation></State>
+<State><ID>stand c</ID><Animation><Filename>gml1_1h_sd.animx</Filename></Animation></State>
+<State><ID>stand d</ID><Animation><Filename>gml1_1h_sd.animx</Filename></Animation></State>
+</States><Actions>
+<Action><ID>attack R 1</ID><Animation><Filename>ykza_swd_2h_rd_attk_a.animx</Filename></Animation></Action>
+<Action><ID>attack L 1</ID><Animation><Filename>ykza_swd_2h_rd_attk_b.animx</Filename></Animation></Action>
+<Action><ID>block flinch back</ID><Animation><Filename>ykza_swd_2h_rd_block_flnchb.animx</Filename></Animation></Action>
+<Action><ID>block flinch front</ID><Animation><Filename>ykza_swd_2h_rd_block_flnchf.animx</Filename></Animation></Action>
+<Action><ID>block flinch left</ID><Animation><Filename>ykza_swd_2h_rd_block_flnchl.animx</Filename></Animation></Action>
+<Action><ID>block flinch right</ID><Animation><Filename>ykza_swd_2h_rd_block_flnchr.animx</Filename></Animation></Action>
+<Action><ID>move attack b</ID><Animation><Filename>ykza_swd_2h_rd_attkm_a.animx</Filename></Animation></Action>
+<Action><ID>move attack a</ID><Animation><Filename>ykza_swd_2h_rd_attkm_b.animx</Filename></Animation></Action>
+<Action><ID>prone attack</ID><Animation><Filename>ykza_swd_2h_rd_attkp.animx</Filename></Animation></Action>
+<Action><ID>flinch front</ID><Animation><Filename>ykza_swd_2h_rd_flnch_frn.animx</Filename></Animation></Action>
+<Action><ID>flinch back</ID><Animation><Filename>ykza_swd_2h_rd_flnch_bck.animx</Filename></Animation></Action>
+<Action><ID>flinch left</ID><Animation><Filename>ykza_swd_2h_rd_flnch_lft.animx</Filename></Animation></Action>
+<Action><ID>flinch right</ID><Animation><Filename>ykza_swd_2h_rd_flnch_rgt.animx</Filename></Animation></Action>
+<Action><ID>attack R 2</ID><Animation><Filename>ykza_swd_2h_rd_attk_c.animx</Filename></Animation></Action>
+<Action><ID>attack L 2</ID><Animation><Filename>ykza_swd_2h_rd_attk_d.animx</Filename></Animation></Action>
+<Action><ID>stand to ready</ID><Animation><Filename>ykza_swd_2h_sd_to_rd.animx</Filename></Animation></Action>
+<Action><ID>stand Turn Left</ID><Animation><Filename>ykza_swd_2h_rd_sttle_lft.animx</Filename></Animation></Action>
+<Action><ID>stand Turn Right</ID><Animation><Filename>ykza_swd_2h_rd_sttle_rgt.animx</Filename></Animation></Action>
+<Action><ID>attack R 3</ID><Animation><Filename>gml1_swd_2h_rd_attkfncy_a.animx</Filename></Animation></Action>
+<Action><ID>attack L 3</ID><Animation><Filename>gml1_swd_2h_rd_attkfncy_b.animx</Filename></Animation></Action>
+<Action><ID>attack a</ID><Animation><Filename>ykza_swd_2h_rd_attk_rgt.animx</Filename></Animation></Action>
+<Action><ID>attack b</ID><Animation><Filename>ykza_swd_2h_rd_attk_lft.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Dual_Sword</group><States>
+<State><ID>stand ready</ID><Animation><Filename>ykza_swd_dw_rd.animx</Filename></Animation></State>
+<State><ID>block</ID><Animation><Filename>ykza_swd_dw_rd_block.animx</Filename></Animation></State>
+<State><ID>run ready</ID><Animation><Filename>ykza_swd_dw_rd_run.animx</Filename></Animation></State>
+<State><ID>run ready back</ID><Animation><Filename>ykza_swd_dw_rd_run_bck.animx</Filename></Animation></State>
+<State><ID>run ready left</ID><Animation><Filename>ykza_swd_dw_rd_run_lft.animx</Filename></Animation></State>
+<State><ID>run ready right</ID><Animation><Filename>ykza_swd_dw_rd_run_rgt.animx</Filename></Animation></State>
+<State><ID>walk ready</ID><Animation><Filename>ykza_swd_dw_rd_walk.animx</Filename></Animation></State>
+<State><ID>walk ready back</ID><Animation><Filename>ykza_swd_dw_rd_walk_bck.animx</Filename></Animation></State>
+<State><ID>walk ready left</ID><Animation><Filename>ykza_swd_dw_rd_walk_lft.animx</Filename></Animation></State>
+<State><ID>walk ready right</ID><Animation><Filename>ykza_swd_dw_rd_walk_rgt.animx</Filename></Animation></State>
+</States><Actions>
+<Action><ID>attack a</ID><Animation><Filename>ykza_swd_dw_rd_attk_a.animx</Filename></Animation></Action>
+<Action><ID>attack b</ID><Animation><Filename>ykza_swd_dw_rd_attk_b.animx</Filename></Animation></Action>
+<Action><ID>block flinch back</ID><Animation><Filename>ykza_swd_dw_rd_block_flnchb.animx</Filename></Animation></Action>
+<Action><ID>block flinch front</ID><Animation><Filename>ykza_swd_dw_rd_block_flnchf.animx</Filename></Animation></Action>
+<Action><ID>block flinch left</ID><Animation><Filename>ykza_swd_dw_rd_block_flnchl.animx</Filename></Animation></Action>
+<Action><ID>block flinch right</ID><Animation><Filename>ykza_swd_dw_rd_block_flnchr.animx</Filename></Animation></Action>
+<Action><ID>move attack b</ID><Animation><Filename>ykza_swd_dw_rd_attkm_b.animx</Filename></Animation></Action>
+<Action><ID>move attack a</ID><Animation><Filename>ykza_swd_dw_rd_attkm_a.animx</Filename></Animation></Action>
+<Action><ID>prone attack</ID><Animation><Filename>ykza_swd_dw_rd_attkp.animx</Filename></Animation></Action>
+<Action><ID>flinch front</ID><Animation><Filename>ykza_swd_dw_rd_flnch_frn.animx</Filename></Animation></Action>
+<Action><ID>flinch back</ID><Animation><Filename>ykza_swd_dw_rd_flnch_bck.animx</Filename></Animation></Action>
+<Action><ID>flinch left</ID><Animation><Filename>ykza_swd_dw_rd_flnch_lft.animx</Filename></Animation></Action>
+<Action><ID>flinch right</ID><Animation><Filename>ykza_swd_dw_rd_flnch_rgt.animx</Filename></Animation></Action>
+<Action><ID>attack c</ID><Animation><Filename>ykza_swd_dw_rd_attk_c.animx</Filename></Animation></Action>
+<Action><ID>stand to ready</ID><Animation><Filename>ykza_swd_dw_sd_to_rd.animx</Filename></Animation></Action>
+<Action><ID>stand Turn Left</ID><Animation><Filename>ykza_swd_dw_rd_sttle_lft.animx</Filename></Animation></Action>
+<Action><ID>stand Turn Right</ID><Animation><Filename>ykza_swd_dw_rd_sttle_rgt.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>PepperSpray</group><States>
+<State><ID>stand</ID><Animation><Filename>gml1_pspry_sd.animx</Filename></Animation></State>
+<State><ID>walk</ID><Animation><Filename>gml1_pspry_walk.animx</Filename></Animation></State>
+<State><ID>walk ready</ID><Animation><Filename>gml1_pspry_rd_walk.animx</Filename></Animation></State>
+<State><ID>run</ID><Animation><Filename>gml1_pspry_run.animx</Filename></Animation></State>
+<State><ID>run ready</ID><Animation><Filename>gml1_pspry_rd_run.animx</Filename></Animation></State>
+<State><ID>sprint</ID><Animation><Filename>gml1_pspry_sprint.animx</Filename></Animation></State>
+<State><ID>walk ready left</ID><Animation><Filename>gml1_pspry_rd_walk_lft.animx</Filename></Animation></State>
+<State><ID>walk ready right</ID><Animation><Filename>gml1_pspry_rd_walk_rgt.animx</Filename></Animation></State>
+<State><ID>walk ready back</ID><Animation><Filename>gml1_pspry_rd_walk_bck.animx</Filename></Animation></State>
+<State><ID>run ready back</ID><Animation><Filename>gml1_pspry_rd_run_bck.animx</Filename></Animation></State>
+<State><ID>run ready left</ID><Animation><Filename>gml1_pspry_rd_run_lft.animx</Filename></Animation></State>
+<State><ID>run ready right</ID><Animation><Filename>gml1_pspry_rd_run_rgt.animx</Filename></Animation></State>
+<State><ID>stand ready</ID><Animation><Filename>gml1_pspry_rd.animx</Filename></Animation></State>
+<State><ID>crouch ready</ID><Animation><Filename>gml1_pspry_cr.animx</Filename></Animation></State>
+<State><ID>crouch wlk rdy left</ID><Animation><Filename>gml1_pspry_cr_walk_lft.animx</Filename></Animation></State>
+<State><ID>crouch wlk rdy right</ID><Animation><Filename>gml1_pspry_cr_walk_rgt.animx</Filename></Animation></State>
+<State><ID>crouch wlk rdy back</ID><Animation><Filename>gml1_pspry_cr_walk_bck.animx</Filename></Animation></State>
+<State><ID>crouch wlk rdy fwd</ID><Animation><Filename>gml1_pspry_cr_walk.animx</Filename></Animation></State>
+<State><ID>Fine Aim Stand</ID><Animation><Filename>gml1_pspry_rd.animx</Filename></Animation></State>
+<State><ID>Fine Aim Walk</ID><Animation><Filename>gml1_pspry_rd_walk.animx</Filename></Animation></State>
+<State><ID>crouch</ID><Animation><Filename>gml1_pspry_ch.animx</Filename></Animation></State>
+<State><ID>stand b</ID><Animation><Filename>gml1_pspry_sd.animx</Filename></Animation></State>
+<State><ID>stand c</ID><Animation><Filename>gml1_pspry_sd.animx</Filename></Animation></State>
+<State><ID>stand d</ID><Animation><Filename>gml1_pspry_sd.animx</Filename></Animation></State>
+</States><Actions>
+<Action><ID>melee</ID><Animation><Filename>pml1_ps_rd_whip.animx</Filename></Animation></Action>
+<Action><ID>melee moving</ID><Animation><Filename>pml1_ps_rd_whipm.animx</Filename></Animation></Action>
+<Action><ID>stand whip</ID><Animation><Filename>pml1_ps_sd_whip.animx</Filename></Animation></Action>
+<Action><ID>stand to ready</ID><Animation><Filename>gml1_pspry_sd_to_rd.animx</Filename></Animation></Action>
+<Action><ID>ready to stand</ID><Animation><Filename>gml1_pspry_rd_to_sd.animx</Filename></Animation></Action>
+<Action><ID>ready to crouch ready</ID><Animation><Filename>gml1_pspry_rd_to_cr.animx</Filename></Animation></Action>
+<Action><ID>crouch ready to ready</ID><Animation><Filename>gml1_pspry_cr_to_rd.animx</Filename></Animation></Action>
+<Action><ID>Fine Aim Fire</ID><Animation><Filename>gml1_pspry_rd.animx</Filename></Animation></Action>
+<Action><ID>trans Stand to Crouch</ID><Animation><Filename>gml1_pspry_sd_to_ch.animx</Filename></Animation></Action>
+<Action><ID>trans Crouch to Stand</ID><Animation><Filename>gml1_pspry_ch_to_sd.animx</Filename></Animation></Action>
+<Action><ID>crouch to crouch ready</ID><Animation><Filename>gml1_pspry_ch_to_cr.animx</Filename></Animation></Action>
+<Action><ID>crouch ready to crouch</ID><Animation><Filename>gml1_pspry_cr_to_ch.animx</Filename></Animation></Action>
+<Action><ID>idle</ID><Animation><Filename>gml1_pspry_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 1</ID><Animation><Filename>gml1_pspry_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 2</ID><Animation><Filename>gml1_pspry_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 3</ID><Animation><Filename>gml1_pspry_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 4</ID><Animation><Filename>gml1_pspry_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 5</ID><Animation><Filename>gml1_pspry_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 6</ID><Animation><Filename>gml1_pspry_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 7</ID><Animation><Filename>gml1_pspry_sd_idle_a.animx</Filename></Animation></Action>
+<Action><ID>idle variant 8</ID><Animation><Filename>gml1_pspry_sd_idle_a.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Nightstick</group><States>
+</States><Actions>
+<Action><ID>attack a</ID><Animation><Filename>gml1_h1h_attk_a.animx</Filename></Animation></Action>
+<Action><ID>attack b</ID><Animation><Filename>gml1_h1h_attk_b.animx</Filename></Animation></Action>
+<Action><ID>move attack a</ID><Animation><Filename>gml1_h1h_attkm.animx</Filename></Animation></Action>
+<Action><ID>move attack b</ID><Animation><Filename>gml1_h1h_attkm.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Stun Gun</group><States>
+</States><Actions>
+<Action><ID>attack a</ID><Animation><Filename>gml1_1h_rd_attk_d.animx</Filename></Animation></Action>
+<Action><ID>attack b</ID><Animation><Filename>gml1_1h_rd_attk_d.animx</Filename></Animation></Action>
+<Action><ID>move attack a</ID><Animation><Filename>gml1_1h_rd_attkm_d.animx</Filename></Animation></Action>
+<Action><ID>move attack b</ID><Animation><Filename>gml1_1h_rd_attkm_d.animx</Filename></Animation></Action>
+<Action><ID>prone attack</ID><Animation><Filename>gml1_1h_rd_attkd_c.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Knife</group><States>
+</States><Actions>
+<Action><ID>idle</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 1</ID><Animation><Filename>gml1_1h_sd_idle_c.animx</Filename></Animation></Action>
+<Action><ID>idle variant 2</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 3</ID><Animation><Filename>gml1_1h_sd_idle_c.animx</Filename></Animation></Action>
+<Action><ID>idle variant 4</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 5</ID><Animation><Filename>gml1_1h_sd_idle_c.animx</Filename></Animation></Action>
+<Action><ID>idle variant 6</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 7</ID><Animation><Filename>gml1_1h_sd_idle_c.animx</Filename></Animation></Action>
+<Action><ID>prone attack</ID><Animation><Filename>gml1_1h_rd_attkd_c.animx</Filename></Animation></Action>
+<Action><ID>trans Stand to Crouch</ID><Animation><Filename>gml1_1h_sd_to_ch.animx</Filename></Animation></Action>
+<Action><ID>trans Crouch to Stand</ID><Animation><Filename>gml1_1h_ch_to_sd.animx</Filename></Animation></Action>
+<Action><ID>ready to stand</ID><Animation><Filename>gml1_1h_rd_to_sd.animx</Filename></Animation></Action>
+<Action><ID>ready to crouch</ID><Animation><Filename>gml1_h1h_sd_to_ch.animx</Filename></Animation></Action>
+<Action><ID>punch L 1</ID><Animation><Filename>gml1_mc_rd_atkl_a.animx</Filename></Animation></Action>
+<Action><ID>punch L 2</ID><Animation><Filename>gml1_mc_rd_atkl_b.animx</Filename></Animation></Action>
+<Action><ID>punch R 1</ID><Animation><Filename>gml1_mc_rd_atkr_a.animx</Filename></Animation></Action>
+<Action><ID>punch R 2</ID><Animation><Filename>gml1_mc_rd_atkr_b.animx</Filename></Animation></Action>
+<Action><ID>punch move l</ID><Animation><Filename>gml1_mc_rd_attkm_lft.animx</Filename></Animation></Action>
+<Action><ID>punch move r</ID><Animation><Filename>gml1_mc_rd_attkm_rgt.animx</Filename></Animation></Action>
+<Action><ID>punch L 3</ID><Animation><Filename>gml1_mc_rd_atkl_c.animx</Filename></Animation></Action>
+<Action><ID>punch R 3</ID><Animation><Filename>gml1_mc_rd_atkr_c.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Thrown</group><States>
+</States><Actions>
+<Action><ID>idle</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 1</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 2</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 3</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 4</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 5</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 6</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>idle variant 7</ID><Animation><Filename>gml1_1h_sd_idle_b.animx</Filename></Animation></Action>
+<Action><ID>prone attack</ID><Animation><Filename>gml1_h1h_attkp.animx</Filename></Animation></Action>
+<Action><ID>throw item</ID><Animation><Filename>gml1_h1h_thrw.animx</Filename></Animation></Action>
+<Action><ID>toss item</ID><Animation><Filename>gml1_1h_rd_toss.animx</Filename></Animation></Action>
+<Action><ID>trans Crouch to Stand</ID><Animation><Filename>gml1_1h_ch_to_sd.animx</Filename></Animation></Action>
+<Action><ID>throw item back</ID><Animation><Filename>gml1_1h_rd_thrw_bck.animx</Filename></Animation></Action>
+<Action><ID>throw item back move</ID><Animation><Filename>gml1_1h_rd_thrwm_bck.animx</Filename></Animation></Action>
+<Action><ID>throw item left</ID><Animation><Filename>gml1_1h_rd_thrwl.animx</Filename></Animation></Action>
+<Action><ID>throw item move</ID><Animation><Filename>gml1_1h_rd_thrwm.animx</Filename></Animation></Action>
+<Action><ID>throw item move left</ID><Animation><Filename>gml1_1h_rd_thrwml.animx</Filename></Animation></Action>
+<Action><ID>toss item move</ID><Animation><Filename>gml1_1h_rd_tossm.animx</Filename></Animation></Action>
+<Action><ID>toss item left move</ID><Animation><Filename>gml1_1h_rd_tossm_lft.animx</Filename></Animation></Action>
+<Action><ID>toss item back move</ID><Animation><Filename>gml1_1h_rd_tossm_bck.animx</Filename></Animation></Action>
+<Action><ID>trans Stand to Crouch</ID><Animation><Filename>gml1_1h_sd_to_ch.animx</Filename></Animation></Action>
+<Action><ID>ready to stand</ID><Animation><Filename>gml1_1h_rd_to_sd.animx</Filename></Animation></Action>
+<Action><ID>ready to crouch</ID><Animation><Filename>gml1_h1h_sd_to_ch.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Sledge</group><States>
+</States><Actions>
+<Action><ID>attack a</ID><Animation><Filename>gml1_2hm_sldg_rd_attk_a.animx</Filename></Animation></Action>
+<Action><ID>attack a recoil</ID><Animation><Filename>gml1_2hm_sldg_rcoil_attk_a.animx</Filename></Animation></Action>
+<Action><ID>attack b</ID><Animation><Filename>gml1_2hm_sldg_rd_attk_a.animx</Filename></Animation></Action>
+<Action><ID>move attack a</ID><Animation><Filename>gml1_2hm_sldg_rd_attk_a.animx</Filename></Animation></Action>
+<Action><ID>move attack b</ID><Animation><Filename>gml1_2hm_sldg_rd_attk_a.animx</Filename></Animation></Action>
+<Action><ID>prone attack</ID><Animation><Filename>gml1_2hm_sldg_rd_attkp_b.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Melee Yakuza</group><States>
+<State><ID>combat stand</ID><Animation><Filename>ykza_mc_rd.animx</Filename></Animation></State>
+<State><ID>attack prep left</ID><Animation><Filename>ykza_mc_rd_prepl.animx</Filename></Animation></State>
+<State><ID>attack prep right</ID><Animation><Filename>ykza_mc_rd_prepr.animx</Filename></Animation></State>
+</States><Actions>
+<Action><ID>trans MC ready to stand</ID><Animation><Filename>gml1_mc_rd_to_sd.animx</Filename></Animation></Action>
+<Action><ID>punch L 1</ID><Animation><Filename>ykza_mc_rd_atkl_a.animx</Filename></Animation></Action>
+<Action><ID>punch L 2</ID><Animation><Filename>ykza_mc_rd_atkl_b.animx</Filename></Animation></Action>
+<Action><ID>punch R 1</ID><Animation><Filename>ykza_mc_rd_atkr_a.animx</Filename></Animation></Action>
+<Action><ID>punch R 2</ID><Animation><Filename>ykza_mc_rd_atkr_b.animx</Filename></Animation></Action>
+<Action><ID>punch move l</ID><Animation><Filename>ykza_mc_rd_attkm_rgt.animx</Filename></Animation></Action>
+<Action><ID>punch move r</ID><Animation><Filename>ykza_mc_rd_attkm_rgt.animx</Filename></Animation></Action>
+<Action><ID>finish L 1</ID><Animation><Filename>ykza_mc_rd_atkfl_a.animx</Filename></Animation></Action>
+<Action><ID>finish L 2</ID><Animation><Filename>ykza_mc_rd_atkfl_b.animx</Filename></Animation></Action>
+<Action><ID>finish R 1</ID><Animation><Filename>ykza_mc_rd_atkfr_a.animx</Filename></Animation></Action>
+<Action><ID>finish R 2</ID><Animation><Filename>ykza_mc_rd_atkfr_b.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Melee Tribal</group><States>
+<State><ID>combat stand</ID><Animation><Filename>trbl_mc_rd.animx</Filename></Animation></State>
+<State><ID>attack prep left</ID><Animation><Filename>trbl_mc_rd_prepl.animx</Filename></Animation></State>
+<State><ID>attack prep right</ID><Animation><Filename>trbl_mc_rd_prepr.animx</Filename></Animation></State>
+</States><Actions>
+<Action><ID>finish L 1</ID><Animation><Filename>trbl_mc_rd_atkfl_a.animx</Filename></Animation></Action>
+<Action><ID>finish L 2</ID><Animation><Filename>trbl_mc_rd_atkfl_c.animx</Filename></Animation></Action>
+<Action><ID>finish R 1</ID><Animation><Filename>trbl_mc_rd_atkfl_d.animx</Filename></Animation></Action>
+<Action><ID>finish R 2</ID><Animation><Filename>trbl_mc_rd_atkfr_a.animx</Filename></Animation></Action>
+<Action><ID>punch L 1</ID><Animation><Filename>trbl_mc_rd_atkl_a.animx</Filename></Animation></Action>
+<Action><ID>punch L 2</ID><Animation><Filename>trbl_mc_rd_atkl_b.animx</Filename></Animation></Action>
+<Action><ID>punch R 1</ID><Animation><Filename>trbl_mc_rd_atkr_a.animx</Filename></Animation></Action>
+<Action><ID>punch R 2</ID><Animation><Filename>trbl_mc_rd_atkr_b.animx</Filename></Animation></Action>
+<Action><ID>punch move l</ID><Animation><Filename>gml1_mc_rd_attkm_lft.animx</Filename></Animation></Action>
+<Action><ID>punch move r</ID><Animation><Filename>gml1_mc_rd_attkm_rgt.animx</Filename></Animation></Action>
+</Actions></Group>
+<Group><group>Melee Caribbean</group><States>
+<State><ID>combat stand</ID><Animation><Filename>crib_mc_rd.animx</Filename></Animation></State>
+<State><ID>attack prep left</ID><Animation><Filename>crib_mc_rd_prepl.animx</Filename></Animation></State>
+<State><ID>attack prep right</ID><Animation><Filename>crib_mc_rd_prepr.animx</Filename></Animation></State>
+</States><Actions>
+<Action><ID>finish L 1</ID><Animation><Filename>crib_mc_rd_atkfl_a.animx</Filename></Animation></Action>
+<Action><ID>finish L 2</ID><Animation><Filename>crib_mc_rd_atkfl_b.animx</Filename></Animation></Action>
+<Action><ID>finish R 1</ID><Animation><Filename>crib_mc_rd_atkfr_a.animx</Filename></Animation></Action>
+<Action><ID>finish R 2</ID><Animation><Filename>crib_mc_rd_atkfr_b.animx</Filename></Animation></Action>
+<Action><ID>punch L 1</ID><Animation><Filename>crib_mc_rd_atkl_a.animx</Filename></Animation></Action>
+<Action><ID>punch L 2</ID><Animation><Filename>crib_mc_rd_atkl_b.animx</Filename></Animation></Action>
+<Action><ID>punch R 1</ID><Animation><Filename>crib_mc_rd_atkr_a.animx</Filename></Animation></Action>
+<Action><ID>punch R 2</ID><Animation><Filename>crib_mc_rd_atkr_b.animx</Filename></Animation></Action>
+<Action><ID>punch move l</ID><Animation><Filename>crib_mc_rd_attkm_lft.animx</Filename></Animation></Action>
+<Action><ID>punch move r</ID><Animation><Filename>crib_mc_rd_attkm_rgt.animx</Filename></Animation></Action>
+<Action><ID>trans MC ready to stand</ID><Animation><Filename>crib_mc_rd_to_sd.animx</Filename></Animation></Action>
+</Actions></Group>
+</Groups><_Editor><Category>Entries</Category></_Editor></Skeleton_Set></Table><TableTemplates></TableTemplates>
+<TableDescription><Name>Skeleton_Set</Name><Type>TableDescription</Type><Display_Name>Skeleton Set</Display_Name><Element><Name>Name</Name><Type>String</Type><Display_Name>Skeleton Name</Display_Name></Element>
+<Element><Name>Parent_Skeleton</Name><Type>String</Type><Display_Name>Parent Skeleton</Display_Name><Required>false</Required></Element><Element><Name>Groups</Name><Type>Grid</Type><Element><Name>Group</Name><Type>Element</Type>
+<Element><Name>group</Name><Type>Reference</Type><Display_Name>Group</Display_Name><Unique>true</Unique><Reference><File>anim_groups.xtbl</File><Type>Anim_Group.Name</Type></Reference></Element>
+<Element><Name>States</Name><Type>Grid</Type><Element><Name>State</Name><Type>Element</Type><Element><Name>ID</Name><Type>Reference</Type><Reference><File>anim_states.xtbl</File><Type>State.Name</Type></Reference></Element>
+<Element><Name>Animation</Name><Type>Filename</Type><Extension>animx</Extension><StartingPath>data\anim</StartingPath><ShowPreload>False</ShowPreload></Element></Element><Num_Display_Rows>30</Num_Display_Rows></Element>
+<Element><Name>Actions</Name><Type>Grid</Type><Element><Name>Action</Name><Type>Element</Type><Element><Name>ID</Name><Type>Reference</Type><Reference><File>anim_actions.xtbl</File><Type>Action.Name</Type></Reference></Element>
+<Element><Name>Animation</Name><Type>Filename</Type><Extension>animx</Extension><StartingPath>data\anim</StartingPath><ShowPreload>False</ShowPreload></Element>
+</Element><Num_Display_Rows>30</Num_Display_Rows></Element></Element><Num_Display_Rows>8</Num_Display_Rows></Element></TableDescription><EntryCategories><Category><Name>Entries</Name></Category></EntryCategories></root>

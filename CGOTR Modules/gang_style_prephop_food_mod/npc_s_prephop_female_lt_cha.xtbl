@@ -1,0 +1,33 @@
+<root>
+  <Table>
+    <Character>
+      <Name>npc_s_prephop_female_lt</Name>
+      <Approved>No</Approved>
+      <Model>
+        <Filename>npc_freckle_bitch.cmeshx</Filename>
+      </Model>
+      <Height_Class>Medium</Height_Class>
+      <Height>0.944444444444444</Height>
+      <Variation>0.0294117647058824</Variation>
+      <Base_Height_Offset>0</Base_Height_Offset>
+      <Min_Blink>1000</Min_Blink>
+      <Max_Blink>4000</Max_Blink>
+      <Anim_Set>GFL1</Anim_Set>
+      <Rig>
+        <Filename>SR2_Main_Rig.rigx</Filename>
+        <Preload>true</Preload>
+      </Rig>
+      <Morph>
+        <Filename>npc_freckle_bitch.morphx</Filename>
+      </Morph>
+      <Pcm>
+        <Filename>npc_freckle_bitch.pcmx</Filename>
+      </Pcm>
+      <Cloth_Sim>
+        <Filename>npc_freckle_bitch.simx</Filename>
+      </Cloth_Sim>
+    </Character>
+  </Table>
+  <TableDescription source="character_desc.xml">
+  </TableDescription>
+</root>

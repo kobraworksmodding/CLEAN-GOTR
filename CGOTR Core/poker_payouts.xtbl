@@ -1,0 +1,121 @@
+<root>
+<Table>
+	<Poker_Payouts>
+		<Name>Poker Payouts</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Hands>
+			<Hand>
+				<Index>0</Index>
+				<Display_Name>DIVERSION_POKER_JACKS_OR_HIGHER</Display_Name>
+				<Multiplier>1</Multiplier>
+				</Hand>
+			<Hand>
+				<Index>1</Index>
+				<Display_Name>DIVERSION_POKER_TWO_PAIR</Display_Name>
+				<Multiplier>2</Multiplier>
+				</Hand>
+			<Hand>
+				<Index>2</Index>
+				<Display_Name>DIVERSION_POKER_THREE_OF_A_KIND</Display_Name>
+				<Multiplier>3</Multiplier>
+				</Hand>
+			<Hand>
+				<Index>3</Index>
+				<Display_Name>DIVERSION_POKER_STRAIGHT</Display_Name>
+				<Multiplier>6</Multiplier>
+				</Hand>
+			<Hand>
+				<Index>4</Index>
+				<Display_Name>DIVERSION_POKER_FLUSH</Display_Name>
+				<Multiplier>7</Multiplier>
+				</Hand>
+			<Hand>
+				<Index>5</Index>
+				<Display_Name>DIVERSION_POKER_FULL_HOUSE</Display_Name>
+				<Multiplier>8</Multiplier>
+				</Hand>
+			<Hand>
+				<Index>6</Index>
+				<Display_Name>DIVERSION_POKER_FOUR_OF_A_KIND</Display_Name>
+				<Multiplier>10</Multiplier>
+				</Hand>
+			<Hand>
+				<Index>7</Index>
+				<Display_Name>DIVERSION_POKER_STRAIGHT_FLUSH</Display_Name>
+				<Multiplier>25</Multiplier>
+				</Hand>
+			<Hand>
+				<Index>8</Index>
+				<Display_Name>DIVERSION_POKER_ROYAL_FLUSH</Display_Name>
+				<Multiplier>50</Multiplier>
+				</Hand>
+			</Hands>
+		<Max_Bet>10000</Max_Bet>
+		<Bet_Increment>100</Bet_Increment>
+		</Poker_Payouts>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Poker_Payouts</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Poker Payouts</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Max_Bet</Name>
+		<Type>Int</Type>
+		<Display_Name>Max Bet</Display_Name>
+		<Default>1000</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Bet_Increment</Name>
+		<Type>Int</Type>
+		<Display_Name>Bet Increment</Display_Name>
+		<Default>10</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Hands</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Hand</Name>
+			<Type>Element</Type>
+			<Description>Can have no more than 9 different poker hands as described in poker_hand_type.cpp</Description>
+			<MaxCount>9</MaxCount>
+			<Element>
+				<Name>Index</Name>
+				<Type>Int</Type>
+				<Description>This index must correspond with the proper poker_hand_type in video_poker.cpp</Description>
+				<Unique>true</Unique>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Display_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Display Name</Display_Name>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

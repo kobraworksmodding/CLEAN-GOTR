@@ -1,0 +1,21 @@
+<root>
+  <Table>
+    <Preset>
+      <Name>npc_crazysalesman</Name>
+      <Character>npc_crazysalesman</Character>
+		<Spawn_Info_Rank>Homie - Lee</Spawn_Info_Rank>
+		<Team>Playas</Team>
+		<AI_Personality>gang tough</AI_Personality>
+		<Flags>
+			<Flag>never_use_walk_variants</Flag>
+			<Flag>no_special_spawn</Flag>
+			<Flag>use_gang_color_scheme</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Preset>
+  </Table>
+  <TableDescription source="character_presets_desc.xml">
+  </TableDescription>
+</root>

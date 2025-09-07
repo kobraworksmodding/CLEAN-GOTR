@@ -1,0 +1,983 @@
+<root>
+<Table>
+	<Hair_Color>
+		<Name>Black</Name>
+		<Display_Name>Black</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Black_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Black_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Black_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Black_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_black</swatch_image>
+		<swatch_label>B1</swatch_label>
+		<Specular_Color>Black_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Brunette</Name>
+		<Display_Name>Brunette</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Brunette_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Brunette_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Brunette_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Brunette_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_brunette</swatch_image>
+		<swatch_label>B2</swatch_label>
+		<Specular_Color>Brunette_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Auburn</Name>
+		<Display_Name>Auburn</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Auburn_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Auburn_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Auburn_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Auburn_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_auburn</swatch_image>
+		<swatch_label>B3</swatch_label>
+		<Specular_Color>Auburn_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Light Brown</Name>
+		<Display_Name>LIGHT_BROWN</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Light Brown_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Light Brown_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Light Brown_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Light Brown_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_light_brown</swatch_image>
+		<swatch_label>B4</swatch_label>
+		<Specular_Color>Light Brown_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Redhead</Name>
+		<Display_Name>Redhead</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Redhead_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Redhead_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Redhead_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Redhead_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_redhead</swatch_image>
+		<swatch_label>R1</swatch_label>
+		<Specular_Color>Redhead_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Strawberry Blonde</Name>
+		<Display_Name>STRAWBERRY_BLONDE</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Strawberry Blonde_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Strawberry Blonde_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Strawberry Blonde_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Strawberry Blonde_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_strawberry_blonde</swatch_image>
+		<swatch_label>R2</swatch_label>
+		<Specular_Color>Strawberry Blonde_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Blonde</Name>
+		<Display_Name>Blonde</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Blonde_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Blonde_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Blonde_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Blonde_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_blonde</swatch_image>
+		<swatch_label>A1</swatch_label>
+		<Specular_Color>Blonde_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>White</Name>
+		<Display_Name>White</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>White_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>White_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>White_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>White_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_white</swatch_image>
+		<swatch_label>A2</swatch_label>
+		<Specular_Color>White_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Bleached Blonde</Name>
+		<Display_Name>BLEACHED_BLONDE</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Bleached Blonde_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bleached Blonde_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bleached Blonde_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bleached Blonde_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bleached_blonde</swatch_image>
+		<swatch_label>A3</swatch_label>
+		<Specular_Color>Bleached Blonde_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Gray</Name>
+		<Display_Name>Gray</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Gray_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gray_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gray_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Gray_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_gray</swatch_image>
+		<swatch_label>M1</swatch_label>
+		<Specular_Color>Gray_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Bright Red</Name>
+		<Display_Name>BRIGHT_RED</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Bright Red_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Red_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Red_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Red_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_red</swatch_image>
+		<swatch_label>U1</swatch_label>
+		<Specular_Color>Bright Red_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Bright Pink</Name>
+		<Display_Name>BRIGHT_PINK</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Bright Pink_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Pink_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Pink_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Pink_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_pink</swatch_image>
+		<swatch_label>U2</swatch_label>
+		<Specular_Color>Bright Pink_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Bright Purple</Name>
+		<Display_Name>BRIGHT_PURPLE</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Bright Purple_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Purple_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Purple_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Purple_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_purple</swatch_image>
+		<swatch_label>U3</swatch_label>
+		<Specular_Color>Bright Purple_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Bright Blue</Name>
+		<Display_Name>BRIGHT_BLUE</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Bright Blue_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Blue_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Blue_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Blue_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_blue</swatch_image>
+		<swatch_label>U4</swatch_label>
+		<Specular_Color>Bright Blue_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Bright Green</Name>
+		<Display_Name>BRIGHT_GREEN</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Bright Green_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Green_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Green_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Green_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_green</swatch_image>
+		<swatch_label>U5</swatch_label>
+		<Specular_Color>Bright Green_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Bright Orange</Name>
+		<Display_Name>BRIGHT_ORANGE</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Bright Orange_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Orange_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Orange_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Orange_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_orange</swatch_image>
+		<swatch_label>U6</swatch_label>
+		<Specular_Color>Bright Orange_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Bright Yellow</Name>
+		<Display_Name>BRIGHT_YELLOW</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Bright Yellow_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Yellow_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Yellow_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Yellow_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_yellow</swatch_image>
+		<swatch_label>U7</swatch_label>
+		<Specular_Color>Bright Yellow_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>BlackWhite</Name>
+		<Display_Name>BlackWhite</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>White_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>White_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Black_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Black_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_black</swatch_image>
+		<swatch_label>B1</swatch_label>
+		<Specular_Color>Black_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>RedBlack</Name>
+		<Display_Name>RedBlack</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Black_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Black_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Red_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Red_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_red</swatch_image>
+		<swatch_label>U1</swatch_label>
+		<Specular_Color>Bright Red_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>BlondeRed</Name>
+		<Display_Name>BlondeRed</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Bright Red_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Red_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bleached Blonde_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bleached Blonde_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bleached_blonde</swatch_image>
+		<swatch_label>A3</swatch_label>
+		<Specular_Color>Bleached Blonde_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Strawberry Red</Name>
+		<Display_Name>StrawRed</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Strawberry Blonde_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Strawberry Blonde_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Redhead_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Redhead_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_strawberry_blonde</swatch_image>
+		<swatch_label>R2</swatch_label>
+		<Specular_Color>Strawberry Blonde_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>GreenBlack</Name>
+		<Display_Name>GreenBlack</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Black_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Black_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Green_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Green_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_green</swatch_image>
+		<swatch_label>U5</swatch_label>
+		<Specular_Color>Bright Green_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>BlueBlack</Name>
+		<Display_Name>BlueBlack</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Black_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Black_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Blue_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Blue_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_blue</swatch_image>
+		<swatch_label>U4</swatch_label>
+		<Specular_Color>Bright Blue_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>PurpleBlack</Name>
+		<Display_Name>PurpleBlack</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Black_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Black_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Purple_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Bright Purple_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_purple</swatch_image>
+		<swatch_label>U3</swatch_label>
+		<Specular_Color>Bright Purple_specular</Specular_Color>
+		</Hair_Color>		
+	<Hair_Color>
+		<Name>Dyed_Black</Name>
+		<Display_Name>Dyed Black</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Dyed_Black_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Dyed_Black_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Dyed_Black_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Dyed_Black_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_black</swatch_image>
+		<swatch_label>U8</swatch_label>
+		<Specular_Color>Dyed_Black_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>WhiteBlack</Name>
+		<Display_Name>WhiteBlack</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Black_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Black_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>White_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>White_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_white</swatch_image>
+		<swatch_label>A2</swatch_label>
+		<Specular_Color>White_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Dyed_White</Name>
+		<Display_Name>Dyed White</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Dyed_White_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Dyed_White_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Dyed_White_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Dyed_White_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_white</swatch_image>
+		<swatch_label>U9</swatch_label>
+		<Specular_Color>Dyed_White_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Sunny_Blonde</Name>
+		<Display_Name>Sunny Blonde</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Sunny Blonde_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Sunny Blonde_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Sunny Blonde_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Sunny Blonde_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_blonde</swatch_image>
+		<swatch_label>A1</swatch_label>
+		<Specular_Color>Sunny Blonde_specular</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Rich Brown</Name>
+		<Display_Name>RICH_BROWN</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>RichRedScalp_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>RichRedDark_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>RichRedLight_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>RichRedHiLight_1</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_brunette</swatch_image>
+		<swatch_label>U3</swatch_label>
+		<Specular_Color>RichRedSpec</Specular_Color>
+		</Hair_Color>
+		
+	<Hair_Color>
+		<Name>Deep Brown</Name>
+		<Display_Name>DEEP_BROWN</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>DeepBrownScalp_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>DeepBrownDark_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>DeepBrownLight_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>DeepBrownHiLight_1</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_brunette</swatch_image>
+		<swatch_label>U3</swatch_label>
+		<Specular_Color>DeepBrownSpec</Specular_Color>
+		</Hair_Color>
+
+	<Hair_Color>
+		<Name>Rich Red</Name>
+		<Display_Name>RICH_RED</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>RichBrownScalp_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>RichBrownDark_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>RichBrownLight_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>RichBrownHiLight_1</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_auburn</swatch_image>
+		<swatch_label>U3</swatch_label>
+		<Specular_Color>RichBrownSpec</Specular_Color>
+		</Hair_Color>		
+	<Hair_Color>
+		<Name>Deep Red</Name>
+		<Display_Name>DEEP_RED</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>DeepRedScalp_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>DeepRedDark_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>DeepRedLight_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>DeepRedHiLight_1</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_brunette</swatch_image>
+		<swatch_label>U3</swatch_label>
+		<Specular_Color>DeepRedSpec</Specular_Color>
+		</Hair_Color>
+
+
+	<Hair_Color>
+		<Name>Flame</Name>
+		<Display_Name>FLAME</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>FlameScalp_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>FlameDark_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>FlameLight_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>FlameHiLight_1</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_auburn</swatch_image>
+		<swatch_label>U3</swatch_label>
+		<Specular_Color>FlameSpec</Specular_Color>
+		</Hair_Color>
+
+	<Hair_Color>
+		<Name>Rad Green</Name>
+		<Display_Name>RAD_GREEN</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>RadScalp_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>RadDark_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>RadLight_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>RadHiLight_1</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_green</swatch_image>
+		<swatch_label>U3</swatch_label>
+		<Specular_Color>RadSpec</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Toxic Green</Name>
+		<Display_Name>BRIGHT_GREEN</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Toxic Green_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Toxic Green_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Toxic Green_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Toxic Green_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_green</swatch_image>
+		<swatch_label>U5</swatch_label>
+		<Specular_Color>Toxic Green_specular</Specular_Color>
+		</Hair_Color>
+
+	<Hair_Color>
+		<Name>Ice Blue</Name>
+		<Display_Name>ICE_BLUE</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Black_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Black_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>IceBlueDark_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>IceBlue_1</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_blue</swatch_image>
+		<swatch_label>U3</swatch_label>
+		<Specular_Color>IceBlueSpec</Specular_Color>
+		</Hair_Color>
+
+	<Hair_Color>
+		<Name>Lilac</Name>
+		<Display_Name>LILAC</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>LilacScalp_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>LilacDark_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>LilacLight_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>LilacHiLight_1</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_purple</swatch_image>
+		<swatch_label>U3</swatch_label>
+		<Specular_Color>LilacSpec</Specular_Color>
+		</Hair_Color>
+	<Hair_Color>
+		<Name>Disco Pink</Name>
+		<Display_Name>BRIGHT_PINK</Display_Name>
+		<Colors_Grid>
+			<Color_Element>
+				<Color>Disco Pink_1</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Disco Pink_2</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Disco Pink_3</Color>
+				</Color_Element>
+			<Color_Element>
+				<Color>Disco Pink_4</Color>
+				</Color_Element>
+			</Colors_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<swatch_image>ui_menu_pcr_hair_bright_pink</swatch_image>
+		<swatch_label>U2</swatch_label>
+		<Specular_Color>Disco Pink_specular</Specular_Color>
+		</Hair_Color>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Hair_Color</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Default>Colors</Default>
+		</Element>
+	<Element>
+		<Name>Display_Name</Name>
+		<Type>String</Type>
+		<Display_Name>Display Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>Colors_Grid</Name>
+		<Type>Grid</Type>
+		<Display_Name>Colors</Display_Name>
+		<Element>
+			<Name>Color_Element</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Color</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>hair_color_pool.xtbl</File>
+					<Type>Color_Entry.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>swatch_image</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>swatch_label</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Specular_Color</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>hair_color_pool.xtbl</File>
+			<Type>Color_Entry.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

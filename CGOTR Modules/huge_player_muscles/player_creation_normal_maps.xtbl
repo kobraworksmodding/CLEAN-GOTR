@@ -1,0 +1,287 @@
+<root>
+<Table>
+	<Normal_Map_Settings>
+		<Name>Female</Name>
+		<Morph_Sliders>
+			<Morph_Slider>
+				<Slider_Name>body gender</Slider_Name>
+				<Slider_Keys>
+					<Slider_Key>
+						<Slider_Position>0.0</Slider_Position>
+						<Normal_Map_Strength>1.0</Normal_Map_Strength>
+						</Slider_Key>
+					<Slider_Key>
+						<Slider_Position>0.5</Slider_Position>
+						<Normal_Map_Strength>0.0</Normal_Map_Strength>
+						</Slider_Key>
+					</Slider_Keys>
+				</Morph_Slider>
+			</Morph_Sliders>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Normal_Map_Settings>
+	<Normal_Map_Settings>
+		<Name>Male</Name>
+		<Morph_Sliders>
+			<Morph_Slider>
+				<Slider_Name>body gender</Slider_Name>
+				<Slider_Keys>
+					<Slider_Key>
+						<Slider_Position>0.5</Slider_Position>
+						<Normal_Map_Strength>0.0</Normal_Map_Strength>
+						</Slider_Key>
+					<Slider_Key>
+						<Slider_Position>1.0</Slider_Position>
+						<Normal_Map_Strength>1.0</Normal_Map_Strength>
+						</Slider_Key>
+					</Slider_Keys>
+				</Morph_Slider>
+			</Morph_Sliders>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Normal_Map_Settings>
+	<Normal_Map_Settings>
+		<Name>Skinny</Name>
+		<Morph_Sliders>
+			<Morph_Slider>
+				<Slider_Name>body fat</Slider_Name>
+				<Slider_Keys>
+					<Slider_Key>
+						<Slider_Position>0.0</Slider_Position>
+						<Normal_Map_Strength>1.0</Normal_Map_Strength>
+						</Slider_Key>
+					<Slider_Key>
+						<Slider_Position>0.67</Slider_Position>
+						<Normal_Map_Strength>0.0</Normal_Map_Strength>
+						</Slider_Key>
+					</Slider_Keys>
+				</Morph_Slider>
+			<Morph_Slider>
+				<Slider_Name>body muscle</Slider_Name>
+				<Slider_Keys>
+					<Slider_Key>
+						<Slider_Position>0.0</Slider_Position>
+						<Normal_Map_Strength>1</Normal_Map_Strength>
+						</Slider_Key>
+					<Slider_Key>
+						<Slider_Position>1</Slider_Position>
+						<Normal_Map_Strength>.5</Normal_Map_Strength>
+						</Slider_Key>
+					</Slider_Keys>
+				</Morph_Slider>
+			</Morph_Sliders>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Normal_Map_Settings>
+	<Normal_Map_Settings>
+		<Name>Fat</Name>
+		<Morph_Sliders>
+			<Morph_Slider>
+				<Slider_Name>body fat</Slider_Name>
+				<Slider_Keys>
+					<Slider_Key>
+						<Slider_Position>.75</Slider_Position>
+						<Normal_Map_Strength>0.0</Normal_Map_Strength>
+						</Slider_Key>
+					<Slider_Key>
+						<Slider_Position>1.0</Slider_Position>
+						<Normal_Map_Strength>1.0</Normal_Map_Strength>
+						</Slider_Key>
+					</Slider_Keys>
+				</Morph_Slider>
+			</Morph_Sliders>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Normal_Map_Settings>
+	<Normal_Map_Settings>
+		<Name>Muscle</Name>
+		<Morph_Sliders>
+			<Morph_Slider>
+				<Slider_Name>body muscle</Slider_Name>
+				<Slider_Keys>
+					<Slider_Key>
+						<Slider_Position>0.0</Slider_Position>
+						<Normal_Map_Strength>0.0</Normal_Map_Strength>
+						</Slider_Key>
+					<Slider_Key>
+						<Slider_Position>1.0</Slider_Position>
+						<Normal_Map_Strength>1.7</Normal_Map_Strength>
+						</Slider_Key>
+					</Slider_Keys>
+				</Morph_Slider>
+			<Morph_Slider>
+				<Slider_Name>body fat</Slider_Name>
+				<Slider_Keys>
+					<Slider_Key>
+						<Slider_Position>0.0</Slider_Position>
+						<Normal_Map_Strength>1.8</Normal_Map_Strength>
+						</Slider_Key>
+					<Slider_Key>
+						<Slider_Position>0.75</Slider_Position>
+						<Normal_Map_Strength>1.8</Normal_Map_Strength>
+						</Slider_Key>
+					<Slider_Key>
+						<Slider_Position>0.75</Slider_Position>
+						<Normal_Map_Strength>0.8</Normal_Map_Strength>
+						</Slider_Key>
+					</Slider_Keys>
+				</Morph_Slider>
+			</Morph_Sliders>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Normal_Map_Settings>
+	<Normal_Map_Settings>
+		<Name>Body Age</Name>
+		<Morph_Sliders>
+			<Morph_Slider>
+				<Slider_Name>old</Slider_Name>
+				<Slider_Keys>
+					<Slider_Key>
+						<Slider_Position>0.0</Slider_Position>
+						<Normal_Map_Strength>0.0</Normal_Map_Strength>
+						</Slider_Key>
+					<Slider_Key>
+						<Slider_Position>1.0</Slider_Position>
+						<Normal_Map_Strength>1.0</Normal_Map_Strength>
+						</Slider_Key>
+					</Slider_Keys>
+				</Morph_Slider>
+			<Morph_Slider>
+				<Slider_Name>body muscle</Slider_Name>
+				<Slider_Keys>
+					<Slider_Key>
+						<Slider_Position>0.0</Slider_Position>
+						<Normal_Map_Strength>1</Normal_Map_Strength>
+						</Slider_Key>
+					<Slider_Key>
+						<Slider_Position>1</Slider_Position>
+						<Normal_Map_Strength>.5</Normal_Map_Strength>
+						</Slider_Key>
+					</Slider_Keys>
+				</Morph_Slider>
+			<Morph_Slider>
+				<Slider_Name>body fat</Slider_Name>
+				<Slider_Keys>
+					<Slider_Key>
+						<Slider_Position>0.0</Slider_Position>
+						<Normal_Map_Strength>1</Normal_Map_Strength>
+						</Slider_Key>
+					<Slider_Key>
+						<Slider_Position>.5</Slider_Position>
+						<Normal_Map_Strength>1</Normal_Map_Strength>
+						</Slider_Key>
+					<Slider_Key>
+						<Slider_Position>1</Slider_Position>
+						<Normal_Map_Strength>.5</Normal_Map_Strength>
+						</Slider_Key>
+					</Slider_Keys>
+				</Morph_Slider>
+			</Morph_Sliders>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Normal_Map_Settings>
+	<Normal_Map_Settings>
+		<Name>Face Age</Name>
+		<Morph_Sliders>
+			<Morph_Slider>
+				<Slider_Name>old</Slider_Name>
+				<Slider_Keys>
+					<Slider_Key>
+						<Slider_Position>0.0</Slider_Position>
+						<Normal_Map_Strength>0.0</Normal_Map_Strength>
+						</Slider_Key>
+					<Slider_Key>
+						<Slider_Position>1.0</Slider_Position>
+						<Normal_Map_Strength>1.5</Normal_Map_Strength>
+						</Slider_Key>
+					</Slider_Keys>
+				</Morph_Slider>
+			</Morph_Sliders>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Normal_Map_Settings>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Normal_Map_Settings</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Normal Map Settings</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>Selection</Type>
+		<Unique>true</Unique>
+		<Choice>Female</Choice>
+		<Choice>Male</Choice>
+		<Choice>Skinny</Choice>
+		<Choice>Fat</Choice>
+		<Choice>Muscle</Choice>
+		<Choice>Body Age</Choice>
+		<Choice>Face Age</Choice>
+		</Element>
+	<Element>
+		<Name>Morph_Sliders</Name>
+		<Type>List</Type>
+		<Display_Name>Morph Sliders</Display_Name>
+		<Element>
+			<Name>Morph_Slider</Name>
+			<Type>Element</Type>
+			<Display_Name>Morph Slider</Display_Name>
+			<Element>
+				<Name>Slider_Name</Name>
+				<Type>Reference</Type>
+				<Display_Name>Slider Name</Display_Name>
+				<Reference>
+					<File>player_creation.xtbl</File>
+					<Type>Morph_Set.Morph_Infos.Morph_Info.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Slider_Keys</Name>
+				<Type>Grid</Type>
+				<Display_Name>Slider Keys</Display_Name>
+				<Element>
+					<Name>Slider_Key</Name>
+					<Type>Element</Type>
+					<Display_Name>Slider Key</Display_Name>
+					<Element>
+						<Name>Slider_Position</Name>
+						<Type>Float</Type>
+						<Display_Name>Morph Slider Position</Display_Name>
+						<Default>0.0</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>1</MaxValue>
+						</Element>
+					<Element>
+						<Name>Normal_Map_Strength</Name>
+						<Type>Float</Type>
+						<Display_Name>Normal Map Strength</Display_Name>
+						<Default>0.0</Default>
+						</Element>
+					</Element>
+				<Max_Children>8</Max_Children>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Max_Children>4</Max_Children>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		<Element_Name>Morph_Slider.Slider_Name</Element_Name>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

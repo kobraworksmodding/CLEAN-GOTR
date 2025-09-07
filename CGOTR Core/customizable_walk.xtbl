@@ -1,0 +1,225 @@
+<root>
+<Table>
+	<Walk>
+		<Name>custom walk female 2</Name>
+		<display_name>Cell Phone</display_name>
+		<Animation_State>custom walk female 2</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk female 1</Name>
+		<display_name>CUSTOM_WALK_FEMALE_02</display_name>
+		<Animation_State>custom walk female 1</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk female 3</Name>
+		<display_name>CUSTOM_WALK_FEMALE_3</display_name>
+		<Animation_State>custom walk female 3</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk female 4</Name>
+		<display_name>CUSTOM_WALK_FEMALE_4</display_name>
+		<Animation_State>custom walk female 4</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk female 5</Name>
+		<display_name>CUSTOM_WALK_FEMALE_5</display_name>
+		<Animation_State>custom walk female 5</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk female 6</Name>
+		<display_name>CUSTOM_WALK_FEMALE_6</display_name>
+		<Animation_State>custom walk female 6</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk female 7</Name>
+		<display_name>CUSTOM_WALK_FEMALE_7</display_name>
+		<Animation_State>custom walk female 7</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk male 1</Name>
+		<display_name>CUSTOM_WALK_MALE</display_name>
+		<Animation_State>custom walk male 1</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk male 2</Name>
+		<display_name>Zombie Lurch</display_name>
+		<Animation_State>custom walk male 2</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk male 5</Name>
+		<display_name>CUSTOM_WALK_4</display_name>
+		<Animation_State>custom walk male 5</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk male 6</Name>
+		<display_name>CUSTOM_WALK_5</display_name>
+		<Animation_State>custom walk male 6</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk extra 7</Name>
+		<display_name>CUSTOM_WALK_2</display_name>
+		<Animation_State>custom walk extra 7</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk extra 8</Name>
+		<display_name>CUSTOM_WALK_12</display_name>
+		<Animation_State>custom walk extra 8</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk extra 10</Name>
+		<display_name>O2 Tank Pull</display_name>
+		<Animation_State>custom walk extra 10</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk extra 1</Name>
+		<display_name>Wasted</display_name>
+		<Animation_State>custom walk extra 1</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk extra 2</Name>
+		<display_name>Slow and Steady</display_name>
+		<Animation_State>custom walk extra 2</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk extra 3</Name>
+		<display_name>Read the News</display_name>
+		<Animation_State>custom walk extra 3</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk extra 4</Name>
+		<display_name>Carry Books</display_name>
+		<Animation_State>custom walk extra 4</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk extra 5</Name>
+		<display_name>Carry Clipboard</display_name>
+		<Animation_State>custom walk extra 5</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk extra 6</Name>
+		<display_name>Metal Detector</display_name>
+		<Animation_State>custom walk extra 6</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk extra 9</Name>
+		<display_name>Out Shopping</display_name>
+		<Animation_State>custom walk extra 9</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk male 4</Name>
+		<display_name>Keepin' Dry</display_name>
+		<Animation_State>custom walk male 4</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	<Walk>
+		<Name>custom walk male 3</Name>
+		<display_name>Laundry Day</display_name>
+		<Animation_State>custom walk male 3</Animation_State>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Walk>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Walk</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>display_name</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>localized_exports\PlayerCreation_text.xtbl</File>
+			<Type>PlayerCreat_Identifier.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Animation_State</Name>
+		<Type>Reference</Type>
+		<Display_Name>Animation State</Display_Name>
+		<Reference>
+			<File>anim_states.xtbl</File>
+			<Type>State.Name</Type>
+			<OpenSeparate>False</OpenSeparate>
+			</Reference>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>
