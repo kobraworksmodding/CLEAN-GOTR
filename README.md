@@ -11,3 +11,5 @@ The First Person camera option has been removed, since Juiced Patch has an optio
 The button prompt options have been removed since Juiced Patch does this on-the-fly.
 
 The DLC Missions have been removed to avoid conflict crash issues with the SR2 PC DLC Project.
+
+The nude option has been removed since Juiced Patch has an option for it.
