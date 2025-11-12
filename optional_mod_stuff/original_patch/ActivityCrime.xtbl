@@ -1,0 +1,49 @@
+<root>
+  <Table>
+    <ActCrime_Identifier>
+        <Name>HOSTAGE_FAILURE</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActCrime_Identifier>
+    <ActCrime_Identifier>
+        <Name>HOSTAGE_SUCCESS</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActCrime_Identifier>
+    <ActCrime_Identifier>
+        <Name>ACTIVITY_COMPLETED</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActCrime_Identifier>
+    <ActCrime_Identifier>
+        <Name>ACT_THEFT_SAFE_OPEN</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActCrime_Identifier>
+    <ActCrime_Identifier>
+        <Name>PAUSE_ACTIVITIES_NONE </Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActCrime_Identifier>
+    <ActCrime_Identifier>
+        <Name>PAUSE_ACTIVITIES_READY</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActCrime_Identifier>
+  </Table>
+
+  <TableTemplates>
+  </TableTemplates>
+
+  <TableDescription>
+      <Name>ActCrime_Identifier</Name>
+      <Type>TableDescription</Type>
+      <Element>
+          <Name>Name</Name>
+          <Type>String</Type>
+          <Unique>true</Unique>
+      </Element>
+  </TableDescription>
+  <EntryCategories>
+      <Category>
+          <Name>Entries</Name>
+      </Category>
+  </EntryCategories>
+
+</root>
+
+

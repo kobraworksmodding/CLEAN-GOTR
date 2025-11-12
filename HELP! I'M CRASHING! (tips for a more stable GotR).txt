@@ -1,0 +1,55 @@
+TIPS FOR A MORE STABLE GOTR
+
+
+The Gentlemen of the Row mod has been reported by most players to be extremely stable. Even so, some players still do experience crashing, so here are a few tips to help with stability:
+
+
+* IMPORTANT!! Make sure you own the Steam version of SR2! Nothing else will work 100% correctly with the Gentlemen of the Row mod. Period. Incompatible versions include  the direct downloads from D2D, Gamersgate, or GFWL that are all stuck at the shitty half-broken 1.1 patch level, and also cracks that are supposedly at 1.2 (they are not.) While GotR will mostly work with these broke ass versions, you will likely experience more freezes, crashing, save corruption, and missed unlocks.
+
+
+* Verify integrity on Steam to make sure all of your SR2 game files are up to date and correct. *NOTE This will revert your mod files back to vanilla so you will have to rebuild/reinstall GotR afterwards.
+
+
+* Run windowed instead of fullscreen - Yes, it doesn't make sense. Nothing in this god forsaken port does. Trust me on this one.
+
+
+* Updating Direct X will help if you're crashing on cutscenes or mission complete screens
+http://www.microsoft.com/downloads/en/details.aspx?FamilyID=2da43d38-db71-4c1b-bc6a-9b6652cd92a3
+
+
+* Delete your profile.dat in your save folder. This file can often become corrupt and cause a whole host of random crashing issues with the game. Wardrobe crashing is often an indication that this is the culprit. Be warned that deleting this file will erase your tracked stats:
+C:\Users\profile\AppData\Local\THQ\Saints Row 2\profile.dat
+
+
+* Replace your shaders_pc file with the one included with the mod in the "Gamersgate v1.1 Shaders Fix" folder. Wardrobe crashing is also a sign that you may have a corrupt or outdated shaders file.
+
+
+* You can only save ~22 custom personally created outfits in GotR as opposed to the 25 in vanilla. Attempting to save additional ones will crash the game without warning. If your crash is happening right on outfit save then this is likely the problem. Simply delete a couple of your personal custom outfits (not store bought or unlockables) and then try to save again.
+
+
+* If you're getting coop crashing but are ok in single player, then it is likely one of three things:
+
+  1. You and your partner are using different versions of the mod. Always confirm with your coop partner that you are both on the same release before starting
+
+  2. Corrupt save file. Use a previous save or start a new character.
+
+  3. One or both of you is running at the wrong speed. Discuss with your partner and ask if when you drive around together does he get any kind of teleportation? Jumping cars and npcs? Is vehicle surfing completely smooth where the driver sees the passenger standing still on the hood, or is he teleporting all over the place like crazy?
+
+If either of you are seeing these kind of jumping teleporting issues, then it's not a sign of lag like most people think. It's actually an indication that the speed of the game itself is off. If the sync gets too far out of balance (and it will get progressively worse as you play) it can cause disconnects and/or crashes. To fix this you're going to want either Powertools or Cheat Engine to slow the game down to its correct speed. More info about these tools in the SR2 PC FAQ included with the mod in the Reference folder, or online at the SR2 Steam forums:
+http://forums.steampowered.com/forums/showthread.php?t=1715922 
+
+
+
+TIPS REGARDING SAVING
+
+Save often and in multiple slots!
+
+Save after doing anything! Manual saves are important after any progress; completing a mission/activity, buying new clothing, killing a hitman target, customizing a vehicle, etc. DO NOT RELY ON ONLY YOUR AUTOSAVE!
+
+Also, save BEFORE doing anything with your wardrobe or any clothes shopping!
+
+
+
+IMPORTANT
+
+The most important thing to understand is that SR2 is super fucking buggy on all platforms, including 360 and PS3. Lockups, crashing, getting stuck in geometry, chunks not loading, missions flipping out, etc are almost a core part of the SR2 experience, and should be expected (but hopefully a lot less with GotR installed.)

@@ -1,0 +1,253 @@
+NOTE: v1.9 has changed over 50 cheat codes. This has resulted in:
+
+* All vehicle cheat codes no longer exist except the promo ones. This was needed to make room for the new NPC Morphs.
+
+* All cheat menu codes that were previously entered on a save are now wiped. All players will need to reenter their cheat codes in the cell phone.
+
+
+IMPORTANT: Dialing a cheat/code # on your phone dial pad does NOT activate the cheat, NOR does it flag your save. It only adds the cheat as an entry in your cheat menu from where it can be actually activated later. DIALING THE NUMBER AND ADDING IT IS PERFECTLY SAFE.
+
+
+SAFE CODES THAT DO NOT FLAG YOUR SAVE:
+
+NPC Morph Cheats
+
+#75  - PC Restore to Normal - Changes your player character back to normal from a NPC Morph
+
+#76 - PC Aisha
+#78 - PC Carlos
+#79 - PC Carlos Jail
+#80 - PC Carlos Bloody
+#81 - PC Carlos Zombie
+#82 - PC Crazy Salesman
+#83 - PC Dane Vogel
+#84 - PC Donnie
+#85 - PC The General
+#86 - PC Jane Valderamma
+#87 - PC Jessica
+#88 - PC Johnny Gat
+#89 - PC Johnny Gat Bandaged
+#90 - PC Julius
+#91 - PC Jyunichi
+#92 - PC Kazuo
+#93 - PC Laura
+#94 - PC Legal Lee
+#95 - PC Luz
+#96 - PC Maero
+#97 - PC Matt
+#98 - PC Pierce
+#99 - PC Richie
+#100 - PC Sampson
+#101 - PC Shaundi
+#102 - PC Shaundi Repair
+#103 - PC Shogo
+#104 - PC Mr. Sunshine
+#105 - PC Tobias
+#106 - PC Translator
+#107 - PC Troy
+#108 - PC Veteran Child
+#109 - PC Vinnie
+#110 - PC Mr. Wong
+
+#111 - PC Ronin Female
+#112 - PC Ronin Male
+#113 - PC Samedi Female
+#114 - PC Samedi Male
+#115 - PC Brotherhood Female
+#116 - PC Brotherhood Male
+
+#117 - PC Cop
+#118 - PC FBI
+#119 - PC SWAT
+#120 - PC Ultor Masako
+
+#121 - PC Guard
+#122 - PC Nuclear
+#123 - PC Prisoner
+#124 - PC Prison Fightclub
+
+#125 - PC Ho
+#126 - PC Pimp
+#127 - PC Stripper A
+#128 - PC Stripper B
+
+#129 - PC Baggage Handler
+#130 - PC Barbershop Quartet Singer
+#131 - PC Bartender
+#132 - PC Bouncer
+#133 - PC Construction
+#134 - PC Doctor
+#135 - PC Drug Tech
+#136 - PC EMT
+#137 - PC Firefighter
+#138 - PC Hotdog
+#139 - PC Judge
+#140 - PC Lifeguard
+#141 - PC Meter Maid
+#142 - PC Mime
+#143 - PC Minister
+#144 - PC Nurse
+#145 - PC Pilot
+#146 - PC Stewardess
+#147 - PC Repair
+#148 - PC Scientist
+
+#149 - PC Gyros Driver
+#150 - PC Freckle Bitch's Driver
+
+#151 - PC Blake
+#152 - PC Skeeter
+#153 - PC Cheerleader
+#154 - PC Sportfan
+#155 - PC Athlete Female
+#156 - PC Athlete Male
+
+#157 - PC Arena Fightclub
+#158 - PC Female Biker
+#159 - PC Male Biker
+#160 - PC Bum
+#161 - PC Junky
+#162 - PC Business Female
+#163 - PC Business Male
+#164 - PC Cowboy
+#165 - PC Elderly Female
+#166 - PC Elderly Male
+#167 - PC Fat Female
+#168 - PC Goth Female
+#169 - PC Goth Male
+#170 - PC Hippie Female
+#171 - PC Hippie Male
+#172 - PC Pirate
+#173 - PC Punk Female
+#174 - PC Punk Female
+#175 - PC Roid Freak
+#176 - PC Skydiver
+
+#177 - PC Zombie Male A
+#178 - PC Zombie Male B
+#179 - PC Zombie Male C
+#180 - PC Zombie Female A
+#181 - PC Zombie Female B
+
+#182 - PC Doorman
+
+NOTE: You will need to press Escape twice after activating a morph cheat to continue. Otherwise it will remain a black screen until you do so.
+
+
+TIME AND WEATHER CHEATS
+
+#1200 Set Time to 8am
+#2400 Set Time to 8pm
+#2500 Stop Time
+
+#78664 Vibrant
+#78665 Overcast
+#78666 Heavy Rain
+#78668 Light Rain
+#78669 Clear Skies
+#78670 Restore Weather
+#666 Wrath of God
+
+
+PLAYER ABILITY
+#4 – Add Police Notoriety – Bumps Police Notoriety one star with each use.
+#5 – Player Pratfalls – Use secondary attack/primary attack to pratfall, like in Insurance Fraud.
+#35 – Add Gang Notoriety – Bumps Gang Notoriety one star with each use.
+#12 – Heaven Bound – The dead all go to Heaven.
+#200 – I Am Giant – You ate your green beans, you grow big.
+#201 – Itty Bitty – Homie, you shrunk yourself.
+
+
+WORLD
+#202 – Everybody Must Get Shrunk – All peoples, all over the world, get shrunk.
+#15 – Drunk Pedestrians – Everybody’s on the crunk juice.
+#16 – Evil Cars – All cars try to run you over.
+#19 – Pedestrian War – Hatred, Anger, Suffering, everybody hates each other.
+#20 – Raining Pedestrians – Hallelujah, it’s a raining peds.
+
+
+WARNINGS!!
+* Promo vehicles cheats have been changed to flag saves since they are now unlockables/buyable!!
+* Low Gravity causes a bug where it screws up your no fall damage PERMANENTLY!! Changed back to flagging cheat!
+
+-------------------------------------------------------------
+
+
+!!!!!DANGEROUS CHEATS THAT DO FLAG YOUR SAVE:!!!!!
+
+
+IMPORTANT: Everything you ever wanted to know about save flagging:
+
+When you activate one of the cheats below from the cheat menu, it does the following:
+1. Turns off autosaving
+2. Flags your current game session so that any FUTURE saves IN THIS SESSION will cause the save to be flagged.
+
+So, you can safely load your saved game, activate the cheat, mess around and have fun, and then EXIT WITHOUT SAVING, and you'll be fine. Your current save will not be flagged.
+
+
+NOTE: If someone joins your game and their save is a cheat flagged save, it immediately flags the SESSION you are playing and disables your autosave. DO NOT SAVE YOUR GAME AFTER THIS HAPPENS OR YOUR SAVE WILL ALSO BE SAVED AS A CHEAT SAVE AND YOU WILL NOT BE ABLE TO GET CERTAIN STATISTIC BASED UNLOCKS!
+
+
+
+PLAYER ABILITY
+
+#1 – Full Health – Replenishes your health to full.
+#2 – Car Mass Hole – Your vehicle has infinite mass and smashes other vehicles out of the way.
+#3 – Milk Bones – Melee attacks are extremely deadly.
+#6 – Infinite Sprint – You can sprint forever.
+#9 – Unlimited Clip – You never have to reload because your clip runneth over forever.
+#11 – Infinite Ammo – Gives you infinite ammo for all weapons.
+#36 – Never Die – You will never die.
+#50 – No Cop Notoriety – Removes all existing Police Notoriety.
+#51 – No Gang Notoriety – Removes all existing Gang Notoriety.
+
+
+#2274666399 – Give Cash – Instantly gives you $1000.
+
+
+WEAPONS
+
+#923 - Give AR50 (fireworks)
+#927 – Give Chainsaw
+#928 – Give Fire Extinguisher
+#929 – Give Flamethrower
+#931 – Give GAL43
+#934 – Give Kobra
+#938 – Give McManus 2010
+#939 – Give Mini-gun
+#944 – Give Pimp Cane
+#945 – Give Pipebomb (fireworks)
+#946 – Give RPG
+#947 – Give Annihilator RPG
+#949 – Give Satchel Charge
+#950 – Give Shock Paddles
+#951 – Give SKR-9
+#958 – Give XS-2 Ultimax
+#969 – Give Pimp Slap
+
+#55550 Give Dual Swords
+#55551 Give Lazarus gun
+#55552 Give Orbital Launcher
+#55553 Give Septic Gun
+#55554 Give SPAS12
+#55555 Give Gold Desert Eagle
+#55556 Give Chainsaw Launcher
+#55557 Give Silenced Pistol
+#55558 Give NUKAMINGO 9001
+#55559 Give Bling Fu
+
+WORLD
+
+#7 – Super Explosions – Explosions are 4x bigger.
+#8 – Super Saints – The Saints are bad muthas.
+#18 – Low Gravity – Stilwaters’ gravity generators are at quarter power. *WARNING USING THIS WILL PERMANENTLY REMOVE YOUR NO FALL DAMAGE UNLOCK!!
+
+
+VEHICLES
+
+#1056 – Repair Car – Repairs all damage to your vehicle.
+#4976 – Gyro Daddy
+#728237 – Destroy
+#7266837 – Peewee
+
+#1337 ADD ALL CHEATS TO YOUR PHONE! *New in GotR v1.9

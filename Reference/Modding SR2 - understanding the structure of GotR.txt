@@ -1,0 +1,76 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!WARNING!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+The information contained in this file is only meant for other SR2 modders who use GotR as a base to create their own versions. If you don't know what you're doing then you can seriously screw up the mod and cause yourself all sorts of grief. You have been warned!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!WARNING!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+UNDERSTANDING THE NEW STRUCTURE OF GOTR
+
+..MY_CUSTOM_PATCH\ <- where the dynamically built patch.vpp_pc is sent to at the end of the process along with the 2 preloads
+
+..optional_mod_stuff\1-MODDERS_-_PUT_YOUR_OWN_PERSONAL_MODS_HERE\ <- Put your own personal changed files here. They will overwrite the GotR ones in the temp workspace at the end of the copy process before building your new patch file.
+
+..optional_mod_stuff\modified\ <- modified source for GotR that was previously in the root of the archive for earlier releases. It is the STANDARD KBAM version of GotR
+
+..optional_mod_stuff\optional_mods\ <- contains subfolders with specific mods that you can add to the build in the batch menu. NOTE: Many of these optional mods have been tweaked to work with GotR. For example, the 360 onscreen folder is_much_different than the standalone source release since it includes almost 100 extra logo changes and other texture references.
+
+..optional_mod_stuff\original_patch\ <- extracted original 1.2 Steam patch.vpp_pc
+
+..optional_mod_stuff\tmp_workspace\ <- the temporary place where all the optional mod files are copied before building
+
+..optional_mod_stuff\tools\ <- Minimaul's modding tools that are called by the batch file to create the patch. The latest source and/or binaries can always be found here:
+http://minimaul.sr2mods.com/
+
+Preload.tbl, and preload_anim.tbl in the ..\optional_mod_stuff\ folder are the ones for GotR that get copied with the patch file at the end of the buid process. The input.bin file located here is also copied to the save directory as part of the 360 or PS3 onscreen install (if selected.)
+
+
+
+
+SO HOW DOES IT WORK?
+
+1. User runs the batch file and is presented with a menu
+
+2. User selects optional mods. When a mod is a selected, a variable for that mod is set to an 'installed' state. It doesn't actually DO anything at this point, other than set this flag to know what to build in at the end
+
+3. User selects P to build the patch at the end which does the following:
+
+   * Copies the contents of the modified folder (containing GotR standard kbam) to the tmp_workspace folder
+
+   * Goes through a series of checks against the optional mod flags. If a mod variable is set to installed it copies those files over the ones in tmp_workspace (overwriting the existing GotR modified files that were copied there in the last step)
+
+   * Copies the contents of the 1-MODDERS_-_PUT_YOUR_OWN_PERSONAL_MODS_HERE folder into the tmp_workspace overwriting any existing files
+
+   * Deletes the contents of MY_CUSTOM_PATCH\ in case there are old files in there
+
+   * Runs minimaul's tools. This is similar to the command in the old build.bat, just with different directories than what you're used to. It builds the new patch.vpp_pc and puts it in MY_CUSTOM_PATCH\
+
+   * Deletes the contents of tmp_workspace\
+
+   * Copies both preload files to MY_CUSTOM_PATCH\
+
+   * Copies input.bin to the save directory (if it was selected)
+
+   * Displays the completion screen telling the user they can find their custom patch and preloads in MY_CUSTOM_PATCH
+
+
+
+
+
+MODDING YOUR OWN CHANGES TO GOTR
+
+COPY (DO NOT MOVE!) any files you want to change into ..optional_mod_stuff\1-MODDERS_-_PUT_YOUR_OWN_PERSONAL_MODS_HERE\ and edit them. When you build the patch file at the end, the last place it copies files from is this folder. Any files placed here will overwrite the GotR/vanilla ones in the tmp_workspace before building the patch.
+
+!!!WARNING!!!! Do NOT edit ANYTHING in the modified folder or the original_patch folder. This means you, Sam! These files should be left alone so you always have a clean official version of GotR to fall back to.
+
+
+
+
+OTHER STUFF
+
+You can get the latest source and binaries of Minimaul's tools from his site:
+http://minimaul.sr2mods.com/
+
+Check out my site for SR2 news, development, mods, and tutorials:
+http://idolninja.com

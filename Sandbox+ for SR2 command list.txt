@@ -1,0 +1,300 @@
+Using Sandbox+ for SR2
+
+The SR2 version of Sandbox+ is a bit different than what you might be used to from the SRTT version. This is due to the limited functions in SR2 that are available for capturing input. To use while in game, first press 888 in sequence. This will trigger a code entry message and get things ready for you to input your code. Then, enter one of the following 3 digit codes:
+
+DISTRICT TELEPORTS
+
+111 - Teleport to Airport
+112 - Teleport to Apartments district
+113 - Teleport to Arena district
+114 - Teleport to Barrio district
+115 - Teleport to Chinatown district
+116 - Teleport to Docks district
+117 - Teleport to Downtown district
+118 - Teleport to Factories district
+121 - Teleport to Highend district
+122 - Teleport to Hotel and Marina district
+123 - Teleport to Museum district
+124 - Teleport to Nuke Plant
+125 - Teleport to Prison island
+126 - Teleport to Projects district
+127 - Teleport to Redlight district
+128 - Teleport to Saints Row district
+131 - Teleport to Suburbs district
+132 - Teleport to Suburbs Expansion district
+133 - Teleport to Trailer Park district
+134 - Teleport to Truckyard district
+135 - Teleport to Stilwater University district
+
+
+CRIB TELEPORTS
+
+141 - Teleport to Penthouse Loft crib
+142 - Teleport to Prison Lighthouse crib
+143 - Teleport to Saints Row Mega Condo crib
+144 - Teleport to Red Light Loft crib
+145 - Teleport to University Loft crib
+146 - Teleport to Saints HQ crib
+147 - Teleport to Downtown Loft crib
+148 - Teleport to Hotel Penthouse crib
+151 - Teleport to Airplane Hangar
+152 - Teleport to University Dock
+153 - Teleport to Suburbs Dock
+
+
+CHUNK SWAPS
+
+211 - Prison Riot chunk swap
+212 - Brotherhood tanker ship chunk swap
+213 - Heritage Festival chunk swap
+214 - Ultor Yacht chunk swap
+215 - Sunnyvale Projects burning chunk swap
+216 - Hopsital blackout chunk swap
+217 - Drug Farm Barn destroyed/intact chunk swap
+
+
+NOTORIETY COMMANDS
+
+311 - Samedi Notoriety +1 (cycles back to 0 after 5)
+312 - Ronin Notoriety +1
+313 - Brotherhood Notoriety +1
+314 - Police Notoriety +1
+315 - Lock Samedi Notoriety at 0 (forced no notoriety)
+316 - Lock Samedi Notoriety at 1
+317 - Lock Samedi Notoriety at 2
+318 - Lock Samedi Notoriety at 3
+321 - Lock Samedi Notoriety at 4
+322 - Lock Samedi Notoriety at 5
+323 - Lock Ronin Notoriety at 0 (forced no notoriety)
+324 - Lock Ronin Notoriety at 1
+325 - Lock Ronin Notoriety at 2
+326 - Lock Ronin Notoriety at 3
+327 - Lock Ronin Notoriety at 4
+328 - Lock Ronin Notoriety at 5
+331 - Lock Brotherhood Notoriety at 0 (forced no notoriety)
+332 - Lock Brotherhood Notoriety at 1
+333 - Lock Brotherhood Notoriety at 2
+334 - Lock Brotherhood Notoriety at 3
+335 - Lock Brotherhood Notoriety at 4
+336 - Lock Brotherhood Notoriety at 5
+337 - Lock Police Notoriety at 0 (forced no notoriety)
+338 - Lock Police Notoriety at 1
+341 - Lock Police Notoriety at 2
+342 - Lock Police Notoriety at 3
+343 - Lock Police Notoriety at 4
+344 - Lock Police Notoriety at 5
+345 - Remove all notoriety locks
+346 - Clear all notoriety
+
+
+TEAM COMMANDS
+
+347 - Set player team to Samedi
+348 - Set player team to Ronin
+351 - Set player team to Brotherhood
+352 - Set player team to Police
+353 - Set player team to Saints
+
+
+ANIMATION COMMANDS
+
+*NOTE: Certain animations are only loaded in certain areas. For example the pole stand (pole dance) will only work in the Red Light District and Suburbs (Techncially Legal),the inmate animations will only work at the prison, etc. You can tell if an animation is not loaded in your current area if your character does a T-pose (sticks out his arms like an airplane.)
+
+* Animation names are taken straight from the anim_states table.
+
+411 - Clear Current Animation
+412 - Arcade Stand
+413 - arrest cuffed
+414 - atm using
+415 - back liedown
+416 - BeachChair Sit
+417 - BeachTowel Lay A
+418 - BeachTowel Lay B
+421 - Begger Stand
+422 - Bench Beverage
+423 - Bench Cellphone
+424 - Bench Laptop
+425 - Bench Lean
+426 - Bench Newspaper
+427 - BlackJack Sit
+428 - blunt smoking B
+431 - blunt smoking
+432 - Bum sleep
+433 - cell stand txt
+434 - cell stand
+435 - Chair Beverage
+436 - Chair Cellphone
+437 - Chair Cower A
+438 - Chair Cower B
+441 - Chair Cower C
+442 - Chair Drink
+443 - Chair Eat
+444 - Chair Laptop
+445 - Chair Newspaper
+446 - Chair Sit
+447 - Clipboard Stand
+448 - Construction Hammer Kneel
+451 - Construction Jackhammer
+452 - Construction RoadSign Stand
+453 - Construction Saw Stand
+454 - cower run variant 1
+455 - cower run variant 2
+456 - cower run variant 3
+457 - cower run variant 4
+458 - cower run variant 5
+461 - cower run
+462 - cower stand variant 1
+463 - cower stand variant 2
+464 - cower stand variant 3
+465 - cower stand
+466 - cpr crouch pressing
+467 - cpr crouch state 1
+468 - cpr crouch state 2
+471 - cpr liedown
+472 - CRIB Sit Ground
+473 - CRIB Steel Drums
+474 - crouch eat
+475 - crouch plant bomb
+476 - dance a
+477 - dance b
+478 - dance c
+481 - dance d
+482 - defib crouch charging
+483 - defib flinch facedown
+484 - defib flinch faceup
+485 - dial safe combo
+486 - drunk flee walk A
+487 - drunk flee walk B
+488 - drunk run
+511 - drunk stand
+512 - drunk walk
+513 - fall dead
+514 - Fishing Stand
+515 - FlashBanged
+516 - flashing open stand
+517 - Flee Walk A
+518 - flip fall
+521 - Flyer Stand
+522 - forty drinking
+523 - forty drinking B
+524 - forty drinking walk
+525 - GroundReading Sit
+526 - guitar stand
+527 - Gurney Sleep A
+528 - Gurney Sleep B
+531 - Head Cover Run
+532 - Head Cover Stand
+533 - Head Cover Walk
+534 - HedgeTrimmer Stand
+535 - Helmet Sit
+536 - hose sprayed
+537 - Inmate Bang Cup
+538 - Inmate Bars Stand
+541 - Inmate Curl Stand
+542 - Inmate Harmonica Stand
+543 - Inmate Scrub Kneel
+544 - Inmate Write Sit
+545 - Juggle
+546 - Junkie Ground
+547 - Lapdance Sit Get
+548 - Lapdance Stand Give
+551 - Laptop Ground
+552 - Lawnchair Lounge
+553 - Lawnchair Sit
+554 - Lean
+555 - Lifeguard Sit
+556 - Limbo Dance A
+557 - Limbo Dance B
+558 - Limbo Pole Stand Left
+561 - Limbo Pole Stand Right
+562 - Lookout Stand
+563 - Lounge
+564 - Lover Sit A
+565 - Lover Sit B
+566 - Megaphone Stand
+567 - Metal Detector Stand
+568 - Mourn Crouch
+571 - Nose Dive
+572 - panic fall
+573 - pant
+574 - Piano Sit
+575 - Picnic Sit A
+576 - Picnic Sit B
+577 - PicnicTable Drink
+578 - PicnicTable Eat
+581 - PicnicTable Sit
+582 - Pinball Stand
+583 - Poker Sit
+584 - pole stand
+585 - police call talk
+586 - Pond Scoop Stand
+587 - Pool Stand
+588 - Pool Watch
+611 - protest Stand
+612 - Quartet Stand
+613 - Rap Stand
+614 - react car wreck
+615 - react Cheer
+616 - react Cheer 2
+617 - react Over Body
+618 - react PepperSpray Stand
+621 - Security Scan Stand
+622 - ShoppingBag Stand
+623 - Singer Stand
+624 - Sketchpad Sit
+625 - sleep
+626 - sleep b
+627 - Slot Machine Sit
+628 - Smoking B
+631 - Sofa Cower A
+632 - Sofa Cower B
+633 - Sofa Sit
+634 - Stool Beer
+635 - Stool Cig
+636 - Stool Sit
+637 - streaking run
+638 - streaking sprint
+641 - streaking stand
+642 - Suicide Stand
+643 - surrender
+644 - swim surface
+645 - swim_slow
+646 - tag stand
+647 - TaiChi Stand
+648 - Tap Dancer Stand
+651 - Tourist Stand
+652 - tread
+653 - Umbrella Run
+654 - Umbrella Stand
+655 - Umbrella Walk
+656 - vehicle surf handstand
+657 - vehicle surf lean left
+658 - vehicle surf lean right
+661 - vehicle surf stand
+662 - Warmhands Stand
+663 - Watch Rain
+664 - worried fall
+665 - YKZA Sword Stand
+666 - Yoga Sit
+
+
+MISC COMMANDS
+
+811 - Toggle Sandbox+ messages displayed in HUD
+812 - Toggle if commands also affect coop remote player
+813 - Give $100,000
+814 - Repair current vehicle
+815 - Disable/Enable player weapons (handy for animation commands if you don't want to see the weapons switching)
+
+
+
+Examples:
+888116 <- Teleport to Docks
+888111 < Teleport to Airport
+
+
+Remember, always enter 888 first to initialize the entry for your actual 3 digit code
+
+*************************************
+
+More functions and features are coming soon!

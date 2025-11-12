@@ -1,0 +1,122 @@
+THE GENTLEMEN OF THE ROW V1.9 FEATURE LIST
+
+The Gentlemen of the Row mod for Saints Row 2 PC is a massive integrated collection of mods, tweaks, and fixes that greatly enhances the game while still staying true to the spirit of the original. The mod has been carefully balanced to be used by either a newcomer or a veteran to the series and has the following features:
+
+
+* WEAPONS *
+
+16 new weapons
+5 new unlockable infinite ammo types including thrown ammo and rockets
+Existing weapons damage and accuracy rebalancing and new meshes/textures
+
+
+
+* CHARACTER CREATION *
+
+Optional super sliders greatly extend the range of character creation sliders
+Change character height ranging from a 3ft dwarf to a monstrous 8ft giant
+20 new walks taunts and compliments
+13 new skin colors
+21 new hair colors
+10 new makeup colors
+104 new eye colors
+
+
+* ANIMATION *
+
+Optional player skateboarding, rollerblading, and more
+
+
+
+* CLOTHING AND TATTOOS *
+
+100+ new clothing items
+61 new outfits
+34 New clothing colors
+122 New Custom Logos
+New Misc slots for equipping items like badges and bluetooth headsets
+Optional selectable colors in wardrobe for existing clothes
+25 multiplayer only tattoos available in single player
+10 new tribal tattoos including full body versions
+3 New custom tattoos
+Optional nude mod removes pixelation
+
+
+* VEHICLES *
+
+Plane and boat mechanics for customizing
+All unique vehicles are now fully customizable at the mechanic
+A huge number of extra mechanic options for previously unavailable items like decals
+6 new complete retextures of existing vehicles like the Bear and Five-O
+5 new vehicle dealerships offer every single vehicle in the game including cutscene only and unused ones
+2 new custom vehicles
+RWD handling fixed on all larger vehicles
+Flyable El Train
+The Wolverine, Bear, and Bulldog have alt-fire rockets
+New vehicle paints including true black, rival gang colors, and body usable metals like chrome and white gold
+1 new custom race on ATVs at the mall
+
+
+
+* CRIBS *
+
+3 new cribs for sale; Aisha's house, Phillips Building, and Ultor Yacht
+Additional crib garages and utilities added to existing cribs
+
+
+
+* HOMIES *
+
+4 new homies
+Optional homie packs for villains and other misc characters
+
+
+
+* AUDIO
+
+100+ New Misc Music tracks for sale at On the Record
+New main menu and pause music with optional choices
+All radio stations now available at endgame
+
+
+
+* CAMERA AND HUD *
+
+Increased FOV (optional)
+Hudless for screenshots (optional)
+Increased camera range in Fine Aim mode
+
+
+
+* CHEATS * 
+
+All cheats cheat adds everything to your phone with one code
+100+ new npc morph cheats
+Optional Open mods allow you to set all pricing to $1, remove cheat flagging, instant respect, all weapons immediately for sale, and more
+
+
+
+* GANG CUSTOMIZATION
+
+21 new gang vehicles to choose from
+47 new optional gang customization types
+
+
+* CONTROLS *
+
+Fast weapon switching in single player
+Optional handling mod turns down the driving sensitivity
+Optional sticky Camera mod stops the auto recentering of the camera while driving
+
+
+
+* MISC *
+
+Complete Multi-language support now configurable via launch options
+All new unlockables and better rewards includes new outfits, weapons, homies, and more
+Completely revamped weather including a more vibrant colorful daytime and darker nighttime.
+Optional Zombie Uprising at the Mall
+2 new custom sets of spraytags
+All new CD Locations with new unlockable outfit rewards
+Optional chunk mod loads the Prison Riot, Heritage Festival, and Brotherhood tanker chunks permanently during normal open world play
+Over 100+ other tweaks and fixes

@@ -1,0 +1,431 @@
+This FAQ is a simple text version of the one I wrote up the Steam forums:
+http://forums.steampowered.com/forums/showthread.php?t=1715922
+
+Saints Row 2 PC FAQ by IdolNinja
+http://idolninja.com
+
+Saints Row 2 PC FAQ by IdolNinja
+
+Is there a fix for Saints Row 2 crashing on startup?
+
+The settings.dat file is often the culprit and can be found in your saves directory:
+C:\Users\[profile name]\AppData\Local\THQ\Saints Row 2\settings.dat
+
+A few things you can try:
+
+* Add the following parameter to startup to force the game to start with default settings:
+defaults
+
+* Delete the existing settings.dat and the game will recreate a fresh one when you next run it. This file only contains your video and audio settings like resolution, draw distance, volume, etc.
+
+* You can download a windowed 800x600 settings.dat here:
+http://finalack.com/Idol/sr2/source/info_utils/SR2_settings.dat_windowed.rar
+Often, SR2 crashes fullscreen, and needs to be run windowed first. After the first time run successfully, you should be able to switch it back to fullscreen in the video options without an issue.
+
+
+
+The settings.dat didn't work! Is there anything else I can try?
+
+A few additional troubleshooting steps you can take are:
+
+* Verify intergrity of the game cache on Steam. You can get to this option by right clicking Saints Row 2 in your game library, and selecting Properties -> Local Files -> Verify integrity of game cache
+
+* Remove or disable all non-essential usb devices. Sometimes the game mistakenly identifies a usb device as a controller which can cause a crash.
+
+* Temporarily disable your 2nd monitor
+
+* Change the way the game launches:
+Find the SR2 executable in windows explorer
+..\steam\steamapps\common\saints row 2\SR2_pc.exe
+Right-click on the file, and select Properties.
+on the Compatibility tab, run the program in compatibility mode for Windows XP.
+Also, "disable visual themes", and "disable desktop composition" options.
+
+* One user has reported that unchecking the Disable all enhancements  option in their speaker properties fixed the crashing:
+Control Panel -> Sound -> Speakers -> Properties -> Enhancements -> Disable all enhancements
+http://img818.imageshack.us/img818/3074/sr2speakers.jpg
+
+This fix might be related to surround sound since Red Faction Guerilla (built on the SR2 engine) had issues running in surround for some hardware and had to be set to stereo. More info needed.
+
+
+
+Why is my game crashing when I try to load a save?
+
+Crashing on save load is an indication of save corruption, or as a result adding or removing mods. The best way to avoid this is to save manually in a new slot after every mission so you can go back to a previous save in the event that it corrupts. This is important to do even with the original vanilla game. Also, be careful if you use any mods since saves are usually not compatible if you change/remove them.
+
+
+
+Why is the game crashing when I start a new game?
+
+Crashing on new game usually indicates a problem with Direct X since the crash happens as soon as the opening cutscene is triggered.
+
+Some things to try:
+
+* Update your Direct X libraries to the latest
+http://www.microsoft.com/downloads/details.aspx?FamilyId=2DA43D38-DB71-4C1B-BC6A-9B6652CD92A3&displaylang=en
+
+* Run Saints Row 2 windowed instead of fullscreen. Oddly enough it seems much more stable this way.
+
+* If you are using Powertools (more on this tool later in the FAQ,) confirm that you are running the encrypted Steam exe. Powertools will only work correctly with this version and not with anything else like the Games for Windows Live non-Steam release, the German censored release, or any illegal cracked versions of the exe. 
+
+NOTE: The German version is heavily censored and will likely crash with anything other than the plain vanilla release. You will not be able to use some mods (like Gentlemen of the Row,) or Powertools.
+
+
+
+How do I fix the menu selection automatically scrolling through the options at fast speed?
+
+Saints Row 2 has this issue with certain USB devices which it mistakenly thinks are game controllers. The first thing to try is to unplug all USB devices except your keyboard and mouse and see if that fixes it. Also, certain Saitek keyboards install their own HID-Compliant Game Controller entry in Device Manager to enable extra functionality like keystroke macros. Temporarily disabling this device in device manager could also fix the issue.
+
+
+
+The Ronin Mission at the airport (Orange Threat Level) crashes after the middle cutscene plays!
+
+This is a known issue with the PC port. To get past this issue you can:
+
+* Skip the cutscene
+
+* Use the Gentlemen of the Row mod which fixes this and other mission scripting issues (more on this in the modding section of the FAQ)
+
+* Download the standalone fix and compile your own patch.vpp_pc using Minimaul's modding tools (more on these tools in the modding section)
+http://finalack.com/Idol/sr2/source/mods/SR2_rn05_Orange_Threat_Level_Cutscene_crash_fix_IdolNinja.rar
+
+
+
+The Samedi mission loading the van with drugs (Riot Control) is bugged in coop and Shaundi is missing! How can I beat it in coop?
+
+This is a known issue with all versions of the game and cannot be beaten in coop unless you get very lucky and the mission initializes correctly at that point. To get past this issue you can:
+
+* Keep trying over and over restarting the mission until it finally works.
+
+* Complete it solo instead of coop, and then continue on with your friend afterward.
+
+* Use the Gentlemen of the Row mod which fixes this and other mission scripting issues (more on this in the modding section of the FAQ)
+
+* Download the standalone fix and compile your own patch.vpp_pc using Minimaul's modding tools (more on these tools in the modding section)
+http://finalack.com/Idol/sr2/source/mods/SR2_SS08_Samedi_Mission_Riot_Control_Fix_IdolNinja.rar
+
+NOTE: bbcisdabomb posted the following fix in the SR2 thread on the Something Awful forums:
+"Actually, that's wrong. Blow Shaundi away before the cutscene, skip it, then revive her. Works every time."
+http://forums.somethingawful.com/showthread.php?threadid=2978455&userid=0&perpage=40&pagenumber=182#post388915343
+
+The above fix shooting Shaundi is untested. Feedback is appreciated!
+
+
+How can I fix Saints Row 2 running too fast at 1.5x speed?
+
+The speedup bug is something that is an inherent problem with Windows 7, though in rare cases it has been reported to happen on Vista. The speedup happens with CPUs that do not run at exactly 3.2Ghz frequency (the Xbox 360 cpu speed.) The further your cpu is away from 3.2Ghz (both higher and lower) the faster it will run.
+
+There are two tools that can fix the issue:
+
+Saints Row Powertools was developed by Rafael Rivera and IdolNinja specifically to fix this speedup issue and is the preferred solution since it does not desync cutscene audio. It also has many features for modders like print_debug support, realtime coordinate display, and logging:
+http://saintsrowpowertools.com
+
+You may want to give the new beta of Powertools a try that attempts to automatically calculate the timescale so you can avoid the stopwatch test. It seems to work correctly for about half the people who try it. If it does not you can still set a manual value in the ini like the old version:
+http://saintsrowpowertools.com/oldbeta/beta.html
+
+NOTE: Powertools will only work correctly with the encrypted Steam exe.
+
+Cheat Engine is a general purpose tool that can also slow down Saints Row 2, but has the side effect of desync'ing cutscene audio. It should be used for anything other than the encrypted Steam release:
+http://www.cheatengine.org/
+
+
+
+How do I make Powertools work?
+
+* Download the archive from:
+http://saintsrowpowertools.com
+
+* Extract the contents into your Saints Row 2 install directory where the SR2_PC.exe resides
+
+* Right click on install.cmd and choose to Run as Administrator to install it.
+
+* Edit the Powertools.ini and set your speed value at the end of the file
+percentage = 1.0 is the default and results in no change
+percentage = 0.78 would be running the game at 78% the speed
+
+
+
+How do I know what slowdown value to use for Powertools?
+
+Every CPU is different, and is influenced by many factors like overclocking, speed-step, etc, so there is no easy answer regarding a value to use. There is a stopwatch test to tweak the value though which will let you get as close as possible:
+http://finalack.com/Idol/sr2/source/tools/Powertools_Speedup_Stopwatch_Test_v1.2.rar
+
+NOTE: The closer you can get the game running to the correct speed, the smoother it will run.
+
+
+
+Powertools is crashing the game at cutscenes! Is there anything I can do?
+
+Here are a few troubleshooting steps you can try:
+
+* Update your Direct X libraries to the latest and greatest
+http://www.microsoft.com/downloads/details.aspx?FamilyId=2DA43D38-DB71-4C1B-BC6A-9B6652CD92A3&displaylang=en
+
+* Verify integrity on Steam
+
+* Run Saints Row 2 windowed instead of fullscreen. Oddly enough it seems much more stable this way.
+
+* Confirm that you are running the encrypted Steam exe. Powertools will only work correctly with this version and not with anything else like the Games for Windows Live non-Steam release, the German censored release, or any illegal cracked versions of the exe. 
+
+
+
+There is a bunch of weird text in the top left of my screen. How do I get rid of it?
+
+It is likely that the OSD (On Screen Display) for Powertools was accidentally activated which contains game info helpful to modders. This OSD can be toggled on and off with the Scroll Lock key.
+
+
+
+Is there anything I can do to fix the stuttering and lagging while driving?
+
+The biggest issue with the PC port of Saints Row 2 is how the engine streams data from the hard drive into memory and how it prefetches (or more correctly, doesn't.)
+
+The prefetching is the thing that tends to throw everyone because it can adversely affect people with optimal hardware that should be able to run the game well. So, you start seeing wild rumors flying around from everyone on what hardware can and can't run it well, as if it's a crapshoot. It's not, and I'll get to some ways to fix that lag in after I go over basic hardware requirements.
+
+HARDWARE REQUIREMENTS
+
+These are some minimum requirements to get ~30fps with 1920x1200 and most everything maxed with some dips to maybe 25fps during really fast driving:
+Core 2 Duo 3Ghz
+ATI 4850 w/512 video memory
+3GB RAM with Windows 7 (4GB RAM under Vista)
+7200rpm hard drive with <4ms seek
+
+OS:
+XP will never run the game well because it can't prefetch. Vista runs it okay and you won't have to worry about speedup issues. Windows 7 performance is the best, but you'll also need to use the Powertools we released if your CPU frequency isn't exactly 3.2Ghz (the xbox 360 cpu speed.)
+http://saintsrowpowertools.com
+
+The biggest thing you can do to help SR2 performance is to give it as much RAM as you can. We're talking at least 2.5Gb free memory not being prefetched by other applications.
+
+WINDOWS PREFETCHING BASICS:
+
+The way Windows prefetching works is that Windows continually gathers data about your usage as you use your PC, and is constantly swapping applications in and out of memory trying to predict (or prefetch) the apps that it thinks you might need, before you even use them. That way they are already in memory and load instantly instead of loading them off the hard drive which is much slower.
+
+Any app or game that you run should result in Windows giving that app all the memory it needs. So, it should (and does) unload other things it had prefetched, and give the new app all the memory it needs. This is the way every app normally works except SR2. For some reason with SR2, the OS will not give up any of the prefetched memory in use by other apps. SR2 will also sometimes fail to even create a .pf file and not prefetch at all if the memory is full.
+
+STEPS TO MINIMIZE/ELIMINATE DRIVING LAG:
+
+* Delete the contents of c:\windows\prefetch\
+This will remove all the .pf files for all apps that Windows has learned and created over time. By doing so, Windows will no longer prefetch them into memory until it relearns that behavior.
+* Reboot
+* Make sure you have all other unnecessary applications and processes closed/ended like web browsers, background tasks, etc.
+* Run Saints Row 2 and check the prefetch folder to make sure Windows created SR2_PC.EXE[SOME#s].pf
+
+The above fix should not work that way, yet somehow does. This has worked for hundreds of players I have helped. I can't even begin to fathom how the developers found a way to get Windows to ignore its standard prefetching, but I guess there's a reason that this game has a reputation for being the worst port in the history of gaming.
+
+NOTE: After clearing the contents of prefetch, the first few times Windows boots or loads a new app, it may initially load slightly slower until it relearns and starts prefetching. Most people don't even notice it though with high end hardware like recommended earlier.
+
+One other performance note... The Powertools release mentioned above allows you to slow down the game to fix the Windows 7 speedup issue. The interesting thing is that the closer you can get the speed to mirror the actual 360 cpu frequency speed, the smoother the game will run.
+
+Slightly lower hardware than the specs mentioned earlier are probably workable. It just means you'll have to run it at a lower resolution and maybe turn down some graphic settings like Motion Blur, AA, or Dynamic Lighting.
+
+
+
+What controllers are supported?
+
+Only the 360 controller is officially supported. Other controllers do not map correctly and will often cause problems with the menu options continuously scrolling on their own as if a directional keypress was held down.
+
+A PS3 controller can be used, but you will need to make it emulate a 360 controller for it to work right:
+
+* Install the latest MotionJoy software:
+http://www.motioninjoy.com
+
+* Download the XBOX360 Controller Emulator v3.0
+http://www.tocaedit.com/IB/index.php?app=downloads&showfile=4
+
+* Extract the downloaded archive for the emulator above and copy the following 2 files to your Saints Row 2 install directory where the sr2_pc.exe resides:
+xbox360cemu.ini
+xinput1_3.dll
+
+
+
+How can I make the driving controls with keyboard and mouse not be an oversensitive mess?
+
+The short answer is to use a 360 controller. The long answer is to download the handling mod:
+http://www.moddb.com/mods/saints-row-2-handling-mod
+
+Some users have reported that the handling mod makes all vehicles handle the same and also causes serious AI driving issues which result in the npcs not being able to turn successfully. Many players swear by it though, so YMMV.
+
+
+
+How do I change the in-game prompts to be my 360/PS3 controller buttons instead of keyboard keys?
+
+You can either:
+
+* Download the Gentlemen of the Row mod which has 360 and PS3 onscreen builds:
+http://idolninja.com
+
+* Download the standalone 360/PS3 onscreen mod and compile your own patch.vpp_pc using Minimaul's modding tools (more on these tools in the modding section)
+http://finalack.com/Idol/sr2/source/mods/SR2_360_Onscreen_Buttons_Mod_IdolNinja_InnocentSam.rar
+or
+http://finalack.com/Idol/sr2/source/mods/SR2_PS3_Onscreen_Buttons_Mod_Megacherv.rar
+
+
+
+Why can't I see my friends' coop games?
+
+Different Saints Row 2 patch levels cannot see each other's games in Gamespy and cannot play together. For example, if you have the Steam release patched to the final 1.2, you will not be able to play with a user of the Games for Windows Live release which is still at 1.1. Check the end of the FAQ for more info on the different releases and versions of Saints Row 2.
+
+
+
+Why does it timeout when I try to connect to a coop game?
+
+Saints Row 2 needs to have the following port open/forwarded for both the host and client:
+4200 TCP and UDP
+
+Just opening port 4200 works for most people. If it still time's out try disabling your Hamachi virtual network adapter and/or opening the following ports both TCP and UDP:
+* 27900 (Master Server UDP Heartbeat)
+* 28900 (Master Server List Request)
+* 29900 (GP Connection Manager)
+* 29901 (GP Search Manager)
+* 13139 (Custom UDP Pings)
+* 6500 (Query Port)
+* 4200 (Game)
+
+If it still doesn't work, try hosting a non-password protected game. Oddly enough, this seems to work for some people when everything else fails.
+
+
+
+Why does the Multiplayer lobby for Gangsta Brawl and Strong Arm modes boot people out when others join?
+
+The network code for Saints Row 2 is extremely sensitive and when coupled with the speed and timing issues of the game it results in many people not being able to play together since it forcibly disconnects certain users when others join. It is almost impossible to get a full game going with friends because of this and SR2 PC multiplayer is considered inherently broken (except coop which works great.)
+
+
+
+I bought sr2 and it's in the wrong language! Does the game have multi-language support?
+
+Yes and no. Some regions like the Czech release have all languages files present in the game, while others like the US release only have English. There are a few different ways you can get it working though.
+
+* Use the Gentlemen of the Row mod which has multi-language support, bugfixes, and additions (more info in the modding section.)
+
+* Download a custom patch.vpp_pc with all language files present. This is for the plain vanilla version without any kind of mods:
+http://finalack.com/Idol/sr2/source/mods/saints_row_2_multilanguage_support.rar
+
+* Force the language with the following startup parameters (only works if the language files are already present.)
+forcelang_en 	- force language to English
+forcelang_de 	- force language to German
+forcelang_fr 	- force language to French
+forcelang_es 	- force language to Spanish
+forcelang_it 	- force language to Italian
+forcelang_nl 	- force language to Dutch
+forcelang_se 	- force language to Swedish
+forcelang_dk 	- force language to Danish
+forcelang_pl 	- force language to Polish
+forcelang_cz 	- force language to Czech
+forcelang_ru 	- force language to Russian
+forcelang_ch 	- force language to Chinese
+forcelang_jp 	- force language to Japanese
+
+
+
+I bought the German version and nothing works! What can I do?
+
+The German version is extremely censored and thus incompatible with almost every mod, fix, or tool outlined in this FAQ. It has been confirmed that German players can activate uncensored keys from other regions on their Steam account to get past this.
+
+IMPORTANT: The previous issues with Gamersgate keys being the censored German version have been corrected. All new sales from them are for the uncensored english version. If you previously bought SR2 from Gamersgate, simply login to their site with your account and get your new key that will register correctly on Steam.
+
+
+
+My stats show that I did x amount of holdups, hostage diversions, etc, but I didn't get the unlocks?
+
+Stat tracking in the game is a little weird. Your profile.dat file located in the saves directory stores running totals for ALL gameplay. The menu polls data from that file rather than your save. So, if you were to successfully complete a hostage diversion it would immediately add one to your stats, even if the game crashed right after and you didn't save. In that case your stats would say 1 hostage taken, but your save wouldn't have any successfully completed. Because of how it is setup, the stats also track all your previously done diversions from other characters too which can be misleading.
+
+The answer is almost always to just keep on doing x diversion until it unlocks what it's supposed to.
+
+
+
+My No Fall Damage unlock stopped working! Is there any way I can fix it?
+
+There is a bug in all versions of the game where the Low Gravity Cheat will permanently screw up your No Fall Damage unlock if you save the game after activating it. 
+
+There is a way to hex edit your save and correct it on the PC version:
+http://idolninja.com/blog/?p=185
+
+IMPORTANT: Never save after using the Low Gravity cheat to prevent this from happening!
+
+
+Is there a list of unlocks/phone numbers?
+
+The Penny Arcade Saints Row 2 thread has a wealth of info in the OP concerning unlocks and other game info:
+http://forums.penny-arcade.com/showthread.php?t=100919
+
+
+How do cheats work and why can they screw up my game?
+
+When you activate one of the cheats from the cheat menu in-game, it does the following:
+
+* Turns off autosaving
+
+* Flags your current game session so that any FUTURE saves IN THIS SESSION will cause the save to be flagged.
+
+So, you can safely load your saved game, activate the cheat, mess around and have fun, and then EXIT WITHOUT SAVING, and you'll be fine. Your current save will not be flagged.
+
+
+NOTE: If someone joins your game and their save is a cheat flagged save, it immediately flags the SESSION you are playing and disables your autosave. DO NOT SAVE YOUR GAME AFTER THIS HAPPENS OR YOUR SAVE WILL ALSO BE SAVED AS A CHEAT SAVE AND YOU WILL NOT BE ABLE TO GET CERTAIN STATISTIC BASED UNLOCKS!
+
+
+
+Is there DLC for the PC release?
+
+No, and there never will be any official DLC on PC as per Volition on their official forums. Volition has also announced that there will be no further patches or support for the PC version.
+http://community.saintsrow.com
+
+
+
+Are there are any mods for Saints Row 2?
+
+The most popular mod for Saints Row 2 is Gentlemen of the Row and offers 100+ new clothing items with 80+ new logos, improved weather including a darker nighttime and more vibrant colors in daytime, plane and boat mechanics for customizing, additional missions, new vehicle dealerships, new weapons, new cribs, new homies and gang styles, new taunts and compliments, new walking styles, 100+ new ambient music tracks for purchase, more car paints, more skin colors, tattoos, makeup, optional 360/PS3 onscreen prompts, a ton of new cheats including NPC morphs, and tons of tweaks and bug fixes.
+
+Gentlemen of the Row Trailer:
+http://www.youtube.com/watch?v=kRX8ACb-gWg
+
+You can download the latest version of Gentlemen of the Row, and get more info about Saints Row 2 modding here:
+http://idolninja.com
+
+
+
+I want to mod Saints Row 2 and customize it to my own version!
+
+Here are some resources that may help:
+
+* IdolNinja's Saints Row 2 modding site:
+http://idolninja.com
+
+* IdolNinja's mod source, info, and tools
+http://finalack.com/Idol/sr2/source/
+
+* Minimaul's Saints Row 2 Modding Tools:
+http://minimaul.sr2mods.com/
+
+* Chat transcript of IdolNinja trying to help curly haired boy understand the basics of Saints Row 2 modding:
+http://finalack.com/Idol/sr2/source/info_utils/How_to_mod_SR2_chat_transcript.txt
+
+* Volition Saints Row 2 modding forum:
+http://saintsrow.com/forums/saints-row-2/sr2-pc-modding
+
+
+
+Where is the best place to buy Saints Row 2, and are there any differences between releases?
+
+First of all, you will absolutely need the Steam release to get the latest patch of 1.2, as it is only available that way. Any other release is still at 1.1 which has serious performance, AI, coop, and resolution problems.
+
+IMPORTANT: THE GERMAN VERSION OF SAINTS ROW 2 IS HEAVILY CENSORED AND WILL NOT WORK WITH MOST OF THE MODS AND TOOLS!
+
+* Buy it on Steam
+http://store.steampowered.com/app/9480/
+
+* Buy it from Amazon
+http://www.amazon.com/Saints-Row-2-Pc/dp/B0016Q4UJE
+Amazon has the retail boxed Saints Row 2 PC for $6 and some change. The retail boxed is steamworks and installs right on Steam. In fact, you can plug in the key from the manual right into Steam and activate it that way:
+
+Amazon also offers a digital download version of SR2. While slightly more expensive than boxed, this option also gives you a key that you can use to activate on Steam so you can avoid shipping charges and get the game immediately.
+
+* Direct 2 Drive digital download
+http://www.direct2drive.com/6474/product/Buy-Saints-Row-2-Download
+The D2D digital download is 1.1, but they also give you a key that you can activate on Steam. Definitely avoid the crippled 1.1 d2d version and just plug the key right in to Steam to activate.
+
+* Gamersgate
+http://www.gamersgate.com/DD-SAINTS2/saints-row-2
+As of Aug 2011, Gamersgate keys now register correctly on Steam. They are now for the uncut English version and not the horribly butchered and censored German version. If you previously bought a key from Gamersgate, simply login to their site to get your new correct key. If you have previously installed the German version on Steam you may need to contact Steam support to have them remove it first before entering your new English key.
+
+Problem releases of the game to avoid:
+Games for Windows Live digital download - 1.1 patch level
+Pirated/cracked versions - 1.1 patch level and you'll be haunted with recurring feelings of shame and regret :p

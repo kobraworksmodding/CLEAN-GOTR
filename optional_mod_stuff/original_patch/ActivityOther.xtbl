@@ -1,0 +1,85 @@
+<root>
+  <Table>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_HOOD_BECAME_CONTESTED</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_ENTER_CONTESTED_HOOD</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_LEAVE_CONTESTED_HOOD</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_CONTROL_POINT_TAKEN</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_HOOD_DEFENDED</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_OBJECT_DESCRIPTION</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_PHONE_CALL_HUD_TEXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_FAILED_HOOD</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_FAILED_DEAD_1</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_FAILED_DEAD_2</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_FAILED_LEAVE_1</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_FAILED_LEAVE_2</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_SUCCESS_1</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_SUCCESS_2</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+    <ActOther_Identifier>
+        <Name>PUSHBACK_GSI_TITLE</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActOther_Identifier>
+  </Table>
+
+  <TableTemplates>
+  </TableTemplates>
+
+  <TableDescription>
+      <Name>ActOther_Identifier</Name>
+      <Type>TableDescription</Type>
+      <Element>
+          <Name>Name</Name>
+          <Type>String</Type>
+          <Unique>true</Unique>
+      </Element>
+  </TableDescription>
+  <EntryCategories>
+      <Category>
+          <Name>Entries</Name>
+      </Category>
+  </EntryCategories>
+
+</root>
+
+

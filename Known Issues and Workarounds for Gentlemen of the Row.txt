@@ -1,0 +1,118 @@
+GENTLEMEN OF THE ROW KNOWN ISSUES AND BUGS
+
+IMPORTANT! SAVE OFTEN AND IN MULTIPLE SLOTS! Seriously, the vanilla game is buggy as fuck and will crash. Save after doing anything; adding a new outfit, killing a hitman target, customizing a car, etc. The Gentlemen of the Row mod has fixed a ton of the crashing issues, but it is still a problem.
+
+
+CLOTHING ISSUES
+
+* Once you hit ~22 custom outfits (your own, not including store bought ones or unlocks,) creating and saving a new unique custom outfit will crash your game. If this happens, that means you hit the max number of unique outfits you can have in your wardrobe. Simply delete an existing outfit (one of your own unique ones) and you should be able to save the new one. Once again, store bought prepackaged outfits or unlocks do not count towards this total.
+
+It's a good policy to always make sure to manually save before using your wardrobe just in case!
+
+
+* Viewing outfits will unequip any items in the Misc 1, Misc 2, and Misc 3 slots. Simply equip these items again once finished browsing. This bug is actually a compromise to get these new slots working correctly (otherwise they would stick permanetly on the player.) 
+
+
+New logo issues:
+* Some of the new logos will not work on certain clothes like the Firefighter helmet and sweatbands. The original vanilla logos still work just fine on these items.
+
+* Jyunichi's jacket is missing the morph file and will only look correct on slim male characters
+
+* Some of the new NPC only items will be partially hidden on a fat character
+
+
+
+
+CHARACTER CUSTOMIZATION ISSUES
+
+* Billboards that show your character as the new owner do not react well to the new clothing. Don't be alarmed if your character shows up missing body parts/clothes on them.
+
+* The male Ronin jackets cannot be used with masks like the diver helmet, skeeter mask, and zombie mask. If equipped, it will make your characters arms and sides invisible.
+
+* Custom eye colors are now available with the full range of the clothing color pallete (over 10x the colors to choose from) at the upscale clothing stores. Because of this change, the plastic surgeon eye colors no longer work and will default to a standard dark brown no matter what you choose. The Eye Color menu at the plastic surgeon has been relabeled as "UNAVAILABLE." 
+
+
+
+
+VEHICLE CUSTOMIZATION ISSUES
+
+* Maero's unique truck can be customized with all options except paint color. If you try to customize the color it will crash the game.
+
+* The Hurricane's tail option 2 will partially stick at the mechanic when switching between the two options. Buying the option and saving/loading will fix the issue.
+
+* If you spin planes too fast at the mechanic they will break off wings or embed in the ground. Rotate the camera slowly to avoid this.
+
+* The first six characters of the new gang color candy paints are cutoff at the Mechanic, so it will read "ouble Yellow" instead of "Gang Double Yellow" or "renade Green" instead of Gang Grenade Green, etc. The last 6 colors at the bottom of the candy Paint menu are the new gang colors you can use on your vehicles.
+
+
+
+
+CHEAT ISSUES
+
+* Low Gravity Cheat will mess up your save!
+The low gravity cheat will permanently screw up your "no fall damage" unlock if you save the game after activating! This is a confirmed issue that happens 100% of the time, even in vanilla. There is a workaround you can do by hex editing your save if you have already used the cheat. More details can be found here:
+http://idolninja.com/blog/?p=185
+
+NPC Morph Issues:
+* After activating a cheat to change your character into a NPC the screen will go black. You need to press the Escape Key twice to continue. Also, only one person in coop can morph into a NPC at a time. Attempting to watch a cutscene that features your character in it while morphed into an NPC will crash the game.
+
+
+
+
+WEAPON ISSUES
+
+* Satchel Charge Ammo Purchasing Issue:
+After purchasing a satchel charge as a weapon, you can keep purchasing them under the thrown weapon screen and it will look like the ammo is filling up. It's not, and will revert back to your original ammo after you throw it. To correctly purchase satchel ammo, you'll need to first purchase the satchel once as a thrown weapon, then change to the ammo purchase tab and buy ammo that way.
+
+* All Thrown weapon Ammo Purchasing Issue:
+You can only buy ammo for thrown weapons (grenades, molotovs, satchels, etc) in quantities of 1. This seems to be a limit of the thrown weapon class, since changing the clip size does nothing (which worked for other ammo like rockets.)
+
+Sawed-Off Shotgun ammo class Issue:
+In order to make the sawed-off a one-handed weapon, and dual wieldable, it had to be changed to a smg class weapon. This doesn't affect what slot it's in, but you will need to complete Downtown Snatch and earn infinite SMG ammo for ammo to be infinite for it (rather than Drug Trafficking Airport.)
+
+Allowed heli weapons mod issue:
+The weapon animations seems to be missing from the Gyro Daddy (or possibly tied in incorrectly,) so your weapon will always point straight ahead and not swivel around when you move your reticule and fire.
+
+
+
+MISSION ISSUES:
+
+* "And A Better Life..." and "Salting the Earth, Again" missions both enable all crib triggers for the Ultor Yacht and Phillips Building on successful mission completion (even if you don't own them.) This is a necessary evil in order to get them to disappear during the actual mission itself. You will be able to use both of these cribs directly after completing their missions even if you don't own them yet. This is only for your current session. Once you load your save next time, it will go back to normal and you won't be able to use them (unless you buy/own them.) Think of it as a sneak preview before you spend a huge chunk of change to buy them.
+
+
+
+MISC ISSUES
+
+* Purchasable Misc Music Issue:
+After purchasing any new Misc Music, you must immediately add the newly purchased tracks to your radio playlist and save it before exiting the game. If you do not, the new tracks will disappear from your playlist and be back for sale at the store when you next load your save.
+
+* Sparrow Mod Issue:
+"{symbol not found}" appears for store name when purchasing a store
+
+* Idle Animations Issues:
+Pole dancing only works at T&A and the Porno Palace. It does not work at Technically Legal or your crib. The easiest way to make it work is "bump" a NPC off one of the 3 main poles at T&A. To "bump" a NPC, simply walk into them and bump them off the pole. If you run into them or use a weapon, they will cower/run and it won't work.
+
+
+*********************************************************************************
+
+OPTIONAL MOD ISSUES
+
+
+Zombie Uprising in the Mall Issues:
+
+* When you are nearing the end of the final stage (level 6,) it can seem to drag on a bit as you hunt down those last zombies.
+* Using the food stores in the mall will screw up the Zombie Uprising HUD and overlay the minimap on top. DON'T BUY FOOD WHILE PLAYING!
+* You can exit the mall, but the world is a barren wasteland with no NPCs or vehicles. There is also some weird apocalyptic lighting filter over everything which is just plain bizarre.
+
+
+Optional Gang Customization Issues:
+
+* None of the optional gang types will spawn in any cribs leaving them empty except for strippers.
+
+* Zombies are eerily silent and will not make any sounds at all while following you. If you have them installed for your gang, you will not be able to play Zombie Uprising (hitting them does no damage in ZU.)
+
+* Other optional gang types will trigger voice samples when fighting and walking around, but nothing else (no samples joining player, no samples while riding in cars with player, etc.)
+
+* Some gang pirates on the street are pirate waiters (probably from the pirate ship restaurant) and don't look like pirates. Seems to be a random mesh as part of the pirate npc defintion.
+
+* Some streakers wear underwear. This seems to be a variant for the censored version.

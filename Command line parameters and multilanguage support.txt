@@ -1,0 +1,39 @@
+To set launch parameters for Saints Row 2, right click on it in Steam and choose Properties.
+
+On the GENERAL tab, click the SET LAUNCH OPTIONS button
+
+Enter any of the following commands in the dialog box that opens.
+
+The following language parameters can force that particular language if its string files are present. NOTE: all language files have been added to the Gentlemen of the Row mod.
+
+forcelang_en 	- force language to English
+forcelang_de 	- force language to German
+forcelang_fr 	- force language to French
+forcelang_es 	- force language to Spanish
+forcelang_it 	- force language to Italian
+forcelang_nl 	- force language to Dutch
+forcelang_se 	- force language to Swedish
+forcelang_dk 	- force language to Danish
+forcelang_pl 	- force language to Polish
+forcelang_cz 	- force language to Czech
+forcelang_ru 	- force language to Russian
+forcelang_ch 	- force language to Chinese
+forcelang_jp 	- force language to Japanese
+
+The following miscellaneous parameters can also be added. Leave a space between each parameter if adding multiple ones. No dashes (-) required.
+
+showfps		- shows a lot of stats
+2ndmon		- force display to a 2nd monitor
+defaults	- resets all settings (graphics, controls, etc)
+
+Example:
+forcelang_es 2ndmon
+
+The above example would force Spanish language menus/subtitles, and force the game to use the second monitor.
+
+
+NOTE: The following two parameters were also found in the exe, but don't seem to actually do anything:
+
+nologos
+nocb
+

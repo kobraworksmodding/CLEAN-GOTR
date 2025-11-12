@@ -1,0 +1,3261 @@
+Gentlemen of the Row Super Mod for Saints Row 2 v1.9.2 by IdolNinja
+http://idolninja.com
+
+This patch compiles all of the best Saints Row 2 PC mods from myself and other SR2 modders into one big super patch. It has been carefully balanced to be used with a new game or with an existing save from vanilla or a previous GotR version. Original authors are credited for each mod. Special thanks to Gibbed and Minimaul for their SR2 modding tools which makes this all possible.
+
+***********************************************************************************************
+
+v1.9.2 CHANGELOG
+
+Fixed all extra GotR gang vehicles so that homies will drive a correct looking purple/gold variant around Stilwater. This includes the limos, apc, atv, knoxville, compensator, police cars, fbi suv, el train, o-ring, peewee, kenshin, tetsuo, melbourne, widowmaker, mongoose, and atlasbreaker.
+http://www.saintsrowmods.com/forum/threads/gentlemen-of-the-row.24/page-18#post-25268
+
+
+Fixed the optional gang customization types that had issues (streaker, pirate, construction, cowboy, medical, airline) so no weird variants spawn in.
+http://www.saintsrowmods.com/forum/threads/gentlemen-of-the-row.24/page-19#post-25304
+
+
+Songbearer's Sandstorm Stunting mod
+http://www.saintsrowmods.com/forum/threads/songbearers-sandstorm-stunting-mod.2966/
+
+This is an old SR2 mod that Songbearer was working on with my assistance that we never finished. It was forgotten about when SRTT hit, and we both started playing that game exclusively. The mod basically changes the Sandstorm's pitch and yaw's torque and acceleration in order to make rolls and flips much easier to do while in mid-air.
+
+
+Fixed the pricing for the SKR-9 in the open pricing optional mod so it's correctly priced at $1
+
+
+Fixed the crib pricing text in the open pricing optional mod so the new cribs correctly display $1
+
+
+Fixed the Construction optional gang type not toggling on and off correctly with the batch installer
+
+
+Added a note to known issues that installing the optional zombie gang type breaks Zombie Uprising. i.e. you can no longer damage zombies if installed
+
+
+***********************************************************************************************
+
+v1.9.1 CHANGELOG
+
+Sandbox+ for SR2 by IdolNinja
+http://www.saintsrowmods.com/forum/index.php?threads/sandbox-for-srtt.1076/
+
+Sandbox+ allows you enter numeric codes while playing to do things like teleport to different city areas/cribs, swap city chunks in and out like the Ronin Heritage Festival, change notoriety or lock notoriety at any level including zero notoriety, change player team so you can recruit Samedi/Brotherhood/Ronin/police and fight the Saints, trigger almost any animation in the game wherever you are (some of these are completely hilarious,) give yourself cash, repair your current vehicle, and more. To use a command, simply type in 888. This will trigger a code entry display and wait for your 3 digit code. Refer to the Sandbox+ command list text file included in this archive for all the codes that can be used.
+
+ 
+Customizable variants by IdolNinja
+http://www.saintsrowmods.com/forum/index.php?threads/customizable-variants-saints-ambulance-shaft-and-buffalo-b.1154/
+
+Removed customization restrictions for all variants of the Ambulance, Shaft, Buffalo B, Topher, and Donovan. You should now be able to customize reward vehicles and other uniques in these classes.
+
+
+Fixed all modded weapon names using Minimaul's shiny new string tool. Also fixed all text for extra missions, including naming of save files when completed. Mission text in the extra missions should now display correct for both the host and remote player.
+
+Fixed Brotherhood mission 10 The Siege so that it works correctly with the Villain Homie Pack optional mod.
+
+Fixed the Silenced Pistol so it can be picked up again if dropped/switched out.
+
+***********************************************************************************************
+
+
+v1.9 FINAL CHANGELOG
+
+
+
+Bling Fu by IdolNinja
+
+The Bling Fu is a is a new set of brass knuckles with a diamond bling PIMP on the front. Standard stationary punching procs flaming fists on contact, and combos into a punch that sends npcs flying with a flash camera effect. Charging your attacks (holding down L or R attack) will result in a huge explosion and lightning strike on contact. Attacking downwards alternately produces a huge gas explosion effect. You really have to see this thing in action to believe it. I may never use another melee weapon again. :D
+
+This new uber weapon is for sale at endgame for $1,000,000 at Friendly Fire (or sooner/free with the open optional mods.) Its new cheat code is #55559 and is also now part of the All Cheats Cheat code (#1337)
+
+
+
+The Homerun Bat and Mjolnir optional mod by IdolNinja
+Drastically increases the impact of the bat and hammer sending npcs and vehicles flying. New audio and visual fx have also been added like stadium cheers for the bat and lightning and thunder for Mjolnir.
+
+
+
+Professor Genki, GotR Heraldic Crest, and Facepunch spraytags by IdolNinja
+Replaces the final 3 vanilla tags with brand new ones. All 8 modded tags have been moved to the installer as an optional "Gentlemen of the Row Spraytag pack" and the vanilla tags now install by default.
+
+
+
+Open Notoriety optional mod by IdolNina
+All notoriety actions (killing npcs, blowing up property, etc) generate zero notoriety in open world play. The only thing that seems to be hardcoded is a minimum 1 star for shooting police or a rival gang. This has been worked around by having an extremely fast decay rate, so you will see 1 star popup then immediately disappear back to 0 stars. With the inclusion of this mod, there is no longer a need for the second custom mission that forces zero notoriety so it has been removed.
+
+
+
+Gentlemen of the Row Heraldic Crest legal splash screen by encogen and IdolNinja
+
+
+
+MISC TWEAKS AND FIXES
+
+FIX: Wardrobe crashing fixed
+Ronin Jackets have been flagged so they cannot be worn together with Overshirts. This combination was causing instability and crashing. If your character owns a custom outfit with an overshirt and Ronin Jacket worn together, make sure to delete it immediately and recreate it without the overshirt when installing this new beta.
+
+!!!WARNING TECHNICAL VOODOO YOU PROBABLY DON'T CARE ABOUT!!!
+The problem was related to incompatibilities between Ronin Jackets and Overshirts causing instability or crashing. Even just browsing past a Ronin jacket or an outfit with a Ronin Jacket while wearing an overshirt had the potential to crash the game. To fix this, I added a "coat active" incompatibility flag to all 3 Ronin jackets making it so you get a "Preview Unavailable" when trying to equip one while you are wearing the other. Special Thanks to BoogieManFL who was able to isolate the crash and get me a save file for testing with. Being able to easily repeat the crash and debug using his save is the sole reason why this issue been corrected.
+/WARNING
+
+FIX: Veteran's Child Save the World T-Shirt no longer randomly shows Preview Unavailable while browsing to it
+
+FIX: ss11 Shopping Maul mission bug fixed where only 10 of 11 Samedi would spawn if the Villain Homie Pack Optional mod was installed.
+
+FIX: The Kent combine reward vehicle can now be customized at Semi-Broken. Thanks for the head's up on that one Nicholas!
+
+FIX: The El Train no longer spawns in accdents in the Ambulance diversion. This fixes a problem where they would be sitting right on top of the victims that needed saving.
+
+FIX: The All Cheats Cheat (#1337) now correctly adds all cheats (the last version was missing a few like I am Giant, Itty Bitty, etc)
+
+Death Tag has been revised to use new GotR weapons such as the orbital launcher and Nukamingo. There's also a cool katana only set which should make for some fun duels. Death Tag also now pays out much higher cash rewards to the winner that grow exponentially with each successive match (up to round 5.)
+
+The batch installer now creates an ini file on build, saving all your selections. When you run the batch again it will remember what options you chose last time.
+
+The SKR-9 has been reinstated to its original mp5k smg. The MAC-10 is now a new weapon and for sale at Friendly Fire, so you'll have to go buy it.
+
+The TEC9 smg has been reverted back to its original mesh making it once again dual wieldable. 
+
+The Tombstone pump action shotgun and Orbital Launcher have had their meshes/textures swapped. The Tombstone is now the original version and the Orbital Launcher is the all black cutscene version.
+
+Pirate Radio 99.0 Underground is now available in all areas of the game.
+
+All reference documentation at the root of the archive has been moved to a Reference folder to make things a little clearer for newcomers to the mod.
+
+A vanilla patch build option included in the installer
+
+Added a new troubleshooting text file called "HELP! I'M CRASHING! (tips for a more stable GotR).txt" which contains extensive help and tips to eliminate/mitigate crashing issues (which the SR2 port has always been plagued with since release.)
+
+NOTE: The Gieger Counter and Video Camera were removed for sale because the extra animations added in were crashing the game and made things too unstable. If you bought either one it will still be in your inventory, but the animations will be weird/missing or the weapon invisible. The good news is that the mod should be much more stable now, especially for users who ran 1.8 okay but had problems with 1.9.
+
+NOTE: The Send in the Clones mission has been removed from the final 1.9. I do plan on reinstating it once completed in Gentlemen of the Row v2.0 (yes work on GotR will continue after Saints Row: The Third comes out. Bet on it.) 
+
+***********************************************************************************************
+
+v1.9 BETA 16a CHANGELOG
+
+Fixed preload so both regular and gold desert eagles are now visible.
+
+Fixed the beretta so it is now visible when using the optional pricing mods
+
+***********************************************************************************************
+
+v1.9 BETA 16 CHANGELOG
+
+Skylion's Super Sliders (optional mod) by Skylion 
+Greatly increases the range of all facial, bodyfat, age, and muscle sliders in character creation. This mod allows the player a HUGE amount of control to make even the craziest exaggerated cartoon style characters. One of the very best additions to GotR in the entire history of the mod. Everyone should definitely check it out!
+
+
+Selectable wardrobe colors (optional mod) by IdolNinja
+Allows the player to choose color and logo in the wardrobe for clothing items that they already own
+
+
+
+Hulk Hogan, Lupin, and Jigen outfits by masayumemasa and IdolNinja
+Adds "The Hogan," "The Lupin Red," "The Lupin Green," and The Jigen outfits to Let's Pretend. Also added a Hulkamania logo to the clothing stores, brother.
+
+
+
+Leather Forever by RedRage
+http://www.saintsrow.com/forums/topic/45977
+Changes the Trenchcoat and Sports Letter Jacket material to leather. * NOTE: The leather versions of the lab coat and track jacket from the mod were not included
+
+
+
+FOV Mod v3 (optional mod) by encogen
+http://forums.steampowered.com/forums/showthread.php?t=2030044
+The FOV mod increases the player's Field of View. The latest v3 comes in 2 versions - with right and left-sided fine aim mode and increased FOV for both. Pure FPS mode from v1 and v2 looked hella iffy, therefore - scrapped. Switching in and out of fine aim is faster (1ms vs 2ms in vanilla). With v3 the camera is delayed slightly when going into sprint resulting in a less trippy FOV transition.
+
+
+
+First Person Camera (optional mod)
+Adds an optional first person camera mod to the installer menu. While it's impractical to play the game like this, it should be handy for anyone doing SR2 Machinima stuff.
+* NOTE:  I believe the discovery on how to do this was first made by foamcup quite some time ago. Since all the download links are dead I created my own version for GotR.
+
+
+
+Gat Homie Mod Suit (optional mod) by RedRage
+http://www.saintsrow.com/forums/topic/46116
+Changes the Gat homie to always spawn with his suit from the trial instead of his casual clothes.
+
+
+
+MISC TWEAKS AND FIXES
+
+Added 7 different flavors of Zombie Uprising at the Mall with different player characters:
+FBI + Swat
+Maero + Carlos
+Jyunichi + Gat
+Mr Wong + Kazuo Akuji
+Mr Sunshine + The General
+Dane Vogel + Shogo Akuji
+Pierce + Shaundi
+
+The Villain Homie Pack and Misc Homie Pack have both been fixed so that they work correctly with all story missions. Warning removed from installer.
+
+DLC04 and DLC05 missions now start correctly from all clipboards for replay.
+
+Both DLC missions now have a disclaimer when they start informing the player that they are work in progress ports of the DLC missions and missing certain features.
+
+The Hounfor's (General's Limo) body can now be painted and is no longer stuck with the default Samedi Green.
+
+The Beretta is now using the proper larger cutscene mesh from RedRage's Weapon Pack
+
+Unlockable Zombie Mask and Traffic Cone Hat added for sale at Let's Pretend in the Open Pricing optional mod.
+
+Unlocks for Suburbs Septic Avenger and Red Light Mayhem corrected in the readme.
+
+Installer menus revised to include new Audio, Camera, and Zombie Uprising mods menus.
+
+***********************************************************************************************
+
+v1.9 BETA 15 CHANGELOG
+
+New Clothing logos by IdolNinja
+* Saints Row The Third
+* Unreal Tournament
+* Unreal Tournament 2004
+* Fleur de lys with wings (original design by Traxus IV and stencil conversion by ryorininseven)
+* Something Awful Grenade
+* Fuck you say?
+* Banzai Institute
+* Punisher Skull
+
+Total new logo count as of Beta 15 = 120 logos!
+
+
+Professor Genki's Super Ethical Reality Climax Tattoo by IdolNinja
+Changes the Upper Back Yin Yang tattoo to the new Professor Genki activity logo from the upcoming Saints Row: The Third
+
+
+Fleur de lys with wings tattoo by IdolNinja (original design by Traxus IV and stencil conversion by ryorininseven)
+Changes the Upper Back Star tattoo at Rusty's Needle to a kickass fleur de lys with wings
+
+
+Flaming Max (Sam & Max) Chest Tattoo by Innocent Sam
+Changes the Saints Chest Tattoo to everyone's favorite lovable sociopath lagomorph... on fire!
+
+
+Something Awful 3rd Street Goons Spray Tag by Stanko-Prussian
+Adds a new Goons spray tag at HQ
+
+
+Wooden Bat Weapon Icon by encogen
+Replaces the aluminum bat icon with a wooden one to match the wooden bat texture/mesh added to GotR.
+
+
+All Cheats Cheat by IdolNinja
+Adds a new code #1337 that adds ALL cheats in the game to your phone in one shot. No longer will you have to manually enter each cheat one at a time with a new character.
+
+
+Cruise Control Lowered by IdolNinja
+Lowers the onscreen Cruise Control icon to the bottom underneath the car so it no longer overlaps the driving/action.
+
+
+Army Olive Drab by IdolNinja
+Army Olive Drab clothing color added by request for my bro Trilby
+
+
+
+NEW OPTIONAL MODS BY IDOLNINJA
+
+* Tchoupa Twist Pause Menu Music
+
+* Coconuts Pause Menu Music
+
+* Original Pause Menu Music
+
+* Original Hip Hop Main Menu music + original Pause music for the musically challenged
+
+* Brighter Nighttime for the visually Challenged
+
+* All OPEN mods are now broken up in their own menu so you can individually choose things like only no flagging cheats, or only $1 pricing, etc.
+
+* NOTE: All new tattoos have an option in the installer to revert back to the originals
+
+
+FIXES AND TWEAKS:
+
+* Blurry icon fix for players with ATI Radeon 6950 Mobile GPUs where the map and control icons would be super blurry
+
+* Crib radio defaults changed to better stations. For example, no more Krunch blaring out by default and The Mixx at Saints HQ.
+
+* Fixed camo decals for the Grizzly (aka Bear) so the underlying paint once again changes the camo color
+
+* The Duke unlock for completing all stunt jumps can now be customized
+
+* Fixed Light Rain cheat so it no longer flags saves
+
+* Handling mod Peewee fix by RoadCrewWorker
+Fixes the handling of the PeeWee in the Handling Mod so it's no longer reversed
+
+* Police Outfit now for sale at Let's Pretend in the Open version
+
+* Moved SUIT_2 and SUIT_3 from Let's Pretend to Impressions. Also renamed them in store to Classy Purple Suit Male and Classy Purple Suit Female
+
+* Renamed CRAZY_1, STREET_1, SEXY_1, and Streaker outfits at Let's Pretend with more descriptive names
+
+* Fixed middle finger taunt for gang customization with the correct text
+
+***********************************************************************************************
+
+v1.9 BETA 14a CHANGELOG
+
+Fixed short chain flat 2 for Open version
+
+Moved Septic truck to Volition Gift Shop in Open version
+
+Fixed pimp cane shell reload in the optional weapon mods
+
+***********************************************************************************************
+
+v1.9 BETA 14 CHANGELOG
+
+Optional nude mod by IdolNinja
+Removes the pixelation censor bars for all you deviant sickos. Now please shut up about it and stop emailing me asking to see videogame boobs. :P
+
+
+Optional Chunk Mod by IdolNinja
+Swaps in the Heritage Festival from rn11 "One Man's Junk," the Prison Riot from ss02 "File in the Cake," and Brotherhood Cargo ship from bh09 "The Enemy of my Enemy"
+
+
+FIXES AND TWEAKS:
+
+Pimpcane shell fix by Zerosaiko
+Fixes the Pimpcane so it no longer ejects shells when firing, and only does so on reload (where it dumps the used shells onto the floor.)
+
+Fixed UFO interaction so that the player once again beams up into it (it was broken back in beta 11)
+
+Fixed Villain Homie Pack issue where Julius would never show up when called.
+
+Fixed an issue where certain archival software would not recognize empty folders and extract the mod incorrectly.
+
+Slightly increased the explosion radius for the grenade and the molotov
+
+Removed the Crowd Control suit for sale from Impressions since it's an unlock (it still is for sale in the OPEN version)
+
+Removed the restrictions on short chain flat 2 so it can now be worn with a coat
+
+Septic truck moved to Volition Gift Shop and price raised to $500,000 since it's an unlock
+
+Added details on all optional mods and their compatibility to the Readme.
+
+***********************************************************************************************
+
+v1.9 BETA 13 CHANGELOG
+
+Police Animation Optional Mod by IdolNinja based on info from Kaz and Innocent Sam
+
+The Police Animation mod changes the player animations to the Police ones for the following weapons:
+Single wield pistols
+Single wield SMGs
+Some shotguns (spas12, tombstone)
+Rifles
+
+You can find this optional mod in the Animation submenu of the installer.
+
+NOTE: The Run animations for the police pistol and smg do not support firing. Use dual pistols or uzis to use the old animations if you want to move and fire at the same time.
+
+
+
+
+Female Weapon Walk Animations Optional Mod by Philtastic and Ocyris
+
+The Female Weapon Walk Animation mod changes the player's walk to be more feminine when holding various weapons. You can find this optional mod in the Animation menu of the installer.
+
+
+
+
+Super Girly Female Animation by nissinprincess
+
+Changes the player's run and stand animation to be super girly. The file links and mod from nissinprincess were long dead so I had to redo the work to integrate it as an optional mod. This optional mod can be found in the Animation menu of the installer, and also includes the Female Weapon Walk Animations.
+
+
+
+
+Rapid Fire RPG, Super Tornado, and Satchel Nuke Optional Mods by IdolNinja
+
+You can now select the following mods in the Weapon submenu of the optional mod installer:
+
+* Rapid Fire Rocket Launcher
+
+* Super Tornado - Burst fire rockets, Mini-Nuke explosion, 10x hitpoints - based on a rapidfire Tornado mod concept by jsmilex
+http://www.youtube.com/watch?v=6r_HOoPukvE
+
+* Super Tornado (non-nuke) by request   - Same as the Super Tornado but without the nuke explosion
+
+* Satchel Nukes - Adds the new Mini-Nuke explosions to the satchel! based on an idea by Minimaul
+
+WARNING! Weapon mods are incompatible in coop unless your partner has the same mods!
+
+WARNING! ALL weapons in the game will be modified, including enemy ones! Be careful!
+
+
+
+
+Misc Homie Pack Optional Mod by IdolNinja
+
+The following homies are now available with this optional mod:
+
+* Crazy Salesman - New Vehicle Delivery Service Homie (replaces Legal Lee)
+* Shaundi Repair Outfit - Replaces Shaundi
+* Carlos Prison Outfit - Replaces Carlos
+* The Judge from Gat's trial - Replaces Jane Valderama
+* Mr. Wong's Translator - Replaces Troy
+* Laura - Replaces Luz
+* Richie - Replaces Zombie Carlos
+
+You can find this optional mod in the Misc menu of the installer.
+
+WARNING: This homie pack may cause problems with missions that have one of these npcs in them! It may be best to use this mod after completing the story (or simply removing it to get past the problem mission then reinstating it.)
+
+
+
+
+More Gang Vehicle Customization by IdolNinja
+
+The following vehicles are now selectable in gang customization:
+O-Ring
+El Train
+Staus Quo
+The Job
+Cruiser (Five-O)
+Grizzly (Bear)
+FBI SUV
+Quota
+
+
+
+
+MISC TWEAKS AND FIXES
+
+Added the original take a bow compliment back in for gangs so they use that instead of the take a picture for their gang sign. Apparently Gang Sign Customization has never worked properly, even in vanilla. It always defaults to Compliment B (now changed back.)
+NOTE: This compliment has only been changed for gang members! The player's take a picture compliment is still the same!
+
+Fixed invisible gang members for Strippers and Food Gangs
+
+Fixed Super Girly stand animation
+
+Fixed AS14 fine aim firing for cop animations
+
+Fixed rn05 Orange Threat Level black mid-cutscene issue after it plays.
+
+Fixed optional mod installer for original spray tags
+
+***********************************************************************************************
+
+v1.9 BETA 12 CHANGELOG
+
+New logos by IdolNinja
+
+Oda Nobunaga Heraldic Crest
+Nin Kanji (Ninja)
+Strawhat Pirates (One Piece)
+Eye of Horus
+
+
+
+
+16 new optional gangs by IdolNinja added to the installer:
+
+Business Executive
+Nuclear
+Cowboy
+Hippie
+Scientist
+Construction
+Prisoner
+Firefighter
+Judge
+Real Pimps and Hos
+Sports fans
+Beach
+Sailors
+Food (Gyro Goat Mascot, Freckle Bitch)
+Weird Cop (Anoop and Lt. Freeball)
+Saints Clone Heroes (Gat, Carlos, Pierce, Shaundi)
+Brotherhood Clone Villains (Maero, Jessica, Matt, Donnie)
+Ronin Clone Villains (Kazuo, Jyunichi, Shogo, Dane Vogel)
+Samedi Clone Villains (General, Sunshine, Veteran Child, Samedi female soldier)
+
+TOTAL NEW OPTIONAL GANGS IN 1.9: 31
+
+
+
+
+Test Slider Horror optional mod by IdolNinja added to the installer
+
+Boosts all the slider values to the extreme so you can exaggerate all features (eyes, nose, brow, etc.) This will look WEIRD on your current character, and probably best for starting a new character or just messing around with.
+
+
+
+No Ronin Jacket Logos by RedRage (Optional Mod)
+
+Adds an option in the menu to remove the dragon logo from the back of Ronin Jackets. This is only for the male and female Ronin jackets, and not Jyunichi's that has morph issues.
+
+
+
+
+The following clothing items have been fixed so that they no longer pixelate through inappropriately when worn by female characters:
+* Sunshine's one-off jacket
+* General's Coat
+* General's Shirt
+* Save Earth Tee
+* Women's Biker Jacket
+* Tobias Pants
+
+
+
+
+MISC TWEAKS AND FIXES
+
+Rewrote a big chunk of the optional menu installer and broke everything up into categories to allow for expansion. Also corrected some bugs where certain mods wouldn't install correctly like the height ones.
+
+Added original spray tags as a choice in the optional installer
+
+Added original crazy salesman jacket dollar signs as a choice in the installer
+
+Disabled Aisha Crib cash lightcone from within mission tss03 Down Payment so it no longer appears in the opening cutscene.
+
+Added Doorman npc morph cheat. The code is #182.
+
+Removed mosaic pixelization from Assless Chaps on both rear and pelvis.
+
+***********************************************************************************************
+
+v1.9 BETA 11 CHANGELOG
+
+* OPTIONAL MOD INSTALLER
+
+The included 'README INSTALL INSTRUCTIONS' has all the details you'll need to know about how it works. So far, even technically challenged players (Hi Soulgate!) have been able to use it without any help or even written instructions. It's really just that simple.
+
+Optional Mods Included:
+
+* 360 Onscreen Prompts by IdolNinja and Innocent Sam
+* PS3 Onscreen Prompts by Megacherv and IdolNinja
+* OPEN version files by IdolNinja
+* Extra Gang Types by IdolNinja
+    - Medical Gang (Doctors, Nurses, EMT) replaces 80s
+    - Mime Gang replaces 80s
+    - Ronin Gang replaces 80s
+    - Samedi Gang replaces Bodyguard
+    - Stripper Gang replaces Bodyguard
+    - Cheerleader Gang replaces Gangster
+    - Elderly Gang replaces Gangster
+    - Goth Gang replaces Gangster
+    - Brotherhood Gang replaces Ninja
+    - Bum and Junky Gang replaces Ninja
+    - Streaker Gang replaces Ninja
+    - Airlines Gang (Pilots, Stewardess) replaces Pimps and Hos
+    - Law Enforcement Gang (Cops, FBI, Swat, Masako, Ultor) replaces Pimps and Hos
+    - Barbershop Quartet Gang replaces Prephop
+    - Biker Gang Replaces Sporty
+    - Zombie Gang Replaces Prephop (Zombies removed from base GotR and now optional)
+    - Pirate Gang Replaces Sporty (Pirates removed from base GotR and now optional)
+* Super Fat Slider by IdolNinja
+* Super Skinny Slider by IdolNinja
+* Huge Muscles by Bernard the Beast
+* Height Mods (3ft to 8ft) by IdolNinja based on an old discovery by Ocyris
+* Skateboarding Run/Sprint by Shambler Saint
+* Rollerblading Run/Sprint by Shambler Saint
+* Hudless by ? (can't find the original post who made the discovery. Anyone know?)
+* Sticky Camera by BloodSlinger
+* Villain Homie Pack by IdolNinja based on an unreleased concept for a Maero homie by RedRage
+    NOTE: Villain homies will cause problems/crashing with missions that have any of the main villains in them! Best to install after story complete!
+* Handling Mod by Ink0gnito
+    http://www.moddb.com/mods/saints-row-2-handling-mod
+    http://www.youtube.com/user/FramePerHour
+* Fight Beauties Spray Tags by IdolNinja (special request for masayumemasa)
+* Zombie Uprising at the Mall by Luke and IdolNinja is now optional
+* Post Game Gang Control by IdolNinja is now optional
+* Restore original CD locations by IdolNinja
+
+
+
+* Send in the Clones Mission (CS01)
+
+The first intro part of the mission is working and playable. The mission completes and unlock Carlos and Aisha once you teleport in to the Pyramid. Obviously, this is only the setup for the mission, and the rest is being worked on. CS01 unlocks to play after completing DLC05 (the ported dlc mission at the nuke plant.)
+
+NOTE: I know the statue triggers are placed a little off, and will be fixing. Also, the teleporter coordinates need to be centered in the middle of the ultor symbol.
+
+
+* Zero Notoriety Mission (CS02)
+
+This new mission forces all notoriety to remain at zero no matter how much carnage, death, and destruction you visit upon the doomed heads of the doomed npcs. It can be completed in the parking lot at the Saints HQ crib whenever you get bored, and then available from any clipboard. Unfortunately, your garage is unavailable during the mission so make sure to take out any vehicles first before starting it.
+
+NOTE: This mission unlocks after completing Send in the Clones (CS01)
+
+
+
+* Daft Punk Robot Revolution Spray Tag by donhonk and IdolNinja
+
+Adds a kickass Daft Punk spray tag replacing one of the crappy demon ones
+
+
+
+* Mission Script Fixes by IdolNinja
+
+Fixes cutscene and completion crash bugs in the following mission scripts:
+
+bh04
+bh06
+bh07
+bh08
+bh10
+rn01
+rn02
+rn03
+rn04
+rn05
+rn06
+rn07
+rn08
+rn09
+rn10
+rn11
+tss01
+tss02
+tss03
+tss04
+em01
+ep01
+ep02
+ep03
+sh_bh_airport
+sh_bh_apartments
+sh_bh_chinatown
+sh_bh_docks
+sh_rn_museum_pier
+sh_rn_rec_center
+sh_rn_sciencemuseum
+sh_rn_stripclub
+sh_ss_crackhouse
+sh_ss_fishingdock
+sh_ss_student_union
+sh_ss_trailerpark
+sh_tss_caverns
+sh_tss_ugmall
+
+This should eliminate the crashes experienced by some players on mission start/completion.
+
+
+
+* Old Man with Walker Walk by IdolNinja
+
+Replaces the luggage pull custom walk with "Slow and Steady"; the old man using a walker walk
+
+
+
+
+MISC TWEAKS AND FIXES
+
+* Fixed autosave bug where it would show the wrong game time and completion after completing any of the new custom or dlc missions.
+
+* The following missions have had their cash rewards boosted significantly to offset the higher pricing in the mod. The player will now earn an extra 1.5 million (total) from the Ultor epilogue, dlc, and custom missions combined:
+ep01 Picking a Fight
+ep02 Pyramid Scheme
+ep03 Salting the Earth... Again
+ep04 ...And a Better Life
+dlc04 Corporate Warfare mission 1
+dlc05 Corporate Warfare mission 2
+cs01 Custom mission 1 Send in the Clones
+
+* Fixed rn05 Threat Level coop chase scene bug where remote player would not spawn inside knoxville after mid-cutscene.
+
+* German bitmap tilesheets added
+
+* Max stash size doubled for every stage of additional crib ownership
+
+* Luke's fighter outfit tank top now works correctly and no longer crashes the game or disappears
+
+* Clear skies night and endnight have both had their saturation levels boosted. In addition to making the colors  more vivid, it also slightly brightens things up to make it easier to see, even making the trailer park (one of the darkest parts of the island) easier to play in. 
+
+* Fixed NR4 (Glocks) being replaced by the Lazarus if you own all melee weapons
+
+* Middle Finger "Fuck you!" taunt reinstated replacing the cigarette ashing taunt
+
+* Bling Bling Shivington and the Spelunkers Store have had their For Sale signs moved a few feet so they no longer intersect with the world geometry
+
+* The GRiddler outfit text has been renamed to "The ENigma" since the jacket now has question marks instead of dollar signs.
+
+* Nukamingo 9001 cheat now flags saves if activated (Standard version only)
+
+* Combat Tricks Diversion now correctly shows the AR-50 with Grenade Launcher unlock when it procs, and not the AR-50 XMAC Special. The INFO menu text has also been updated.
+
+* AR50 XMAC Special (zooming fireworks) replaced with AR50 w/ Grenade Launcher in ss07 Bonding Experience.
+
+* Fixed a bug with the Brotherhood Apartments Stronghold opening cutscene having no audio voiceover.
+
+* Volition Gift Shop discount adjusted to $60,000 per day with ownership.
+
+* Fixed Ultor Yacht crib TV trigger enabled before buying crib
+
+* Removed Zombie Uprising Mall Mod. This is something that Luke and I discussed at length. The main problem with the mod is the lack of zombies/pressure and the food store triggers which break the hud. Our plan is to move this mod over to the zombie conversion project. Luke and I also have plans to create a custom zombie mission for GotR in the mall which will give us more flexibility to do fun things like spawn vehicles and create scripted events and goals with more of a L4D feel.
+
+NOTE: The mod source for Zombie Uprising at the Mall has been added to the archive in the Optional Mods folder. Any player who is familiar with the tools can easily add it back in to make their own custom version.
+
+***********************************************************************************************
+
+v1.9 BETA 10b CHANGELOG
+
+* Fixed weapon hud icons not displaying correctly for non-English language versions
+
+* Fixed eyelashes not showing the correct colors when saved as part of an outfit
+
+* Fixed eyelashes crashing on outfit select if the first color slot was left unchanged (before saving them to an outfit)
+
+* Fixed new colored Oppressors at Sparrow Aircraft having the wrong (green tinted windows.) The Oppressors for sale now all have the standard glass.
+
+***********************************************************************************************
+
+v1.9 BETA 10a CHANGELOG
+
+* Fixed a crash using the counter at Friendly Fire
+
+***********************************************************************************************
+
+v1.9 BETA 10 CHANGELOG
+
+* The Nukamingo 9000 by IdolNinja and encogen
+
+The Nukamingo 9000 fires a tactical flamingo nuke that can take out an entire city block. Its huge bloom radius and mushroom cloud on impact are wholesome fun for the entire family. This new weapon uses rocket ammo, and is on sale at Friendly Fire after end game for $1,000,000. Its cheat code is #55558. This cheat will not flag your save for now during beta testing, but will be flagging for the final release.
+
+
+
+* 13 New Hud Weapon Icons by encogen and IdolNinja
+
+New icons were created for the following weapons:
+Dual Katana
+Orbital Launcher
+Nukamingo 9000
+Gold Desert Eagle
+SPAS12
+Pipe Bomb (fireworks)
+Chainsaw Launcher
+Lazarus
+Silenced Pistol
+Septic Gun
+AR50 XMAC fireworks
+AWP Sniper
+SKR-9 (MAC-10)
+
+
+
+Crib Photos by IdolNinja
+* Adds six new crib photos for the three new cribs and the three vanilla cribs on the save load screen. Now each save photo accurately reflects where you will spawn when you load.
+Phillips Building
+Ultor Yacht
+Aisha's House
+Airport Hangar
+Suburbs Docks
+Stilwater University Docks
+
+
+
+* 11 new logos by IdolNinja
+Cthulhu 1 (H.P. Lovecraft's The Call of Cthulhu)
+Cthulhu 2 (H.P. Lovecraft's The Call of Cthulhu)
+Cthulhu 3 (H.P. Lovecraft's The Call of Cthulhu)
+Mortal Kombat Symbol
+God Hand
+Triforce (Legend of Zelda)
+Grand Theft Auto San Andreas
+Grand Theft Auto Vice City
+Grand Theft Auto Lost and the Damned
+Nerv (Evangelion)
+Objection! (Phoenix Wright)
+
+Current total new logo count for v1.9: 111!
+
+
+
+* Video Camera and Gieger Counter Weapons by IdolNinja
+
+The video camera and Gieger Counter are now for sale at end game. The Video Camera scope is now fixed so you can zoom, all the cameraman animations were added in so you run with it on your shoulder, and encogen did a new hud icon for it as well. The Gieger Counter doesn't really do much other than just being an interesting item to have, but all the animations were added in for it so you stare down at it while equipped. Since both "weapons" are just novelty items, they are free to buy at end game.
+
+
+
+* New Blaze (Fire Engine) textures by Cpast
+Changes the door symbol and Engine Number text with new textures
+
+
+
+* Luke's Fighter Buy Jove by Luke and IdolNinja
+Added in a custom outfit designed by Luke for sale at Buy Jove.
+
+
+
+New Oppressor Colors by IdolNinja
+A large selection of different colored Oppressors have been added for sale at Sparrow Aircraft at the airport.
+
+
+
+MISC TWEAKS AND FIXES
+
+* Fixed the issue with Shogo's outfit where it would turn different colors when you chose it from the wardrobe. Now that the jacket color is fixed I reintegrated the Ronin Jackets v1.1 mod by RedRage:
+http://saintsrow.com/forums/topic/42490
+The white shoulders sections have been fixed to to update correctly with middle color grid.
+
+* Fixed eyelashes for sale. They are now in the eyewear slot and do not lose their color when loading a save. With the move to a clothing slot, they also now can use the full clothing color pallette instead of the limited makeup one.
+
+* Shaft (tow truck) nitrous option removed from mechanic since it doesn't work on tow trucks.
+
+* Custom missions locked backed down
+
+* The following cheat code has been added:
+#55558 Give NUKAMINGO 9000
+
+* The following cheat codes have been removed to make room for future cheats:
+#920 – Give 12 Gauge
+#921 – Give 44 Shepherd
+#926 – Give Baseball Bat
+#930 – Give Flashbang
+#932 – Give GDHC
+#933 – Give Grenade
+#935 – Give K6 Krukov
+#936 – Give Knife
+#937 – Give Machete
+#940 – Give Molotov
+#941 – Give Nightstick
+#942 – Give NR4
+#943 – Give Pepperspray
+#948 – Give Samurai Sword
+#952 – Give Sledgehammer
+#953 – Give Stungun
+#954 – Give T3K
+#955 – Give Tire Iron
+#956 – Give Tombstone
+#957 – Give VICE9
+
+* The following Hoing lightcones were removed to make room for additional triggers.
+hoing_$burbs_2 – Suburbs District – Misty Lane – Inside Technically Legal through stage doors and back by stairs
+hoing_$burbs_gas – Suburbs Expansion District – Quinbecca – gas station just east of Fuzz activity
+hoing_$marina1 – Hotel and Marina District – Centennial Beach – Gas station by big Marina sign
+hoing_$marina2 – Hotel and Marina – Centennial Beach – Behind Captain Carbuncles out on the pier
+hoing_$apart1_cam – Apartments District – Sommerset – at Liquor Store south of Scratch That
+hoing_$RL1 – Red Light District – Rebadeux – in front of Tuna Town Theater
+hoing_$RL3 – Red Light District – Bavogian Plaza – at gas station south of Brown Baggers
+
+The following Hoing lightcones still exist:
+hoing_suburbs1  – Suburbs District – Misty Lane – Inside Technically Legal by front door
+hoing_$trailer1 – Trailer Park – green and white trailer near front
+hoing_$university – Stilwater University District – Frat Row – behind Sex Shop building
+hoing_$RL2 – Red Light District – Bavogian Plaza – at Cupid’s Arrow Hotel
+
+NOTE: All hoing lightcones trigger the exact same diversion
+
+***********************************************************************************************
+
+v1.9 BETA 9 CHANGELOG
+
+* 13 new logos added by IdolNinja
+
+Akuma kanji (Street Fighter)
+Borderlands Vault paint splatter
+Nine inch Nails
+Serious Sam bomb
+Zorg Industries (Fifth Element)
+Red Ribbon Army (Dragon Ball)
+Turtle School Symbol (Kame, Dragon Ball)
+Kaio Symbol (King Kai, Dragon Ball Z)
+Satori Symbol (Son Goku, Enlightment, Dragon Ball Z)
+Satsu /Kill You! (Tao Pai Pai symbol, Dragon Ball)
+Majin Symbol (Majin Boo/others under Babidi control, Dragon Ball Z)
+Ma Symbol (Demon, Piccolo Daimao, Dragon Ball)
+Kami Symbol (Kami-sama, Dragon Ball)
+
+Current total new logo count for v1.9: 100!
+
+
+
+* Ultor Mall Security Knoxvilles by CPast
+
+Ultor security now rides Ultor variant Knoxville golf carts instead of ATVs at the mall.
+
+
+
+* Sunshine's short necklace and Tribal Tatoo tweaks by rudemaker
+
+Sunshine's short necklace is now on sale at On The Rag and is color customizable. It was previously only available with the Mr Sunshine outfit. Tribal Tattoo 6 and Tribal Tattoo 7 slots have been changed from Overshirt to Entire Front so you can now wear them with Overshirts. Tribal Tattoo 8 still remains in the overshirt slot since it has problems displaying correctly with the Entire Front slot.
+
+
+
+* Eyelashes for Sale by rudemaker and IdolNinja
+
+Adds male eyelashes, female eyelashes 1, female eyelashes 2, hooker eyelashes, and thick eyelashes for sale at Impressions, Branded, Let's Pretend, and Leather and Lace under the Head category.
+
+
+
+MISC FIXES AND CHANGES
+
+* Drug Trafficking level 5 AR50 changed to AK47. This is to prevent the firework launcher from being used in the activity.
+
+* More weather tweaks to Clear Skies: Sunrise, Morning, Noon, Afternoon by IdolNinja and encogen
+
+* Hippie Top 1 fixed so it no longer obscures wrist and glove slots
+
+* Nail polish and eye colors removed from some stores that don't make sense to have them. The following stores now only carry them: Branded, Impressions, Let's Pretend, and Leather and Lace
+
+***********************************************************************************************
+
+v1.9 BETA 8 CHANGELOG
+
+* Fast weapon switching mod by IdolNinja
+
+Formerly only available in multiplayer modes Gangsta Brawl and Strong Arm, fast weapon switching is now also available in single player and coop. Quickly tap and release your inventory button to cycle to the next weapon slot in your ring rather than forcing you to navigate it. The result is that you never have to stop. Just quickly tap inventory multiple times to cycle through your weapons to get to your next implement of destruction. It really speeds up the gameplay with a controller.
+
+
+
+* Vibrant Weather Cheat and Weather Improvements by IdolNinja and encogen
+
+The vibrant weather cheat #78664 changes the look of the game world to extremely oversaturated, bright, and colorful. This vibrant weather has been excluded from the cycle so it will never come up on its own and must be manually activated with the cheat.
+
+The Clear Skies weather (the most common in the cycle) has also had the saturation boosted and RGB tweaked for different times of day making the normal gameplay more colorful like the original Saints Row 1. You can think of these weather modes kind of like:
+Colorful Mode I: Clear Skies #78669
+Colorful Mode II (Extreme): Vibrant #78664
+
+
+
+
+* Pimpspy Logo by encogen
+
+Changes the revised Powered by Gentlemen (formerly Gamespy) startup splash screen to a new pimp graphic for the spy icon
+
+
+
+* Borderlands Vault logo by IdolNinja
+
+Current logo count: 87
+
+
+
+MISC TWEAKS AND FIXES
+
+* Fixed Rapid Fire Taser
+The cops now have a much longer refire delay on the stun gun. The result is that they no longer continuously zap you over and over when you're trying to get up. You should have at least 10-15 seconds after you rise before they fire again to give you a chance to escape.
+
+* Fixed Fleur De Lys logos
+Fixes the original game's 256x256 fleur de lys logo so that it no longer looks weird from a distance. The 128x128 fleur logo was also redone so it doesn't look ugly as hell with jaggies. Thanks SoMEDUDE for the head up on the issue.
+
+* Fixed Black Dynamite Logo
+Black Dynamite logo now displays correctly on Men's Leather Vest 3
+
+* Fixed medical latex gloves
+The medical latex gloves no longer obscure wrist slots when worn. This means bracelets and other wrist items are now visible over them. Thanks encogen for the heads up on the issue.
+
+* Mule decals
+The Mule decals are now customizable at the mechanic
+
+* Fixed naming issues
+Fixes naming problem with the Lara Croft Legend outfit (no longer Legends) and the Gyro Daddy unlock statistic text in the menu (no longer Gryo.) Thanks encogen for the heads up on those.
+
+* Vehicle Delivery homie slot issue fixed
+Legal Lee turns into ped now after delivering a vehicle. You can still recruit him after he gets out of the car. This change fixes a bug where you formerly couldn't call for vehicle delivery if all your homie slots were full. Thanks to vollinger for noticing the issue and also testing and confirming the fix.
+
+* Fixed beretta clip drops
+The beretta 3d object now drops the correct mesh on the ground so you can get ammo (it was previoulsy dropping the old mesh which wasn't preloaded and thus invinsible.) Thanks vollinger for letting me know about the issue and also testing it out and confirming the fix.
+
+* Fixed sound fx for the pizza box and "Trash" bottle when hitting an npc or object 
+
+* Pipebomb Fireworks
+Grenades have been reverted back to their original explosion and the Pipe Bomb was switched to the firework explosion. No npcs can surprise you with a firework explosion and its huge blast radius any longer
+
+* Delivery Truck, Donovan, and Mule vehicles moved from Foreign Power to Blue Collar Supply
+
+* Adjusted and lowered the Volition Gift Shop pricing (again.) Each vehicle is now $500,000 instead of $800,000. There is also a pretty huge discount if you own the store, plus ownership generates a huge amount of cash a day now to balance out the initial investment. This should give the player much more money to play with at end game for high ticket items.
+
+* Time cheats adjusted to 9am and 9pm from 8am/pm so it coincides directly with the morning weather time change.
+
+* Removed extraneous tag08 geometry pegs
+
+***********************************************************************************************
+
+v1.9 BETA 7a CHANGELOG
+
+Fixes a serious crash bug that would occur when certain saves would select Thrown Weapons in the Weapons menu. Thanks to Sweets for bringing this immediately to my attention so I could fix it.
+
+Reintegrates mechanic options for the NRGV8 that were mistakenly removed in the last beta.
+
+***********************************************************************************************
+
+v1.9 BETA 7 CHANGELOG
+
+
+Butterfly knife reinstated by IdolNinja
+The butterfly knife has been reintegrated back into the game. I was able to free up one additional weapon slot by tying the Bulldog's weapon system to the Bear's entry.
+
+
+
+Crowd Control Solo fix by IdolNinja
+Both Crowd Control activities have been adjusted to be easier in single player. In the original game, the same number of crazed fans would spawn in both coop and single player which seems like a huge oversight. The single player crazed fan spawns for level 4-6 have now been backed off to make it much more manageable solo. I'm not sure if I should make it even easier though. More input would be welcome!
+
+
+
+Gabe and Tycho Rollin' Twenties spray tag by IdolNinja
+Penny Arcade represent! :D
+
+
+
+3 New Logos by IdolNinja
+Tyrell Corp
+Weyland-Yutani
+U.S.S. Sulaco
+
+
+
+MISC
+
+Ultor Yacht crib purchase cost lowered to $500,000
+
+Added Clipboard to Phillips Building outside office
+
+Fixed activity menu crashing:
+Removed Prison Lighthouse crib radio to free up cts trigger
+Removed second boat mechanic at Stilwater U docks to free up cts trigger. The boat mechanic is still functional at the Suburbs docks.
+
+
+CURRENT FULL LOGO LIST (86 new logos)
+
+LOGOS BY IDOLNINJA:
+Gentleman of the Row
+Gentlemanly Gentlemen
+Penny Arcade
+Facepunch
+Epic Smiley
+Troll Face
+J.R. "Bob" Dobbs (Church of the SubGenius)
+KMFDM
+Daft Punk
+Justice - Cross album cover
+MUSE
+Pop Will Eat Itself
+Hellboy
+Lobster Johnson (Hellboy/BPRD)
+BPRD (Hellboy)
+Batman
+Green Lantern
+Venture Bros
+Brock Sampson
+Invader Zim
+GIR (Invader Zim)
+Irken Empire (Invader Zim)
+Filler Bunny
+Z? (Johnny the Homicidal Maniac)
+Nee (Johnny the Homicidal Maniac)
+Doughboys (Johnny the Homicidal Maniac)
+Cowboy Bebop
+Capsule Corp (Dragon Ball Z)
+Ghost Nappa (Dragon Ball Z Abridged)
+Gurren Lagann
+Aperture Laboratories
+Half Life 2
+Black Mesa
+Left 4 Dead
+Team Fortress 2
+Mann Co
+Counterstrike
+Garry's Mod
+Crimson Lance (Borderlands)
+Cerebus (Mass Effect 2)
+N7 (Mass Effect series)
+Quake
+Quake 2
+Quake 3
+Quake 4
+STARS Raccoon City Police Dept (Resident Evil)
+Miskatonic University Antarctic Expedition (H.P. Lovecraft's At the Mountains of Madness)
+Dolemite
+Shaft
+Foxy Brown
+Superfly
+Black Dynamite
+Shaw Brothers
+Stormtrooper
+Darth Vader
+Aliens
+Weyland-Yutani (Alien series)
+U.S.S. Sulaco (Aliens)
+Predator
+Blade Runner
+Tyrell Corp (Blade Runner)
+Babylon 5
+Psi Corps (Babylon 5)
+Jurassic Park
+The Warriors
+Nike
+Adidas
+Adidas 2
+New York
+Saints Row Motors
+Fight Beauties 1
+Fight Beauties 2
+Fight Beauties 3
+Fight Beauties 4
+Ronin
+Samedi
+
+LOGOS BY IDOLNINJA PULLED FROM THE GAME'S FILES:
+Longetivity (Mr Wong)
+FBI Star and Shield
+Ultor
+Ultor Security
+POLICE
+
+Fixed preview swatch for Saints Fleur de Lys
+
+
+LOGOS BY INNOCENT SAM:
+Bender
+Hard Rock Cafe Stilwater
+Third Echelon (Splinter Cell)
+Stars Wars
+Headshot (Counterstrike)
+
+***********************************************************************************************
+
+v1.9 BETA 6 CHANGELOG
+
+
+31 new additional logos by IdolNinja
+
+
+
+Multi-language Support by IdolNinja
+Added all language string files. GotR is now multi-language, and will change language for menus, movie subtitles, and prompts dynamically depending on your OS language. The following languages are supported:
+    * CH Switzerland
+    * CZ Czech
+    * DE German (may possibly have issues since the German release is cut)
+    * DK Danish
+    * EN English
+    * ES Spanish
+    * FR French
+    * IT Italian
+    * JP Japanese
+    * NL Dutch
+    * PL Polish
+    * RU Russian
+    * SE Swedish
+    * SK Slovak
+
+Any language can be forced though by adding a parameter to the launch options. See the accompanying "Saints Row 2 and GotR command line parameters" text file included in the archive that lists all parameters and how to set them.
+
+NOTE: New unlockables messages that were added by me are still in English since there are no translated versions.
+
+
+
+Moved the For Sale light cones for the Ultor Yacht and the Phillips Building on their cribs instead of on the secret island. Both cribs now cost $1,000,000 each.
+
+
+
+Aisha's crib is now free and unlocks with the Red Light Crib after acquiring Saints HQ.
+
+***********************************************************************************************
+
+v1.9 BETA 5 CHANGELOG
+
+
+ATV Mall Race by IdolNinja
+A new race #27 is riding an atv through checkpoints at the mall. The trigger to start it is just outside the surface entrance to the mall parking garage.
+
+
+
+6 New logos by IdolNinja
+
+
+
+Cardboard Tube Samurai Buffalo decal by IdolNinja
+The Buffalo decal 1 (American Eagle) replaced with a cardboard tube samurai mural
+
+
+
+Tool belt by IdolNinja
+A new Tool belt clothing item added for sale at Let's Pretend
+
+
+
+Walk and Taunt v1.4 by Innocent Sam
+Adds the following:
+Drunk walk - replaces Avoid the Rain! (running with newspaper over head)
+Strumming compliment (play guitar) 
+Toasty! taunt (fire breathing)
+Rap Battle 1 taunt
+Rap Battle 2 taunt
+* Dance moves and kneeling were left out since there wasn't any good place to put them without removing something else. I like the dance moves being special action nodes anyway.
+
+
+
+MISC:
+
+The 3 new cribs have been locked and are for purchase at the Volition Secret Island for new players.
+NOTE: If you have a current save from the 1.9 betas, it will not relock them back up since the save thinks you already own them. Consider it a gift.  
+
+Prison helipad garage lightcone is now fixed with the proper H one instead of the purple car one.
+
+Gat homie now drives up in a blinged out minivan (since he's settled down and all... kind of)
+
+Much of the pricing has been adjusted to more reasonable levels at the request of players
+
+We have run out of cts coordinate space, and the game crashes if trying to add more. Some of the existing coordinates have been removed in order to make room for new ones:
+5 entries for cam2 for dealerships - (the camera no longer pans when the stores are purchased)
+1 entry for the wardrobe at the rec center - (great idea, but really needed the space)
+1 entry for the tv coordinate at the downtown movieplex
+
+Aisha crib garage and TV reinstated
+
+Gyro Daddy mellowed out so it's no longer completely out of control. It can still rotate upside down but takes a directed effort to do so instead of having it spaz out the moment you try to fly.
+
+Added a new icon for the Advert FM radio station in the pause menu, and also changed the music that plays for each station to my favorites. Interestingly, the radio stations in the pause menu were designed by Volition to only play one track and loop that single track over and over. Pretty stupid if you ask me, and I haven't found a way around that.
+
+***********************************************************************************************
+
+v1.9 BETA 4 CHANGELOG
+
+Law enforcement Outfits by IdolNinja
+http://saintsrow.com/forums/topic/43953?page=20#comment-511537
+The following outfits have been added to Let's Pretend for sale:
+Masako
+Swat
+FBI
+Ultor Goon
+
+
+
+Commercial Radio by Minimaul
+http://saintsrow.com/forums/topic/45221
+Adds a radio station that plays only commercials. Unlocks after completing ep04 And a Better Life...
+
+
+
+15 New Logos by IdolNinja
+
+* Current new logo running count: 53
+
+
+
+Spraypaint Tags by Public_Enema
+http://saintsrow.com/forums/topic/44923?page=4#comment-511373
+GotR Nun Spray Paint Tag
+Warriors Spray Paint tag
+
+NOTE: Spray paint logos still show the incorrect old logo while spraying, but do show correctly after completion. I'm still working on getting this corrected. -Idol
+
+
+
+MISC
+
+Fleur Logo preview swatch fixed
+
+Facepunch logo fixed. Smaller and no longer color bleeding
+
+Revised Swat Van Texture - Public Enema
+
+Main Menu wings and Gotr Logo - Public Enema
+
+Load Screen Gotr logo - Public Enema
+
+Pause Map - Mall, ? at Super Secret Island, and Gotr logo bottom right - IdolNinja
+
+Powered by Gentlemen splash screen logo - Idolninja
+
+All new logos have been added to the 256x218 section and are now available on:
+police bullet proof vest
+swat vest
+women's sweat pants
+women's track hot pants
+
+Fixed cab pathing for Phillips Building crib
+
+***********************************************************************************************
+
+v1.9 BETA 3 CHANGELOG
+
+Tidosho's Vehicle Drive Mod v2.6
+http://saintsrow.com/forums/topic/44658#comment-510287
+Updates the handling of the Go and Hayate.
+Go! - Torque lowered to 400 as testers reported that the thing was way too frantic!
+Hayate - Massive handling issues arose since I changed the drivetrain and upped torque, so I've took the torque back to original.
+NOTE: These two vehicles were taken out of GotR 1.7 due to the problems mentioned above. They have both now been tested and reinstated.
+
+
+
+Johnny Gat Suit by Minimaul
+Gat's Suit from the trial in Appointed Defender added as an outfit at Impressions
+
+
+
+MISC:
+
+Hankerchief for single-breasted coat added to Impressions
+
+Fixed Wong's Follower Head tilesheet icon to remove the hair underneath (from Aisha's head)
+
+Removed extraneous police car _desc file
+
+BPRD Logo revised with smaller symbol and acronym
+
+Added Aliens and Predator logos
+
+Fixed Phillips Building helipad teleport for homies. The teleport has been moved to the top of the pad. This fixes the issue where homies would get stuck and not be able to move when teleporting in.
+
+***********************************************************************************************
+
+v1.9 BETA 2a CHANGELOG
+
+Fixes Activity post completion menu crash issue. It would freeze when attempting to load the level 1-6 menus for some users. Unfortunately, the only way to fix the issue was to remove more cts coordinates/trigger entries:
+Removes Aisha's crib garage
+Removes Aisha's crib clipboard
+Removes Aisha's crib TV
+Removes Arena Helicopter garage (the car garage is still there)
+
+Please let me know immediately if you encounter any cutscenes, activities, or missions crashes with details on exactly what happened. Also, please try to reproduce the error and confirm if you do. Thanks!
+
+***********************************************************************************************
+
+v1.9 BETA 2 CHANGELOG
+
+Metal Paint Colors by Firespite
+http://saintsrow.com/forums/topic/45188
+Adds Chrome, Black Titanium, Platinum, Gold, White Gold, and Copper Oxide paints to the Glossy Paint group at the mechanic. You can now use these paints on all body parts of the car (no longer limited to just rims and trim.)
+
+
+
+Cerebrus Orange color by Firespite
+http://saintsrow.com/forums/topic/44923?page=2#comment-510076
+Adds the Mass Effect orange color to the clothing color pool. Looks great with my new Cerebus logo.
+
+
+
+Fixed Cerebus Logo by IdolNinja
+http://saintsrow.com/forums/topic/44923?page=2#comment-510079
+Slightly darkened the outer arms of the Cerebus logo to make it closer to the original ME2 ones.
+
+
+
+FIXES AND MISC:
+
+Added car garage inside Phillips Building. You can now take out a car/bike and smash through the glass dropping 200 stories to the street below. Thanks Rasirez for the great idea!
+
+Removed the following triggers to free up cts space for other things:
+Suburbs Dock Clipboard
+Stilwater U Dock Clipboard
+Airport Hangar Clipboard
+
+Lowered Yacht outside garage trigger so it's not floating above the water
+
+Moved Yacht cash icon into room with wardrobe (previously inaccessible inside the wall in kitchen)
+
+Raised the Speed of the Knoxville slightly
+
+Added cash trigger to Aisha's crib up the stairs
+
+***********************************************************************************************
+
+v1.9 BETA 1a CHANGELOG
+
+Fixes a bug where Septic Avenger Suburbs would crash after completing Level 1. The issue was due to one too many entries in loaded cts files. The bug also likely affected other activities as well. To resolve, I had to remove one cts entry/trigger. The entry removed was for the extra TV trigger at the Downtown movie theater mod from v1.8 (kind of neat but ultimately completely unnecessary.)
+
+Please let me know ASAP if any other activities still crash!
+
+***********************************************************************************************
+
+v1.9 BETA 1 CHANGELOG
+
+
+New Custom Logos by IdolNinja, foamcup, and Innocent Sam
+http://saintsrow.com/forums/topic/44923
+34 new logos are available for clothing. NOTE: There are 3 different sizes of logos, and some of the new ones are only available in certain sizes on certain clothes.
+
+
+
+New Homies by IdolNinja
+http://saintsrow.com/forums/topic/43953
+Carlos, Luz, Mr. Wong, and Aisha homies have been added. Custom follower head, cell phone pics, and unlock splash screen textures were created for them.
+
+* Mr Wong has replaced Legal Lee. (Legal Lee is now the Vehicle Delivery Service agent and will autojoin on delivery.)
+* Luz is unlocked after Hotel and Marina Drug Trafficking Level 6 (gold deagle unlock moved to Prison Fight Club Level 3)
+* Carlos unlocks with new custom mission Send in the Clones (not yet available in BETA 1)
+* Aisha unlocks with new custom mission Send in the Clones (not yet available in BETA 1)
+
+
+
+New Cribs by IdolNinja, advancedalex, and RedRage
+http://saintsrow.com/forums/topic/43953
+http://saintsrow.com/forums/topic/45058
+http://saintsrow.com/forums/topic/44675
+
+The following cribs are now available for purchase at the Super Secret Island behind the waterfall:
+Aisha's House - RedRage
+Ultor Yacht - advancedalex
+Phillips Building - IdolNinja
+
+The Ultor Yacht is now a permanently loaded chunk. You can visit it at any time, not just during the mission.
+The Phillips Building contains the following teleporters that activate on purchase
+	* Super Secret Island
+	* Arena (includes both a car and heli garage inside the Arena)
+	* Gym from the Samedi Assault on Precinct 13 cutscene
+	* Top of the Tohoku Hotel from the Ronin Mission Room Service
+	* Helipad and garage on the top of one of the Phillps Building towers
+
+All of the triggers for these new cribs should disappear during misssions and reappear on mission completion. Please let me know immediately if they do not.
+
+
+
+NPC Morphs by IdolNinja
+http://saintsrow.com/forums/topic/43953?page=16#comment-507317
+54 New NPC Morph cheats have been added. All vehicle cheats have been removed to make room. The removal of the vehicle cheats shouldn't matter since they are all for purchase at the dealerships.
+
+* NOTE: A side effect of these changes has resulted in all of the existing cheat codes in your phone being wiped out. You just simply need to reenter the new ones. Also, many of the code #s have changed. See the included Cheat code reference txt file for more details.
+
+Full list of all NPC Morph codes (including both new and existing ones)
+#76 - PC Aisha
+#78 - PC Carlos
+#79 - PC Carlos Jail
+#80 - PC Carlos Bloody
+#81 - PC Carlos Zombie
+#82 - PC Crazy Salesman
+#83 - PC Dane Vogel
+#84 - PC Donnie
+#85 - PC The General
+#86 - PC Jane Valderamma
+#87 - PC Jessica
+#88 - PC Johnny Gat
+#89 - PC Johnny Gat Bandaged
+#90 - PC Julius
+#91 - PC Jyunichi
+#92 - PC Kazuo
+#93 - PC Laura
+#94 - PC Legal Lee
+#95 - PC Luz
+#96 - PC Maero
+#97 - PC Matt
+#98 - PC Pierce
+#99 - PC Richie
+#100 - PC Sampson
+#101 - PC Shaundi
+#102 - PC Shaundi Repair
+#103 - PC Shogo
+#104 - PC Mr. Sunshine
+#105 - PC Tobias
+#106 - PC Translator
+#107 - PC Troy
+#108 - PC Veteran Child
+#109 - PC Vinnie
+#110 - PC Mr. Wong
+
+#111 - PC Ronin Female
+#112 - PC Ronin Male
+#113 - PC Samedi Female
+#114 - PC Samedi Male
+#115 - PC Brotherhood Female
+#116 - PC Brotherhood Male
+
+#117 - PC Cop
+#118 - PC FBI
+#119 - PC SWAT
+#120 - PC Ultor Masako
+
+#121 - PC Guard
+#122 - PC Nuclear
+#123 - PC Prisoner
+#124 - PC Prison Fightclub
+
+#125 - PC Ho
+#126 - PC Pimp
+#127 - PC Stripper A
+#128 - PC Stripper B
+
+#129 - PC Baggage Handler
+#130 - PC Barbershop Quartet Singer
+#131 - PC Bartender
+#132 - PC Bouncer
+#133 - PC Construction
+#134 - PC Doctor
+#135 - PC Drug Tech
+#136 - PC EMT
+#137 - PC Firefighter
+#138 - PC Hotdog
+#139 - PC Judge
+#140 - PC Lifeguard
+#141 - PC Meter Maid
+#142 - PC Mime
+#143 - PC Minister
+#144 - PC Nurse
+#145 - PC Pilot
+#146 - PC Stewardess
+#147 - PC Repair
+#148 - PC Scientist
+
+#149 - PC Gyros Driver
+#150 - PC Freckle Bitch's Driver
+
+#151 - PC Blake
+#152 - PC Skeeter
+#153 - PC Cheerleader
+#154 - PC Sportfan
+#155 - PC Athlete Female
+#156 - PC Athlete Male
+
+#157 - PC Arena Fightclub
+#158 - PC Female Biker
+#159 - PC Male Biker
+#160 - PC Bum
+#161 - PC Junky
+#162 - PC Business Female
+#163 - PC Business Male
+#164 - PC Cowboy
+#165 - PC Elderly Female
+#166 - PC Elderly Male
+#167 - PC Fat Female
+#168 - PC Goth Female
+#169 - PC Goth Male
+#170 - PC Hippie Female
+#171 - PC Hippie Male
+#172 - PC Pirate
+#173 - PC Punk Female
+#174 - PC Punk Female
+#175 - PC Roid Freak
+#176 - PC Skydiver
+
+#177 - PC Zombie Male A
+#178 - PC Zombie Male B
+#179 - PC Zombie Male C
+#180 - PC Zombie Female A
+#181 - PC Zombie Female B
+
+
+
+New Vehicle Textures by Public_Enema
+http://saintsrow.com/forums/topic/44923?page=1#comment-508456
+http://saintsrow.com/forums/topic/44923?page=1#comment-508724
+http://saintsrow.com/forums/topic/44923?page=1#comment-509028
+
+Modifies the following vehicle textures andlogos:
+FBI SUV -> Bureaucrat Interceptor
+Five-O -> Cruiser
+Bear -> Grizzly
+Peacekeeper
+Ambulance
+
+
+
+Additional Hair Colors by Veerek and Firespite
+http://saintsrow.com/forums/topic/44988
+http://saintsrow.com/forums/topic/43187
+Merges the two mods which add many new hair colors and variations at the plastic surgeon. Also fixes all swatch colors so they match with the hair.
+
+
+
+Additional Makeup Colors by Firespite
+http://saintsrow.com/forums/topic/43187
+Adds a small variety of very dark reds to slightly brighter, a new blue, green, etc. for lipstick and eyeshadow.
+
+
+
+Heli Garage Prison Crib by IdolNinja
+An extra heli garage is now attached to the prison crib and is located on the police helipad near the mansion.
+
+
+
+GenX and EZZZY PostGame by IdolNinja
+http://saintsrow.com/forums/topic/45047
+This mod adds back the old 105 EZZY and 89 GENX stations that disappeard after ss04 and 50% completion. They are now listed as bonus stations (Veteran's Vault and Keepin' it EZZZY) on the radio at the end of the game after beating em01 Revelations. Now you'll have all 12 available stations in your car postgame.
+
+NOTE: This isn't an unlockable, so will automatically take effect postgame.
+
+
+
+Increased Fall Height by foamcup (based on work by Veerek)
+http://saintsrow.com/forums/topic/45081
+This increases the distance you can fall before rag doll and before you take damage. To give you an idea of the distance, now you can jump down from the second floor of the Penthouse crib or Purgatory without falling over.  
+
+
+
+Stop Time Cheat by IdolNinja
+#2500 Stop Time cheat stops the day/night cycle from progressing. i.e. if you activate it at 2:35 pm it will remain that time forever. You can toggle it back off to make the flow of time start up again.
+NOTE: THIS DOES NOT FREEZE THE GAME WORLD! (just the time of day)
+
+
+
+Chainsaw Vogel by AxeltheInferno
+http://saintsrow.com/forums/topic/44915
+Removes the restriction preventing you from killing Dane Vogel with a chainsaw during the ep04 And a Better Life mission. Lumberjack at will.
+
+
+
+Pirate hook ui icon by Public Enema and IdolNinja
+http://saintsrow.com/forums/topic/43953?page=18#comment-509015
+The butterfly knife UI icon has been converted to custom hook texture
+
+
+
+Question mark jacket by Innocent Sam
+http://saintsrow.com/forums/topic/44923?page=1#comment-507158
+Changes the dollar signs variant texture to question marks like the Riddler. Also fixes the Riddler outfit.
+
+
+
+Luz outfit by IdolNinja
+Created and added the Luz outfit for sale at Impressions
+
+
+
+Saints Gang Paints by IdolNinja
+Added the Saints car paints to the mechanic under the Candy menu with the other modded gang paints.
+
+
+
+GotR Super Customs v1.1a update by foamcup
+http://saintsrow.com/forums/topic/44639
+Removes extraneous vehicle files from the O-Yeah and ZRT Special and adds new splash logos.
+
+
+
+FIXES AND MISC
+
+Women's Tied Buttoned Shirt Collar Fix by simkas12
+http://saintsrow.com/forums/topic/43953?page=14#comment-502738
+
+Plastic Surgeon skin colors now show the correct colors on the sheet for the additional ones added by Firespite
+
+Mr. Wong's outfit now shows the correct longetivity logo
+
+AR50 Grenade Launcher restored to fire standard grenades. The AR50 XMAC Special has been converted to the firework zoomy one.
+
+Vehicle Tweaks, Unlocks, and Dealership additions and changes
+* Peewee - Slight speed increase
+* Kent - HP doubled and nitrous speed increased
+* Knoxville - speed, torque, and nitrous speed all greatly increased. Tons of fun to drive!
+* Tan Opressor added to Sparrow Aircraft
+* BR04 Compensator variant that drags Carlos added to SPD Impound
+* Saints Race and Saints skipper moved to Volition Gift Shop
+* Prison bus moved to Blue Collar Supply
+* Jyunichi's Zircon now unlocks with other gang vehicles
+* Medical heli unlock removed. Price lowered and heli moved to Blue Collar Supply
+* News Opressor unlock removed. Price lowered and heli moved to Blue Collar Supply
+* Shogo's Kaneda now unlocks at rn09 Rest in Peace
+
+NOTE: Isamu Noguchi Security dealership removed and all vehicles moved for sale at Blue Collar Supply. We ran out of cts coordinates and had to remove the dealership to free up entries for the new cribs. The Stilwater University Dock car garage was also removed.
+
+Pause menu music changed to Whistle Happy
+
+Baseball Cap and Basic T-Shirt also added to On the Rag (and still available at Sloppy Seconds)
+
+Zombie Uprising Surprise!
+Who will it be in v1.9!
+
+***********************************************************************************************
+
+v1.8 Changelog
+
+Plane and Boat Mechanics by RedRage and IdolNinja
+http://saintsrow.com/forums/topic/44555?page=2
+Adds a boat mechanic at both dock cribs, and a plane mechanic at the aiport hangar crib for customizing vehicles. You can now have that glossy black and purple Snipes57 you've always dreamed about.
+
+
+
+
+Vehicle Customisation Expanded v1.1 by Red Rage
+http://saintsrow.com/forums/topic/44555
+This mod now allows you to add and remove everything available on each vehicle. For example, but not limited to:
+Police Cars - Now fully customisable, add/remove decals, lights and change interior colours.
+Taxis - Decals unlocked, body kit now purchasable.
+Bezier - Bonus decals unlocked.
+Bear slogan decal: "A Brighter Future for a Better Life"
+Gang vehicles - Decals now removable. Gang decals can also be added to non-gang vehicles, as long as the gang uses that vehicle. Eg: You can add Ronin decals to the Wakazashi but not to the Bezier. Yet.
+
+You can also amend the license plates on selected vehicles, and mix and match decals on one vehicle.  For example you can mix the Jessica decals on the Phoenix with the Bandit ones.  Not that you would, as it looks weird.  But the option is there.
+
+
+
+
+Gang Candy Paint Mod by IdolNinja
+http://saintsrow.com/forums/topic/44651
+Adds the following Gang Paint Colors to the Mechanic under Candy Paint:
+Gang Breton Green
+Gang Grenade Green
+Gang Banana Yellow
+Gang Double Yellow
+Gang Graig Red
+Gang Lipstick Red
+Gang Insane Red
+
+KNOWN ISSUES:
+The first six characters of the gang paint names are cutoff at the Mechanic, so it will read "ouble Yellow" instead of "Gang Double Yellow" or "renade Green" instead of Gang Grenade Green, etc. The last 6 colors at the bottom are the new gang ones.
+
+
+
+
+Character Customization Complete by IdolNinja
+http://saintsrow.com/forums/topic/44870
+
+The following additional features are added to cumulative unlock/restore. You can find out more details about the original mod here:
+http://saintsrow.com/forums/topic/41785
+
+Character Customization Complete Overview:
+* Adds 100+ new clothing items, tattoos, and accessories
+* Low chains and medallions are now available and you can wear all 3 types at once (short, mid-length, and long)
+* 11 new skin colors at Image as Designed
+* 34 new custom colors for clothing
+* Custom eye colors and fingernail polish at the shops for both iris and sclera both using the full clothing color palette
+* NPC only slots are now usable (back pants pocket, pants chain, loose belt) and many of the accessories have been moved to these slots. A new menu called Misc with Misc 1, Misc 2, and Misc 3 submenus created for them. You can now wear 3 accessories at the same time
+* Adds FBI logo
+* Underwear and bra items are now removable in their respective categories with the Nothing menu choice
+* All tribal tattoos moved to Nobody Loves Me so the remaining Rusty's Needle tattoos (like the back paw prints) are now avaiable
+* Fixes all store item pricing
+* Fixes many of the crashing issues, obscured slots, and other assorted clothing problems with the original mod
+* Reorganizes store items to more sensible locations
+
+This mod features work by gibbed, EchoZeero, animatronick, encogen, Firespite, Excarnate, Hilanthis, IdolNinja, InnocentSam, and RedRage all in one complete package to drop in to your game.
+
+--- The Character Customization Complete Mod Includes the following mods ---
+
+Long Chains and Medallions for Sale by IdolNinja
+http://saintsrow.com/forums/topic/44812
+Long Chains and Medallions have been enabled and now for sale.
+
+LONG CHAINS AT BOTH ON THIN ICE AND BLING BLING:
+long large chain
+long rope chain 2
+long alternating chain
+long figure eights chain
+long loops chain 2
+long twisted necklace 2
+
+LONG CHAINS MISC:
+long beads 1 * ON THE RAG
+long bear teeth *BLING BLING (ONLY)
+
+LONG MEDALLIONS AT BLING BLING:
+Saints word long
+General's Snake Medallion Long
+General's Skull Medallion Long
+long clock medallion 2
+long dollar medallion
+long peace medallion
+long wheel medallion 1
+long wheel medallion 2
+long wheel medallion 3
+long Africa medallion
+long grenade medallion
+long hemp leaf medallion
+long male symbol medallion
+long number 1 medallion
+long pimp medallion
+long pistol medallion
+long cards medallion
+long pierce medallion
+Mad Dog medallion long
+long female symbol medallion
+
+MISC CHAIN RELATED FIXES:
+* Gat's necklaces available at both Bling Bling and Thin Ice
+* Fixed bear teeth chains' color grids adding third color
+
+
+NPC Slots Enabled and Sorted by IdolNinja
+http://saintsrow.com/forums/topic/44812
+All misc items under bra (the badges, bluetooth headsets, wallet chains, etc) have had their actual NPC game slots enabled for use and purchase (back pants pocket, pants chain, and loose belt.) Custom menu item MISC created with Misc 1, Misc 2, and Misc 3 submenus for each slot. All your clothing should automatically be sorted this way, and future purchases of accessories show up under the new MISC menu as well.slot.
+
+MISC 1 SLOT (back pants pocket)
+Baggage handler badge
+Cop badge for shirt
+Cop rank 3 (shoulder patches)
+Dane's accessories
+Doctor badge
+Doo Rag
+Press badge
+Pilot badge
+Staff badge on coat
+Stewardess wings
+Stilwater Nuclear badge 1
+Stilwater Nuclear badge 2
+Sunshine's blood
+Sunshine's short necklace
+Ultor science team badge
+Ultor security badge
+Troy's decorations
+
+MISC 2 SLOT (pants chain)
+cop microphone that attaches to belt
+Hankerchief for single-breasted coat
+Javier's handkerchief
+Pants handkerchief 1
+Stethoscope
+Sunshine's Med necklace
+Wallet chain 1
+Wallet chain 2
+Wallet chain 3
+
+MISC 3 SLOT (loose belt)
+Cop patches for shoulders
+FBI ear piece
+Javier's bluetooth headset
+Knee Pads for Swat only
+Sunshine's bullet holes 2
+Sunshine's Med necklace 2
+surgical face mask
+Women's dress scarf
+
+
+Tattoo-O-Rama by IdolNinja
+http://saintsrow.com/forums/topic/44865#comment-500490
+25 tattoos additional tattoos now enabled at Rusty's Needle. Rustys turned out to have a limit on how many tattoos it could have for purchase, so the bottom of the item list for the store was never shown with the Cumulative Unlock/Restore mod. By moving all the tribal tattos over to Nobody Loves Me, all the remaining ones are now purchasable at Rustys:
+
+Stomach Razor 01
+Stomach Saints Letters 01
+Stomach Skull 08
+Stomach Snake Skull 01
+Stomach Wing Heart 01
+Stomach Wolf 01
+Upper Back Bling 01
+Upper Back Daggers 01
+Upper Back Demon 02
+Upper Back Demon 04
+Upper Back Fallen Angels
+Upper Back Fish 01
+Upper Back Lil Angel 01
+Upper Back Masks 01
+Upper Back Paw 01
+Upper Back Saints Letters 01
+Upper Back Shark 01
+Upper Back Skull 02
+Upper Back Skull 09
+Upper Back Star</Item>
+Upper Back Swallow 01
+Upper Back T-Rex 01
+Upper Back Wings 02
+Upper Back Wolf 03
+Upper Back Ying Yang 02
+
+Tribal 13, 15, and 17 (full body tribals) have been moved from Image as Designed to Nobody Loves Me. They are also now compatible with back tattoos and arm tattoos and should no longer crash.
+
+
+And Still Yet Even More Customization Items by IdolNinja and InnocentSam
+http://saintsrow.com/forums/topic/44743
+
+Image as Designed:
+Entire face sports paint 1 - Makeup - Entire Face
+Entire face sports paint 2 - Makeup - Entire Face
+Entire face sports paint 3 - Makeup - Entire Face
+
+Rusty's Needle:
+Shaundi's Star Tattoo - Right Forearm (actually shows on back of hand)
+
+Stilwater U Gift Shop"
+Entire front sports paint 1 - Entire Front
+
+Let's Pretend:
+Press badge - Bra
+Pilot badge - Bra
+Doctor badge - Bra
+Baggage handler badge - Bra
+Stilwater nuclear badge - Bra
+Cop rank 3 - Bra
+Cop badge for shirt - Bra
+Cop patches for shoulders - Bra
+Troy's Decorations - Bra (may need a slim build for these to show up properly)
+Sunshine's Blood - Bra
+Cop microphone that attaches to belt - Belt
+
+Impressions:
+Women's chopsticks 1 - Hat
+Women's chopsticks 2 - Hat
+Women's chopsticks 3 - Hat
+
+Leather and Lace:
+Combined bikini for sunbather - Suits
+
+On the Rag:
+Beads wDreads - Bra *NOTE These only look correct with the dreads hair. You can wear them with other styles but they look weird.
+
+
+New Threads Color Pack by Firespite
+http://saintsrow.com/forums/topic/43187
+Adds 34 new clothing colors to the game in the attempt to bridge the gap between extremely light colors and extremely dark ones.  Also included is a pack of colors darker than anything the game currently provides, which allows clothes to be more visually diverse.
+
+
+Custom Eye Colors by IdolNinja
+http://saintsrow.com/forums/topic/44812
+Human Eyes are now for sale at all clothing chains. Both the iris and sclera can be custom colored. An unintentional, yet strangely fascinating side effect is that you can actually unequip your eyes in the wardrobe as if it was they were clothing resulting in raw red holes where they should be. Creepy!
+
+Also, human teeth can be purchased from Let's Pretend. While they can't be color customized, they CAN be removed while in your wardrobe. Unequpping them also removes the tongue leaving a black gaping maw. Double creepy!
+
+NOTE: The plastic surgeon eye colors no longer work and will default to a standard dark brown no matter what you choose. Just buy some new eyes at any store to customize them... wow that sounds weird. :/
+
+
+Nail Polish for Sale by IdolNinja
+http://saintsrow.com/forums/topic/44812#comment-498777
+Adds fully color customizable Basic Nail Polish at all clothing stores using the fingernails slot under wrists. The fingernail polish now uses the full clothing color palette.
+
+
+More Makeup Colors by Firespite
+Adds Deep Green, Candy Apple Red, Royal Purple, Peacock Blue, Cobalt, and Toxic Green makup colors to Image as Designed.
+
+
+Aisha Outfit and Aisha's Belt by IdolNinja
+http://saintsrow.com/forums/topic/44654
+Adds Aisha's outfit at Impressions. Her special belt is also for sale there separately as well.
+
+
+Go Commando by RedRage
+http://saintsrow.com/forums/topic/44638
+Enables female characters to remove any items from the bra slot and all characters to remove items from the underwear slot.  Primarily to enable more flexibility with clothing/outfits so you don't have to keep swapping and changing underwear when straps and boxers poke out.
+
+
+Swat Clothing and Logos Fixes and Additions by IdolNinja
+http://saintsrow.com/forums/topic/44603
+* Swat Overshirt can now have 128x128 logos on the sleeves
+* Adds FBI logo to available 128x128 logos
+* Fixes Ronin Jacket crashing issue when used with the Swat Overshirt
+* Fixes clipping problems with the ski mask. Head hair, facial hair, and facial jewelry are now correctly obscured while wearing it. Also eliminates the clipping with the front neck area when the Ski Mask and SWAT Overshirt are worn together with the Swat Vest.
+
+
+All clothing items and accesories now priced correctly by IdolNinja and Firespite. There should no longer be any 0 cost items at the stores.
+
+
+Johnny Gat outfit now has the proper shirt mesh referenced and should no longer interfere with other outfits after previewing it.
+
+
+Shogo's green shoulders for his outfit fixed. The shoulder color mod seemed to be conflicting so it was pulled for now.
+
+--- The Character Customization Complete Mod Includes the above mods ---
+
+
+
+
+The SparRow Mod RC1 by Kalahee
+http://saintsrow.com/forums/topic/44655
+
+The SparRow Mod is an update and extension of We Have It by encogen, and We Price It/No More Explodey by IdolNinja that adds new vehicle dealerships to Stilwater in an attempt to free Foreign Power and Cycles from huge and unrelated vehicle listings.
+
+NEW VEHICLE DEALERS
+
+* Blue Collar Supply
+    Located in the factories next to a huge plant with silos. This dealer has city service, construction, taxi and news vehicles available for purchase.
+
+* Sparrow Aircraft
+    Located in the ariport next to the player's hangar crib. This dealer sells all planes and some helicopters. The remaining helicopters are available at other dealers.
+
+* Stilwater Scrapyard
+   Located in the Docks & Warehouses District behind the warehouse next to Brotherhood HQ. This dealer sells incomplete/strange/junk vehicles like the el train, Hounfur interior, and Sideshooters.
+
+* Volition Gift Shop
+   Located in the Museum District inside the "Buy Jove" building. This dealer sells all reward/unlockable vehicles, NPC variants, UFOs, and foamcup's customs.
+
+* S.P.D. Impound
+   Located in the Saints Row District at the Harrowgate Police Station parking lot. This dealership sells all gang vehicles (Sons of Samedi, Brotherhood, Ronins and Saints color scheme variants.)
+
+* Isamu Noguchi Security
+   Located in the Saints Row District at a large building with a red cube sculpture next to it. This dealer sells the Five-O, FBI, Bear and other police or military related vehicles. Isamu Noguchi is the sculptor of "Red Cube" in NYC, which this in-game sculpture is modeled after.
+
+NOTE: Known Issues:
+"{symbol not found}" appears instead of store name when purchasing a store
+
+
+NOTE: There have been additional changes made to this mod integrating it into GotR including:
+
+* Taxis and News vans removed from Foreign Power (they were at both Foreign Power and Blue Collar Supply)
+
+* Removed all beater variants
+
+* All gang vehicles at SPD Impound have been priced at $100,000
+
+* The following unlockable vehicles moved to the Volition Gift Shop
+Gyro Daddy
+Horizon Medical variant
+Oppressor News variant
+Toad Saints version from Hostage Diversion
+All Demo Derby Cars
+Donovan Prison variant
+Tornado Ultor Variant
+Bear Ultor Variant
+
+* All Gift shop unlockable vehicles are now priced at $800,000
+
+* Volition Gift Shop ownership now costs $500000 which grants a 10% discount and earns $10,000/day.
+
+* All other store ownership discounts lowered to 5% for both regular ownership and total ownership (they were mistakenly set to different levels for each store, but are both the same thing since there is only one store in each chain.)
+
+* Created multiple new color entries for the Tornado. Matte finish Military colors are available at Noguchi Security. Pearlescent and Iridescent Torandos are available at Sparrow.
+
+
+
+
+Weapon Pack Modder's Resource by RedRage
+http://saintsrow.com/forums/topic/44614
+The following new meshes have been fixed and replace existing weapons:
+Wooden baseball bat (fixed to 2 handed usage)
+Mac 10 (minor positional fix for weapon and clip)
+SPAS-12 (platinum version, positional fix)
+Gold Desert Eagle (fixed off hand position, now dual wieldable)
+Silenced Pistol (weapon usage and fixed off hand position), now dual wieldable)
+Black Laser RPG & Projectile (positional fix)
+
+
+
+
+Tidosho's Vehicle Powertrain Mod v2.5
+http://saintsrow.com/forums/topic/44658
+Fixes some of the big and small vehicles in SR2 that use Front Wheel Drive (FWD), that should really be Rear Wheel Drive (RWD). Also tweaks speed, torque, and nitrous on select vehicles.
+
+Titan - truck_2dr_armored01_veh.xtbl
+ - Modified drivetrain to Rear wheel (Thanks, Foamcup!)
+ - Torque increased to 1000 from 850
+ - Max speed increased to 95, and max nitrous speed increased to 105
+
+Peterliner - truck_2dr_semi01_veh.xtbl
+ - Increased torque to 2100 from 1800
+ - Increased max speed to 90 from 75, and increased nitrous speed to 100
+ - Changed to RWD from FWD (A roadtrain, front wheel drive???) thanks to Foamcup!
+ 
+Westbury - minivan_4dr_01_veh.xtbl
+ - Increased torque to 700 from 300
+ - Increased max speed to 120 from 70, and nitrous to 130 from 80
+ - Increased minimum revs to 950 from 850
+ - Changed to RWD from FWD
+ 
+DonoVan - sp_shortbus01_veh.xtbl
+ - Increased torque to 900 from 700
+ - Increased max speed to 95, and Max nitrous speed to 105
+ - Removed the automatically opening driver door on entry, as it's silly! The driver is supposed to open it! The passenger door is supposed to open on its own by the driver in the cab, but it no longer does since I did this, it looks like both doors aren't independent. No biggie, really. Passengers will open it by themselves.
+ 
+Buffalo - sp_rv01_veh.xtbl * This is the STANDARD Buffalo, and not the one used in the Drug Labs
+ - Increased torque to 600 from 424 as the Buffalo is quite slow to set off and accelerate. The van doesn't spend so much time accelerating through gears as it did.
+ - Increased top speed to 90 from 75, and nitrous max speed to 100
+ 
+Newman Mail Van - truck_2dr_mail01_veh.xtbl
+ - Changed from FWD to RWD
+ - Increased torque to 350 from 180 to give more power
+ - Increased max speed to 80 from 60, and max nitrous speed to 90
+
+Septic Avenger
+ - Modified the drive to Rear
+ - Increased torque to 950 from 850. Makes the truck set off from idle faster, and gives more power.
+ - Max speed increased to 90 from 70 - Nitrous speed increased from 80 to 100
+
+Stilwater Municipal
+ - Modified drive to Rear
+ - Increased torque to 980 from 880. Makes the truck set off from idle faster, and gives more power.
+ - Max speed increased to 90 from 70 - Nitrous speed increased from 80 to 100
+
+MixMaster
+ - Modified drive to Rear
+ - Torque increased to 1000 from 800. Makes the truck set off from idle faster, and gives more power.
+ - Max speed increased to 90 from 70 - Nitrous speed increased from 80 to 100
+
+Bear APC
+ - Increased torque to 980 from 880. Makes the APC set off from idle faster, and gives more power.
+ - Max speed increased to 90 from 70 - Nitrous speed doesn't have a setting, this will be added in v3.0 following further tests
+ - Wheel drive changed from front to rear twin axle to stop understeer and loss of power on cornering and hills
+
+Voyage
+ - Increased torque to 600 from 300. Makes the van set off from idle faster, and gives more power.
+ - Max speed increased to 90 from 70 - Nitrous speed increased from 80 to 100
+ - Wheel drive changed from front to rear
+ 
+Topher
+ - Increased torque to 600 from 300. Makes the van set off from idle faster, and gives more power.
+ - Max speed increased to 90 from 70 - Nitrous speed increased from 80 to 100
+ - Wheel drive changed from front to rear
+  
+Komodo - wagon_4dr_01_veh.xtbl
+ - Torque increased to 490 from 290. Makes the Komodo set off from idle faster, and gives more power.
+ - Max speed increased to 90 from 70 - Nitrous speed increased from 80 to 100
+ - Wheel drive changed from front to rear
+ 
+KeyStone - wagon_4dr_sprt01_veh.xtbl
+ - Changed drive to Rear to improve driving capability and reduce understeer
+ - Maximum speed increased to 95, and Max Nitrous speed to 105
+
+
+
+
+One-Handed Sawed-Off Shotgun Mod by RedRage
+http://saintsrow.com/forums/topic/44587
+Ever wanted to be just like Bruce Campbell or the Terminator and shoot people at close range with the double-barrelled shotgun with one hand?  Maybe you'd prefer to have a shotgun in either hand and shoot them twice just to make sure.  Well, now you can! This mod adjusts the sawed-off to one-handed and dual wieldable usage, and enables it to be fired from within vehicles.  Find it soothing to drive by someone on a Sabertooth and shoot them in the face with a shotgun?  Prepare to relax in style.
+* NOTE: 12-Guage ammo clip changed to 2 shots instead of 6, by popular demand.
+
+
+
+
+GotR Super Customs O-Yeah v1.1 by foamcup
+http://saintsrow.com/forums/topic/44639
+Presenting the prototype for our new Super Custom line of cars, the O-Yeah!  It's a Five-O with higher top speed and different engine and horn sounds. The transmission is modified to shift at 6450 RPM, up from 6300. (redline is 6500).  Increased vehicle HP to 9001 (it's over 9000!!!), up from 7000. Also removes the police band radio and decals. This is closer to a decommissioned police car. Fun fact:  By taking off the special police flag, the NPCs won't move out of your way now when you turn on the siren.
+
+v1.1 Adds the ZRT Special for sale at Cycles which is a souped up death rocket clone of the Kaneda.
+
+
+
+
+Weapon Tweaks by Half-Dead Wonder
+http://saintsrow.com/forums/topic/44652
+
+Changed minigun to have much larger clip and faster firing rate, lowered damage a bunch to keep it around the same effectiveness level, changed tracer to "sniper_tracer", increased impact force. Effectiveness is about the same (i.e. murder hose), but I find it more satisfying to use now.
+
+Changed sniper rifle scope to only have 6 zoom steps instead of 10. I felt 6 was a slightly better balance between getting the right zoom level and amount of time to get to max zoom.
+
+Changed Wolverine to have slighty faster firing rate, changed tracer to "sniper_tracer", made rockets shoot out of both wings, changed rocket effects and explosions. Would also probably be better to split into dogfighting and ground attack versions, but again would probably break the weapons limit.
+
+Changed Gyro Daddy handling to be much sillier to use, gave it much more health to compensate.
+
+The following weapons have had the restrictions removed for using them while holding a human shield:
+Flamethrower
+Fire Extinguisher
+Septic Gun
+Minigun
+
+The following weapons can now be used by a passenger in a vehicle:
+Septic Gun
+Fire Extinguisher
+
+NOTE: The Tornado tweaks from this mod were not integrated as it would mean losing homing rockets. Also, raised the rifle bullet purchase clip from 10 to 50 since it was a pain to buy 3000 bullets only 10 at a time.
+
+
+
+
+Purchasable Ambient Music by InnocentSam
+http://saintsrow.com/forums/topic/44610
+This mod adds 107 purchasable songs to "Scratch That" of all the ambient music in the game that you can now buy and add to your Radio Playlist. The new tracks include things like the Zombie Uprising music, the Barbershop Quartet, and T&A club music. Most of these new tracks can be found in Easy Listening under M for Misc. There are also a handful of ambient metal songs in the Metal category as well.
+
+NOTE: When purchasing any of these new tracks, make sure to immediately add them to your Radio Playlist. If you save and reload, the tracks will be gone and you will have to repurchase them otherwise.
+
+
+
+
+Extra Gang Vehicle Options by IdolNinja
+http://saintsrow.com/forums/topic/44665
+The following vehicles can now be assigned to your three Gang Vehicle Slots in Gang Customization when you unlock the final vehicle set 3:
+Kenshin
+Melbourne
+Peewee
+Sabertooth
+Sandstorm
+Shard
+Tetsuo
+Widowmaker
+Toad
+Mongoose
+Knoxville
+Compensator
+Atlastbreaker
+
+Special thanks to foamcup for screwing up his vehicles.xtbl and causing his gang members to ride ATVs which gave me the idea for the mod. :D
+
+
+
+
+Allowed Heli Weapons Mod by IdolNinja
+http://saintsrow.com/forums/topic/44735
+
+OPPRESSOR:
+The back seats of the Opressor now allow the firing of any weapon out the sides. To ensure that you do sit in back, you will need your coop partner to recruit a homie who will take up the front passenger seat.
+
+GYRO DADDY:
+The passenger seat of the Gyro Daddy now allows for firing any weapon.
+
+NOTES:
+The weapon animations seems to be missing from the Gyro Daddy (or possibly tied in incorrectly,) so your weapon animation will always point straight ahead and not swivel around when you move your reticule. You can still fire in any direction though (the gun just doesn't move.)
+
+
+
+
+Increased Fine Aim Range by IdolNinja
+http://saintsrow.com/forums/topic/44589
+Increases the camera's Y range in Fine Aim Mode for both standing and crouch. You can now aim a great deal higher and lower than you could before. Thanks Zeratanus for the great idea!
+
+NOTE: Also includes Firespite's update to the increase the range of the third person camera as well.
+
+
+
+
+Driveup Homie | Sexy Repair Girl Shaundi by Kalahee
+http://saintsrow.com/forums/topic/44662
+Changes the Vehicle Delivery homie to be Shaundi dressed in her Video Repair outfit. She will turn into a ped after dropping off the car. Also corrects a problems in the original game with homies driving the wrong vehicle when you call them:
+Pierce now drives up in a Mag (suv_4dr_luxury01) , not a Bulldog (suv_4dr_luxury05.)
+Shaundi now drives up in a Topher (van_4dr_03  Shaundi variant,) not a Voyager (van_4dr_04.)
+Tobias now drives up in a Voyager (van_4dr_04 Goon variant,) not a Topher. (van_4dr_03.)
+Legal Lee now drives up in a Zircon (car_4dr_standard02 Legal_Lee variant), not an ambulance.
+
+
+
+
+Shoulder Shotgun Animations by RedRage
+http://saintsrow.com/forums/topic/44323#comment-492514
+Changes the firing animations of the shotguns to shoot like a real shotgun raised to your shoulder. This does not affect the new one-handed sawed off shotgun or the pimpcane. Try it out! Opinions needed on whether or not to keep this in!
+FIX: Shoulder Shotgun Animations AS14 and XS-2 by RedRage
+http://saintsrow.com/forums/topic/44323#comment-495649
+The AS14 and XS-2 auto shotguns have been reverted back to shooting from the hip while the pump action ones like the Tombstone and SPAS12 animate shooting from the shoulder.
+
+
+
+
+Septic Avenger Silencer by foamcup
+http://saintsrow.com/forums/topic/44867
+Adds a small delay to the driver voice samples so there is a pause in between their spoken lines.
+
+
+
+
+Lower UFO Engine Volume by foamcup
+http://saintsrow.com/forums/topic/44633
+Lowers the volume of the UFO sound effects when flown, so that it doesn't drive people completely insane from the obnoxious grating loud volume.
+
+
+
+
+Suburbs Recreation Center Extra Wardrobe by Bernard the Beast
+http://saintsrow.com/forums/topic/44724
+Adds a wardrobe lightcone to the locker room at the Suburbs Recreation Center. This new lightcone is tied in to the Suburbs Dock crib, and will appear at the Rec Center after you purchase the Dock. You can find the locker room by entering the door directly behind the Receptionist desk and taking the first door on the left.
+
+
+
+
+Watch Movies at the Movies by IdolNinja
+http://saintsrow.com/forums/topic/44724#comment-498483
+Added an extra tv lightcone at the Humboldt Park Movie Theatre Multiplex. This lightcone is tied in to the Downtown loft crib and will appear at the theater after you own the crib.
+
+
+
+
+AR200 SAW Tweaks by Tactical Bacon
+The SAW now fires 3 additional shots before hitting max spread, with double the magazine capacity (which conveniently fits the IRL capacity too!) and also decreases the min spread by a quarter of a degree. The max spread was left as is.
+
+
+
+
+Pause menu music changed to Coconuts.
+
+
+
+
+Zombie Uprising Suprise!
+New NPCs have been swapped into Zombie Uprising
+
+
+
+
+v1.8 FIXES
+
+Fixed Taunt, Compliment, and Walk Names by IdolNinja
+http://saintsrow.com/forums/topic/43137#comment-493148
+The Taunts, Compliments, and Walks at the Plastic Surgeon are now named correctly to match the modded new animations. Some of the original vanilla taunts were restored to replace problematic taunts like the cannonball and getting hit by voodoo. 
+
+
+Fixed Gang Animations by IdolNinja
+http://saintsrow.com/forums/topic/43953?page=2#comment-493151
+http://saintsrow.com/forums/topic/43953?page=2#comment-493236
+Gang members should no longer stick their arms straight out for a few seconds then continue on. This problem was due to missing animation references after the Taunt/Compliment mod was integrated for both taunts and standing anims.
+
+
+Fixed Desert Eagle Damage by IdolNinja
+http://saintsrow.com/forums/topic/43953?page=2#comment-493153
+The Desert Eagle is no longer the 1-hit wonder that somehow managed to sneak its high powered way into v1.7. Thanks to Zeratanus for finding this one!
+
+
+Fixed Menu Music volume by IdolNinja
+http://saintsrow.com/forums/topic/43953?page=2#comment-493221
+The music volume has been lowered for the main menu and pause menu back to its original settings. 
+
+
+
+Fixed Downtown Penthouse Crib Wardrobe by Firespite
+http://saintsrow.com/forums/topic/43187
+This fix from v1.6 somehow didn't make it in to v1.7. It has been reinstated. Also, the lightcone has been moved slightly so that it is not in the middle of a chair before upgrading the crib.
+
+
+Fixed Drive-up Homie Vehicle Delivery Unlock
+In v1.7 the Free Vehicle Delivery Service homie would unlock upon completing Red Light Escort level 3 with the correct unlock message. Unfortunately, the homie would not appear on the cell phone to call. This fix changes the level 3 unlock to the original Vehicle Delivery Service Paid Homie, and moves the Free Delivery Service unlock to happen at Level 5. Level 6 is still the new unlock.
+
+
+Invisible Overshirt Collar Fix by Everyone
+http://saintsrow.com/forums/topic/44676
+Overshirt collars now show up correctly while wearing the men's 2-button business coat, men's double breasted suit coat, crazy salesman's jacket, and Aisha's jacket.
+
+
+FIX: Max vehicle altitude by IdolNinja (original mod by Half-Dead Wonder)
+http://saintsrow.com/forums/topic/43999#comment-487075
+Your plane/heli will no longer disappear when you reach the world ceiling.
+
+
+FIX: Satchel charges have been fixed so you can throw the last 5. Thanks minimaul!
+http://saintsrow.com/forums/topic/43953?page=10#comment-500697
+
+
+FIX: Unlockable Abilities Menu statistics are now sorted correctly in the proper groups with the correct names and what they unlocked from.
+
+
+FIX: The pirate and zombie gangs are now named correctly in the gang selection menu in gang customization.
+
+
+FIX: Long Gloves Clipping Issue Fix by Firespite
+Long gloves no longer clip through jacket sleeves.
+
+
+FIX: Ronin Jackets can now be bought and colored at On the Rag without the colors switching back to default yellow/black after purchasing them. They have been removed from Nobody Loves Me.
+
+
+FIX: Zombie Uprising weapons now spawn correctly in the center of the autoshow circles at a slightly raised elevation. This should fix the issue where they would occasionally spawn 5 ft in the air where you couldn't reach them.
+
+
+FIX: Test Sword on Back B removed due to it sticking to outfits and recoloring everything once selected. The other test sword on back is still available.
+
+
+FIX: Peewee weapon use has been reinstated
+
+
+FIX: Unlockable Reference readme text
+Added Barnstorming unlockable info, and changed Museum Insurance Fraud Level 3 to read *NEW MYSTERY OUTFIT
+
+
+FIX: Removed extraneous files: npc_300mPrisoner_pre.xtbl, tanya_pistol.smesh_pc from modified source folder
+
+
+UPDATE: The Gyro Daddy, D-Stroy UFO, and Peewee cheats have been changed to flag since they are now unlockable/purchasable
+
+-----------------------------------------------------------------
+
+v1.7.1 Changelog
+
+Removed modded hitman descriptions from the Barrio list, and reverted back to original. They were just a test for the 25 character limit, and were accidentally left in.
+
+-----------------------------------------------------------------
+
+v1.7 Changelog
+
+
+Massive unlockable Integration by IdolNinja
+Many of the new and old modded weapons, outfits, and even some vehicles have been tied to unlocks for story missions and activities. For this reason, it is STRONGLY recommended that you start a fresh character to experience everything the mod has to offer. Most of these items can be purchased post game except for two major mods that will NOT be available unless you start fresh:
+	1. Unlockable outfits (*requires new character)
+2. Post Game Gang Control (*requires new character)
+
+See the included unlockable reference text file for a breakdown of the unlockables ***WARNING! CONTAINS SPOILER!***
+
+
+
+NPC, Movie/Game and Outfit Mod by IdolNinja * Requires new character/save
+http://saintsrow.com/forums/topic/44439
+All major story npc outfits now unlock for completing that mission. New secret movie/game outfits are now unlockable by cd collection, and activities.
+
+*NOTE Jyunichi's jacket mesh has a morph problem with the shoulders and chest that we're looking into. You will need to be a bit skinnier than default to have it look correct.
+
+
+
+Gentlemen of the Row Member Outfits by IdolNinja and the rest of the gents
+Scattered throughout the clothing stores, you'll now find custom designed iconic outfits from some of the members of the Gentlemen of the Row Steam group including me (IdolNinja,) Digital, curly haired boy, Stormwatcher, Soulgate, Woggle, TC, and Mordrack. There are also a couple of special modder outfits for sale from Firespite and InnocentSam.
+
+
+
+The Grand Total of brand new outfits in v1.7 is 36!
+
+
+
+Post Game Gang Control by IdolNinja  - * Requires a new character/save
+This mod removes a hood unlock during story progression for a small area for each of the three gangs. The result is that post game you have a small area you can go to and start trouble with a gang. After getting 2+ stars with the gang, you can leave the area and they will follow you and spawn anywhere on the map. Also, every so often, one of the gangs will still initiate a pushback. This gives post game a lot more flavor with the gangs instead of just having to fight the police and FBI all the time. The Ronin are homeless and living on the beach in the Hotels and Marina district. The Brotherhood are living out of a small warehouse in the Docks district, and the Sons of Samedi are filled with regret and shame in the Trailer Park.
+
+
+
+CD Remix by IdolNinja and Firespite
+All cd locations have been changed and now unlock brand new custom outfit unlocks based on movies and games. Some are easy to find, while others may be a bit trickier. Good luck and happy hunting!
+
+The 4 previously unlockable music tracks have been made purchasable at Scratch That in the Easy Listening genre:
+* Stereo Cha Cha
+* Marvelous Singers Remix
+* Coconuts
+* Bachelor Samba
+
+
+
+Extra Car Garages and Crib Utilities by IdolNinja
+http://saintsrow.com/forums/topic/44397
+Extra car garages, weapon stash, safe, wardrobe, and clipboard have been added to the Airport crib, Suburbs Dock crib, and Stilwater University Crib. A boat garage has been added to the Prison Lighthouse crib which you can find at the washed out bridge. a TV and clipboard newspaper trigger have been added to the bedroom at Saints HQ. Prices of the cribs have been adjusted for new features:
+Prison Lighthouse $30k
+Stilwater Dock and Suburbs Dock $20K
+Airport Hanger $60K
+
+
+
+80s Menu Mod and Tchoupa Pause by IdolNinja
+http://saintsrow.com/forums/topic/44406
+This mod replaces the Main Menu KRHYME rap playlist with the 80s songs from the game. A random 80s song will be chosen each time the Main Menu loads:
+
+* a-ha - "Take on Me"
+* Culture Club - "Karma Chameleon"
+* Duran Duran - "The Reflex"
+* Europe - "The Final Countdown"
+* Hall & Oates - "Out of Touch"
+* Loverboy - "Working for the Weekend"
+* Men at Work - "Down Under"
+* Night Ranger - "Sister Christian"
+* The Psychedelic Furs - "Pretty in Pink"
+* Simple Minds - "Don't You (Forget About Me)"
+* Tears for Fears - "Everybody Wants to Rule the World"
+
+The pause menu music has also been changed to the Tchoupa Twist by Nicolas Folmer because it is the best catchy song ever in the history of all catchy songs. It will infect you and you will sing along or else you have no soul.
+
+
+
+Weather Saturation mod by Firespite
+Increases the saturation levels outside during the day to tone down the bleached/washed out effect. The result is a world that is much more colorful. Grass is greener, billboards pop with color, and everything looks much more alive and vibrant.
+
+
+
+Slimmer Desert Eagles by RedRage
+http://saintsrow.com/forums/topic/44495
+Replaces the ugly boxy deagles with a slimmer mesh that looks more like their real life counterpart. 
+
+
+
+Silenced Pistol by RedRage
+http://saintsrow.com/forums/topic/44441
+A silenced pistol has been added, as seen in the cutscene for the Ronin mission Bleeding Out. It is unlocked by doing 60 muggings, or also available at Friendly Fire post game at a large cost if you've already gone past 60.
+
+
+
+Better Shells Mod by RedRage
+http://saintsrow.com/forums/topic/44467
+A quick aesthetic mod that changes the handgun and rifle shells from silver to gold, and alters the shotgun shells so they actually LOOK like shotgun shells.
+
+
+
+Ronin Katana Animations by RedRage
+http://saintsrow.com/forums/topic/44394
+Changes several default animations for the katana to the Ronin versions:
+Stance, walk ready, run ready, block, block flinch, move attack, flinch
+The following animations are unchanged: Standard attacks, power attacks, prone attack, finishers.
+
+
+
+Badges, Pins, and Pants by InnocentSam
+Dane's Accessories (Ultor pin and pocket lining,) Ultor Science Team Badge, and Ultor Security Badge are available at Let's Pretend under bra. Tobias' Pants available at Sloppy Seconds.
+
+
+
+More Medallions, Chains, and Badges by IdolNinja
+The following new items are available for purchase:
+Bling Bling under Medallion:
+Mid-Length Saints Oval bird Medallion
+Mid-Length Saints Leaf Medallion
+
+On the Rag under Necklace
+Sunshine's short necklace
+Sunshine's Med necklace
+Sunshine's Med necklace 2
+NOTE: You cannot attach pendants or medallions to any of Sunshine's necklaces
+
+Impressions under Bra
+staff badge on coat
+stewardess wings
+
+
+
+Improved Escort Activity by IdolNinja
+The Escort activity has been changed in two key ways:
+* No penalty for weapon use
+* More footage is allowed making things easier
+
+The result is a much crazier and more fun activity where you can shoot or blow up the news vans and not have to be as careful about footage. The unlocks have been changed as well to make the activity worth doing. See the included unlockable reference for details. ***WARNING! CONTAINS SPOILERS!
+
+
+
+Fly higher by Half Dead Wonder
+http://saintsrow.com/forums/topic/43999#comment-487075
+Raises the sky ceiling so that planes and helicopters can fly higher
+
+
+
+Store Saint Bump Mod by IdolNinja and Brand Newb
+http://saintsrow.com/forums/topic/44454
+Simple mod that removes the bump restrictions on owned store saints. Now you can walk into them and bump them off rather than having to throw/kill/punch them if they are in your way. This is especially helpful for the Saints blocking the door at Bling Bling.
+
+
+
+Even More Sensible Cheat Flags by IdolNinja
+The following cheats no longer flag your save. Also, a cheat reference text file has been added to the mod with all the cheat info:
+
+PLAYER ABILITY
+#4 – Add Police Notoriety – Bumps Police Notoriety one star with each use.
+#5 – Player Pratfalls – Use secondary attack/primary attack to pratfall, like in Insurance Fraud.
+#35 – Add Gang Notoriety – Bumps Gang Notoriety one star with each use.
+#12 – Heaven Bound – The dead all go to Heaven.
+#200 – I Am Giant – You ate your green beans, you grow big.
+#201 – Itty Bitty – Homie, you shrunk yourself.
+
+WORLD
+#202 – Everybody Must Get Shrunk – All peoples, all over the world, get shrunk.
+#15 – Drunk Pedestrians – Everybody’s on the crunk juice.
+#16 – Evil Cars – All cars try to run you over.
+#18 – Low Gravity – Stilwaters’ gravity generators are at quarter power.
+#19 – Pedestrian War – Hatred, Anger, Suffering, everybody hates each other.
+#20 – Raining Pedestrians – Hallelujah, it’s a raining peds.
+
+
+
+Zombie Uprising Surprise!
+Who will the two new characters be this time!?
+
+
+
+
+
+FIXES AND TWEAKS:
+
+Ronin Mission 5 Orange Threat Level - middle cutscene crash fix
+http://saintsrow.com/forums/topic/44365
+This fixes the bug where the middle cutscene of you and Pierce runing to the carts in the airport would cause the game to crash after it ended for some users. You can now watch it and no longer have to skip it.
+
+
+Brotherhood mission 9 the enemy of my enemy: The countdown between waves of incoming Brotherhood has been increased from 10 seconds to 15 seconds to allow you time to actually get more rifle and RPG ammo between waves.
+
+
+Bear APC XM8 Sound looping fixed (finally!)
+
+
+Missing Third Colors
+http://saintsrow.com/forums/topic/43187
+You've probably noticed a few items in game have a third blue color on them you can't change.  Well no more!  Now you can change the formerly untouchable third color on Fedora 1, Tie Dye Tee, and Women's Bra 2, so you don't have to worry about that blue not matching the rest of your outfit.
+
+
+Ragdoll force and damage of the regular desert eagle has been increased and now knocks targets back on death. The desert eagle muzzle flash reverted back to the standard original version.
+
+
+Mr. Sunshine's Coat now has the correct obscured VIDs so overshirts and undershirts do not show through the right sleeve.
+
+
+All clothing has been sorted and moved to more appropriate stores. All chains are now available at BOTH Bling Bling and On Thin Ice.
+
+
+Default Male Walk 1 has been restored since there were a couple of requests for a normal walk. The zombie walk has been changed to Default Male Walk 2.
+
+
+Satchels are now available for purchase when halfway through game rather than the end.
+Vehicle Pricing has been updated to reflect the new unlocks
+
+
+Super Weapon for sale unlocks correctly delayed until final ultor stronghold is completed. 
+
+
+AR50 has been fixed and no longer has unlimited ammo.
+
+
+The T3K Urban (TEC9) changed to single wield, since the left hand part of the mesh is messed up.
+
+
+Max RPG ammo changed from 100 to 50 for balance reasons.
+
+
+Chainsaw Launcher refire rate delayed slightly.
+
+
+Removed memory from long chain/medallion slots, as they are not in use and broken
+
+
+-----------------------------------------------------------------
+
+v1.6 Changelog
+
+
+Estrada Mod BETA by Brand Newb
+http://saintsrow.com/forums/topic/42953?page=1#comment-488248
+Adds a chance for patrolling npc bike cops riding the Estrada (police melbourne motorcycle variant) to every neighborhood during the daytime hours. Nighttime motorcycle partols are limited to the High End Retail,Hotel and Marina, Trailer Park, and Airport Districts. This mod really adds something special to the game, and is an amazing first effort from Brand Newb who had to build entirely new spawn groups for bike patrols for each separate area of the game.
+
+
+
+MAC-10 Conversion by IdolNinja
+http://saintsrow.com/forums/topic/44044
+Converts the SKR-9 SMG to a MAC-10 using the mesh from Friendly Fire. Audio has been changed over to MAC-10 firing sounds which were surprisingly already in game. Clip size changed to 32 (actual MAC-10 standard clip,) and damage has been slightly reduced to make it fit more in line with the other SMGs so that it feels "right" when firing.
+
+NOTE: I would have liked to have added the MAC-10 as a new weapon, but we've hit hard weapon limits to the number of weapons we can add without causing serious problems. So, it had to modify one of the SMGs, and the SKR-9 was the ugliest one that no one seems to use anyway.
+
+
+
+Alternate T3K Urban by Innocent Sam
+http://saintsrow.com/forums/topic/44044
+The T3K Urban (TEC9) mesh has been replaced by an alternate silver and black version.
+
+
+
+Fire Extinguisher and Shock Paddles for sale by IdolNinja and Firespite
+http://saintsrow.com/forums/topic/44094
+The Fire Extinguisher is on sale at Friendly Fire for $5000. You can fill it up at any fire hydrant throughout the city. The shock paddles are available at Brass Knuckles for $500,000 and unlock for sale after all 45 neighborhoods owned (end game) just in case you're totally lazy and don't want to do the Ambulance Diversion.
+
+
+
+Barnstorming Unlockables v1.2 by IdolNinja
+http://saintsrow.com/forums/topic/43256
+Adds unlmited water ammo unlock to Barnstorming unlockables to go with the new purchasable fire extinguisher:
+5 Barnstorms Unlimited Fire Extinguisher ammo
+10 Barnstorms Unlimited Flamethrower ammo
+20 Barnstorms Unlimited Minigun ammo
+30 Barnstorms Unlimited Rockets ammo
+34 Barnstorms Unlimited Fire Extinguisher ammo (just in case someone has already gotten past 5 already)
+35 (all) Barnstorms Unlimited thrown ammo
+
+
+
+Crazy Salesman's Jacket by InnocentSam
+http://saintsrow.com/forums/topic/44086
+Adds the salesman's $ jacket from the movie that plays when you idle at the menu screen before starting the game. The jacket is available for sale at Let's Pretend under Coats and is color customizable.
+
+
+
+Matt's burned hand by Innocent Sam
+http://saintsrow.com/forums/topic/43982
+Matt's burned hand is now available for purchase at Let's Pretend as a glove
+
+
+
+Maero's face tatoos by Innocent Sam
+http://saintsrow.com/forums/topic/43982
+There are two different places to get this tat with subtle variations like ink color and pattern
+
+STYLE 1: RUSTY'S NEEDLE (this style has black ink interwoven with the red)
+Maero's face Left tattoo variant - Left Shin
+Maero's face Right tattoo variant - Right Shin
+
+Style 2: Let's Pretend
+Maero's face tattoo variant - Bra - There are 3 variants (all with shades of red ink only)
+
+The tatoo's look will change and shift based on your sliders at image as designed, and it is a bit tricky to get them looking perfect like Maero:
+http://img442.imageshack.us/img442/4154/stuuuuf12434.png
+http://img300.imageshack.us/img300/3635/hitmanstuf2.png
+
+1. Choose the Right Side Facial Tatoo from Rusty Needle with the black ink
+2. Choose Variant 3 (bottom option) from the Maero's Facial Tattoo from Let's Pretend for the all red left side
+3. At image as designed, choose all presets with an average build. With a preset build, the main options to worry about are Body Shape and Age. Both of these should be 0.
+
+From this point, you can start manipulating all the other options and recreating your character and visually see if they affect the tattoo at all.
+
+
+
+Mr Sunshine's Bullet Wounds by Innocent Sam
+Two sets of bullet holes are now purchasable at Let's Pretend under overshirt and undershirt. Works well with his one piece coat.
+
+
+
+Javier's Bluetooth Headset by Innocent Sam
+The headset is now purchasable at Let's Pretend under bra
+
+
+
+We Price It! v1.1. by IdolNinja and iEnemY based on the orignal We Have It v0.70 by encogen
+http://saintsrow.com/forums/topic/41735?page=2#comment-487252
+We Price It! is a modified version of encogen's We Have It! mod that gives approximate real world pricing to all the vehicles for sale at the three different dealerships. Some of the special uniques and unlockables do not follow real world pricing though, and are  outraegously expensive. The reason is that it gives players a choice to blow a big wad of cash on an unlockable vehicle, or just earn it the way the game originally intended.
+
+In addition, the Peewee and the race Bezier are now both customizable at Rim Jobs.
+
+
+
+Bonus Mall Spawns v1.1 by IdolNinja
+http://saintsrow.com/forums/topic/43459
+The following vehicles now spawn in the mall in addition to the ATV, and Attrazione:
+D-Stroy UFO
+Gyro Daddy helicopter
+Pewee pocket bike
+Kenshin motorcycle
+Hammerhead muscle car
+Vortex sports car
+Halberd compact car
+Hollywood classic car
+
+
+
+Mall Security Increased by IdolNinja
+http://saintsrow.com/forums/topic/42953#comment-486644
+The cap on ultor mall security spawns has been raised resulting in twice as many security guards spawning. This makes the mall much more interesting to cause trouble in.
+
+
+
+Pistol Rebalance by IdolNinja and Firespite
+The pistols have all been slightly modified to reflect their real world counterparts a bit more accurately and give each one a different and unique feel. Nothing has been drastically changed, just some slightly exaggerated differentiation in keeping with the SR2 over the top spirit.
+NR4 * GLock 17 * 17 clip * low damage, but extremely high fire rate. 
+Vice 9 * Beretta 92 Compact L * 13 clip * 10% more damage than the glock and better accuracy but with a lower fire rate
+Shepherd .44 * Colt Anaconda .44 * 6 clip * very low fire rate, extremely high accuracy, and high damage
+GDHC .50 * Desert Eagle .50 * 7 ammo clip * extremely high damage and ragdoll force, with an extremely low fire rate
+Kobra * M1912 Cobra modified * 20 ammo clip * slightly decreased range,
+Gold Desert Eagle * Desert Eagle .357 modified gold * 14 ammo clip * lower damage than the standard .50 desert eagle, but higher fire rate
+
+Special Thanks to iEnemY for a lot of useful information on real world pistols.
+
+
+
+High Stakes Gambling Mod by Luke and IdolNinja
+http://saintsrow.com/forums/topic/44076
+Raises max betting cap for Poker and Blackjack from $1000 to $10,000. Also Increases payout multipliers for Poker on straights and flushes for a max of $500,000 with a Royal Flush on a $10,000 bet
+
+
+
+Easier Towtruck Diversion by IdolNinja
+http://saintsrow.com/forums/topic/44095
+The original difficulty of the diversion is extremely hard to the point where most people can't finish it, even veteran players with hundreds of hours into the game. This mod lowers notoriety levels for towing, and only level 10 (the last level) has 3 stars for towing the FBI car. An extra 2 minutes have also been added to the timer.
+
+
+
+Skin Colors of the Rainbow v2 by Firespite
+http://saintsrow.com/forums/topic/43187
+Adds orange, purple, and reddish purple selectable skin tones to Image as Designed in addition to the existing blues, greens, bleach white, yellow, and red. The new skin tones can be selected in the bottom two rows at the plastic surgeon.
+
+
+
+Plastic Surgeon Animation Swap by Firespite
+http://saintsrow.com/forums/topic/43187
+http://www.youtube.com/watch?v=FBpz8aVLoew
+This swaps the default head-swiveling animation used in the plastic surgeon with the default standing animation, so your character will no longer swing his or her head from side to side while you're trying to make minute changes.  This is especially helpful when you're trying to recreate a celebrity or other character like Johnny Gat.
+
+
+
+Improved Time Cheats by IdolNinja
+http://saintsrow.com/forums/topic/44096
+Converts the Noon and Midnight time set cheats to 8am and 8pm so you can get a few extra hours of daylight or nighttime without having to redo the cheat. When activated, it uses your current minute, so it will set sometime between 8 and 9 am/pm. The cheat flag has also been changed so using either cheat will not flag the save as a cheat save. Everyone hates that little asterik taunting you and inferring you're a no good filthy cheater, right?
+
+The phone codes to add them are the same as the old noon/midnight ones:
+#1200 8am Cheat
+#2400 8pm Cheat
+
+
+
+Brotherhood Mission 2 Reunion Tour: Hate Donnie Less Mod by IdolNinja
+http://saintsrow.com/forums/topic/44318
+This mod changes Brotherhood Mission 2 Reunion tour in a couple of key ways:
+* Donnie is now revivable
+* Notoriety caps have been removed so you aren't forced into 2 stars max
+
+This makes the mission much crazier usually resulting in 4 (or more) stars for brotherhood and police by the end, with less chance of Donnie dying randomly from stray explosions or bad AI pathing.
+
+
+
+Jyunichi's Dual Swords unlock by IdolNinja
+Dual swords unlock at crib after you beat Jyunichi
+
+
+
+Septicgun sounds by Firespite
+http://saintsrow.com/forums/topic/43074#comment-486773
+Replaced the Septicgun sound effects with the correct POOP* ones from foley.xtbl. It sounds... well... horrible... in a wonderful sort of way.
+
+
+
+Hammerhead Engine Sounds by Firespite
+http://saintsrow.com/forums/topic/43187
+The engine sounds for the Hammerhead have been replaced with the better sounding Venom Classic ones.
+
+
+
+Faster wolverine rockets by Firespite
+The velocity of the Wolverine's alt-fire rockets has been greatly increased to make them more effective for dogfighting
+
+
+
+Zombie Uprising Surprise! by IdolNinja
+From this point on, each new release of the mod will see 2 different surprise characters for the zombie uprising videogame. It's really just a fun reason to revisit the Zombie game with each release.
+
+
+
+FIXED Samedi Mission 8 Riot Control Coop Bug Fix Mod by IdolNinja
+http://saintsrow.com/forums/topic/44299
+Fixes a coop bug in Sons of Samedi Mission 8 Riot Control where Shaundi would not spawn after Pierce arrives to load the truck with loa dust.
+
+
+
+FIXED Zombe Uprising in the Mall coop crashing
+Coop now works correctly and does not crash. Also, zombies spawn much faster so it should it be easier to track down and kill the last few stragglers at the end of wave 6. Thanks curly haired boy and Firespite for all the help testing this one.
+
+
+
+FIXED Biker Boot Straps by Firespite
+http://saintsrow.com/forums/topic/43187
+Corrects an issue in the original game where the boot buckles and straps on Biker Boots 3 would disappear while wearing most pants. They are now visible and show correctly.
+
+
+
+FIXED (mostly) APC and Bulldog coop sound looping
+Fixed the APC and Bulldog XM8 sound looping issue in coop when both players are firing the main XM8 guns in an APC Bear or Bulldog. Looping still does happen, but nowhere near as frequently. Also, when it does occur, it's much less noticeable now with the NPC firing sound volume restored to its original setting.
+
+
+
+FIXED zombie gang male walking animations by IdolNinja
+The zombie male prephop gang members now have the correct male walk animations and don't run like girls anymore.
+
+
+
+FIXED Military Sniper Rifle
+Distorted ammo clip mesh has been removed from the Military Sniper which looks a lot better
+
+
+
+FIXED Invisible Video Camera and Invisible Elderly Walker
+The video camera and walker now preload correctly and are visible in-game. This was fixed by removing the old and no longer used meshes from preload like the butterfly knife and mcmanus, and by moving the camera and walker mesh to the top of preload to make sure they load first.
+
+
+
+FIXED Penthouse Loft Wardrobe by Firespite
+http://saintsrow.com/forums/topic/43187
+Moves the clothing hangar in the crib across from the underground mall. The hangar trigger is now closer to the center of the room and away from the corner so that you can now see your lower legs and shoes when you access them to change clothing.
+
+
+
+Special Mod Weapons pricing updated and unlocks fixed
+The special mod weapons now unlock correctly at end game rather than in the middle.
+
+The Orbital Launcher is now priced at $2,000,000 at Friendly Fire. This increased price is to give new players something to save up for and look forward to at end game. Pricing is not retroactive, so if you already own it in your save, you just got the deal of the century. The decision to rasie the price is based on a lot of strong feedback from testers about how the they consider it a cheat weapon since it makes things way too easy. *NOTE: You can still cheat for it with #55552
+
+The other special mod weapons are also priced higher at $500,000 each due to the substantial discount you have by end game from owning the chain of stores.
+
+Psst... If you're really strapped for cash, check out the casino and the new high stakes gambling mod.
+
+
+
+Satchel Charge pricing update
+Satchel Charge cost at Friendly Fire has been lowered from $1000 each to $500.
+
+
+
+Aluminum Bat restored
+The original aluminum bat has been restored, replacing the modded wooden one. The reason is because the wooden bat mod has an animation issue with the mesh where it is only swung one-handed and the unused arm would either disappear completely or bend strangely behind the player's back. Most of the feedback I received felt it was best to remove it temporarily until the mesh itself can be fixed.
+
+
+
+Pixelated bars restored
+http://saintsrow.com/forums/topic/43957#comment-485274
+They were originally removed in the cumulative unlock/restore mod. The bars were added back since male characters are not anatomically correct and missing their bits, which makes streaking and flashing just plain stupid. The bars are now present on npc streakers as well. This change was something that was frequently requested by users of the mod. If you complain about this, I will point and laugh at you and your 12 year old perverted sex drive to see videogame nipples.
+
+
+
+Corrected ..\modified\ source code tabbed formatting for readability 
+
+-----------------------------------------------------------------
+
+v1.5 Changelog 1/30/10
+
+Zombie Uprising in the Mall by Luke and IdolNinja
+http://saintsrow.com/forums/topic/40174
+It's time for a change of scenery for the Stilwater Zombie Apocalypse! Take on the SR2 zombies in the mall as that dastardly duo of voodoo; Mr Sunshine and The General!
+Spawn rate of zombies, weapons, and drops have all been adjusted given the bigger size of the mall. 
+KNOWN ISSUES:
+* When you are nearing the end of the final stage (level 6,) it can seem to drag on a bit as you hunt down those last zombies.
+* Using the food stores in the mall will screw up the Zombie HUD and overlay the minimap on top. DON'T BUY FOOD WHILE PLAYING!
+* You can exit the mall, but the world is a barren wasteland with no NPCs or vehicles. There is also some weird apocalyptic lighting filter over everything which is just plain bizarre.
+
+
+Bonus Mall Vehicles Spawn Mod by IdolNinja:
+http://saintsrow.com/forums/topic/43459
+Changes the spawns for some of the parking spots for the auto show inside the mall to force spawn the bonus preorder vehicles.
+*Level 2 Friendly Fire Level
+	NE Corner Destroy UFO (outside Friendly Fire)
+	SE Corner Gyro Daddy
+*Level 3 Brass Knuckles Level
+	NW Corner Peewee (by fountain)
+The Toad ATV still spawns on level 3 but has been moved from the NW corner to the SW corner (by fountain.) The other six spawn locations remain the Attrazione. Also, all of the bonus vehicles now have a rare chance to spawn in parking spaces throughout the city, and are all usable by AI life. This should result in some laughs. Think drunk NPCs stealing UFOs. The UFO and Gyro Daddy have also been given a lot more HP so they are more durable flying around inside the mall (and consequently smacking into stuff.)
+
+
+New weapon meshes by InnocentSam
+http://saintsrow.com/forums/topic/43440
+* Butterfly Knife replaced by a Pirate Hook which can slash NPCs
+* Tombstone shotgun mesh changed to the cutscene all black version that Johnny Gat uses in the Ronin arc
+* Aluminum bat mesh changed to wooden bat and impact sounds changed from metal to wood
+
+
+Improved Sabretooth Chopper by Firespite:
+http://saintsrow.com/forums/topic/43187
+The Sabretooth handling has been improved for a better turning radius making it infinitely more fun to drive. It also has been given the ability to pop wheelies.
+
+
+Alt-Fire rockets added to Bear APC by IdolNinja based on alt-fire code by Vivell:
+http://saintsrow.com/forums/topic/43260
+In addition to alt-fire rockets, the minigun has also been upgraded to do 2x more damage.
+
+
+Improved Chainsaw Launcher weapon by IdolNinja (original mod by Vivell)
+http://saintsrow.com/forums/topic/43260
+The Chainsaw Launcher now has a working smoke trail, attaches to target, continues to smoke for a few seconds, and finally ignites into a molotv explosion setting everything nearby on fire. The lockon has been removed to make it a bit more low-tech, and the constant emitting chainsaw sound fx have been removed and replaced with one single chainsaw buzz on reload. This fixes an issue where the sound would loop over and over getting extremely loud. Fixed pricing and unlock to equal the other uber weapons at 45 hoods owned and $150,000 at Friendly Fire.
+
+
+Improved Nighttime Mod by Firespite:
+http://saintsrow.com/forums/topic/43187
+Tweaks the nighttime brightness settings so it's easier to see at night.
+
+
+Improved Rapid Fire Stun Gun by IdolNinja
+The stun gun has been modified to rapid fire with a larger clip. You can now hold down the trigger and rapid stun a NPC. The lesser damage balances it back out as it will still take 2-3 times of them getting back up to actually kill a NPC, just like the original. The police do carry this rapid fire version, but usually only let off a couple of bursts on a player.
+
+
+Gyro Mascot outfit by RedRage:
+http://saintsrow.com/forums/topic/43216
+The complete Company of Gyros mascot outfit added to Let's Pretend
+
+
+Modified leather choker by Firespite
+http://saintsrow.com/forums/topic/43187
+Changed the leather choker slot from short chain to eyewear so that both the leather choker and jewelry can be worn at the same time.
+
+
+Muzzle Flash removals by IdolNinja
+* Removed nitrous_start and molotov_trail muzzle flashes from the magnum and gold deagle. The reason behind their removal is because almost all the feedback I got from them was negative. Also, they were starting to get really annoying to me personally to use once the novelty wore off. The regular deagle still uses nitrous which is the subtle blue muzzle flash.
+
+
+* All pistol damage has been balanced and readjusted. Mainly, all pistol damage has been backed off from the initial version as some were way overpowered with the ability to one-shot NPCs by shooting them in the foot.
+
+
+FIX: New Weapon cheats have been fixed and now work correctly
+#55550 Give Dual Swords
+#55551 Give Lazarus gun
+#55552 Give Orbital Launcher
+#55553 Give Septic Gun
+#55554 Give SPAS12
+#55555 Give Gold Desert Eagle
+#55556 Give Chainsaw Launcher
+
+-----------------------------------------------------------------
+
+v1.4.1 Changelog 12/28/09
+Fixes and tweaks were applied to make the mod usable for a new game as well as post game.
+
+The Dual Swords have been slowed back down to original speed to make Jyunichi beatable again. The player can still spam them by repeatedly pressing primary attack which cancels the slow walk and immediately attacks.
+
+The following weapons are only available AFTER all 45 neighborhoods are owned (end game):
+FRIENDLY FIRE
+Orbital Launcher $150,000
+Septic Gun $150,000
+Chainsaw Launcher $1 (Beta weapon not working correctly yet)
+
+BRASS KNUCKLES
+Lazarus $150,000
+Dual Swords $75,000
+Pimp Slap $75,000
+
+All extra vehicles at dealerships from the 'We Have It' mod have had their price raised from $10,000 to $60,000. They are still easily purchasable with end game money, but the higher cost prevents abuse for the chop shop missions for new players. 
+
+-----------------------------------------------------------------
+
+v1.4 Changelog 12/25/09 Happy Holidays!
+
+Barnstorming ammo unlockables by IdolNinja
+http://saintsrow.com/forums/topic/43256
+Barnstorming stunts now unlock the following:
+10 Stunts unlimited Flamethrower ammo
+20 Stunts unlimited Minigun ammo
+30 Stunts unlimited Rocket Launcher ammo
+35 Stunts (Complete) unlimited thrown ammo
+
+Nighttime WeatherMod updated v0.556 by Firespite
+http://saintsrow.com/forums/topic/43187
+The missing nighttime weather conditions in the previous version have been added, and all weather conditions have been revised and tweaked.
+
+AR50 Sticky Grenade Zooming Firework Launcher by Vivell
+http://saintsrow.com/forums/topic/43260
+AR50 Launcher alt-fire now attaches a grenade to a target, morphs into a rocket, sends target zooming around (across streets, up walls, etc,) and then finally explodes into a fireworks display.
+
+Improved Wolverine with rockets and extra damage by IdolNinja
+http://saintsrow.com/forums/topic/43260
+The military variant of the Wolverine now fires rockets with alt-fire, and has greatly increased damage making it lots of fun for dogfighting and also strafing runs over busy streets.
+
+Rocket Firing Bulldog by Vivell
+http://saintsrow.com/forums/topic/43260
+General's Bulldog alt-fire now shoots lock-on tracking rockets in addition to it's standard attack minigun.
+
+Improved Tornado by IdolNinja
+Increased Tornado attack heli minigun damage by 4x so that it's actually useful.
+
+Chainsaw RPG Annihilator by Vivell with additional audio modifications by IdolNinja
+http://saintsrow.com/forums/topic/43260
+*BETA* Adds new Chainsaw Launcher weapon for purchase at Friendly Fire. The Chainsaw Launcher is a RPG that shoots sticky chainsaws. This is a beta weapon and needs more work, as the harpoon effect isn't showing the chainsaw sticking into NPCs yet.
+
+Fly/Drive/Kick me to the Moon by encogen
+http://saintsrow.com/forums/topic/42757
+El Train Cutscene version at Foreign power is now able to flown like a Snipes 57 jet. The regular El Train is still purchasable and driveable "normally".
+
+Stilwater Car Parking mod by RedRage
+http://saintsrow.com/forums/topic/42953
+Raises the chances that parking spaces will be populated with parked cars to make the city feel more alive.
+
+Indiana Jones Outfit by RedRage
+http://saintsrow.com/forums/topic/43216
+Adds an Indiana Jones outfit at Let's Pretend in the mall.
+
+Shaundi outfit by RedRage
+http://saintsrow.com/forums/topic/43216
+Shaundi outfit now available for purchase at On the Rag
+
+Added new weapon cheats:
+#55550 Give Dual Swords
+#55551 Give Lazarus gun
+#55552 Give Orbital Launcher
+#55553 Give Septic Gun
+#55554 Give SPAS12
+#55555 Give Gold Desert Eagle
+
+Because the cheats are maxed in cheats.xtbl, the following cheats had to be removed to make room for the new weapon cheats:
+#119 Morph into Hazmat Worker
+#129 Morph into Hospital Patient
+#137 Morph into Sunbather
+#108 Morph into Construction Worker
+#102 Morph into Bartender
+#149 Morph into Skydiver
+
+Fixed display name of Orbital Launcher at Friendly Fire and stash with label of .orbital_launcher
+
+Corrected Light Rain cheat to not flag as cheat save
+
+-----------------------------------------------------------------
+
+v1.3 Changelog 12/12/09
+
+Nighttime WeatherMod v0.357 Beta by Firespite
+http://saintsrow.com/forums/topic/43187
+Changes Nighttime lighting and weather, making it darker so that illumination really stands out. Daytime colors have been improved as well, giving the city a much more vibrant look. It truly looks absolutely fantastic. The mod is beta, so certain weather conditions are not finished yet (partly cloudy and thunderstorm.)
+
+-----------------------------------------------------------------
+
+v1.2.1 Changelog 12/9/09
+
+Fixed True Black issue where it was shifting the other glossy colors. Glossy paint should now be the correct color on previously painted cars.
+
+-----------------------------------------------------------------
+
+v1.2 Changelog 12/7/09
+
+Improved Flamethrower by IdolNinja
+Flamethrower's cone of fire extends twice as long, and continuous fire burn damage increased. NPCs burn to death now and don't miraculously put themselves out and keep going.
+
+All the pretty colors by Firespite
+http://saintsrow.com/forums/topic/43187
+* True Black is now a custom color option at Rim Jobs and Semi-Broken (the original jet black was just a dark gray.)
+* Custom makeup black and dark red colors at Image as Designed
+* Custom neon hair colors at Image as Designed
+* Custom skin colors of green, light green, blue, purple, red, white, and bleach white available at Image as Designed
+* Drugs and Alcohol have been upgraded making the effects last much longer. The longer duration also triggers additional player character comments that couldn't be heard otherwise.
+
+Zombie gang and Pirate gang styles by IdolNinja based on code by Slay3r, and Shambler Saint
+http://saintsrow.com/forums/topic/42771
+Zombie gang style replaces Prephop, and Pirate gang style replaces Sporty. New gang styles are still in beta and have the following issues:
+* Neither pirates nor zombie gangs will spawn in any cribs leaving them empty except for strippers.
+* Zombies are eerily silent and will not make any sounds at all
+* Pirates will trigger voice samples when fighting and walking around, but nothing else (no samples joining player, no samples while riding in cars with player, etc.)
+* Some gang pirates on the street are pirate waiters (probably from the pirate ship restaurant) and don't look like pirates. Seems to be a random mesh as part of the pirate npc defintion.
+
+More Custom Taunts with Props by sam lynch 2 and Custom Walks by Shambler Saint (merged and edited by IdolNinja)
+http://saintsrow.com/forums/topic/43137
+http://saintsrow.com/forums/topic/42910
+These two mods together replace 12 walk animations and 14 Compliments/Taunts at Image as Designed. Removed non-working animations and reassigned to better slots so the voices would make better sense.
+
+Default Female Walk: Talking on cell phone
+Default Male Walk: Zombie shuffle
+Thug Style 1: Hobbling with oxygen tank
+Thug Style 2: Running with newspaper over head
+Thug Style 3: Pulling suitcase
+Thug Style 4: Reading newspaper
+Thug Style 5: Carrying books
+Thug Style 6: Clipboard
+Thug Style 7: Metal Detector
+Thug Style 8: Shopping bag
+Thug Style 9: Umbrella
+Thug Style 10: Laundry Basket
+
+Compliment Ha Ha!: Taking a picture
+Compliment Happy Days: Play the Harmonica (it plays different tunes each time you use it)
+
+Taunt Chest Bump: Sword behind back
+Taunt Dog Piss: Zombie eating someone
+Taunt Middle Finger: Smoking cigarette
+Taunt Na na na nana na: Zombie attack
+Taunt Neck Slice: Slick back hair
+Taunt Ride that Donkey: Hit by voodoo magic (takes a little bit for it to start)
+Taunt Smack that ass: Polish sword on sleeve
+Taunt Spit and flick: Tapping ashes off cigarette
+Taunt Teabag: Raise Mr Sunshine's Voodoo Doll
+Taunt Dumper: Eat Chinese takeout
+Taunt Vomit: Canonball (looks strange. may cut it)
+Taunt You're Crazy: Holding cigarette
+
+Orbital Launcher now has correct unlimited ammo flag
+
+-----------------------------------------------------------------
+
+v1.1.1 Changelog 11/26/09
+
+Fixed Save/Load game issue where crazy wrong stats showed up on the save screen
+
+Fixed issue where save games would randomly shift to different slots after new unlocks in-game
+
+The Military Sniper weapon has been removed, and the McManus2010 has been modified with the Military Sniper properties and mesh. It is basically now the Military Sniper in everything but name. NOTE: The extra weapon (Military Sniper) in the weapon table was causing the above problems, hence its removal.
+
+-----------------------------------------------------------------
+
+v1.1 Changelog 11/23/09
+
+The Orbital Launcher by IdolNinja
+http://saintsrow.com/forums/topic/43065
+aka Curly's Electric Orbital Riot Pimp Launcher
+Modified the new Riot Special gun, as discovered by sam lynch2, with 3x range, 10x ragdoll force, taser muzzle flash animation, and grenade launcher "WHOOMP" sound fx. Also, tied the pimp slap melee to alt fire so you can pimp slap people into the air with it too. A couple of fun things to try are crouching and aiming it up at a NPC's chest/head, and also shooting NPCs with it inside an enclosed space. It can also be turned on your coop human partner with hilarious results. This mod was based off a request from Curly Haired Boy for a gun that would "send people to the moon." Available for purchase at Friendly Fire as CKH Riot Gun.
+
+The Lazarus Gun by IdolNinja
+http://saintsrow.com/forums/topic/43065
+Created a new gun based off the taser which can be purchased at Brass Knuckles. The name it shows up as in Brass Knuckles is .lazarus. Shots from the gun bring NPCs back to life from the dead. It has a laser targeting reticule for easy aiming, a sniper scope, and crackling lightning and booming thunder as the firing sound fx. The muzzle flash was also changed to DT_spotlight01 which results in a light from the sky to beam onto the muzzle when fired. Multiple presses of the trigger will intensify the strength and width of the beam. A quick press of attack will resurrect a dead NPC without electrical convulsion. A slightly longer press (or hold of the trigger) will cause electrical convulsions first then followed by revive. The idea for The Lazarus was based off a revive gun idea by sam lynch 2.
+
+Weapons overhaul by IdolNinja
+http://saintsrow.com/forums/topic/43066
+http://saintsrow.com/forums/topic/43069
+* Modified minigun to do 3x damage, and increased rifle max ammo pool from 500 to 3000. Takes out cars reasonably quick and is actually worth carrying around now.
+* Satchel Charges are now purchasable at any Friendly Fire and max cap has been raised from 10 to 100. Make sure to purchase one as a weapon first, then move to the ammo window and purchase ammo there. If you buy ammo on the weapon purchase screen, it will look like it's filling up, but then when you try to use them it will drop back down to 5. 
+* All other thrown weapons have their cap raised from 10 to 100
+* Grenades now explode into firework displays
+* Max Sniper ammo increased from 100 to 500
+* RPG Rocket ammo max increased from 25 to 100
+* Pistol ammo max increased from 250 to 300
+* SMG ammo max increased from 1000 to 1500
+* Changed the muzzle flash animation on the .44 Sheperd Magnum to nitrous_start fx and increased damage by 2x
+* increased firing rate 3x and increased damage by 2x on the NR4 Glock. Since this is police standard issue, left the muzzle flash as is (why should they look cool :P)
+* increased damage by 1.5x for the Vice 9 Beretta.
+* Changed the muzzle flash animation on the GDHC .50 Desert Eagle to nitrous and increased damage by 1.5x
+NOTE: The idea for the new muzzle fx was based off a youtube modding video by J smile X. The code is my own.
+http://www.youtube.com/watch?v=rzBK8gQOjKE
+NOTE: Damage and firing rate increases are player only. NPCs do not get these bonuses.
+
+Weapon Pack and Betta Beretta with knife fix by RedRage
+http://saintsrow.com/forums/topic/43074
+Adds 3 new weapons for purchase at Friendly Fire. The gold plated Desert Eagle, the SPAS-12 (listed as AS12 Riot at Friendly Fire,) and the Fecal Cannon aka the watergun. It also includes a replacement black texture for the Beretta to replace the silver one. The knife mesh has been corrected to use the correct mesh (the retail release reused the butterfly knife mesh for the regular knife instead of the correct mesh.) Additional modification of a new muzzle flash (trail_molotov) on the gold plated beretta by IdolNinja.
+
+Military Sniper by sam lynch 2
+http://saintsrow.com/forums/topic/43090
+Added a new Military Sniper available for purchase at Friendly Fire with 10 degrees of fine zoom and a different unused sniper mesh. Makes the McManus 2010 look like a toy.
+
+Added Ronin Jackets by RedRage
+http://saintsrow.com/forums/topic/42490
+Ronin jackets are now purchasable from Let's Pretend at the Mall and integrated with the Cumulative unlock/restore patch.
+
+Sensible Cheat Flags by IdolNinja
+Edited the following cheats so they will NOT flag the save as a cheat flag if used. These give no kind of real advantage anyways:
+* All Player Character NPC Change Cheats (transform into any NPC)
+* All Weather Change Cheats
+* All Time of Day Change Cheats
+
+----------------------------------------------------------------
+
+v1.0 Changelog 11/11/09
+
+"We Have It!" Mod v0.7 Plus version by encogen
+http://saintsrow.com/forums/topic/41735
+Rare and unique cars, planes, helicopters, and boats now available for purchase at the various dealerships (Foreign Power, Ship It, Cycles.) Includes vehicles like SWAT attack helis, Jessica's car, the El Train, Prison transport, etc. Unique vehicles can now be customized at Rim Jobs and Semi Broken. 
+
+Cumulative unlock/restore v0929 by gibbed, EchoZeero, animatronick, encogen, Firespite, Excarnate, Hilanthis, RedRage
+http://saintsrow.com/forums/topic/41785
+A plethora of new clothing available for purchase at Let's Pretend. New logos available to add to clothing at all stores, new tattoos available at Rusty Needle (swords, tribal,) new plastic surgeon options, and uncensored nudity (you can still buy and "equip" the pixelated look as a clothing item.) Fingernail polish is available at the Plastic Surgeon under Beards.
+
+Dual Katanas - Slice n' Dice. Twice.by RedRage
+http://saintsrow.com/forums/topic/42894
+Dual katanas are available for purchase at Brass Knuckles and can be twirled around and used anywhere, like Jyunichi did. The animation has been sped up considerably to make them more useful.
+
+New Idle animations unlocked for player character by Shambler Saint
+http://saintsrow.com/forums/topic/42382
+If you leave your character idle, he can now pole dance, sunbathe, and sit on benches (with various random animations: use laptop, drink beverage, use cell, read newspaper, lean forward, etc.)
+
+Stink no longer! by RedRage
+http://saintsrow.com/forums/topic/42814
+Stops pedestrian from making comments about your smell if you wear the same outfit for a while.
+
+Pimp Slap for Sale by Luke
+http://saintsrow.com/forums/topic/40164
+The Pimp Slap from multi is now available for purchase at Brass Knuckles
+
+Riot Special (bean bag gun) by sam lynch 2 modified by IdolNinja
+http://saintsrow.com/forums/topic/42762
+A special shotgun that ragdolls NPCs with a massive blast of air is available for purchase at Friendly Fire. I've also greatly increased the force_ragdoll variable from 900 up to 9001 (it's over NINE THOUSAND!) so the gun will knock someone clear across the street when fired.
+
+Character Cheats by gibbed and phero15
+http://saintsrow.com/forums/topic/42749
+http://saintsrow.com/forums/topic/43029
+Dial the following numbers into your cell to add a NPC cheat to your cheat menu. Use the cheat to transform your character into the NPC and back again. NOTE: After activating the cheat, the screen will go black. Press the Escape key twice to resume. Also, while changed you cannot use shops or access your wardrobe.
+NOTE: Only one player in coop can change into a NPC at a time. The other character will still look like himself even though the cheat says it's been activated.
+
+#99  - PC Restore to Normal - Changes your player character back to normal
+#100 - PC Aisha
+#101 - PC Quartet Singer
+#102 - PC Bartender
+#103 - PC Female Biker
+#104 - PC Male Biker
+#105 - PC Bum
+#106 - PC Bloody Carlos
+#107 - PC Cheerleader
+#108 - PC Construction Worker
+#109 - PC Cop
+#112 - PC Cowboy
+#113 - PC Dane Vogel
+#114 - PC Donnie
+#115 - PC FBI
+#116 - PC Freckle Bitch Mascot
+#117 - PC Johnny Gat
+#118 - PC The General
+#119 - PC Hazmat Worker
+#120 - PC Ho
+#121 - PC Jane Valderamma
+#122 - PC Jessica
+#123 - PC Julius
+#124 - PC Jyunichi
+#125 - PC Kazuo
+#126 - PC Maero
+#127 - PC Matt
+#128 - PC Mime
+#129 - PC Hospital Patient
+#130 - PC Pierce
+#131 - PC Pirate
+#132 - PC Roid Freak
+#133 - PC Shaundi
+#134 - PC Shogo
+#135 - PC Sportfan
+#136 - PC Stripper
+#137 - PC Sunbather
+#138 - PC Mr. Sunshine
+#139 - PC Tobias
+#140 - PC Troy
+#141 - PC Wong
+#142 - PC Zombie
+#143 - PC Carlos
+#144 - PC Ultor Masako
+#145 - PC Veteran child
+#146 - PC tribal_female_soldier
+#147 - PC tribal_male_soldier
+#148 - PC Zombie Carlos
+#149 - PC skydive
+#150 - PC swat
+#151 - PC ronin_female_soldier
+#152 - PC ronin_male_soldier
+#153 - PC samedi_female_soldier
+#154 - PC samedi_male_soldier
+#155 - PC Sampson
+#156 - PC Shaundi Repair
+#157 - PC Guards
+#158 - PC Lee
+#159 - PC Luz
+#160 - PC Bandage Gat
+
+----------------------------------------------------------------
+
+SOURCE CODE:
+
+All modified .xtbl source files have been included with this compiled patch in the rar in \modified. These modified files are for the use of other modders who want to look at the changes, or tweak things and recompile for themselves. Feel free to use these in any way you see fit, but please credit the original authors if you decide to release something including their work. I can be contacted via the Penny Arcade forums or the Volition forums regarding any questions about this patch. Links are at the bottom of the readme.
+
+----------------------------------------------------------------
+
+DISCLAIMER:
+
+These files are provided as-is. While it has been tested with various members of our coop group and considered stable, I still assume no responsibility for anything that happens as a result of using this mod. So, if it blows up your OS, sets fire to your cat, begins The Quickening, or even causes dead Cthulhu to awaken from his dreams in Ry'leh, don't come to me. 
+
+Actually,... if the Great Old Ones do awaken, let me know so I can at least put on my "YOG-SOTHOTH ROCKS" t-shirt before the end comes.
+
+----------------------------------------------------------------
+
+LINKS:
+
+My SR2 Modding Website:
+http://idolninja.com
+
+Saints Row Powertools (includes Windows 7 Speedfix)
+http://saintsrowpowertools.com/
+
+Penny Arcade Saints Row 2 Game On Thread
+http://forums.penny-arcade.com/showthread.php?t=100919
+
+Gentlemen of the Row Steam group
+http://steamcommunity.com/groups/gentlemenoftherow
+
+Volition SR2 Modding Forum:
+http://saintsrow.com/forums/saints-row-2/sr2-pc-modding

@@ -1,0 +1,281 @@
+<root>
+  <Table>
+    <Xbox 360_Identifier>
+        <Name>BTN_A_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_A_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_B_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_B_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_X_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_X_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_Y_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_Y_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_WHITE_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_WHITE_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_BLACK_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_BLACK_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_LTRIGGER_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_LTRIGGER_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_RTRIGGER_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_RTRIGGER_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>DPAD_RIGHT_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>DPAD_RIGHT_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>DPAD_UP_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>DPAD_UP_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>DPAD_LEFT_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>DPAD_LEFT_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>DPAD_DOWN_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>DPAD_DOWN_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_START_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_START_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_BACK_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_BACK_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_LTHUMB_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_LTHUMB_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_RTHUMB_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>BTN_RTHUMB_TXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>ANALOG_LS_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>ANALOG_RS_IMG</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>COOP_JOIN_CHEAT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>XBOX_NOT_SIGNED_IN</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>MAINMENU_NEW_GAME_NO_PROFILE_LOG_IN_NOW</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>MULTI_LOST_CONNECTION</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>HUD_PICK_UP_MESSAGE</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>HUD_PICKUP_HAVOK_WEAPON_MESSAGE</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>HUD_PICKUP_UNNAMED_OBJECT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>HUD_REPLACE_BLANK_WITH_BLANK_MESSAGE</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>HUD_DUAL_WIELD_MESSAGE</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>HUD_HOLD_DPADUP_PARTY_DISMISS</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>STATS_CORRUPT_BODY</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>SAVELOAD_LOADING_MESSAGE_EXPOSITION</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>SAVELOAD_SAVING_MESSAGE_EXPOSITION</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>SAVELOAD_IMPORT_LOADING</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>MP_NO_MULT_PLAYERS</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>TUT_HUMAN_SHIELD</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>TUT_IMPROV_WEAPONS</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>HELP_TEXT_ON_FOOT_COMBAT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>MULTI_MENU_SYSLINK_SIGN_IN_FULL</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>MAINMENU_SYSLINK</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>MULTI_GAMETYPE_1</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>MULTI_MENU_SYSLINK</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>MULTI_MENU_SYSLINK_SEARCHING_TEXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>MULTI_LOBBY_TITLE_SYSLINK</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>MULTI_HELP_SYSLINK_TEXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>MAINMENU_NEW_GAME_NO_SPACE_EXPOSITION</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>START_GAME_OUT_OF_SAVE_SLOTS_TEXT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>SAVELOAD_CANNOT_SAVE_TO_FULL_DEVICE</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>SAVELOAD_SAVE_GAME_DEVICE_FULL_EXPOSITION</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+    <Xbox 360_Identifier>
+        <Name>SAVELOAD_SAVE_DEVICE_UNAVAILABLE_FULL</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </Xbox 360_Identifier>
+  </Table>
+
+  <TableTemplates>
+  </TableTemplates>
+
+  <TableDescription>
+      <Name>Xbox 360_Identifier</Name>
+      <Type>TableDescription</Type>
+      <Element>
+          <Name>Name</Name>
+          <Type>String</Type>
+          <Unique>true</Unique>
+      </Element>
+  </TableDescription>
+  <EntryCategories>
+      <Category>
+          <Name>Entries</Name>
+      </Category>
+  </EntryCategories>
+
+</root>
+
+

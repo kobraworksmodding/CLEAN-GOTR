@@ -1,0 +1,200 @@
+Gentlemen of the Row Unlockables Reference
+
+MISSION UNLOCKS (doesn't include hoods)
+
+PROLOGUE:
+tss01 Jailbreak - None
+tss02 Appointed Defender - Redlight Crib
+tss03 Down Payment - Saints HQ crib
+tss04 Three Kings - Homie Slot 1 (recruit one homie to follow you)
+
+BROTHERHOOD:
+bh01 First Impressions - none
+bh02 Reunion Tour - Donnie's car, *NEW Donnie Outfit
+bh03 Waste Not Want Not - None
+bh04 Red Asphalt - None
+bh05 Bank Error in your Favor - * NEW Jessica Car, * NEW Jessica Outfit
+bh06 Thank you and Goodnight - Brotherhood Melee, * NEW Matt Outfit
+bh07 Retribution - None
+bh08 Jail Bait - None
+bh09 The Enemy of my Enemy
+bh010 The Siege - Minigun
+bh011 Showdown - Brotherhood Vehicles, Maero Monster Truck, Brotherhood Taunts, Pierce Homie, * NEW Maero Outfit, * NEW Carlos Outfit
+
+SONS OF SAMEDI:
+ss01 Got Dust, Will Travel - None
+ss02 File in the Cake - None
+ss03 Airborne Assault - Tobias homie, * NEW Tobias Outfit
+ss04 Veteran Child - Samedi Melee, * NEW Veteran Child Outfit
+ss05 Burning Down the House - None 
+ss06 Bad Trip - None
+ss07 Bonding Experience - None
+ss08 Riot Control - None
+ss09 Eternal Sunshine - * NEW Mr Sunshine Outfit
+ss010 Assault on Precinct 31 - * NEW Video Repairman Outfit
+ss011 The Shopping Maul - Samedi Vehicles, General's Bulldog, Samedi Taunts, Shaundi homie, * NEW General's Limo, * NEW Shaundi Outfit, * NEW General Outfit * NEW Samedi Opressor
+
+RONIN:
+rn01 Saint's Seven - None
+rn02 Laundry Day - None
+rn03 Road Rage - None
+rn04 Bleeding Out - None
+rn05 Orange Threat Level - None
+rn06 Kanto Connection - Ronin Melee, *NEW Dual Katanas, *NEW Jyunichi Outfit
+rn07 Visiting Hours - Medical Opressor heli
+rn08 Room Service - None
+rn09 Rest In Peace - * NEW Shogo Outfit
+rn010 Good D - * NEW Mr Wong's Outfit
+rn011 One Man's Junk - *NEW Mr Wong homie, Ronin Vehicles, Kazuo's Kaneda, *NEW Jyunichi's vehicle, Ronin Taunts, Johnny Gat homie, * NEW Pierce Outfit, * NEW Kazuo Outfit
+
+EPILOGUE:
+ep01 Picking a Fight
+ep02 Pyramid Scheme - Ultor APC
+ep03 Salting the Earth… Again
+ep04 …And a Better Life - * NEW Ultor Tornado Attack heli, * NEW Johnny Gat Outfit, * NEW Dane Vogel Outfit
+
+BONUS MISSION:
+Listen to the three wiretaps inside the Detective Bureau room in the Stilwater Police Department in Harrowgate, then head into Troy's office to get more information to unlock a new Saints mission on the map.
+em01 Revelation - Julius' Car, * NEW Julius Outfit
+
+NEW MISSIONS
+DLC04 - Aisha Homie
+DLC05 - Carlos Homie
+
+---------------------------------------------------
+
+ACTIVITY AND DIVERSION UNLOCKS
+
+CROWD CONTROL
+Suburbs Level 3: * NEW Crowd Control Outfit
+Suburbs Level 6: 15% Clothing Discount
+Marina Level 3: * NEW MYSTERY OUTFIT
+Marina Level 6: Chain Saw
+
+DEMO DERBY
+Level 3: Mechanic Discount 5%
+Level 6: Mechanic Discount 15%, Demo Derby Vehicles
+
+DRUG TRAFFICKING
+Airport Level 3: X2 Ultimax Shotgun
+Airport Level 6: Infinite Shotgun Ammo (all shotguns)
+Hotel and Marina Level 3: * NEW Luz Homie
+Hotel and Marina Level 6: Ronin notoriety reduced at a faster rate 15%
+
+ESCORT
+Red Light Level 3: *NEW Vehicle Delivery service (Charge) *Delivered by Legal Lee homie
+Red Light Level 5: *NEW Vehicle Delivery service (Free) *Delivered by Legal Lee homie
+Red Light Level 6: *NEW Pimp cane
+Stilwater University Level 3: Sons of Samedi Notoriety Reduced at a faster rate 15%
+Stilwater University Level 6: *NEW Mystery Outfit
+All Escort activities Completed: Escort Vehicles
+
+FIGHT CLUB
+Arena Level 3: * NEW MYSTERY OUTFIT
+Arena Level 6: 30% more damage with fists
+Prison Level 3: Gold Desert Eagle
+Prison Level 6: Troy homie
+
+FUZZ
+Projects Level 3: Kobra Pistol
+Projects Level 6: Infinite Pistol Ammo
+Suburbs Level 3: *NEW Police Outfit
+Suburbs Level 6: Police notoriety reduced at a faster rate 15%
+
+HELI ASSAULT
+Trailer Park Level 3: *NEW Gyro Daddy
+Trailer Park Level 6: 15% weapons store discount
+Barrio Level 3: * NEW MYSTERY OUTFIT
+Barrio Level 6: 15% reduced bullet damage
+
+INSURANCE FRAUD
+Factories Level 3: 2x Sprint
+Factories Level 6: Infinite sprint
+Museum Level 3: * NEW MYSTERY OUTFIT
+Museum Level 6: 15% less damage from vehicles
+
+MAYHEM
+Red Light Level 3: 15% crib customization discount
+Red Light Level 6: *NEW Chainsaw Launcher
+Nuclear Plant Level 3: Flamethrower
+Nuclear Plant Level 6: Annihilator RPG
+
+SEPTIC AVENGER
+Suburbs Level 3: 5% improved weapon accuracy
+Suburbs Level 6: 15% improved weapon accuracy
+Red Light Level 3: * NEW MYSTERY OUTFIT
+Red Light Level 6: 30% discount food and liquor stores
+All Septic Avengers levels completed: Septic Truck
+
+SNATCH
+Chinatown Level 3: 2x health regeneration
+Chinatown Level 6: 3x health regeneration
+Downtown Level 3: GAL43 SMG
+Downtown Level 6: Infinite SMG ammo
+
+TRAIL BLAZING
+Downtown Level 3: * NEW MYSTERY OUTFIT
+Downtown Level 6: 15% less damage from explosions
+Apartments Level 3: *NEW SPAS 12 Shotgun
+Apartments Level 6: Brotherhood notoriety reduced at a faster rate 15%
+All Trail Blazing levels complete: Fire Fighter Suit
+
+CHOP SHOP:
+Complete any 1 Chop Shop list: Buggy
+Complete any 2 Chop Shop list: Kent (combine)
+Complete all 5 Chops Shop lists: 75% Mechanic Discount
+
+HITMAN:
+Complete any 1 Hitman list: Grenades at crib
+Complete any 3 Hitman lists: Satchel Charges at crib
+Complete all Hitman lists: Infinite Rifle ammo
+
+Avenger Jacket: 3 Gold star rank in Gang Kills
+
+RACES
+Saints Race Bike: Complete all motorcycle races
+Saints Plane: Complete all plane races
+Saints Yacht: Complete all boat races
+Race car Bezier: Complete all car races
+* NEW Platinum UFO: Complete all races
+
+NOTE: You only need to finish with a bronze star or at least 3rd place to "complete" a race towards the unlock
+
+DIVERSIONS
+No Fall Damage: 3 Gold star rank in base jumping
+Zombie Mask: Complete all levels in Zombie Uprising
+Traffic cone hat: 3 Gold star rank in vehicle surfing
+Pimp Suit: Complete Ho-ing Level 10 at any location
+Jane Valderama homie: Complete 30 muggings
+*NEW Silenced Pistol: Complete 60 Muggings
+Free Food and Liquor: Successfully hold up 20 stores (you can only hold up a store in an area you don't control)
+Saints Ambulance: Complete all levels in Ambulance diversion
+Saints Fire Truck: Complete all levels in Fire Truck diversion
+Saints Toad ATV: Complete 10 Hostage diversions
+Saints Tow Truck: Complete all levels in Tow Truck diversion
+Super taxi: Complete all levels of taxi diversion
+The Duke's Bootleggger: Complete all 80 Stunt Jumps
+Shock Paddles: Complete all levels in Ambulance diversion
+Bandit vehicle: 3 Gold Stars in the following: Big Air, Oncoming, and Near Miss (can happen separately at different times)
+
+BARNSTORMS
+5 Barnstorms Unlimited Fire Extinguisher ammo
+10 Barnstorms Unlimited Flamethrower ammo
+20 Barnstorms Unlimited Minigun ammo
+30 Barnstorms Unlimited Rockets ammo
+35 (all) Barnstorms Unlimited thrown ammo
+
+
+CD COLLECTION
+NOTE: The original music track unlocks have been made freely available for purchase at Scratch That
+10 CDs unlock secret outfit #1
+20 CDs unlock secret outfit #2
+30 CDs unlock secret outfit #3
+40 CDs unlock secret outfit #4
+50 CDs unlock secret outfit #5
+
+MISC
+Zombie Carlos homie: Complete all Brotherhood missions and call Eye for an Eye (5555966)
+
+
+

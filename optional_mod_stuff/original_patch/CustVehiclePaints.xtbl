@@ -1,0 +1,85 @@
+<root>
+  <Table>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_STANDARD_METAL</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_PRECIOUS_METAL</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_STANDARD_MATERIAL</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_SHINY_MATERIAL</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_MATTE_MATERIAL</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_SPECIAL_PLASTIC</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_OPAQUE_PAINT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_MATTE_PAINT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_GLOSS_PAINT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_METALLIC_PAINT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_CANDY_PAINT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_PEARLESCENT_PAINT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_IRIDESCENT_PAINT</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_GLASS</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+    <CustVehiclePaints_Identifier>
+        <Name>VEHICLE_PAINT_METAL</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </CustVehiclePaints_Identifier>
+  </Table>
+
+  <TableTemplates>
+  </TableTemplates>
+
+  <TableDescription>
+      <Name>CustVehiclePaints_Identifier</Name>
+      <Type>TableDescription</Type>
+      <Element>
+          <Name>Name</Name>
+          <Type>String</Type>
+          <Unique>true</Unique>
+      </Element>
+  </TableDescription>
+  <EntryCategories>
+      <Category>
+          <Name>Entries</Name>
+      </Category>
+  </EntryCategories>
+
+</root>
+
+

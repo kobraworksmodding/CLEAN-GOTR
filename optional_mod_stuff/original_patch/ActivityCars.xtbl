@@ -1,0 +1,33 @@
+<root>
+  <Table>
+    <ActCars_Identifier>
+        <Name>GARAGE_FULL</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActCars_Identifier>
+    <ActCars_Identifier>
+        <Name>GARAGE_CANNOT_CUSTOMIZE</Name>
+        <_Editor><Category>Entries</Category></_Editor>
+    </ActCars_Identifier>
+  </Table>
+
+  <TableTemplates>
+  </TableTemplates>
+
+  <TableDescription>
+      <Name>ActCars_Identifier</Name>
+      <Type>TableDescription</Type>
+      <Element>
+          <Name>Name</Name>
+          <Type>String</Type>
+          <Unique>true</Unique>
+      </Element>
+  </TableDescription>
+  <EntryCategories>
+      <Category>
+          <Name>Entries</Name>
+      </Category>
+  </EntryCategories>
+
+</root>
+
+
