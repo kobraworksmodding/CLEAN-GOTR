@@ -2,7 +2,7 @@ Gentlemen of the Row v1.9 by IdolNinja - Install Instructions
 http://idolninja.com
 -----------------------------------------------------------
 
-STEP 1. Double click Create_Custom_Gotr_v1.9.bat
+STEP 1. Double click Create_CGOTR.bat
 
 
 STEP 2. Select your mods to install from the list by typing in the number and pressing Enter. Doing so will add an 'I' to the mod to let you know you've selected it for install. Selecting the mod again will toggle the selection off. Some of the choices have submenus with many additional options like the Gang Types and Character Customization.
@@ -41,11 +41,6 @@ OPTIONS MENU DETAILS
 
 1. Controls and Onscreen Prompts Menu * ALL COOP COMPATIBLE
 
-* 360 onscreen Prompts
-Change the in-game and menu prompts to 360 buttons instead of keyboard ones
-
-* PS3 onscreen Prompts
-Change the in-game and menu prompts to PS3 buttons instead of keyboard ones
 
 * Sticky Camera
 Removes the auto-centering of the camera while driving. Handy for mouse users since they are constantly adjusting the camera manually.
@@ -199,7 +194,6 @@ For the musically challanged who "wanna gangsta beeyotch"
 
 * Increase the FOV (field of view) with a choice of left side and right side fine aim
 
-* First Person Camera - Difficult to play the game with since guns disappear, but handy for people doing machinima stuff
 
 
 
@@ -231,9 +225,6 @@ Reverts all the modded locations back to the original so people can use an onlin
 
 * Swap in Heritage Festival, Prison riot, BH Ship Chunks on game load *COOP COMPATIBLE
 Swaps in the Heritage Festival from rn11 "One Man's Junk," the Prison Riot from ss02 "File in the Cake," and Brotherhood Cargo ship from bh09 "The Enemy of my Enemy" during regular open world game play.
-
-* Brighter Nighttime for the visually challenged *COOP COMPATIBLE
-Brightens up the nighttime to help those with bad monitors or bad eyesight
 
 
 
