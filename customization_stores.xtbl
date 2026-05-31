@@ -842,6 +842,9 @@
 			</_Editor>
 		<Outfits>
 			<Outfit_Element>
+				<Outfit>Suit 1</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
 				<Outfit>Aisha</Outfit>
 				</Outfit_Element>
 			<Outfit_Element>
@@ -897,6 +900,10 @@
 				</Store_Item>
 			<Store_Item>
 				<Item>Beads for wdreads02 hair</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>male Ronin jacket</Item>
 				<Variants></Variants>
 				</Store_Item>
 			<Store_Item>
@@ -1098,6 +1105,96 @@
 				</Outfit_Element>
 			<Outfit_Element>
 				<Outfit>Mordrack</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Veteran Child</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Tobias</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Mr Sunshine</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>The General</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Shaundi</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Donnie</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Jessica</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Matt</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Carlos</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Maero</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Jyunichi</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Shogo</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Wong</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Kazuo</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Pierce</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Gat</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Dane Vogel</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Julius</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Lara</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Solo</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Lara2</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Agent47</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Riddler</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Tommy</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Clockwork</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Zangief</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Cage</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Joker</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Guile</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Indy</Outfit>
 				</Outfit_Element>
 			</Outfits>
 		<_Editor>
@@ -3589,6 +3686,14 @@
 			</Shops>
 		<Items>
 			<Store_Item>
+				<Item>Traffic Cone hat</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
+				<Item>zombie mask</Item>
+				<Variants></Variants>
+				</Store_Item>
+			<Store_Item>
 				<Item>thick female eyelashes</Item>
 				<Variants></Variants>
 				</Store_Item>
@@ -3988,6 +4093,12 @@
 			        </Outfit_Element>
 			<Outfit_Element>
 				<Outfit>Diver</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Repair</Outfit>
+				</Outfit_Element>
+			<Outfit_Element>
+				<Outfit>Police Outfit</Outfit>
 				</Outfit_Element>
 			<Outfit_Element>
 				<Outfit>Masako</Outfit>

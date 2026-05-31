@@ -809,6 +809,7 @@
 		<Default>NoName</Default>
 		<MaxLength>24</MaxLength>
 		</Element>
+	<Single_Line_XML>False</Single_Line_XML>
 	</TableDescription>
 
 <EntryCategories>

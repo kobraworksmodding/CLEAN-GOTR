@@ -339,7 +339,6 @@
 				<Unlockables>
 					<Unlockable>RNArc4</Unlockable>
 					<Unlockable>unlock_dualswords</Unlockable>
-					<Unlockable>unlock_jyunichi_outfit</Unlockable>
 					</Unlockables>
 				<Hood>sr2_ro_redlight01</Hood>
 				</Rewards>
@@ -549,7 +548,6 @@
 			<Rewards>
 				<CashReward>12500</CashReward>
 				<Unlockables>
-					<Unlockable>unlock_shogo_outfit</Unlockable>
 					<Unlockable>RNArc1</Unlockable>
 					</Unlockables>
 				<Hood>sr2_ro_subexpansion03</Hood>
@@ -612,7 +610,6 @@
 			<Rewards>
 				<Unlockables>
 					<Unlockable>BH02_LIN</Unlockable>
-					<Unlockable>unlock_donnie_outfit</Unlockable>
 					</Unlockables>
 				<CashReward>1500</CashReward>
 				<Hood>sr2_br_barrio01</Hood>
@@ -1108,7 +1105,6 @@
 			<Rewards>
 				<Unlockables>
 					<Unlockable>SS03_Tobias</Unlockable>
-					<Unlockable>unlock_tobias_outfit</Unlockable>
 					</Unlockables>
 				<CashReward>2000</CashReward>
 				<Hood>sr2_ss_arena01</Hood>
@@ -1139,7 +1135,6 @@
 			<Success>ss04_success</Success>
 			<Rewards>
 				<Unlockables>
-					<Unlockable>unlock_veteranchild_outfit</Unlockable>
 					</Unlockables>
 				<CashReward>2500</CashReward>
 				</Rewards>
@@ -1291,7 +1286,6 @@
 			<Success>ss09_success</Success>
 			<Rewards>
 				<Unlockables>
-					<Unlockable>unlock_mrsunshine_outfit</Unlockable>
 					</Unlockables>
 				<CashReward>12500</CashReward>
 				<Hood>sr2_ss_factory01</Hood>
@@ -1329,7 +1323,6 @@
 				<Prereq>ss09</Prereq>
 				</Prerequisites>
 			<Unlockables>
-					<Unlockable>unlock_videorepair_outfit</Unlockable>
 					</Unlockables>
 			<Level_Number>10</Level_Number>
 			<display_group>sons of samedi</display_group>
@@ -1357,8 +1350,6 @@
 					<Unlockable>SSArc2</Unlockable>
 					<Unlockable>SSArc3</Unlockable>
 					<Unlockable>SSArc6</Unlockable>
-					<Unlockable>unlock_general_outfit</Unlockable>
-					<Unlockable>unlock_shaundi_outfit</Unlockable>
 					</Unlockables>
 				<CashReward>50000</CashReward>
 				<Hood>sr2_ss_redlight03</Hood>
@@ -1849,7 +1840,6 @@
 			<Success>rn10_success</Success>
 			<Rewards>
 				<Unlockables>
-					<Unlockable>unlock_wong_outfit</Unlockable>
 					</Unlockables>
 				<CashReward>25000</CashReward>
 				<Hood>sr2_ro_downtown03</Hood>
@@ -1886,8 +1876,6 @@
 					<Unlockable>RNArc2</Unlockable>
 					<Unlockable>RNArc3</Unlockable>
 					<Unlockable>RNArc6</Unlockable>
-					<Unlockable>unlock_kazuo_outfit</Unlockable>
-					<Unlockable>unlock_pierce_outfit</Unlockable>
 					<Unlockable>SS03_Heli</Unlockable>
 					</Unlockables>
 				<Hood>sr2_ro_hotelmarina01</Hood>
@@ -1990,8 +1978,6 @@
 			<Rewards>
 				<Unlockables>
 					<Unlockable>EP04_Heli</Unlockable>
-					<Unlockable>unlock_danevogel_outfit</Unlockable>
-					<Unlockable>unlock_gat_outfit</Unlockable>
 					</Unlockables>
 				<CashReward>200000</CashReward>
 				</Rewards>
@@ -2023,8 +2009,6 @@
 			<Success>bh05_success</Success>
 			<Rewards>
 				<Unlockables>
-					<Unlockable>unlock_jessica_car</Unlockable>
-					<Unlockable>unlock_jessica_outfit</Unlockable>
 					</Unlockables>
 				<CashReward>3000</CashReward>
 				<Hood>sr2_br_barrio03</Hood>
@@ -2059,7 +2043,6 @@
 				<Hood>sr2_br_truckyard01</Hood>
 				<Unlockables>
 					<Unlockable>BHArc4</Unlockable>
-					<Unlockable>unlock_matt_outfit</Unlockable>
 					</Unlockables>
 				</Rewards>
 			<Prerequisites>
@@ -2225,8 +2208,6 @@
 					<Unlockable>BHArc2</Unlockable>
 					<Unlockable>BHArc3</Unlockable>
 					<Unlockable>BHArc6</Unlockable>
-					<Unlockable>unlock_maero_outfit</Unlockable>
-					<Unlockable>unlock_carlos_outfit</Unlockable>
 					</Unlockables>
 				</Rewards>
 			<Prerequisites>
@@ -2261,7 +2242,6 @@
 				<Hood></Hood>
 				<Unlockables>
 					<Unlockable>Bonus_Mission</Unlockable>
-					<Unlockable>unlock_julius_outfit</Unlockable>
 					</Unlockables>
 				<CashReward>50000</CashReward>
 				</Rewards>

@@ -413,19 +413,20 @@
 	<Unlockable>
 		<Name>Drug_2_whole</Name>
 		<Type>
-			<Homie>
-				<Name>Luz</Name>
-				</Homie>
+			<Notoriety>
+				<Score>ronin</Score>
+				<Amount>15</Amount>
+				</Notoriety>
 			</Type>
-		<DisplayName>Luz</DisplayName>
-		<Description>You have unlocked Luz as a homie, call her on your cell phone to have her help you out.</Description>
-		<Image_Source>ui_ct_drug_2_half</Image_Source>
+		<DisplayName>UNL_DRUG2_WHOLE</DisplayName>
+		<Description>UNL_DESC_DRUG2_WHOLE</Description>
+		<Image_Source>ui_ct_drug_2_whole</Image_Source>
 		<_Editor>
 			<Category>Entries:Activities</Category>
 			</_Editor>
-		<Event_Text>Drug Trafficking Level 6, Hotel and Marina</Event_Text>
-		<Category>Homies</Category>
-		<Pause_Menu_Label>Luz</Pause_Menu_Label>
+		<Event_Text>UNL_DRUG2_WHOLE_EVENT</Event_Text>
+		<Category>Player Abilities</Category>
+		<Pause_Menu_Label>UNL_DRUG2_WHOLE</Pause_Menu_Label>
 		</Unlockable>
 	<Unlockable>
 		<Name>Escort_1_half</Name>
@@ -1096,27 +1097,30 @@
 		<Category>Weapons</Category>
 		<Pause_Menu_Label>Silenced Pistol</Pause_Menu_Label>
 		</Unlockable>
-	<Unlockable>
+<Unlockable>
 		<Name>Diversion_Racing_All</Name>
 		<Type>
-			<Vehicle>
-				<Vehicles>
-					<Vehicle>
-						<Type>sp_ufo01</Type>
-						<Variant>Platinum</Variant>
-						</Vehicle>
-					</Vehicles>
-				</Vehicle>
+			<Clothes>
+				<Items>
+					<Item>
+						<ItemName>cowboy hat 1</ItemName>
+						<ItemVariant>Solid</ItemVariant>
+						<Color1>Dark Goldenrod</Color1>
+						<Color2>Bistre</Color2>
+						<Color3>Dark Goldenrod</Color3>
+						</Item>
+					</Items>
+				</Clothes>
 			</Type>
-		<DisplayName>Platinum Destroy UFO</DisplayName>
-		<Description>Congratulations on finishing all races! Have fun with your shiny new Platinum UFO!</Description>
+		<DisplayName>UNL_RACING_ALL</DisplayName>
+		<Description>UNL_DESC_RACING_ALL</Description>
 		<Image_Source>ui_ct_div_racing_all</Image_Source>
 		<_Editor>
 			<Category>Entries:Diversions</Category>
 			</_Editor>
-		<Event_Text>Complete All Races</Event_Text>
-		<Category>Vehicles</Category>
-		<Pause_Menu_Label>Platinum UFO</Pause_Menu_Label>
+		<Event_Text>UNL_RACING_ALL_EVENT</Event_Text>
+		<Category>Customization</Category>
+		<Pause_Menu_Label>UNL_RACING_ALL</Pause_Menu_Label>
 		</Unlockable>
 	<Unlockable>
 		<Name>Snatch_1_half</Name>
@@ -2037,23 +2041,7 @@
 			<Category>Entries:Missions</Category>
 			</_Editor>
 		</Unlockable>
-	<Unlockable>
-		<Name>RO07_Heli</Name>
-		<Type>
-			<Homie>
-				<Name>Carlos</Name>
-				</Homie>
-			</Type>
-		<DisplayName>Carlos</DisplayName>
-		<Description>Okay, so he's dead. Pretend it's his twin brother or something.</Description>
-		<Image_Source>ui_ct_div_cd2</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Gentlemen of the Row Special Mission 1</Event_Text>
-		<Category>Homies</Category>
-		<Pause_Menu_Label>Carlos</Pause_Menu_Label>
-		</Unlockable>
+
 	<Unlockable>
 		<Name>SS03_Heli</Name>
 		<Type>
@@ -2346,91 +2334,6 @@
 			</_Editor>
 		</Unlockable>
 	<Unlockable>
-		<Name>unlock_thrown</Name>
-		<Type>
-			<Unlimited_Crib_Ammo>
-				<weapon_class>thrown</weapon_class>
-				</Unlimited_Crib_Ammo>
-			</Type>
-		<DisplayName>Unlimited Thrown Ammo</DisplayName>
-		<Description>Get that pitching arm in shape and throw like you've never thrown before</Description>
-		<Image_Source>ui_ct_drug_1_whole</Image_Source>
-		<_Editor>
-			<Category>Entries:Diversions</Category>
-			</_Editor>
-		<Event_Text>Complete 35 (All) Barnstorms</Event_Text>
-		<Category>Weapons</Category>
-		<Pause_Menu_Label>Unlimited Thrown Ammo</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_flamethrower</Name>
-		<Type>
-			<Unlimited_Crib_Ammo>
-				<weapon_class>flamethrower</weapon_class>
-				</Unlimited_Crib_Ammo>
-			</Type>
-		<DisplayName>Unlimited Flamethrower Ammo</DisplayName>
-		<Description>Burn baby burn til you can't burn no more</Description>
-		<Image_Source>ui_ct_drug_1_whole</Image_Source>
-		<_Editor>
-			<Category>Entries:Diversions</Category>
-			</_Editor>
-		<Event_Text>Complete 10 Barnstorms</Event_Text>
-		<Category>Weapons</Category>
-		<Pause_Menu_Label>Unlimited Flamethrower Ammo</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_minigun</Name>
-		<Type>
-			<Unlimited_Crib_Ammo>
-				<weapon_class>minigun</weapon_class>
-				</Unlimited_Crib_Ammo>
-			</Type>
-		<DisplayName>Unlimited Minigun Ammo</DisplayName>
-		<Description>Spin it up and let the lead fly for as long as you like</Description>
-		<Image_Source>ui_ct_drug_1_whole</Image_Source>
-		<_Editor>
-			<Category>Entries:Diversions</Category>
-			</_Editor>
-		<Event_Text>Complete 20 Barnstorms</Event_Text>
-		<Category>Weapons</Category>
-		<Pause_Menu_Label>Unlimited Minigun Ammo</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_launcher</Name>
-		<Type>
-			<Unlimited_Crib_Ammo>
-				<weapon_class>launcher</weapon_class>
-				</Unlimited_Crib_Ammo>
-			</Type>
-		<DisplayName>Unlimited Rocket Launcher Ammo</DisplayName>
-		<Description>Put some rockets in your pocket and blow stuff up forever</Description>
-		<Image_Source>ui_ct_drug_1_whole</Image_Source>
-		<_Editor>
-			<Category>Entries:Diversions</Category>
-			</_Editor>
-		<Event_Text>Complete 30 Barnstorms</Event_Text>
-		<Category>Weapons</Category>
-		<Pause_Menu_Label>Unlimited Rocket Ammo</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_water</Name>
-		<Type>
-			<Unlimited_Crib_Ammo>
-				<weapon_class>waterspray</weapon_class>
-				</Unlimited_Crib_Ammo>
-			</Type>
-		<DisplayName>Unlimited Fire Extinguisher Ammo</DisplayName>
-		<Description>It puts the lotion in the basket\N or else everyone gets the hose again</Description>
-		<Image_Source>ui_ct_drug_1_whole</Image_Source>
-		<_Editor>
-			<Category>Entries:Diversions</Category>
-			</_Editor>
-		<Event_Text>Complete 5 Barnstorms</Event_Text>
-		<Category>Weapons</Category>
-		<Pause_Menu_Label>Unlimited Fire Extinguisher Ammo</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
 		<Name>unlock_dualswords</Name>
 		<Type>
 			<Crib_Weapon>
@@ -2447,198 +2350,8 @@
 		<Category>Weapons</Category>
 		<Pause_Menu_Label>Dual Katanas</Pause_Menu_Label>
 		</Unlockable>
-	<Unlockable>
-		<Name>unlock_tobias_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Tobias</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Tobias' Outfit</DisplayName>
-		<Description>Get to the choppa in style with Tobias' threads.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Sons of Samedi Mission 3</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Tobias Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_veteranchild_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Veteran Child</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Veteran Child's Outfit</DisplayName>
-		<Description>Keep those records spinning from beyond the grave in DJ Veteran Child's Outfit.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Sons of Samedi Mission 4</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Veteran Child Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_mrsunshine_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Mr Sunshine</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Mr Sunshine's Outfit</DisplayName>
-		<Description>Hear the whispers of the Loa in Mr Sunshine's threads.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Sons of Samedi Mission 9</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Mr. Sunshine Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_videorepair_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Repair</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Video Repair Disguise</DisplayName>
-		<Description>Sneak into the police station undercover in the Video Repair Disguise.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Sons of Samedi Mission 10</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Video Repair Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_general_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>The General</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>The General's Outfit</DisplayName>
-		<Description>Rule your very own voodoo cult in this classy outfit.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Sons of Samedi Mission 11</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>The General Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_shaundi_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Shaundi</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Shaundi's Outfit</DisplayName>
-		<Description>Get high and play some skee ball in Shaundi's outfit.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Sons of Samedi Mission 11</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Shaundi Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_donnie_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Donnie</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Donnie's Outfit</DisplayName>
-		<Description>Get your whine on with Donnie's threads.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Brotherhood Mission 2</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Donnie Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_jessica_car</Name>
-		<Type>
-			<Vehicle>
-				<Vehicles>
-					<Vehicle>
-						<Type>car_2dr_muscle04</Type>
-						<Variant>Jessica</Variant>
-						</Vehicle>
-					</Vehicles>
-				</Vehicle>
-			</Type>
-		<DisplayName>Jessica's Car</DisplayName>
-		<Description>A little duct tape and some bleach to get out the blood, and it will be good as new.</Description>
-		<Image_Source>ui_ct_bharc2</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Brotherhood Mission 5</Event_Text>
-		<Category>Vehicles</Category>
-		<Pause_Menu_Label>Jessica's Car</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_jessica_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Jessica</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Jessica's Outfit</DisplayName>
-		<Description>Be the stuck up bitch you've always wanted to be in Jessica's outfit.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Brotherhood Mission 5</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Jessica Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_matt_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Matt</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Matt's Outfit</DisplayName>
-		<Description>Never play guitar again with poor Matt's outfit.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Brotherhood Mission 6</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Matt Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_bh08prison_vehicles</Name>
-		<Type>
-			<Homie>
-				<Name>Aisha</Name>
-				</Homie>
-			</Type>
-		<DisplayName>Aisha</DisplayName>
-		<Description>Yeah, we all know she's really dead this time. Call her on your cell phone anyway to have her help you out.</Description>
-		<Image_Source>ui_ct_div_cd1</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Gentlemen of the Row Special Mission 1</Event_Text>
-		<Category>Homies</Category>
-		<Pause_Menu_Label>Aisha</Pause_Menu_Label>
-		</Unlockable>
+	
+
 	<Unlockable>
 		<Name>unlock_bh09_vehicles</Name>
 		<Type>
@@ -2664,176 +2377,6 @@
 		<Event_Text>Brotherhood Mission 9</Event_Text>
 		<Category>Vehicles</Category>
 		<Pause_Menu_Label>Brotherhood Boat and Heli</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_carlos_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Carlos</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Carlos Outfit</DisplayName>
-		<Description>Rest in peace, Carlos. Your time here was too short, my friend.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Brotherhood Mission 11</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Carlos Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_maero_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Maero</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Maero Outfit</DisplayName>
-		<Description>I guess today really was a good day to die. Keep the clothes. Maero won't be needing them anymore.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Brotherhood Mission 11</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Maero Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_jyunichi_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Jyunichi</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Jyunichi Outfit</DisplayName>
-		<Description>Slice and Dice Twice in Jyunichi's Outfit.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Ronin Mission 6</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Jyunichi Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_shogo_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Shogo</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Shogo Outfit</DisplayName>
-		<Description>Hold your very own Texas funeral with Shogo's Outfit.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Ronin Mission 9</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Shogo Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_wong_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Wong</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Mr. Wong Outfit</DisplayName>
-		<Description>Dress to impress for the Chinese Heritage Festival in Mr. Wong's Outfit.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Ronin Mission 10</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Mr. Wong Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_pierce_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Pierce</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Pierce Outfit</DisplayName>
-		<Description>Daaaaamn these are some nice shoes!</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Ronin Mission 11</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Pierce Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_kazuo_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Kazuo</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Kazuo Akuji's Outfit</DisplayName>
-		<Description>Something classy to berate your good for nothing son in.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Ronin Mission 11</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Kazuo Akuji Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_danevogel_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Dane Vogel</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Dane Vogel's Outfit</DisplayName>
-		<Description>Now that you own Stilwater, you may as well dress the corporate part.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Epilogue Mission 4</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Dane Vogel Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_julius_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Julius</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Julius' Outfit</DisplayName>
-		<Description>Tie up some loose ends in these casual threads.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Bonus Mission</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Julius Outfit</Pause_Menu_Label>
-		</Unlockable>
-	<Unlockable>
-		<Name>unlock_gat_outfit</Name>
-		<Type>
-			<Outfit>
-				<Outfit>Gat</Outfit>
-				</Outfit>
-			</Type>
-		<DisplayName>Gat's Outfit</DisplayName>
-		<Description>You'll be up and murdering in no time in these classy threads.</Description>
-		<Image_Source>ui_ct_div_hoing</Image_Source>
-		<_Editor>
-			<Category>Entries:Missions</Category>
-			</_Editor>
-		<Event_Text>Epilogue Mission 4</Event_Text>
-		<Category>Customization</Category>
-		<Pause_Menu_Label>Johnny Gat Outfit</Pause_Menu_Label>
 		</Unlockable>
 	</Table>
 
